@@ -20,7 +20,7 @@ Google documents free Standard input/output for `gemini-3.8-flash`; availability
 
 Gemini selects phrase boundaries, not a new translation. Joining every phrase must reproduce each source verse verbatim (apart from whitespace normalization). Missing verses, changed nikud/taamim, reordered words, or removed commentary are rejected. A cache is used only when **all** verses and both edition names match the currently fetched parsha. Otherwise the site explicitly shows original verse mode, not a partial phrase translation.
 
-These mechanical checks cannot verify interpretation or the quality of phrase boundaries. AI alignment is a study aid, not an authoritative translation or a halachic ruling. Preserve the original text for comparison. Divine Names retain the site's existing display substitutions. The page preserves aliyah markers and print layout, and keeps Hebrew and English side by side on small screens.
+These mechanical checks cannot verify interpretation or the quality of phrase boundaries. AI alignment is a study aid, not an authoritative translation or a halachic ruling. Preserve the original text for comparison. Divine Names retain the site's existing display substitutions. The page preserves aliyah markers and print layout, and retains the original stacked layout on small screens.
 
 The initial PR contains no generated Torah data until a real Gemini run has succeeded and been reviewed. This is deliberate: a working renderer is not proof the model aligned a complete parsha correctly.
 
