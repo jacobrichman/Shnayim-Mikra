@@ -272,7 +272,7 @@
     </div>
 
     <script type="module">
-      import { verseRows, validateCache } from "./scripts/phrases.mjs";
+      import { verseRows, displayCache } from "./scripts/phrases.mjs";
       function formatDate(date) {
         const y = date.getFullYear();
         const m = String(date.getMonth() + 1).padStart(2, '0');
@@ -456,7 +456,7 @@
         let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
         try {
           const cache = await fetchJson('./data/parshas/' + encodeURIComponent(ref) + '.json');
-          phrases = validateCache(cache, verseRows(heText, enText, ref), ref);
+          phrases = displayCache(cache, verseRows(heText, enText, ref), ref);
           phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
         } catch (error) { console.info('Phrase view unavailable:', error.message); }
         renderParsha({
@@ -482,7 +482,7 @@
         document.getElementById('heRef').textContent = '';
 
         const sourceRows = verseRows(data.hebrewText, data.englishText, data.ref);
-        const displayRows = data.phrases ? data.phrases.flatMap((entry, index) => entry.pairs.map((pair, pairIndex) => ({...pair, verse: entry.verse, phrase: pairIndex + 1}))) : sourceRows;
+        const displayRows = data.phrases ? data.phrases.flatMap((entry, index) => entry.pairs.map((pair, pairIndex) => ({...pair, verse: entry.verse, phrase: pair.wholeVerse ? null : pairIndex + 1}))) : sourceRows;
         let previousAliyah = null;
 
         for (let i = 0; i < displayRows.length; i++) {
@@ -521,9 +521,11 @@
           enCell.innerHTML = '<span class="verse-num">' + displayRows[i].verse + (displayRows[i].phrase ? ' · ' + displayRows[i].phrase : '') + '</span> ' + formattedEnglish;
 
           row.appendChild(heCell);
-          if (!data.phrases && i === 0) {
+          if (displayRows[i].error) {
             const note = document.createElement('small');
-            note.textContent = 'Phrase data not saved yet. Showing original verses. ';
+            note.style.color = '#b00020';
+            note.textContent = displayRows[i].wholeVerse ? 'Phrase alignment unavailable here. Original verse: ' : 'Phrase alignment error. Original text: ';
+            note.setAttribute('role', 'note');
             enCell.prepend(note);
           }
           row.appendChild(enCell);
@@ -531,6 +533,20 @@
         }
 
         document.getElementById('status').textContent = '';
+        if (!data.phrases) {
+          const popup = document.createElement('dialog');
+          popup.style.cssText = 'max-width: min(28rem, 80vw); border: 1px solid #ddcdb3; border-radius: 12px; padding: 24px; background: #fffdf9; color: #342819; font: 16px/1.5 Georgia, serif';
+          const message = document.createElement('p');
+          message.textContent = 'Phrase data is not available for this parsha. Showing the original verses.';
+          popup.setAttribute('aria-label', 'Phrase data unavailable');
+          const close = document.createElement('button');
+          close.textContent = 'OK';
+          close.style.cssText = 'padding: 6px 20px; cursor: pointer';
+          close.addEventListener('click', () => { popup.close(); popup.remove(); });
+          popup.append(message, close);
+          document.body.append(popup);
+          popup.showModal();
+        }
       }
 
       loadParsha().catch(function (error) {
@@ -540,4 +556,4 @@
       });
     </script>
   </body>
-</html>
+        </html>
