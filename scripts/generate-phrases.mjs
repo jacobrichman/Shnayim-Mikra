@@ -79,13 +79,14 @@ async function align(batch, depth = 0) {
       body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0, maxOutputTokens: 65536, responseFormat: { text: { mimeType: 'application/json', schema } } } })
     });
     const candidate = response.candidates?.[0];
-    if (candidate?.finishReason !== 'STOP') throw new Error('Generation incomplete or blocked; nothing published');
+    if (candidate?.finishReason === 'MAX_TOKENS') throw new Error('Generation truncated; split required');
+    if (candidate?.finishReason !== 'STOP') throw new Error('Generation blocked; nothing published');
     const parsed = JSON.parse(candidate.content.parts.filter(part => typeof part.text === 'string' && !part.thought).map(part => part.text).join(''));
     if (parsed.rows?.length !== batch.length) throw new Error('Generation omitted a verse');
     validated = batch.map((row, i) => validatePairs(row, parsed.rows[i]));
   } catch (error) {
     // Never retry auth, service/quota errors or timeouts with smaller requests.
-    if (/Service request|timeout|aborted/i.test(error.message) || batch.length === 1 || depth >= 2) throw error;
+    if (/Service request|timeout|aborted|Generation blocked/i.test(error.message) || batch.length === 1 || depth >= 2) throw error;
     console.log('Full batch failed validation; splitting without publishing incomplete data.');
     for (const part of await aliyahBatches(batch)) {
       await new Promise(resolve => setTimeout(resolve, Number(process.env.PHRASE_DELAY_MS || 15000)));
