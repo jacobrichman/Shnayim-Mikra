@@ -1,5 +1,8 @@
-name: Generate phrase data (manual, free-tier project only)
+name: Prepare weekly phrase data (Free tier only)
 on:
+  schedule:
+    # Monday morning UTC, off the busiest round minute. Runs only after merge to default branch.
+    - cron: '23 3 * * 1'
   workflow_dispatch:
     inputs:
       free_tier_confirmed:
@@ -12,28 +15,71 @@ on:
         type: string
         required: false
 permissions:
-  contents: read
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: phrase-generation-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   generate:
-    if: inputs.free_tier_confirmed
+    if: github.event_name == 'schedule' || inputs.free_tier_confirmed
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
       - run: node --test tests/*.test.mjs
-      - name: Generate validated phrase pairs
-        run: node scripts/generate-phrases.mjs
+      - name: Prepare current and next two weekly readings
+        id: generation
+        continue-on-error: true
+        run: node scripts/generate-upcoming.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_FREE_TIER_CONFIRMED: 'true'
           PARSHA_DATE: ${{ inputs.date }}
-      - name: Upload complete data for review
-        uses: actions/upload-artifact@v4
+      - name: Save completed data and resumable public-text checkpoints
+        run: |
+          git config user.name 'Shnayim Mikra data generator'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mkdir -p data/parshas
+          git add data/parshas/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save validated phrase data and generation progress'
+            git push origin HEAD:${GITHUB_REF_NAME}
+          fi
+      - name: Report quota or validation failure
+        if: steps.generation.outcome == 'failure'
+        run: |
+          echo 'Generation stopped. Completed caches and public-text progress were saved. No paid fallback. Check logs and rerun after resolving quota/validation.'
+          exit 1
+  deploy:
+    needs: generate
+    if: always() && (needs.generate.result == 'success' || needs.generate.result == 'failure')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
         with:
-          name: phrase-data-review-before-publishing
-          path: data/phrases.json
-          if-no-files-found: error
-          retention-days: 14
+          ref: ${{ github.ref_name }}
+      - uses: actions/configure-pages@v5
+      - name: Stage only public site files
+        run: |
+          mkdir -p _site/scripts
+          cp index.html README.md _site/
+          cp -r fonts _site/
+          cp scripts/phrases.mjs _site/scripts/
+          if [ -d data/parshas ]; then
+            mkdir -p _site/data/parshas
+            find data/parshas -name '*.json' ! -name '*.progress.json' -exec cp {} _site/data/parshas/ \;
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+          retention-days: 1
+      - id: deployment
+        uses: actions/deploy-pages@v4
