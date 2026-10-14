@@ -80,9 +80,7 @@
       }
 
       .status {
-        margin: 12px 0;
-        color: var(--muted);
-        font-size: .9rem;
+        display: none;
       }
 
       .table {
@@ -163,19 +161,14 @@
         font-weight: 400;
       }
 
-      .sources { font-size: .75rem; color: var(--muted); margin-top: 18px; line-height: 1.5; }
-
       .empty {
         opacity: 0.35;
       }
 
       @media (max-width: 700px) {
         .row {
-          grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+          grid-template-columns: 1fr;
         }
-        .cell { padding: 10px 8px; overflow-wrap: anywhere; }
-        .english { font-size: .85rem; }
-        .hebrew { font-size: 1.1rem; }
 
         .verse-cell {
           border-left: none;
@@ -187,8 +180,8 @@
         }
 
         .cell + .cell {
-          border-left: 1px solid var(--line);
-          border-top: none;
+          border-left: none;
+          border-top: 1px solid var(--line);
         }
       }
 
@@ -273,14 +266,9 @@
         </div>
       </div>
 
-      <div id="status" class="status" role="status">Loading the parsha...</div>
+      <div id="status" class="status"></div>
       <div id="table" class="table"></div>
-      <footer class="sources">
-        Text from <a href="https://www.sefaria.org">Sefaria</a>.
-        Hebrew: Miqra according to the Masorah (<a href="https://creativecommons.org/licenses/">CC-BY-SA</a>).
-        English: The Rashi chumash by Rabbi Shraga Silverstein (<a href="https://creativecommons.org/licenses/">CC-BY</a>).
-        Phrase boundaries are AI-generated adaptations; source wording is preserved. Divine Names are normalized for display.
-      </footer>
+      <a href="./README.md" style="font-size: 0.72rem; color: #5d6470; display: inline-block; margin-top: 8px;">Sources</a>
     </div>
 
     <script type="module">
@@ -435,10 +423,18 @@
 
       async function loadParsha() {
         const date = formatDate(new Date());
-        const calendar = await fetchJson('https://www.sefaria.org/api/calendars?date=' + date + '&diaspora=0');
-        const item = calendar.calendar_items.find(function (entry) {
-          return entry && entry.title && entry.title.en === 'Parashat Hashavua';
-        });
+        const override = new URLSearchParams(location.search).get('parsha');
+        let item;
+        if (override) {
+          if (override.length > 100 || /[<>\/]/.test(override)) throw new Error('Invalid parsha name');
+          const reading = await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim()) + '?diaspora=0');
+          item = reading.parasha;
+        } else {
+          const calendar = await fetchJson('https://www.sefaria.org/api/calendars?date=' + date + '&diaspora=0');
+          item = calendar.calendar_items.find(function (entry) {
+            return entry && entry.title && entry.title.en === 'Parashat Hashavua';
+          });
+        }
 
         if (!item) {
           throw new Error('No parsha was found for today.');
@@ -459,7 +455,7 @@
         let phrases = null;
         let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
         try {
-          const cache = await fetchJson('./data/phrases.json');
+          const cache = await fetchJson('./data/parshas/' + encodeURIComponent(ref) + '.json');
           phrases = validateCache(cache, verseRows(heText, enText, ref), ref);
           phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
         } catch (error) { console.info('Phrase view unavailable:', error.message); }
@@ -525,15 +521,21 @@
           enCell.innerHTML = '<span class="verse-num">' + displayRows[i].verse + (displayRows[i].phrase ? ' · ' + displayRows[i].phrase : '') + '</span> ' + formattedEnglish;
 
           row.appendChild(heCell);
+          if (!data.phrases && i === 0) {
+            const note = document.createElement('small');
+            note.textContent = 'Phrase data not saved yet. Showing original verses. ';
+            enCell.prepend(note);
+          }
           row.appendChild(enCell);
           table.appendChild(row);
         }
 
-        document.getElementById('status').textContent = data.phraseStatus;
+        document.getElementById('status').textContent = '';
       }
 
       loadParsha().catch(function (error) {
-        document.getElementById('status').textContent = 'Unable to load the parsha. Please try again later.';
+        document.getElementById('status').textContent = '';
+        alert('Unable to load this parsha. Check the parsha name in the URL and try again.');
         console.error(error);
       });
     </script>
