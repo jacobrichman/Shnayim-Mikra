@@ -1,0 +1,39 @@
+name: Generate phrase data (manual, free-tier project only)
+on:
+  workflow_dispatch:
+    inputs:
+      free_tier_confirmed:
+        description: 'I checked that the Gemini project shows Free, not Paid'
+        type: boolean
+        required: true
+        default: false
+      date:
+        description: 'Israel calendar date YYYY-MM-DD (blank = today in Jerusalem)'
+        type: string
+        required: false
+permissions:
+  contents: read
+jobs:
+  generate:
+    if: inputs.free_tier_confirmed
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/*.test.mjs
+      - name: Generate validated phrase pairs
+        run: node scripts/generate-phrases.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_FREE_TIER_CONFIRMED: 'true'
+          PARSHA_DATE: ${{ inputs.date }}
+      - name: Upload complete data for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: phrase-data-review-before-publishing
+          path: data/phrases.json
+          if-no-files-found: error
+          retention-days: 14
