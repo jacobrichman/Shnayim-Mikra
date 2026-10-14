@@ -37,3 +37,46 @@ export function validateCache(cache, rows, ref) {
   }
   return rows.map((row, index) => validatePairs(row, cache.rows[index]));
 }
+
+// Browser-only recovery: never display changed AI text. Generation remains strict.
+export function displayCache(cache, rows, ref) {
+  if (cache?.schemaVersion !== 1 || cache.ref !== ref || cache.versions?.hebrew !== HEBREW_VERSION || cache.versions?.english !== ENGLISH_VERSION || !Array.isArray(cache.rows)) {
+    throw new Error('Phrase data does not match this parsha or source editions');
+  }
+  let validPairs = 0;
+  const result = rows.map(source => {
+    const matches = cache.rows.filter(row => row?.verse === source.verse);
+    const entry = matches.length === 1 ? matches[0] : null;
+    try {
+      const valid = validatePairs(source, entry); validPairs += valid.pairs.length; return valid;
+    } catch {}
+    // If just one pair is damaged, recover its exact source span using unchanged
+    // neighboring pairs. Require a unique repair and full exact-source validation.
+    const repairs = [];
+    if (Array.isArray(entry?.pairs) && entry.pairs.length >= 2) {
+      for (let index = 0; index < entry.pairs.length; index++) {
+        const repaired = entry.pairs.map(pair => ({...pair}));
+        let possible = true;
+        for (const language of ['hebrew', 'english']) {
+          const before = normalize(entry.pairs.slice(0,index).map(pair => pair?.[language]).join(' '));
+          const after = normalize(entry.pairs.slice(index+1).map(pair => pair?.[language]).join(' '));
+          const prefix = before ? before + ' ' : '', suffix = after ? ' ' + after : '';
+          const text = source[language];
+          if (!text.startsWith(prefix) || !text.endsWith(suffix) || prefix.length + suffix.length >= text.length) { possible = false; break; }
+          repaired[index][language] = text.slice(prefix.length, suffix ? -suffix.length : undefined);
+        }
+        if (possible) {
+          try {
+            const valid = validatePairs(source, {...entry,pairs:repaired});
+            valid.pairs[index].error = true;
+            repairs.push(valid);
+          } catch {}
+        }
+      }
+    }
+    if (repairs.length === 1) { validPairs += repairs[0].pairs.length - 1; return repairs[0]; }
+    return {verse:source.verse,pairs:[{hebrew:source.hebrew,english:source.english,error:true,wholeVerse:true}]};
+  });
+  if (!validPairs) throw new Error('No usable phrase data for this page');
+  return result;
+}
