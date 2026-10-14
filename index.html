@@ -80,7 +80,9 @@
       }
 
       .status {
-        display: none;
+        margin: 12px 0;
+        color: var(--muted);
+        font-size: .9rem;
       }
 
       .table {
@@ -161,14 +163,19 @@
         font-weight: 400;
       }
 
+      .sources { font-size: .75rem; color: var(--muted); margin-top: 18px; line-height: 1.5; }
+
       .empty {
         opacity: 0.35;
       }
 
       @media (max-width: 700px) {
         .row {
-          grid-template-columns: 1fr;
+          grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
         }
+        .cell { padding: 10px 8px; overflow-wrap: anywhere; }
+        .english { font-size: .85rem; }
+        .hebrew { font-size: 1.1rem; }
 
         .verse-cell {
           border-left: none;
@@ -180,8 +187,8 @@
         }
 
         .cell + .cell {
-          border-left: none;
-          border-top: 1px solid var(--line);
+          border-left: 1px solid var(--line);
+          border-top: none;
         }
       }
 
@@ -266,11 +273,18 @@
         </div>
       </div>
 
-      <div id="status" class="status"></div>
+      <div id="status" class="status" role="status">Loading the parsha...</div>
       <div id="table" class="table"></div>
+      <footer class="sources">
+        Text from <a href="https://www.sefaria.org">Sefaria</a>.
+        Hebrew: Miqra according to the Masorah (<a href="https://creativecommons.org/licenses/">CC-BY-SA</a>).
+        English: The Rashi chumash by Rabbi Shraga Silverstein (<a href="https://creativecommons.org/licenses/">CC-BY</a>).
+        Phrase boundaries are AI-generated adaptations; source wording is preserved. Divine Names are normalized for display.
+      </footer>
     </div>
 
-    <script>
+    <script type="module">
+      import { verseRows, validateCache } from "./scripts/phrases.mjs";
       function formatDate(date) {
         const y = date.getFullYear();
         const m = String(date.getMonth() + 1).padStart(2, '0');
@@ -362,33 +376,6 @@
         return '<span class="english-inline">' + rendered + '</span>';
       }
 
-      function buildAlignedVerseRows(hebrewText, englishText, ref) {
-        const hebrewBlocks = Array.isArray(hebrewText) ? hebrewText : [hebrewText];
-        const englishBlocks = Array.isArray(englishText) ? englishText : [englishText];
-        const maxChapters = Math.max(hebrewBlocks.length, englishBlocks.length);
-        const start = parseRefStart(ref);
-        const rows = [];
-
-        for (let chapterIndex = 0; chapterIndex < maxChapters; chapterIndex++) {
-          const heChapter = Array.isArray(hebrewBlocks[chapterIndex]) ? hebrewBlocks[chapterIndex] : [hebrewBlocks[chapterIndex] || ''];
-          const enChapter = Array.isArray(englishBlocks[chapterIndex]) ? englishBlocks[chapterIndex] : [englishBlocks[chapterIndex] || ''];
-          const chapterNumber = start.startChapter + chapterIndex;
-          const verseStart = chapterIndex === 0 ? start.startVerse : 1;
-          const verseCount = Math.max(heChapter.length, enChapter.length);
-
-          for (let verseIndex = 0; verseIndex < verseCount; verseIndex++) {
-            const verseNumber = verseStart + verseIndex;
-            rows.push({
-              verse: chapterNumber + ':' + verseNumber,
-              hebrew: heChapter[verseIndex] || '',
-              english: enChapter[verseIndex] || '',
-            });
-          }
-        }
-
-        return rows;
-      }
-
       function parseAliyahRange(ref, index) {
         const rangeText = String(ref || '').trim();
         if (!rangeText) {
@@ -461,7 +448,7 @@
         const parashaName = item.displayValue && item.displayValue.en ? item.displayValue.en : ref.split(' ')[0];
         const [aliyotResult, hebrewData, englishData] = await Promise.all([
           fetchJson('https://www.sefaria.org/api/sheets/' + encodeURIComponent(parashaName) + '/get_aliyot'),
-          fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(ref) + '?version=hebrew&return_format=text_only'),
+          fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(ref) + '?version=' + encodeURIComponent('hebrew|Miqra according to the Masorah') + '&return_format=text_only'),
           fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(ref) + '?version=' + encodeURIComponent('english|The Rashi chumash by Rabbi Shraga Silverstein') + '&return_format=text_only')
         ]);
 
@@ -469,7 +456,16 @@
         const heText = (hebrewData.versions && hebrewData.versions[0] && hebrewData.versions[0].text) || '';
         const enText = (englishData.versions && englishData.versions[0] && englishData.versions[0].text) || '';
 
+        let phrases = null;
+        let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
+        try {
+          const cache = await fetchJson('./data/phrases.json');
+          phrases = validateCache(cache, verseRows(heText, enText, ref), ref);
+          phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
+        } catch (error) { console.info('Phrase view unavailable:', error.message); }
         renderParsha({
+          phrases,
+          phraseStatus,
           title: item.displayValue && item.displayValue.en ? item.displayValue.en : item.ref,
           hebrewTitle: item.displayValue && item.displayValue.he ? item.displayValue.he : item.heRef,
           ref: ref,
@@ -489,33 +485,34 @@
         document.getElementById('ref').textContent = '';
         document.getElementById('heRef').textContent = '';
 
-        const verseRows = buildAlignedVerseRows(data.hebrewText, data.englishText, data.ref);
+        const sourceRows = verseRows(data.hebrewText, data.englishText, data.ref);
+        const displayRows = data.phrases ? data.phrases.flatMap((entry, index) => entry.pairs.map((pair, pairIndex) => ({...pair, verse: entry.verse, phrase: pairIndex + 1}))) : sourceRows;
         let previousAliyah = null;
 
-        for (let i = 0; i < verseRows.length; i++) {
-          const rowAliyah = getAliyahNumberForVerse(verseRows[i].verse, data.aliyot || []);
-          verseRows[i].aliyah = rowAliyah;
-          verseRows[i].isAliyahStart = rowAliyah && rowAliyah !== previousAliyah;
+        for (let i = 0; i < displayRows.length; i++) {
+          const rowAliyah = getAliyahNumberForVerse(displayRows[i].verse, data.aliyot || []);
+          displayRows[i].aliyah = rowAliyah;
+          displayRows[i].isAliyahStart = rowAliyah && rowAliyah !== previousAliyah;
           previousAliyah = rowAliyah;
         }
 
         const table = document.getElementById('table');
         table.innerHTML = '';
 
-        for (let i = 0; i < verseRows.length; i++) {
+        for (let i = 0; i < displayRows.length; i++) {
           const row = document.createElement('div');
           row.className = 'row';
 
           const heCell = document.createElement('div');
-          heCell.className = 'cell hebrew' + (verseRows[i].hebrew ? '' : ' empty');
-          if (verseRows[i].isAliyahStart) {
+          heCell.className = 'cell hebrew' + (displayRows[i].hebrew ? '' : ' empty');
+          if (displayRows[i].isAliyahStart) {
             const badge = document.createElement('span');
             badge.className = 'verse-num';
-            badge.textContent = ' ' + verseRows[i].aliyah + ' ';
+            badge.textContent = ' ' + displayRows[i].aliyah + ' ';
             heCell.appendChild(badge);
           }
 
-          const safeHebrewText = normalizeDivineName(normalizeWhitespaceText(verseRows[i].hebrew));
+          const safeHebrewText = normalizeDivineName(normalizeWhitespaceText(displayRows[i].hebrew));
           if (safeHebrewText) {
             heCell.appendChild(document.createTextNode(safeHebrewText));
           } else {
@@ -523,20 +520,20 @@
           }
 
           const enCell = document.createElement('div');
-          enCell.className = 'cell english' + (verseRows[i].english ? '' : ' empty');
-          const formattedEnglish = formatEnglishWithBracketStyle(verseRows[i].english || '—');
-          enCell.innerHTML = '<span class="verse-num">' + verseRows[i].verse + '</span> ' + formattedEnglish;
+          enCell.className = 'cell english' + (displayRows[i].english ? '' : ' empty');
+          const formattedEnglish = formatEnglishWithBracketStyle(displayRows[i].english || '—');
+          enCell.innerHTML = '<span class="verse-num">' + displayRows[i].verse + (displayRows[i].phrase ? ' · ' + displayRows[i].phrase : '') + '</span> ' + formattedEnglish;
 
           row.appendChild(heCell);
           row.appendChild(enCell);
           table.appendChild(row);
         }
 
-        document.getElementById('status').textContent = '';
+        document.getElementById('status').textContent = data.phraseStatus;
       }
 
       loadParsha().catch(function (error) {
-        document.getElementById('status').textContent = '';
+        document.getElementById('status').textContent = 'Unable to load the parsha. Please try again later.';
         console.error(error);
       });
     </script>
