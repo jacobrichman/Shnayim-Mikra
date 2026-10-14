@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { verseRows, validatePairs, validateCache, HEBREW_VERSION, ENGLISH_VERSION } from '../scripts/phrases.mjs';
+import { verseRows, validatePairs, validateCache, displayCache, HEBREW_VERSION, ENGLISH_VERSION } from '../scripts/phrases.mjs';
 test('single chapter stays in its chapter', () => {
   assert.deepEqual(verseRows(['א ב', 'ג ד'], ['a b', 'c d'], 'Genesis 3:8-9').map(row => row.verse), ['3:8', '3:9']);
 });
@@ -20,4 +20,24 @@ test('complete cache with matching sources accepted; incomplete cache rejected',
  assert.equal(validateCache(cache,[source],cache.ref).length,1);
  assert.throws(() => validateCache({...cache,rows:[]},[source],cache.ref));
  assert.throws(() => validateCache(cache,[source],'Genesis 1:2'));
+});
+
+const displaySource={verse:'1:1',hebrew:'א ב ג',english:'a b c'};
+const displayGood={verse:'1:1',pairs:[{hebrew:'א',english:'a'},{hebrew:'ב',english:'b'},{hebrew:'ג',english:'c'}]};
+const viewCache=rows=>({schemaVersion:1,ref:'Genesis 1:1',versions:{hebrew:HEBREW_VERSION,english:ENGLISH_VERSION},rows});
+test('one damaged phrase gets exact source text and local error marker',()=>{
+ const bad={...displayGood,pairs:displayGood.pairs.map((p,i)=>i===1?{...p,english:'WRONG'}:p)};
+ const result=displayCache(viewCache([bad]),[displaySource],'Genesis 1:1');
+ assert.equal(result[0].pairs[1].english,'b');assert.equal(result[0].pairs[1].error,true);
+ assert.equal(result[0].pairs[0].error,undefined);
+ assert.throws(()=>validateCache(viewCache([bad]),[displaySource],'Genesis 1:1'));
+});
+test('no phrase data is unavailable for entire page',()=>{
+ assert.throws(()=>displayCache(viewCache([]),[displaySource],'Genesis 1:1'));
+});
+test('ambiguous damaged verse falls back locally while other phrases remain',()=>{
+ const second={...displaySource,verse:'1:2'};
+ const result=displayCache(viewCache([displayGood]),[displaySource,second],'Genesis 1:1');
+ assert.equal(result[1].pairs[0].wholeVerse,true);assert.equal(result[1].pairs[0].english,'a b c');
+ assert.equal(result[0].pairs[0].error,undefined);
 });
