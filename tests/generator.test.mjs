@@ -11,7 +11,7 @@ const preload = `
 const original = globalThis.fetch;
 globalThis.fetch = async (url, options) => {
  const json = body => new Response(JSON.stringify(body), {status:200,headers:{'Content-Type':'application/json'}});
- if (url.includes('/calendars?')) return json({calendar_items:[{title:{en:'Parashat Hashavua'},ref:'Genesis 1:1-2',displayValue:{en:'Bereshit'}}]});
+ if (url.includes('/calendars?')) {const q=new URL(url).searchParams;if(!q.has('year')||!q.has('month')||!q.has('day')) throw new Error('Calendar requires year/month/day');return json({calendar_items:[{title:{en:'Parashat Hashavua'},ref:'Genesis 1:1-2',displayValue:{en:'Bereshit'}}]});}
  if (url.includes('/sheets/')) return json({ref:['Genesis 1:1','Genesis 1:2']});
  if (url.includes('/v3/texts/')) return json({versions:[
   {versionTitle:'Miqra according to the Masorah',license:'CC-BY-SA',text:['א ב','ג ד']},
@@ -42,7 +42,7 @@ test('complete mocked generation publishes validated JSON, without key',async()=
   assert.equal(JSON.parse(text).rows.length,2); assert.ok(!text.includes('TEST-NOT-A-REAL-KEY'));
  } finally {await rm(cwd,{recursive:true,force:true});}
 });
-for (const [name,env] of [['changed source',{MOCK_BAD:'true'}],['quota exceeded',{MOCK_QUOTA:'true'}],['unconfirmed free tier',{GEMINI_FREE_TIER_CONFIRMED:'false'}]]) {
+for (const [name,env] of [['quota exceeded',{MOCK_QUOTA:'true'}],['unconfirmed free tier',{GEMINI_FREE_TIER_CONFIRMED:'false'}]]) {
  test(name+' stops without publishing',async()=>{
   const {cwd,result}=await run(env); try {
    assert.notEqual(result.status,0); await assert.rejects(access(join(cwd,'data/parshas/Genesis%201%3A1-2.json')));
@@ -67,4 +67,13 @@ test('truncated whole-parsha response splits and publishes only complete validat
   const cache=JSON.parse(await readFile(join(cwd,'data/parshas/Genesis%201%3A1-2.json'),'utf8'));
   assert.equal(cache.rows.length,2);
  } finally {await rm(cwd,{recursive:true,force:true});}
+});
+
+test('changed source is never published; failed verse retains exact original with visible error flag',async()=>{
+ const {cwd,result}=await run({MOCK_BAD:'true'});try {
+  assert.equal(result.status,0,result.stderr);
+  const cache=JSON.parse(await readFile(join(cwd,'data/parshas/Genesis%201%3A1-2.json'),'utf8'));
+  assert.equal(cache.rows[1].error,true);assert.equal(cache.rows[1].pairs[0].hebrew,'ג ד');
+  assert.ok(!JSON.stringify(cache).includes('BAD'));assert.equal(cache.complete,false);
+ }finally{await rm(cwd,{recursive:true,force:true});}
 });
