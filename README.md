@@ -37,11 +37,11 @@ The key is read from `GEMINI_API_KEY` privately at generation time. It never bel
 
 - Confirm the Google AI Studio project shows **Free**, not Paid. The script cannot determine billing status from the key.
 - Store it in repository Settings > Secrets and variables > Actions as `GEMINI_API_KEY`.
-- Gemini 3.5 Flash-Lite runs first. Only failed verses are sent to Gemini 3.8 Flash for repair. Both have Free Standard input/output listed by Google; actual availability and limits depend on the project.
+- Gemini 3.5 Flash-Lite runs first. Only failed verses are sent to Gemini 3.8 Flash for copy-text repair. Still-failed verses then receive one bounded Flash-Lite fallback using explicitly numbered source words, in batches of at most 20. The model returns boundaries, not copied text; phrases are reconstructed from the exact source. A 503 from the stronger model may fall through to this fallback, but quota/auth/blocked responses stop it. `PHRASE_SKIP_REPAIR=true` disables both repair stages. Both models have Free Standard input/output listed by Google; actual availability and limits depend on the project.
 - HTTP/quota failures stop further first-pass requests. A failed repair leaves exact-source red fallbacks. Quota errors stop the upcoming-reading wrapper as well. No paid fallback is used.
 - Free-tier public source text may be used by Google to improve its products. No private user text is sent.
 
-Every successful pair set must rejoin to the exact source verse, allowing only whitespace normalization. Hebrew vowel/cantillation marks, word order, punctuation, and Silverstein's bracketed commentary must be preserved. These checks cannot prove the interpretation or phrase boundary is good. This is a study aid, not an authoritative translation or halachic ruling.
+Every successful pair set must rejoin to the source verse, allowing whitespace normalization and canonically equivalent Unicode mark order. Accepted phrases are then reconstructed from the exact source spelling and mark order, rather than saving model text. Numbered-index repairs must also have increasing valid indices, cover every source word, and keep bracketed commentary whole. Hebrew vowel/cantillation marks, word order, punctuation, and Silverstein's bracketed commentary must be preserved. These checks cannot prove the interpretation or phrase boundary is good. This is a study aid, not an authoritative translation or halachic ruling.
 
 ## Weekly generation and publishing
 
