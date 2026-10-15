@@ -1,5 +1,5 @@
-import { mkdir, readFile, writeFile, unlink } from 'node:fs/promises';
-import { HEBREW_VERSION, ENGLISH_VERSION, verseRows, validatePairs, validateCache } from './phrases.mjs';
+import { mkdir, readFile, writeFile, rename } from 'node:fs/promises';
+import { HEBREW_VERSION, ENGLISH_VERSION, verseRows, validatePairs, validateCache, newStore, assertStore, storedVerse, storeVerse } from './phrases.mjs';
 
 const key = process.env.GEMINI_API_KEY;
 if (!key) throw new Error('GEMINI_API_KEY must be set privately; never put it in source code.');
@@ -37,22 +37,28 @@ const en = data.versions?.find(version => version.versionTitle === ENGLISH_VERSI
 if (!he || !en || data.warnings?.length) throw new Error('Required Sefaria editions unavailable');
 if (he.license !== 'CC-BY-SA' || en.license !== 'CC-BY') throw new Error('Source licensing changed; review before publishing');
 const rows = verseRows(he.text, en.text, item.ref);
-await mkdir('data/parshas', { recursive: true });
-const cachePath = 'data/parshas/' + encodeURIComponent(item.ref) + '.json';
-const progressPath = cachePath + '.progress.json';
-try {
-  const cached = JSON.parse(await readFile(cachePath, 'utf8'));
-  validateCache(cached, rows, item.ref);
-  console.log('Already saved and valid: ' + item.ref + '; no Gemini calls needed.');
-  process.exit(0);
-} catch {}
-let previous;
-try { previous = JSON.parse(await readFile(progressPath, 'utf8')); } catch {
-  try { previous = JSON.parse(await readFile(cachePath, 'utf8')); } catch {}
+await mkdir('data', {recursive:true});
+const storePath = 'data/phrases.json';
+let store;
+try { store = assertStore(JSON.parse(await readFile(storePath,'utf8'))); }
+catch (error) { if (error.code !== 'ENOENT') throw error; store = newStore(); }
+store.sources = data.versions.map(({versionTitle,versionSource,license})=>({versionTitle,versionSource,license}));
+async function saveStore() {
+  store.updatedAt = new Date().toISOString();
+  await writeFile(storePath+'.tmp',JSON.stringify(store,null,2)+'\n');
+  await rename(storePath+'.tmp',storePath);
 }
-const output = { schemaVersion: 1, ref: item.ref, generatedAt: new Date().toISOString(), model,
-  versions: { hebrew: HEBREW_VERSION, english: ENGLISH_VERSION },
-  sources: data.versions.map(({ versionTitle, versionSource, license }) => ({ versionTitle, versionSource, license })), rows: [] };
+const output = {schemaVersion:1,ref:item.ref,versions:store.versions,rows:[]};
+const pending = [];
+for (const source of rows) {
+  const saved = storedVerse(store,source);
+  try {
+    if (!saved || saved.error) throw new Error('Needs alignment');
+    const valid=validatePairs(source,{...saved,verse:source.verse});
+    output.rows.push({...valid,model:saved.model,repairedBy:saved.repairedBy});
+  } catch { pending.push(source); }
+}
+if (!pending.length) { console.log('Already saved and valid: '+item.ref+'; no Gemini calls needed.'); process.exit(0); }
 const schema = { type: 'object', properties: { rows: { type: 'array', items: { type: 'object', properties: {
   verse: { type: 'string' }, pairs: { type: 'array', minItems: 2, items: { type: 'object', properties: { hebrew: { type: 'string' }, english: { type: 'string' } }, required: ['hebrew', 'english'] } }
 }, required: ['verse', 'pairs'] } } }, required: ['rows'] };
@@ -80,17 +86,12 @@ async function requestPairs(batch, requestedModel) {
   return parsed;
 }
 async function align(batch, depth = 0) {
-  let reused;
-  if (previous?.ref === item.ref && previous.versions?.hebrew === HEBREW_VERSION && previous.versions?.english === ENGLISH_VERSION) {
-    try { reused = batch.map(row => validatePairs(row, previous.rows.find(value => value.verse === row.verse))); } catch {}
-  }
-  if (reused) { output.rows.push(...reused); return; }
   let validated;
   try {
     const parsed = await requestPairs(batch, model);
     validated = batch.map(row => {
       const matches = parsed.rows?.filter(value => value?.verse === row.verse) || [];
-      try { return validatePairs(row, matches.length === 1 ? matches[0] : null); }
+      try { return {...validatePairs(row, matches.length === 1 ? matches[0] : null),model}; }
       catch { return {verse:row.verse,pairs:[{hebrew:row.hebrew,english:row.english}],error:true}; }
     });
   } catch (error) {
@@ -104,28 +105,18 @@ async function align(batch, depth = 0) {
     return;
   }
   output.rows.push(...validated);
-  await writeFile(progressPath, JSON.stringify(output, null, 2) + '\n');
+  for (const entry of validated) storeVerse(store,rows.find(row=>row.verse===entry.verse),entry);
+  await saveStore();
   console.log(`Saved ${output.rows.length}/${rows.length} source-checked verses (${output.rows.filter(row=>row.error).length} need stronger-model review)`);
   if (process.env.PHRASE_ONE_BATCH === 'true' && output.rows.length < rows.length) process.exit(75);
 }
-let pending = [];
-for (const row of rows) {
-  let saved;
-  if (previous?.ref === item.ref && previous.versions?.hebrew === HEBREW_VERSION && previous.versions?.english === ENGLISH_VERSION) {
-    const old = previous.rows.find(value => value.verse === row.verse);
-    if (old?.error && old.pairs?.length === 1 && old.pairs[0].hebrew === row.hebrew && old.pairs[0].english === row.english) saved = old;
-    else try { saved = validatePairs(row, old); } catch {}
-  }
-  if (saved) {
-    if (pending.length) { await align(pending); pending = []; }
-    output.rows.push(saved);
-  } else pending.push(row);
+const size = Number(process.env.PHRASE_BATCH_SIZE || pending.length);
+if (!Number.isInteger(size) || size < 1) throw new Error('Invalid PHRASE_BATCH_SIZE');
+for (let index=0;index<pending.length;index+=size) {
+  if (index) await new Promise(resolve=>setTimeout(resolve,Number(process.env.PHRASE_DELAY_MS || 15000)));
+  await align(pending.slice(index,index+size));
 }
-if (pending.length) {
-  const size = Number(process.env.PHRASE_BATCH_SIZE || pending.length);
-  if (!Number.isInteger(size) || size < 1) throw new Error('Invalid PHRASE_BATCH_SIZE');
-  for (let index=0;index<pending.length;index+=size) await align(pending.slice(index,index+size));
-}
+output.rows.sort((a,b)=>rows.findIndex(row=>row.verse===a.verse)-rows.findIndex(row=>row.verse===b.verse));
 let quotaStopped = false;
 let failures = output.rows.filter(row => row.error);
 if (failures.length && process.env.PHRASE_SKIP_REPAIR !== 'true') {
@@ -149,9 +140,7 @@ if (failures.length && process.env.PHRASE_SKIP_REPAIR !== 'true') {
 }
 if (!failures.length) validateCache(output, rows, item.ref);
 else if (output.rows.length !== rows.length) throw new Error('Incomplete source coverage');
-output.complete = !failures.length;
-output.models = {primary:model, repair:'gemini-3.8-flash'};
-await writeFile(cachePath, JSON.stringify(output, null, 2) + '\n');
-await unlink(progressPath).catch(() => {});
-console.log(`Saved source-checked cache: ${output.rows.length} verses, ${failures.length} flagged for stronger-model repair.`);
+for (const entry of output.rows) storeVerse(store,rows.find(row=>row.verse===entry.verse),entry);
+await saveStore();
+console.log(`Saved source-checked verses: ${output.rows.length}, ${failures.length} flagged for stronger-model repair.`);
 if (quotaStopped) process.exit(2);
