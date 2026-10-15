@@ -36,3 +36,8 @@ test('English punctuation formatting does not change saved text or Hebrew normal
  const normalizeWhitespaceText=vm.runInNewContext(html.slice(start,formatterEnd)+'\nnormalizeWhitespaceText;');
  assert.equal(normalizeWhitespaceText('אב,(גד) .'),'אב,(גד) .');
 });
+test('missing punctuation spaces are fixed without changing numbers or closing punctuation',()=>{
+ assert.equal(visible('as all that the L-rd had commanded him,in entering the ark .'),'as all that Hashem had commanded him, in entering the ark.');
+ assert.equal(visible('a;b:c ( note )next , (other) !'),'a; b: c (note) next, (other)!');
+ assert.equal(visible('1,000 at 12:30; then (note).'),'1,000 at 12:30; then (note).');
+});
