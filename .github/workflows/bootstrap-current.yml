@@ -1,0 +1,51 @@
+name: One-time current-parsha Free-tier trial
+on:
+  push:
+    branches: [feature/gemini-phrase-alignment]
+    paths: [.github/workflows/bootstrap-current.yml]
+permissions:
+  contents: write
+concurrency:
+  group: phrase-generation-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  generate:
+    if: github.ref == 'refs/heads/feature/gemini-phrase-alignment' && contains(github.event.head_commit.message, '[generate-current-free]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/*.test.mjs
+      - name: Generate current then next Israel reading
+        id: generation
+        continue-on-error: true
+        run: |
+          node --input-type=module <<'JS'
+          import { spawnSync } from 'node:child_process';
+          const today = new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Jerusalem',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+          const base = new Date(today + 'T12:00:00Z');
+          for (const days of [0, 7]) {
+            const date = new Date(base); date.setUTCDate(date.getUTCDate() + days);
+            const child = spawnSync(process.execPath, ['scripts/generate-phrases.mjs'], {stdio:'inherit',env:{...process.env,PARSHA_DATE:date.toISOString().slice(0,10)}});
+            if (child.status !== 0) process.exit(1);
+          }
+          JS
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_FREE_TIER_CONFIRMED: 'true'
+      - name: Save completed cache and public-text checkpoint
+        run: |
+          git config user.name 'Shnayim Mikra data generator'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mkdir -p data/parshas
+          git add data/parshas/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Save current-parsha validated data and progress'
+            git push origin HEAD:feature/gemini-phrase-alignment
+          fi
+      - name: Report stopped generation
+        if: steps.generation.outcome == 'failure'
+        run: exit 1
