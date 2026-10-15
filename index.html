@@ -268,9 +268,11 @@
 
       <div id="status" class="status"></div>
       <div id="table" class="table"></div>
+      <a href="./README.md" style="font-size: 0.72rem; color: #5d6470; display: inline-block; margin-top: 8px;">Sources</a>
     </div>
 
-    <script>
+    <script type="module">
+      import { verseRows, displayStore } from "./scripts/phrases.mjs";
       function formatDate(date) {
         const y = date.getFullYear();
         const m = String(date.getMonth() + 1).padStart(2, '0');
@@ -301,6 +303,7 @@
       function normalizeDivineName(text) {
         return String(text || '')
           .replace(/G-d/gi, 'Hashem')
+          .replace(/\b(?:[Tt]he\s+)?(?:L-(?:o)?rd|LORD|Lord)\b/g, 'Hashem')
           .replace(/י(?:[\u0591-\u05C7\-–—]*)ה(?:[\u0591-\u05C7\-–—]*)ו(?:[\u0591-\u05C7\-–—]*)ה/g, 'ה׳')
           .replace(/יהוה/g, 'ה׳');
       }
@@ -320,6 +323,12 @@
           .replace(/&thinsp;/gi, ' ')
           .replace(/\u00A0/g, ' ')
           .replace(/\s+/g, ' ')
+          .replace(/([^\s(])\(/g, '$1 (')
+          .replace(/\(\s+/g, '(')
+          .replace(/\s+\)/g, ')')
+          .replace(/\s+([,.;:!?])/g, '$1')
+          .replace(/([,;:])(?=[^\s,.;:!?)}\]\d])/g, '$1 ')
+          .replace(/\)(?=[A-Za-z0-9(])/g, ') ')
           .trim();
 
         const safe = raw
@@ -340,9 +349,7 @@
             if (!noteText) continue;
 
             const prevText = rendered.replace(/<[^>]*>/g, '').trimEnd();
-            const prevEndsWithPause = /[,:]$/.test(prevText);
-            const nextStartsWithPause = /^[,:]/.test(noteText);
-            const spacer = rendered && !prevEndsWithPause && !nextStartsWithPause ? ' ' : '';
+            const spacer = rendered && !/[([{]$/.test(prevText) && !/^[,.;:!?)}\]]/.test(noteText) ? ' ' : '';
 
             rendered += spacer + '<span class="plain-note">' + noteText + '</span>';
             continue;
@@ -351,42 +358,13 @@
           if (!part.trim()) continue;
 
           const plainText = part.trim();
-          const nextPart = parts[i + 1] || '';
-          const prevEndsWithPause = /[,:]$/.test(rendered.replace(/<[^>]*>/g, '').trimEnd());
-          const nextStartsWithPause = /^\s*[,]/.test(nextPart) || /^[,:]/.test(plainText);
-          const needsSpace = rendered && !prevEndsWithPause && !nextStartsWithPause;
+          const prevText = rendered.replace(/<[^>]*>/g, '').trimEnd();
+          const needsSpace = rendered && !/[([{]$/.test(prevText) && !/^[,.;:!?)}\]]/.test(plainText);
 
           rendered += (needsSpace ? ' ' : '') + '<span class="cell-content"><strong>' + plainText + '</strong></span>';
         }
 
         return '<span class="english-inline">' + rendered + '</span>';
-      }
-
-      function buildAlignedVerseRows(hebrewText, englishText, ref) {
-        const hebrewBlocks = Array.isArray(hebrewText) ? hebrewText : [hebrewText];
-        const englishBlocks = Array.isArray(englishText) ? englishText : [englishText];
-        const maxChapters = Math.max(hebrewBlocks.length, englishBlocks.length);
-        const start = parseRefStart(ref);
-        const rows = [];
-
-        for (let chapterIndex = 0; chapterIndex < maxChapters; chapterIndex++) {
-          const heChapter = Array.isArray(hebrewBlocks[chapterIndex]) ? hebrewBlocks[chapterIndex] : [hebrewBlocks[chapterIndex] || ''];
-          const enChapter = Array.isArray(englishBlocks[chapterIndex]) ? englishBlocks[chapterIndex] : [englishBlocks[chapterIndex] || ''];
-          const chapterNumber = start.startChapter + chapterIndex;
-          const verseStart = chapterIndex === 0 ? start.startVerse : 1;
-          const verseCount = Math.max(heChapter.length, enChapter.length);
-
-          for (let verseIndex = 0; verseIndex < verseCount; verseIndex++) {
-            const verseNumber = verseStart + verseIndex;
-            rows.push({
-              verse: chapterNumber + ':' + verseNumber,
-              hebrew: heChapter[verseIndex] || '',
-              english: enChapter[verseIndex] || '',
-            });
-          }
-        }
-
-        return rows;
       }
 
       function parseAliyahRange(ref, index) {
@@ -447,11 +425,24 @@
       }
 
       async function loadParsha() {
-        const date = formatDate(new Date());
-        const calendar = await fetchJson('https://www.sefaria.org/api/calendars?date=' + date + '&diaspora=0');
-        const item = calendar.calendar_items.find(function (entry) {
-          return entry && entry.title && entry.title.en === 'Parashat Hashavua';
-        });
+        const date = new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Jerusalem',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+        const override = new URLSearchParams(location.search).get('parsha');
+        let item;
+        let overrideMissed = false;
+        if (override) {
+          if (override.length > 100 || /[<>\/]/.test(override)) throw new Error('Invalid parsha name');
+          const reading = await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim()) + '?diaspora=0');
+          item = reading.parasha;
+          if (!item && override.includes(' ')) item = (await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim().replace(/\s+/g,'-')) + '?diaspora=0')).parasha;
+          overrideMissed = !item;
+        }
+        if (!item) {
+          const [year,month,day] = date.split('-');
+          const calendar = await fetchJson('https://www.sefaria.org/api/calendars?' + new URLSearchParams({year,month,day,diaspora:'0',timezone:'Asia/Jerusalem'}));
+          item = calendar.calendar_items.find(function (entry) {
+            return entry && entry.title && entry.title.en === 'Parashat Hashavua';
+          });
+        }
 
         if (!item) {
           throw new Error('No parsha was found for today.');
@@ -461,7 +452,7 @@
         const parashaName = item.displayValue && item.displayValue.en ? item.displayValue.en : ref.split(' ')[0];
         const [aliyotResult, hebrewData, englishData] = await Promise.all([
           fetchJson('https://www.sefaria.org/api/sheets/' + encodeURIComponent(parashaName) + '/get_aliyot'),
-          fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(ref) + '?version=hebrew&return_format=text_only'),
+          fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(ref) + '?version=' + encodeURIComponent('hebrew|Miqra according to the Masorah') + '&return_format=text_only'),
           fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(ref) + '?version=' + encodeURIComponent('english|The Rashi chumash by Rabbi Shraga Silverstein') + '&return_format=text_only')
         ]);
 
@@ -469,7 +460,16 @@
         const heText = (hebrewData.versions && hebrewData.versions[0] && hebrewData.versions[0].text) || '';
         const enText = (englishData.versions && englishData.versions[0] && englishData.versions[0].text) || '';
 
+        let phrases = null;
+        let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
+        try {
+          const cache = await fetchJson('./data/phrases.json');
+          phrases = displayStore(cache, verseRows(heText, enText, ref), ref);
+          phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
+        } catch (error) { console.info('Phrase view unavailable:', error.message); }
         renderParsha({
+          phrases,
+          phraseStatus,
           title: item.displayValue && item.displayValue.en ? item.displayValue.en : item.ref,
           hebrewTitle: item.displayValue && item.displayValue.he ? item.displayValue.he : item.heRef,
           ref: ref,
@@ -477,6 +477,7 @@
           hebrewText: heText,
           englishText: enText,
           aliyot: aliyot,
+          notice: overrideMissed ? 'We could not find a parsha named "' + override.trim() + '", so this week\'s parsha is shown.' : null,
         });
       }
 
@@ -489,33 +490,34 @@
         document.getElementById('ref').textContent = '';
         document.getElementById('heRef').textContent = '';
 
-        const verseRows = buildAlignedVerseRows(data.hebrewText, data.englishText, data.ref);
+        const sourceRows = verseRows(data.hebrewText, data.englishText, data.ref);
+        const displayRows = data.phrases ? data.phrases.flatMap((entry, index) => entry.pairs.map((pair, pairIndex) => ({...pair, verse: entry.verse, phrase: pair.wholeVerse ? null : pairIndex + 1}))) : sourceRows;
         let previousAliyah = null;
 
-        for (let i = 0; i < verseRows.length; i++) {
-          const rowAliyah = getAliyahNumberForVerse(verseRows[i].verse, data.aliyot || []);
-          verseRows[i].aliyah = rowAliyah;
-          verseRows[i].isAliyahStart = rowAliyah && rowAliyah !== previousAliyah;
+        for (let i = 0; i < displayRows.length; i++) {
+          const rowAliyah = getAliyahNumberForVerse(displayRows[i].verse, data.aliyot || []);
+          displayRows[i].aliyah = rowAliyah;
+          displayRows[i].isAliyahStart = rowAliyah && rowAliyah !== previousAliyah;
           previousAliyah = rowAliyah;
         }
 
         const table = document.getElementById('table');
         table.innerHTML = '';
 
-        for (let i = 0; i < verseRows.length; i++) {
+        for (let i = 0; i < displayRows.length; i++) {
           const row = document.createElement('div');
           row.className = 'row';
 
           const heCell = document.createElement('div');
-          heCell.className = 'cell hebrew' + (verseRows[i].hebrew ? '' : ' empty');
-          if (verseRows[i].isAliyahStart) {
+          heCell.className = 'cell hebrew' + (displayRows[i].hebrew ? '' : ' empty');
+          if (displayRows[i].isAliyahStart) {
             const badge = document.createElement('span');
             badge.className = 'verse-num';
-            badge.textContent = ' ' + verseRows[i].aliyah + ' ';
+            badge.textContent = ' ' + displayRows[i].aliyah + ' ';
             heCell.appendChild(badge);
           }
 
-          const safeHebrewText = normalizeDivineName(normalizeWhitespaceText(verseRows[i].hebrew));
+          const safeHebrewText = normalizeDivineName(normalizeWhitespaceText(displayRows[i].hebrew));
           if (safeHebrewText) {
             heCell.appendChild(document.createTextNode(safeHebrewText));
           } else {
@@ -523,22 +525,49 @@
           }
 
           const enCell = document.createElement('div');
-          enCell.className = 'cell english' + (verseRows[i].english ? '' : ' empty');
-          const formattedEnglish = formatEnglishWithBracketStyle(verseRows[i].english || '—');
-          enCell.innerHTML = '<span class="verse-num">' + verseRows[i].verse + '</span> ' + formattedEnglish;
+          enCell.className = 'cell english' + (displayRows[i].english ? '' : ' empty');
+          const formattedEnglish = formatEnglishWithBracketStyle(displayRows[i].english || '—');
+          enCell.innerHTML = '<span class="verse-num">' + displayRows[i].verse + (displayRows[i].phrase ? ' · ' + displayRows[i].phrase : '') + '</span> ' + formattedEnglish;
 
           row.appendChild(heCell);
+          if (displayRows[i].error) {
+            const note = document.createElement('small');
+            note.style.color = '#b00020';
+            note.textContent = displayRows[i].wholeVerse ? 'Phrase alignment unavailable here. Original verse: ' : 'Phrase alignment error. Original text: ';
+            note.setAttribute('role', 'note');
+            enCell.prepend(note);
+          }
           row.appendChild(enCell);
           table.appendChild(row);
         }
 
         document.getElementById('status').textContent = '';
+        if (data.notice || !data.phrases) {
+          const popup = document.createElement('dialog');
+          popup.style.cssText = 'max-width: min(28rem, 80vw); border: 1px solid #ddcdb3; border-radius: 12px; padding: 24px; background: #fffdf9; color: #342819; font: 16px/1.5 Georgia, serif';
+          const message = document.createElement('p');
+          message.textContent = [data.notice, !data.phrases ? 'Phrase data is not available for this parsha. Showing the original verses.' : null].filter(Boolean).join(' ');
+          popup.setAttribute('aria-label', 'Phrase data unavailable');
+          const close = document.createElement('button');
+          close.textContent = 'OK';
+          close.style.cssText = 'padding: 6px 20px; cursor: pointer';
+          close.addEventListener('click', () => { popup.close(); popup.remove(); });
+          popup.append(message, close);
+          document.body.append(popup);
+          popup.showModal();
+        }
       }
 
       loadParsha().catch(function (error) {
         document.getElementById('status').textContent = '';
+        const table = document.getElementById('table');
+        table.innerHTML = '';
+        const message = document.createElement('p');
+        message.style.cssText = 'padding: 40px 24px; text-align: center; color: #5d6470; font: 16px/1.6 Georgia, serif';
+        message.textContent = 'Unable to load this parsha. Check the parsha name in the URL and try again.';
+        table.appendChild(message);
         console.error(error);
       });
     </script>
   </body>
-</html>
+        </html>
