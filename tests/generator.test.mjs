@@ -18,6 +18,7 @@ globalThis.fetch = async (url, options) => {
   {versionTitle:'The Rashi chumash by Rabbi Shraga Silverstein',license:'CC-BY',text:['a b','c d']}
  ]});
  if (url.includes('generativelanguage.googleapis.com')) {
+  if(JSON.parse(options.body).generationConfig.responseFormat.text.mimeType !== 'APPLICATION_JSON') throw new Error('REST JSON enum must be APPLICATION_JSON');
   if (process.env.MOCK_QUOTA) return new Response('{}',{status:429});
   let rows = [{verse:'1:1',pairs:[{hebrew:'א',english:'a'},{hebrew:'ב',english:'b'}]}, {verse:'1:2',pairs:[{hebrew:'ג',english:'c'},{hebrew:'ד',english:'d'}]}];
   const supplied=JSON.parse(JSON.parse(options.body).contents[0].parts[0].text.split('Sources:\\n')[1]);
