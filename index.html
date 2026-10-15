@@ -429,8 +429,10 @@
           if (override.length > 100 || /[<>\/]/.test(override)) throw new Error('Invalid parsha name');
           const reading = await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim()) + '?diaspora=0');
           item = reading.parasha;
+          if (!item && override.includes(' ')) item = (await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim().replace(/\s+/g,'-')) + '?diaspora=0')).parasha;
         } else {
-          const calendar = await fetchJson('https://www.sefaria.org/api/calendars?date=' + date + '&diaspora=0');
+          const [year,month,day] = date.split('-');
+          const calendar = await fetchJson('https://www.sefaria.org/api/calendars?' + new URLSearchParams({year,month,day,diaspora:'0',timezone:'Asia/Jerusalem'}));
           item = calendar.calendar_items.find(function (entry) {
             return entry && entry.title && entry.title.en === 'Parashat Hashavua';
           });
