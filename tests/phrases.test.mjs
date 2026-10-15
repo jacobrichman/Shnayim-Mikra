@@ -55,3 +55,14 @@ test('single-file error stores only exact original and rejects changed fallback'
  assert.equal(storedVerse(store,source).error,true);
  assert.throws(()=>storeVerse(store,source,{verse:'1:1',pairs:[{hebrew:'WRONG',english:source.english}],error:true}));
 });
+
+test('canonical Unicode mark order is accepted but exact source bytes are saved',()=>{
+ const source={verse:'17:12',hebrew:'מִכֹּ֣ל בֶּן',english:'of any stranger'};
+ const result=validatePairs(source,{verse:'17:12',pairs:[{hebrew:'מִכֹּ֣ל',english:'of any'},{hebrew:'בֶּן',english:'stranger'}]});
+ assert.equal(result.pairs[0].hebrew,'מִכֹּ֣ל');
+ assert.equal(result.pairs.map(p=>p.hebrew).join(' '),source.hebrew);
+});
+test('Unicode equivalence does not allow changed cantillation or extra vowels',()=>{
+ const source={verse:'1:1',hebrew:'הָאָ֣רֶץ נֹחַ',english:'the land Noach'};
+ for(const word of ['הָאָ֥רֶץ','הָאֲָ֣רֶץ'])assert.throws(()=>validatePairs(source,{verse:'1:1',pairs:[{hebrew:word,english:'the land'},{hebrew:'נֹחַ',english:'Noach'}]}));
+});
