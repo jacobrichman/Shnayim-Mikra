@@ -1,0 +1,1893 @@
+{
+  "schemaVersion": 1,
+  "ref": "Genesis 12:1-17:27",
+  "generatedAt": "2026-10-15T12:14:40.083Z",
+  "model": "gemini-3.5-flash-lite",
+  "versions": {
+    "hebrew": "Miqra according to the Masorah",
+    "english": "The Rashi chumash by Rabbi Shraga Silverstein"
+  },
+  "sources": [
+    {
+      "versionTitle": "Miqra according to the Masorah",
+      "versionSource": "https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94",
+      "license": "CC-BY-SA"
+    },
+    {
+      "versionTitle": "The Rashi chumash by Rabbi Shraga Silverstein",
+      "versionSource": "http://www.sefaria.org/shraga-silverstein",
+      "license": "CC-BY"
+    }
+  ],
+  "rows": [
+    {
+      "verse": "12:1",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־אַבְרָ֔ם",
+          "english": "And the L-rd said to Avram:"
+        },
+        {
+          "hebrew": "לֶךְ־לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ",
+          "english": "Go, for your sake, [for your benefit and for your good], from your land and from your birthplace, and from your father's house,"
+        },
+        {
+          "hebrew": "אֶל־הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ׃",
+          "english": "to the land that I will show you."
+        }
+      ]
+    },
+    {
+      "verse": "12:2",
+      "pairs": [
+        {
+          "hebrew": "וְאֶֽעֶשְׂךָ֙ לְג֣וֹי גָּד֔וֹל",
+          "english": "And I shall make of you a great nation,"
+        },
+        {
+          "hebrew": "וַאֲבָ֣רֶכְךָ֔",
+          "english": "and I shall bless you [with wealth],"
+        },
+        {
+          "hebrew": "וַאֲגַדְּלָ֖ה שְׁמֶ֑ךָ",
+          "english": "and I shall make your name great,"
+        },
+        {
+          "hebrew": "וֶהְיֵ֖ה בְּרָכָֽה׃",
+          "english": "and you shall be a [source of] blessing."
+        }
+      ]
+    },
+    {
+      "verse": "12:3",
+      "pairs": [
+        {
+          "hebrew": "וַאֲבָֽרְכָה֙ מְבָ֣רְכֶ֔יךָ",
+          "english": "And I shall bless those who bless you,"
+        },
+        {
+          "hebrew": "וּמְקַלֶּלְךָ֖ אָאֹ֑ר",
+          "english": "and those who curse you shall I curse,"
+        },
+        {
+          "hebrew": "וְנִבְרְכ֣וּ בְךָ֔ כֹּ֖ל מִשְׁפְּחֹ֥ת הָאֲדָמָֽה׃",
+          "english": "and they shall bless themselves in you [i.e., in your name] all the families of the earth."
+        }
+      ]
+    },
+    {
+      "verse": "12:4",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהֹוָ֔ה",
+          "english": "And Avram went as the L-rd spoke to him,"
+        },
+        {
+          "hebrew": "וַיֵּ֥לֶךְ אִתּ֖וֹ ל֑וֹט",
+          "english": "and Lot went with him."
+        },
+        {
+          "hebrew": "וְאַבְרָ֗ם בֶּן־חָמֵ֤שׁ שָׁנִים֙ וְשִׁבְעִ֣ים שָׁנָ֔ה בְּצֵאת֖וֹ מֵחָרָֽן׃",
+          "english": "And Avram was seventy-five years old when he went out of Charan."
+        }
+      ]
+    },
+    {
+      "verse": "12:5",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקַּ֣ח אַבְרָם֩ אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו וְאֶת־כׇּל־רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ",
+          "english": "And Avram took Sarai, his wife, and Lot, his brother's son, and all their substance that they had gathered,"
+        },
+        {
+          "hebrew": "וְאֶת־הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ בְחָרָ֑ן",
+          "english": "and the souls [i.e., bondsmen and bondswomen] that they had acquired in Charan,"
+        },
+        {
+          "hebrew": "וַיֵּצְא֗וּ לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן",
+          "english": "and they went out to go to the land of Canaan,"
+        },
+        {
+          "hebrew": "וַיָּבֹ֖אוּ אַ֥רְצָה כְּנָֽעַן׃",
+          "english": "and they came to the land of Canaan."
+        }
+      ]
+    },
+    {
+      "verse": "12:6",
+      "pairs": [
+        {
+          "hebrew": "וַיַּעֲבֹ֤ר אַבְרָם֙ בָּאָ֔רֶץ עַ֚ד מְק֣וֹם שְׁכֶ֔ם עַ֖ד אֵל֣וֹן מוֹרֶ֑ה",
+          "english": "And Avram passed through the land until the place of Shechem, until Eilon Moreh."
+        },
+        {
+          "hebrew": "וְהַֽכְּנַעֲנִ֖י אָ֥ז בָּאָֽרֶץ׃",
+          "english": "And the Canaanite was then in the land, [conquering Eretz Yisrael from the seed of Shem]."
+        }
+      ]
+    },
+    {
+      "verse": "12:7",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּרָ֤א יְהֹוָה֙ אֶל־אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת־הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ לַיהֹוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו׃",
+          "english": "And the L-rd appeared to Avram and He said: To your seed shall I give this land. And he built there [for the tidings of the seed and of the land] an altar to the L-rd, who had appeared to him."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "12:8",
+      "pairs": [
+        {
+          "hebrew": "וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית־אֵ֖ל וַיֵּ֣ט אׇהֳלֹ֑ה בֵּֽית־אֵ֤ל מִיָּם֙ וְהָעַ֣י מִקֶּ֔דֶם",
+          "english": "And he removed from there [his tent] to the mountain east of Bethel. And he pitched his tent, [first Sarai's, then his], Bethel on the west and Ai on the east."
+        },
+        {
+          "hebrew": "וַיִּֽבֶן־שָׁ֤ם מִזְבֵּ֙חַ֙ לַֽיהֹוָ֔ה",
+          "english": "And he built there an altar to the L-rd, [perceiving prophetically that his children would go astray there by the sin of Achan (Joshua 7)],"
+        },
+        {
+          "hebrew": "וַיִּקְרָ֖א בְּשֵׁ֥ם יְהֹוָֽה׃",
+          "english": "and he called, [interceding for them] in the name of the L-rd."
+        }
+      ]
+    },
+    {
+      "verse": "12:9",
+      "pairs": [
+        {
+          "hebrew": "וַיִּסַּ֣ע אַבְרָ֔ם",
+          "english": "And Avram journeyed"
+        },
+        {
+          "hebrew": "הָל֥וֹךְ וְנָס֖וֹעַ הַנֶּֽגְבָּה׃&nbsp;{פ}",
+          "english": "progressively southwards, [towards Jerusalem]."
+        }
+      ]
+    },
+    {
+      "verse": "12:10",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ",
+          "english": "And there was a famine in the land [of Canaan, whither G-d had bidden him go — the L-rd testing Avram],"
+        },
+        {
+          "hebrew": "וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה֙ לָג֣וּר שָׁ֔ם כִּֽי־כָבֵ֥ד הָרָעָ֖ב בָּאָֽרֶץ׃",
+          "english": "and Avram went down to Egypt to dwell there, for the famine was sore in the land."
+        }
+      ]
+    },
+    {
+      "verse": "12:11",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֕י כַּאֲשֶׁ֥ר הִקְרִ֖יב לָב֣וֹא מִצְרָ֑יְמָה",
+          "english": "And it was, as he approached Egypt,"
+        },
+        {
+          "hebrew": "וַיֹּ֙אמֶר֙ אֶל־שָׂרַ֣י אִשְׁתּ֔וֹ",
+          "english": "that he said to Sarai his wife:"
+        },
+        {
+          "hebrew": "הִנֵּה־נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת־מַרְאֶ֖ה אָֽתְּ׃",
+          "english": "Behold, now [the time has come to worry about your beauty.] I have long known you to be a beautiful woman."
+        }
+      ]
+    },
+    {
+      "verse": "12:12",
+      "pairs": [
+        {
+          "hebrew": "וְהָיָ֗ה כִּֽי־יִרְא֤וּ אֹתָךְ֙ הַמִּצְרִ֔ים",
+          "english": "And it will be, when the Egyptians see you,"
+        },
+        {
+          "hebrew": "וְאָמְר֖וּ אִשְׁתּ֣וֹ זֹ֑את",
+          "english": "that they will say: \"This is his wife!\""
+        },
+        {
+          "hebrew": "וְהָרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽוּ׃",
+          "english": "and they will kill me and keep you alive."
+        }
+      ]
+    },
+    {
+      "verse": "12:13",
+      "pairs": [
+        {
+          "hebrew": "אִמְרִי־נָ֖א אֲחֹ֣תִי אָ֑תְּ",
+          "english": "Say, now, that you are my sister,"
+        },
+        {
+          "hebrew": "לְמַ֙עַן֙ יִֽיטַב־לִ֣י בַעֲבוּרֵ֔ךְ",
+          "english": "so that it be well for me for your sake [i.e., so that they give me gifts],"
+        },
+        {
+          "hebrew": "וְחָיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽךְ׃",
+          "english": "and so that I remain alive because of you."
+        }
+      ]
+    },
+    {
+      "verse": "12:14",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֕י כְּב֥וֹא אַבְרָ֖ם מִצְרָ֑יְמָה",
+          "english": "And it was, when Avram came to Egypt, [with Sarai hidden in a chest]"
+        },
+        {
+          "hebrew": "וַיִּרְא֤וּ הַמִּצְרִים֙ אֶת־הָ֣אִשָּׁ֔ה כִּֽי־יָפָ֥ה הִ֖וא מְאֹֽד׃",
+          "english": "that the Egyptians spied the woman and found her to be very beautiful."
+        }
+      ]
+    },
+    {
+      "verse": "12:15",
+      "pairs": [
+        {
+          "hebrew": "וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל־פַּרְעֹ֑ה",
+          "english": "And the officers of Pharaoh saw her, and they praised her [among themselves] as being for Pharaoh;"
+        },
+        {
+          "hebrew": "וַתֻּקַּ֥ח הָאִשָּׁ֖ה בֵּ֥ית פַּרְעֹֽה׃",
+          "english": "and the woman was taken into Pharaoh's house."
+        }
+      ]
+    },
+    {
+      "verse": "12:16",
+      "pairs": [
+        {
+          "hebrew": "וּלְאַבְרָ֥ם הֵיטִ֖יב בַּעֲבוּרָ֑הּ",
+          "english": "And he [Pharaoh] benefitted Avram for her sake,"
+        },
+        {
+          "hebrew": "וַֽיְהִי־ל֤וֹ צֹאן־וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַאֲתֹנֹ֖ת וּגְמַלִּֽים׃",
+          "english": "and he had flocks and herds, and he-asses, and bondsmen and bondswomen, and she-asses and camels."
+        }
+      ]
+    },
+    {
+      "verse": "12:17",
+      "pairs": [
+        {
+          "hebrew": "וַיְנַגַּ֨ע יְהֹוָ֧ה&thinsp;׀&thinsp;אֶת־פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת־בֵּית֑וֹ",
+          "english": "And the L-rd plagued Pharaoh with great afflictions, as well as [the people of] his house,"
+        },
+        {
+          "hebrew": "עַל־דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת אַבְרָֽם׃",
+          "english": "at the behest of Sarai, Avram's wife."
+        }
+      ]
+    },
+    {
+      "verse": "12:18",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה־זֹּ֖את עָשִׂ֣יתָ לִּ֑י",
+          "english": "And Pharaoh called to Avram and he said: What is this that you have done to me?"
+        },
+        {
+          "hebrew": "לָ֚מָּה לֹא־הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא׃",
+          "english": "Why did you not tell me that she is your wife?"
+        }
+      ]
+    },
+    {
+      "verse": "12:19",
+      "pairs": [
+        {
+          "hebrew": "לָמָ֤ה אָמַ֙רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה",
+          "english": "Why did you say \"She is my sister,\" so that I took her for me as a wife?"
+        },
+        {
+          "hebrew": "וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ׃",
+          "english": "And now, here is your wife. Take her and go [out of Egypt (for the Egyptians are licentious)]."
+        }
+      ]
+    },
+    {
+      "verse": "12:20",
+      "pairs": [
+        {
+          "hebrew": "וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים",
+          "english": "And Pharaoh appointed men for him [to guard him],"
+        },
+        {
+          "hebrew": "וַֽיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת־אִשְׁתּ֖וֹ וְאֶת־כׇּל־אֲשֶׁר־לֽוֹ׃",
+          "english": "and they escorted him and his wife and all that was his."
+        }
+      ]
+    },
+    {
+      "verse": "13:1",
+      "pairs": [
+        {
+          "hebrew": "וַיַּ֩עַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם ה֠וּא וְאִשְׁתּ֧וֹ וְכׇל־אֲשֶׁר־ל֛וֹ וְל֥וֹט עִמּ֖וֹ הַנֶּֽגְבָּה׃",
+          "english": "And Avram went up from Egypt, he and his wife and all that was with him, and Lot with him to the south [of Eretz Yisrael]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "13:2",
+      "pairs": [
+        {
+          "hebrew": "וְאַבְרָ֖ם",
+          "english": "And Avram"
+        },
+        {
+          "hebrew": "כָּבֵ֣ד מְאֹ֑ד בַּמִּקְנֶ֕ה בַּכֶּ֖סֶף וּבַזָּהָֽב׃",
+          "english": "was very heavy, with kine, with silver and with gold."
+        }
+      ]
+    },
+    {
+      "verse": "13:3",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּ֙לֶךְ֙ לְמַסָּעָ֔יו מִנֶּ֖גֶב וְעַד־בֵּֽית־אֵ֑ל",
+          "english": "And he went on his travels, [from Egypt, stopping in the same inns as when he had journeyed there (whence we derive that one should not vary his lodgings)] from the south [Egypt being south of Canaan] until Bethel,"
+        },
+        {
+          "hebrew": "עַד־הַמָּק֗וֹם אֲשֶׁר־הָ֨יָה שָׁ֤ם אׇֽהֳלֹה֙ בַּתְּחִלָּ֔ה בֵּ֥ין בֵּֽית־אֵ֖ל וּבֵ֥ין הָעָֽי׃",
+          "english": "until the place where his tent was in the beginning, between Bethel and Ai."
+        }
+      ]
+    },
+    {
+      "verse": "13:4",
+      "pairs": [
+        {
+          "hebrew": "אֶל־מְקוֹם֙ הַמִּזְבֵּ֔חַ אֲשֶׁר־עָ֥שָׂה שָׁ֖ם בָּרִאשֹׁנָ֑ה",
+          "english": "To the place of the altar which he had made there at first,"
+        },
+        {
+          "hebrew": "וַיִּקְרָ֥א שָׁ֛ם אַבְרָ֖ם בְּשֵׁ֥ם יְהֹוָֽה׃",
+          "english": "where Avram had called upon the name of the L-rd."
+        }
+      ]
+    },
+    {
+      "verse": "13:5",
+      "pairs": [
+        {
+          "hebrew": "וְגַ֨ם־לְל֔וֹט הַהֹלֵ֖ךְ אֶת־אַבְרָ֑ם",
+          "english": "And also unto Lot, who went with Avram [— because he went with Avram]"
+        },
+        {
+          "hebrew": "הָיָ֥ה צֹאן־וּבָקָ֖ר וְאֹהָלִֽים׃",
+          "english": "there were flocks and herds, and tents."
+        }
+      ]
+    },
+    {
+      "verse": "13:6",
+      "pairs": [
+        {
+          "hebrew": "וְלֹא־נָשָׂ֥א אֹתָ֛ם הָאָ֖רֶץ",
+          "english": "And the [pasturage of the] land did not suffice for them"
+        },
+        {
+          "hebrew": "לָשֶׁ֣בֶת יַחְדָּ֑ו",
+          "english": "to dwell together,"
+        },
+        {
+          "hebrew": "כִּֽי־הָיָ֤ה רְכוּשָׁם֙ רָ֔ב",
+          "english": "for their substance was great,"
+        },
+        {
+          "hebrew": "וְלֹ֥א יָֽכְל֖וּ לָשֶׁ֥בֶת יַחְדָּֽו׃",
+          "english": "and they could not dwell together."
+        }
+      ]
+    },
+    {
+      "verse": "13:7",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְהִי־רִ֗יב בֵּ֚ין רֹעֵ֣י מִקְנֵֽה־אַבְרָ֔ם וּבֵ֖ין רֹעֵ֣י מִקְנֵה־ל֑וֹט",
+          "english": "And there was a dispute between Avram's herdsmen and Lot's herdsmen"
+        },
+        {
+          "hebrew": "וְהַֽכְּנַעֲנִי֙ וְהַפְּרִזִּ֔י",
+          "english": "[the former rebuking the latter for allowing their flocks to graze in others' fields, the latter arguing that there was no theft in this in that the land belonged to Lot, Avram's sole heir.] But [(states Scripture)] the Canaani and the Perizi"
+        },
+        {
+          "hebrew": "אָ֖ז יֹשֵׁ֥ב בָּאָֽרֶץ׃",
+          "english": "then dwelt in the land, [so that Avram not yet having taken possession of the land, the practice of Lot's herdsmen did, indeed, constitute theft.]"
+        }
+      ]
+    },
+    {
+      "verse": "13:8",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֨אמֶר אַבְרָ֜ם אֶל־ל֗וֹט אַל־נָ֨א תְהִ֤י מְרִיבָה֙ בֵּינִ֣י וּבֵינֶ֔ךָ וּבֵ֥ין רֹעַ֖י וּבֵ֣ין רֹעֶ֑יךָ כִּֽי־אֲנָשִׁ֥ים אַחִ֖ים אֲנָֽחְנוּ׃",
+          "english": "And Avram said to Lot: Let there not be a dispute between me and you, and between my herdsmen and yours, for we are kinsmen."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "13:9",
+      "pairs": [
+        {
+          "hebrew": "הֲלֹ֤א כׇל־הָאָ֙רֶץ֙ לְפָנֶ֔יךָ",
+          "english": "Is not the whole land before you?"
+        },
+        {
+          "hebrew": "הִפָּ֥רֶד נָ֖א מֵעָלָ֑י",
+          "english": "Part, I pray you, from me."
+        },
+        {
+          "hebrew": "אִם־הַשְּׂמֹ֣אל וְאֵימִ֔נָה וְאִם־הַיָּמִ֖ין וְאַשְׂמְאִֽילָה׃",
+          "english": "If you go to the left, I will be at your right [to defend you]; and if you go to the right, I will be at your left."
+        }
+      ]
+    },
+    {
+      "verse": "13:10",
+      "pairs": [
+        {
+          "hebrew": "וַיִּשָּׂא־ל֣וֹט אֶת־עֵינָ֗יו",
+          "english": "And Lot lifted his eyes"
+        },
+        {
+          "hebrew": "וַיַּרְא֙ אֶת־כׇּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן",
+          "english": "and saw the whole plain of the Jordan,"
+        },
+        {
+          "hebrew": "כִּ֥י כֻלָּ֖הּ מַשְׁקֶ֑ה",
+          "english": "it being all watered [with streams]."
+        },
+        {
+          "hebrew": "לִפְנֵ֣י&thinsp;׀ שַׁחֵ֣ת יְהֹוָ֗ה אֶת־סְדֹם֙ וְאֶת־עֲמֹרָ֔ה",
+          "english": "Before the L-rd destroyed Sodom and Amorah,"
+        },
+        {
+          "hebrew": "כְּגַן־יְהֹוָה֙ כְּאֶ֣רֶץ מִצְרַ֔יִם",
+          "english": "it was like the Garden of the L-rd, like the land of Egypt"
+        },
+        {
+          "hebrew": "בֹּאֲכָ֖ה צֹֽעַר׃",
+          "english": "[for sowing] until Tzoar."
+        }
+      ]
+    },
+    {
+      "verse": "13:11",
+      "pairs": [
+        {
+          "hebrew": "וַיִּבְחַר־ל֣וֹ ל֗וֹט אֵ֚ת כׇּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן",
+          "english": "And Lot chose for himself the entire plain of the Jordan,"
+        },
+        {
+          "hebrew": "וַיִּסַּ֥ע ל֖וֹט מִקֶּ֑דֶם",
+          "english": "and Lot traveled from the east [of Avram, going west],"
+        },
+        {
+          "hebrew": "וַיִּפָּ֣רְד֔וּ אִ֖ישׁ מֵעַ֥ל אָחִֽיו׃",
+          "english": "and they parted, one from the other."
+        }
+      ]
+    },
+    {
+      "verse": "13:12",
+      "pairs": [
+        {
+          "hebrew": "אַבְרָ֖ם יָשַׁ֣ב בְּאֶֽרֶץ־כְּנָ֑עַן",
+          "english": "Avram dwelt in the land of Canaan,"
+        },
+        {
+          "hebrew": "וְל֗וֹט יָשַׁב֙ בְּעָרֵ֣י הַכִּכָּ֔ר",
+          "english": "and Lot dwelt in the cities of the plain,"
+        },
+        {
+          "hebrew": "וַיֶּאֱהַ֖ל עַד־סְדֹֽם׃",
+          "english": "and he pitched tents [for his herdsmen and his herds] until Sodom."
+        }
+      ]
+    },
+    {
+      "verse": "13:13",
+      "pairs": [
+        {
+          "hebrew": "וְאַנְשֵׁ֣י סְדֹ֔ם רָעִ֖ים וְחַטָּאִ֑ים",
+          "english": "And the people of Sodom were evil [with their bodies] and sinful [with their wealth]"
+        },
+        {
+          "hebrew": "לַיהֹוָ֖ה מְאֹֽד׃",
+          "english": "to the L-rd exceedingly, [in spite of which Lot did not forbear living among them]."
+        }
+      ]
+    },
+    {
+      "verse": "13:14",
+      "pairs": [
+        {
+          "hebrew": "וַֽיהֹוָ֞ה אָמַ֣ר אֶל־אַבְרָ֗ם אַחֲרֵי֙ הִפָּֽרֶד־ל֣וֹט מֵֽעִמּ֔וֹ",
+          "english": "And the L-rd said to Avram after Lot departed from him [(the Word not coming to him so long as that evil one was with him)]:"
+        },
+        {
+          "hebrew": "שָׂ֣א נָ֤א עֵינֶ֙יךָ֙ וּרְאֵ֔ה",
+          "english": "Raise your eyes, now, and see,"
+        },
+        {
+          "hebrew": "מִן־הַמָּק֖וֹם אֲשֶׁר־אַתָּ֣ה שָׁ֑ם",
+          "english": "from the place where you are —"
+        },
+        {
+          "hebrew": "צָפֹ֥נָה וָנֶ֖גְבָּה וָקֵ֥דְמָה וָיָֽמָּה׃",
+          "english": "north, south, east, and west."
+        }
+      ]
+    },
+    {
+      "verse": "13:15",
+      "pairs": [
+        {
+          "hebrew": "כִּ֧י אֶת־כׇּל־הָאָ֛רֶץ אֲשֶׁר־אַתָּ֥ה רֹאֶ֖ה",
+          "english": "For all the land that you see,"
+        },
+        {
+          "hebrew": "לְךָ֣ אֶתְּנֶ֑נָּה וּֽלְזַרְעֲךָ֖ עַד־עוֹלָֽם׃",
+          "english": "to you shall I give it, and to your seed forever."
+        }
+      ]
+    },
+    {
+      "verse": "13:16",
+      "pairs": [
+        {
+          "hebrew": "וְשַׂמְתִּ֥י אֶֽת־זַרְעֲךָ֖ כַּעֲפַ֣ר הָאָ֑רֶץ",
+          "english": "And I shall make your seed as the dust of the earth —"
+        },
+        {
+          "hebrew": "אֲשֶׁ֣ר&thinsp;׀ אִם־יוּכַ֣ל אִ֗ישׁ לִמְנוֹת֙ אֶת־עֲפַ֣ר הָאָ֔רֶץ",
+          "english": "so that just as the dust of the earth cannot be counted,"
+        },
+        {
+          "hebrew": "גַּֽם־זַרְעֲךָ֖ יִמָּנֶֽה׃",
+          "english": "so your seed will not be counted."
+        }
+      ]
+    },
+    {
+      "verse": "13:17",
+      "pairs": [
+        {
+          "hebrew": "ק֚וּם הִתְהַלֵּ֣ךְ בָּאָ֔רֶץ לְאׇרְכָּ֖הּ וּלְרׇחְבָּ֑הּ",
+          "english": "Arise, walk in the land, in its length and its breadth,"
+        },
+        {
+          "hebrew": "כִּ֥י לְךָ֖ אֶתְּנֶֽנָּה׃",
+          "english": "for to you shall I give it."
+        }
+      ]
+    },
+    {
+      "verse": "13:18",
+      "pairs": [
+        {
+          "hebrew": "וַיֶּאֱהַ֣ל אַבְרָ֗ם וַיָּבֹ֛א וַיֵּ֛שֶׁב בְּאֵלֹנֵ֥י מַמְרֵ֖א אֲשֶׁ֣ר בְּחֶבְר֑וֹן וַיִּֽבֶן־שָׁ֥ם מִזְבֵּ֖חַ לַֽיהֹוָֽה׃&nbsp;{פ}",
+          "english": "And Avram pitched his tent, and he came and he dwelt in the plains of [the man] Mamre, in Chevron, and he built there an altar to the L-rd."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "14:1",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־שִׁנְעָ֔ר",
+          "english": "And it was in the days of Amrafel [Nimrod (10:8-9)], king of Shinar;"
+        },
+        {
+          "hebrew": "אַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר",
+          "english": "Aryoch, king of Elassar;"
+        },
+        {
+          "hebrew": "כְּדׇרְלָעֹ֙מֶר֙ מֶ֣לֶךְ עֵילָ֔ם",
+          "english": "Kedarlaomer, king of Elam;"
+        },
+        {
+          "hebrew": "וְתִדְעָ֖ל מֶ֥לֶךְ גּוֹיִֽם׃",
+          "english": "and Tidal, king of Goyim, [a place so called because many nations (goyim) gathered there],"
+        }
+      ]
+    },
+    {
+      "verse": "14:2",
+      "pairs": [
+        {
+          "hebrew": "עָשׂ֣וּ מִלְחָמָ֗ה",
+          "english": "that they made war"
+        },
+        {
+          "hebrew": "אֶת־בֶּ֙רַע֙ מֶ֣לֶךְ סְדֹ֔ם וְאֶת־בִּרְשַׁ֖ע מֶ֣לֶךְ עֲמֹרָ֑ה",
+          "english": "with Bera [\"evil\" (to Heaven and evil to man)], king of Sodom; Birsha [(ascending \"in wickedness\")], king of Amorah;"
+        },
+        {
+          "hebrew": "שִׁנְאָ֣ב&thinsp;׀ מֶ֣לֶךְ אַדְמָ֗ה וְשֶׁמְאֵ֙בֶר֙ מֶ֣לֶךְ (צביים) [צְבוֹיִ֔ם]",
+          "english": "Shinav [\"hating his Father\" (in heaven)], king of Admah; Shemever [\"took wing\" (to rebel against the L-rd)], king of Tzvoyim,"
+        },
+        {
+          "hebrew": "וּמֶ֥לֶךְ בֶּ֖לַע הִיא־צֹֽעַר׃",
+          "english": "and the king of Bela, which is [the city of] Tzoar."
+        }
+      ]
+    },
+    {
+      "verse": "14:3",
+      "pairs": [
+        {
+          "hebrew": "כׇּל־אֵ֙לֶּה֙ חָֽבְר֔וּ אֶל־עֵ֖מֶק הַשִּׂדִּ֑ים",
+          "english": "All of these joined together in the valley of Siddim [\"many fields\"],"
+        },
+        {
+          "hebrew": "ה֖וּא יָ֥ם הַמֶּֽלַח׃",
+          "english": "which is [now] the Salt Sea, [the waters having spilled into it]."
+        }
+      ]
+    },
+    {
+      "verse": "14:4",
+      "pairs": [
+        {
+          "hebrew": "שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ אֶת־כְּדׇרְלָעֹ֑מֶר",
+          "english": "Twelve years they [these five kings] served Kedarlaomer,"
+        },
+        {
+          "hebrew": "וּשְׁלֹשׁ־עֶשְׂרֵ֥ה שָׁנָ֖ה מָרָֽדוּ׃",
+          "english": "and for thirteen years, they rebelled."
+        }
+      ]
+    },
+    {
+      "verse": "14:5",
+      "pairs": [
+        {
+          "hebrew": "וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בָּ֣א כְדׇרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתּ֔וֹ",
+          "english": "And in the fourteenth year [of their rebellion], Kedarlaomer came and the kings who were with him, [the other three],"
+        },
+        {
+          "hebrew": "וַיַּכּ֤וּ אֶת־רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם",
+          "english": "and they smote Refaim in Ashteroth Karnayim,"
+        },
+        {
+          "hebrew": "וְאֶת־הַזּוּזִ֖ים בְּהָ֑ם",
+          "english": "the Zuzim [same as Zamzumim (Deuteronomy 2:10)] in Ham,"
+        },
+        {
+          "hebrew": "וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה קִרְיָתָֽיִם׃",
+          "english": "and the Eimim in Shaveh Kiryathaim."
+        }
+      ]
+    },
+    {
+      "verse": "14:6",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑יר",
+          "english": "And the Chori, in their mountain, Seir,"
+        },
+        {
+          "hebrew": "עַ֚ד אֵ֣יל פָּארָ֔ן אֲשֶׁ֖ר עַל־הַמִּדְבָּֽר׃",
+          "english": "until El [the plain of] Paran, which is near the desert."
+        }
+      ]
+    },
+    {
+      "verse": "14:7",
+      "pairs": [
+        {
+          "hebrew": "וַ֠יָּשֻׁ֠בוּ וַיָּבֹ֜אוּ אֶל־עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ",
+          "english": "And they returned and they came to Ein Mishpat [\"the spring of judgment\" (so called because Moses and Aaron were destined to be judged there regarding the spring (Numbers 20:1 and 14)], which is Kadesh,"
+        },
+        {
+          "hebrew": "וַיַּכּ֕וּ אֶֽת־כׇּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י",
+          "english": "and they smote the entire field of the Amaleki [so called in terms of the future, (Amalek not having yet been born)],"
+        },
+        {
+          "hebrew": "וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַיֹּשֵׁ֖ב בְּחַֽצְצֹ֥ן תָּמָֽר׃",
+          "english": "and also the Emori, who dwelt in Chatzatzon Tamar [Ein Gedi]."
+        }
+      ]
+    },
+    {
+      "verse": "14:8",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּצֵ֨א מֶֽלֶךְ־סְדֹ֜ם וּמֶ֣לֶךְ עֲמֹרָ֗ה וּמֶ֤לֶךְ אַדְמָה֙ וּמֶ֣לֶךְ (צביים) [צְבוֹיִ֔ם] וּמֶ֥לֶךְ בֶּ֖לַע הִוא־צֹ֑עַר",
+          "english": "And there went out the king of Sodom and the king of Amorah and the king of Admah and the king of Tzvoyim and the king of Bela, which is Tzoar,"
+        },
+        {
+          "hebrew": "וַיַּֽעַרְכ֤וּ אִתָּם֙ מִלְחָמָ֔ה בְּעֵ֖מֶק הַשִּׂדִּֽים׃",
+          "english": "and they waged war against them in the valley of Siddim."
+        }
+      ]
+    },
+    {
+      "verse": "14:9",
+      "pairs": [
+        {
+          "hebrew": "אֵ֣ת כְּדׇרְלָעֹ֜מֶר מֶ֣לֶךְ עֵילָ֗ם וְתִדְעָל֙ מֶ֣לֶךְ גּוֹיִ֔ם וְאַמְרָפֶל֙ מֶ֣לֶךְ שִׁנְעָ֔ר וְאַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר",
+          "english": "Kedarlaomer, king of Elam; Tidal, king of Goyim; Amrafel, king of Shinar; Aryoch, king of Elassar —"
+        },
+        {
+          "hebrew": "אַרְבָּעָ֥ה מְלָכִ֖ים אֶת־הַחֲמִשָּֽׁה׃",
+          "english": "four kings against the five, [in spite of which the former were victorious (a tribute to Avram's subsequent vanquishing of them)]."
+        }
+      ]
+    },
+    {
+      "verse": "14:10",
+      "pairs": [
+        {
+          "hebrew": "וְעֵ֣מֶק הַשִּׂדִּ֗ים בֶּֽאֱרֹ֤ת בֶּאֱרֹת֙ חֵמָ֔ר וַיָּנֻ֛סוּ מֶֽלֶךְ־סְדֹ֥ם וַעֲמֹרָ֖ה וַיִּפְּלוּ־שָׁ֑מָּה וְהַנִּשְׁאָרִ֖ים הֶ֥רָה נָּֽסוּ׃",
+          "english": "And the valley of Siddim was full of bitumen pits, and the king of Sodom and Amorah fled and fell there, and those that remained fled to a mountain."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "14:11",
+      "pairs": [
+        {
+          "hebrew": "וַ֠יִּקְח֠וּ אֶת־כׇּל־רְכֻ֨שׁ סְדֹ֧ם וַעֲמֹרָ֛ה וְאֶת־כׇּל־אׇכְלָ֖ם",
+          "english": "And they took all the wealth of Sodom and Amorah and all of their food"
+        },
+        {
+          "hebrew": "וַיֵּלֵֽכוּ׃",
+          "english": "and they went."
+        }
+      ]
+    },
+    {
+      "verse": "14:12",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקְח֨וּ אֶת־ל֧וֹט וְאֶת־רְכֻשׁ֛וֹ בֶּן־אֲחִ֥י אַבְרָ֖ם",
+          "english": "And they took Lot and his wealth, the son of Avram's brother,"
+        },
+        {
+          "hebrew": "וַיֵּלֵ֑כוּ",
+          "english": "and they went."
+        },
+        {
+          "hebrew": "וְה֥וּא יֹשֵׁ֖ב בִּסְדֹֽם׃",
+          "english": "And he sat in Sodom. [What was the cause of his being despoiled? His sitting in Sodom.]"
+        }
+      ]
+    },
+    {
+      "verse": "14:13",
+      "pairs": [
+        {
+          "hebrew": "וַיָּבֹא֙ הַפָּלִ֔יט",
+          "english": "And the survivor came, [Og, who had escaped from the battle (see Deuteronomy 3:11)],"
+        },
+        {
+          "hebrew": "וַיַּגֵּ֖ד לְאַבְרָ֣ם הָעִבְרִ֑י",
+          "english": "and he told Avram the Ivri, [from ever (the other side of) the river (Euphrates)];"
+        },
+        {
+          "hebrew": "וְהוּא֩ שֹׁכֵ֨ן בְּאֵֽלֹנֵ֜י מַמְרֵ֣א הָאֱמֹרִ֗י",
+          "english": "and he lived in the plains of Mamre, the Emori,"
+        },
+        {
+          "hebrew": "אֲחִ֤י אֶשְׁכֹּל֙ וַאֲחִ֣י עָנֵ֔ר",
+          "english": "the brother of Eshkol and the brother of Aner,"
+        },
+        {
+          "hebrew": "וְהֵ֖ם בַּעֲלֵ֥י בְרִית־אַבְרָֽם׃",
+          "english": "who had made a covenant with Avram."
+        }
+      ]
+    },
+    {
+      "verse": "14:14",
+      "pairs": [
+        {
+          "hebrew": "וַיִּשְׁמַ֣ע אַבְרָ֔ם כִּ֥י נִשְׁבָּ֖ה אָחִ֑יו",
+          "english": "And Avram heard that his brother had been taken captive,"
+        },
+        {
+          "hebrew": "וַיָּ֨רֶק אֶת־חֲנִיכָ֜יו יְלִידֵ֣י בֵית֗וֹ שְׁמֹנָ֤ה עָשָׂר֙ וּשְׁלֹ֣שׁ מֵא֔וֹת",
+          "english": "and he spurred his novices, born in his house, three hundred and eighteen,"
+        },
+        {
+          "hebrew": "וַיִּרְדֹּ֖ף עַד־דָּֽן׃",
+          "english": "and he pursued them until Dan, [his strength waning there (Avram seeing, prophetically, that his descendants were destined to erect the image of a calf there)]."
+        }
+      ]
+    },
+    {
+      "verse": "14:15",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּחָלֵ֨ק עֲלֵיהֶ֧ם&thinsp;׀&thinsp;לַ֛יְלָה ה֥וּא וַעֲבָדָ֖יו וַיַּכֵּ֑ם",
+          "english": "And he and his servants divided [themselves] against them at night, and he pursued them until Chovah,"
+        },
+        {
+          "hebrew": "וַֽיִּרְדְּפֵם֙ עַד־חוֹבָ֔ה אֲשֶׁ֥ר מִשְּׂמֹ֖אל לְדַמָּֽשֶׂק׃",
+          "english": "[Dan, so called because of its guilt (chov), idolatry], which was to the left of Damascus."
+        }
+      ]
+    },
+    {
+      "verse": "14:16",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֕שֶׁב אֵ֖ת כׇּל־הָרְכֻ֑שׁ וְגַם֩ אֶת־ל֨וֹט אָחִ֤יו וּרְכֻשׁוֹ֙ הֵשִׁ֔יב וְגַ֥ם אֶת־הַנָּשִׁ֖ים וְאֶת־הָעָֽם׃",
+          "english": "And he returned all of the wealth, and also Lot, his brother, and his wealth he returned, and also the women and the people."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "14:17",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּצֵ֣א מֶֽלֶךְ־סְדֹם֮ לִקְרָאתוֹ֒ אַחֲרֵ֣י שׁוּב֗וֹ מֵֽהַכּוֹת֙ אֶת־כְּדׇרְלָעֹ֔מֶר וְאֶת־הַמְּלָכִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֶל־עֵ֣מֶק שָׁוֵ֔ה ה֖וּא עֵ֥מֶק הַמֶּֽלֶךְ׃",
+          "english": "And the king of Sodom went out towards him after he returned from smiting Kedarlaomer and the kings who were with him, to the valley of Shaveh, the king's vale [his race-course]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "14:18",
+      "pairs": [
+        {
+          "hebrew": "וּמַלְכִּי־צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן",
+          "english": "And Malkitzedek, the king of Shalem, brought out bread and wine [(standing fare for the battle-weary),"
+        },
+        {
+          "hebrew": "וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃",
+          "english": "Malkitzedek demonstrating thereby that he bore Avram no malice for having killed his sons.] And he was a Cohein to G-d on High."
+        }
+      ]
+    },
+    {
+      "verse": "14:19",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר",
+          "english": "And he blessed him and said:"
+        },
+        {
+          "hebrew": "בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+          "english": "Blessed is Avram to G-d on High, Possessor of heaven and earth, [having acquired them by creating them]."
+        }
+      ]
+    },
+    {
+      "verse": "14:20",
+      "pairs": [
+        {
+          "hebrew": "וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר־מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ",
+          "english": "And blessed is G-d on High, who has delivered your foes into your hand."
+        },
+        {
+          "hebrew": "וַיִּתֶּן־ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃",
+          "english": "And he (Avram) gave him a tithe of all, [Malkitzedek being a Cohein]."
+        }
+      ]
+    },
+    {
+      "verse": "14:21",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֥אמֶר מֶֽלֶךְ־סְדֹ֖ם אֶל־אַבְרָ֑ם",
+          "english": "And the king of Sodom said to Avram:"
+        },
+        {
+          "hebrew": "תֶּן־לִ֣י הַנֶּ֔פֶשׁ וְהָרְכֻ֖שׁ קַֽח־לָֽךְ׃",
+          "english": "Give me the souls [from the spoils taken of me, which you have rescued], and the wealth take for yourself."
+        }
+      ]
+    },
+    {
+      "verse": "14:22",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֥אמֶר אַבְרָ֖ם אֶל־מֶ֣לֶךְ סְדֹ֑ם",
+          "english": "And Avram said to the king of Sodom:"
+        },
+        {
+          "hebrew": "הֲרִמֹ֨תִי יָדִ֤י אֶל־יְהֹוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+          "english": "I lift my hand [in oath] to the L-rd, G-d on High, Possessor of heaven and earth,"
+        }
+      ]
+    },
+    {
+      "verse": "14:23",
+      "pairs": [
+        {
+          "hebrew": "אִם־מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ־נַ֔עַל",
+          "english": "Nothing — from a thread until a sandal latchet [shall I keep for myself],"
+        },
+        {
+          "hebrew": "וְאִם־אֶקַּ֖ח מִכׇּל־אֲשֶׁר־לָ֑ךְ",
+          "english": "nor shall I take [from your treasure house, if you would offer it to me,] anything that is yours,"
+        },
+        {
+          "hebrew": "וְלֹ֣א תֹאמַ֔ר אֲנִ֖י הֶעֱשַׁ֥רְתִּי אֶת־אַבְרָֽם׃",
+          "english": "so that you not say: \"I made Avram rich\" [for the L-rd promised to make me rich (12:2)]"
+        }
+      ]
+    },
+    {
+      "verse": "14:24",
+      "pairs": [
+        {
+          "hebrew": "בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "Except what the youths have eaten, and the portion of the men [my bondsmen], who went with me [to do battle, and] Aner, Eshkol, and Mamre, [who guarded the baggage] — they shall take their portion."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "15:1",
+      "pairs": [
+        {
+          "hebrew": "אַחַ֣ר&thinsp;׀ הַדְּבָרִ֣ים הָאֵ֗לֶּה הָיָ֤ה דְבַר־יְהֹוָה֙ אֶל־אַבְרָ֔ם בַּֽמַּחֲזֶ֖ה לֵאמֹ֑ר",
+          "english": "After these things, [the miracles wrought for him in vanquishing the kings, (Avram worrying that he might thereby have received his full reward)], the word of the L-rd came to Avram in a vision, saying:"
+        },
+        {
+          "hebrew": "אַל־תִּירָ֣א אַבְרָ֗ם אָנֹכִי֙ מָגֵ֣ן לָ֔ךְ",
+          "english": "Do not fear, Avram; I am a shield [against punishment] for you [for the men that you have killed; and, as to your concern over having received your full reward],"
+        },
+        {
+          "hebrew": "שְׂכָרְךָ֖ הַרְבֵּ֥ה מְאֹֽד׃",
+          "english": "your reward is extremely great."
+        }
+      ]
+    },
+    {
+      "verse": "15:2",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר אַבְרָ֗ם אֲדֹנָ֤י יֱהֹוִה֙ מַה־תִּתֶּן־לִ֔י",
+          "english": "And Avram said: L-rd G-d, what will You give me?"
+        },
+        {
+          "hebrew": "וְאָנֹכִ֖י הוֹלֵ֣ךְ עֲרִירִ֑י",
+          "english": "I go wasted, [without children],"
+        },
+        {
+          "hebrew": "וּבֶן־מֶ֣שֶׁק בֵּיתִ֔י ה֖וּא דַּמֶּ֥שֶׂק אֱלִיעֶֽזֶר׃",
+          "english": "and the purveyor of my household, [who would otherwise, be my son,] is Eliezer of Damascus."
+        }
+      ]
+    },
+    {
+      "verse": "15:3",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר אַבְרָ֔ם הֵ֣ן לִ֔י לֹ֥א נָתַ֖תָּה זָ֑רַע",
+          "english": "And Avram said: Behold, to me You have not given seed."
+        },
+        {
+          "hebrew": "וְהִנֵּ֥ה בֶן־בֵּיתִ֖י יוֹרֵ֥שׁ אֹתִֽי׃",
+          "english": "[Of what avail, then, is all You have given me], when the son of my household [Eliezer] shall inherit me?"
+        }
+      ]
+    },
+    {
+      "verse": "15:4",
+      "pairs": [
+        {
+          "hebrew": "וְהִנֵּ֨ה דְבַר־יְהֹוָ֤ה אֵלָיו֙ לֵאמֹ֔ר",
+          "english": "And, behold, the word of the L-rd (came) to him, saying:"
+        },
+        {
+          "hebrew": "לֹ֥א יִֽירָשְׁךָ֖ זֶ֑ה",
+          "english": "This one shall not inherit you,"
+        },
+        {
+          "hebrew": "כִּי־אִם֙ אֲשֶׁ֣ר יֵצֵ֣א מִמֵּעֶ֔יךָ ה֖וּא יִֽירָשֶֽׁךָ׃",
+          "english": "but one who issues from your loins — he will inherit you."
+        }
+      ]
+    },
+    {
+      "verse": "15:5",
+      "pairs": [
+        {
+          "hebrew": "וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה",
+          "english": "And He took him outside [of his tent],"
+        },
+        {
+          "hebrew": "וַיֹּ֙אמֶר֙ הַבֶּט־נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם־תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם",
+          "english": "and He said: Look, now, heavenwards, and count the stars if you can count them."
+        },
+        {
+          "hebrew": "וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ׃",
+          "english": "And He said to him: Thus shall be your seed."
+        }
+      ]
+    },
+    {
+      "verse": "15:6",
+      "pairs": [
+        {
+          "hebrew": "וְהֶאֱמִ֖ן בַּֽיהֹוָ֑ה",
+          "english": "And he believed in the L-rd, [not asking a sign for this as he did for the inheritance of the land (8)],"
+        },
+        {
+          "hebrew": "וַיַּחְשְׁבֶ֥הָ לּ֖וֹ צְדָקָֽה׃",
+          "english": "and He accounted it [his not asking for a sign] unto him as righteousness."
+        }
+      ]
+    },
+    {
+      "verse": "15:7",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֖אמֶר אֵלָ֑יו",
+          "english": "And He said to him:"
+        },
+        {
+          "hebrew": "אֲנִ֣י יְהֹוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא֣וּר כַּשְׂדִּ֔ים",
+          "english": "I am the L-rd who took you out of Ur Kasdim"
+        },
+        {
+          "hebrew": "לָ֧תֶת לְךָ֛ אֶת־הָאָ֥רֶץ הַזֹּ֖את לְרִשְׁתָּֽהּ׃",
+          "english": "to give you this land to inherit it."
+        }
+      ]
+    },
+    {
+      "verse": "15:8",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּאמַ֑ר",
+          "english": "And he said:"
+        },
+        {
+          "hebrew": "אֲדֹנָ֣י יֱהֹוִ֔ה בַּמָּ֥ה אֵדַ֖ע כִּ֥י אִֽירָשֶֽׁנָּה׃",
+          "english": "O L-rd, G-d, whereby shall I know that I shall inherit it?"
+        }
+      ]
+    },
+    {
+      "verse": "15:9",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר אֵלָ֗יו",
+          "english": "And He said to him:"
+        },
+        {
+          "hebrew": "קְחָ֥ה לִי֙ עֶגְלָ֣ה מְשֻׁלֶּ֔שֶׁת וְעֵ֥ז מְשֻׁלֶּ֖שֶׁת וְאַ֣יִל מְשֻׁלָּ֑שׁ",
+          "english": "Take for Me three heifers, [intimating three bullocks: the bullock of Yom Kippur, the bullock of communal forgetfulness (Leviticus 4:13), and the bullock of the broken neck (Deuteronomy 21:4)], and three goats, [intimating the goat offered within (the holy of holies), the additional Festival goats, and the sin-offering goat of the individual (as opposed to that of the congregation)], and three rams, [intimating the confirmed guilt-offering, the suspended guilt-offering, and the sin-offering ewe of the individual],"
+        },
+        {
+          "hebrew": "וְתֹ֖ר וְגוֹזָֽל׃",
+          "english": "and a turtle-dove and a young pigeon."
+        }
+      ]
+    },
+    {
+      "verse": "15:10",
+      "pairs": [
+        {
+          "hebrew": "וַיִּֽקַּֽח־ל֣וֹ אֶת־כׇּל־אֵ֗לֶּה",
+          "english": "And he took unto Him all these, [(the bullocks, rams, and goats, representing the nations; and the young doves, Israel)]"
+        },
+        {
+          "hebrew": "וַיְבַתֵּ֤ר אֹתָם֙ בַּתָּ֔וֶךְ וַיִּתֵּ֥ן אִישׁ־בִּתְר֖וֹ לִקְרַ֣את רֵעֵ֑הוּ",
+          "english": "and he split them [it being the custom of those entering into a covenant to split a beast and walk through the pieces, (G-d and Avram entering into a covenant here for Israel's inheritance of the land)], (… and he split them) in the middle, [(a sign that the nations would be destroyed)]. And he placed each piece opposite the other;"
+        },
+        {
+          "hebrew": "וְאֶת־הַצִּפֹּ֖ר לֹ֥א בָתָֽר׃",
+          "english": "but the birds he did not split [(a sign that Israel would remain \"intact\")]."
+        }
+      ]
+    },
+    {
+      "verse": "15:11",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּ֥רֶד הָעַ֖יִט עַל־הַפְּגָרִ֑ים",
+          "english": "And (predatory) birds swooped down upon the [pieces of the] carcasses,"
+        },
+        {
+          "hebrew": "וַיַּשֵּׁ֥ב אֹתָ֖ם אַבְרָֽם׃",
+          "english": "and Avram swept them away [(a sign that David the son of Yishai will seek to destroy them (the nations), but will not be permitted to do so, until the advent of the Messiah.)]"
+        }
+      ]
+    },
+    {
+      "verse": "15:12",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֤י הַשֶּׁ֙מֶשׁ֙ לָב֔וֹא",
+          "english": "And the sun was about to set"
+        },
+        {
+          "hebrew": "וְתַרְדֵּמָ֖ה נָפְלָ֣ה עַל־אַבְרָ֑ם",
+          "english": "when a great sleep fell over Avram,"
+        },
+        {
+          "hebrew": "וְהִנֵּ֥ה אֵימָ֛ה חֲשֵׁכָ֥ה גְדֹלָ֖ה נֹפֶ֥לֶת עָלָֽיו׃",
+          "english": "and behold, a great dark fright [(intimating the woes and darkness of Israel's exiles)] descended upon him."
+        }
+      ]
+    },
+    {
+      "verse": "15:13",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר לְאַבְרָ֗ם יָדֹ֨עַ תֵּדַ֜ע",
+          "english": "And He said to Avram: Know shall you know"
+        },
+        {
+          "hebrew": "כִּי־גֵ֣ר&thinsp;׀ יִהְיֶ֣ה זַרְעֲךָ֗ בְּאֶ֙רֶץ֙ לֹ֣א לָהֶ֔ם",
+          "english": "that your seed shall be a stranger in a land that is not theirs,"
+        },
+        {
+          "hebrew": "וַעֲבָד֖וּם וְעִנּ֣וּ אֹתָ֑ם אַרְבַּ֥ע מֵא֖וֹת שָׁנָֽה׃",
+          "english": "and they shall serve them and they shall afflict them, four hundred years [(from the birth of Isaac until the exodus)]."
+        }
+      ]
+    },
+    {
+      "verse": "15:14",
+      "pairs": [
+        {
+          "hebrew": "וְגַ֧ם אֶת־הַגּ֛וֹי אֲשֶׁ֥ר יַעֲבֹ֖דוּ",
+          "english": "And also [(including the four kingdoms)] the nation that they shall serve"
+        },
+        {
+          "hebrew": "דָּ֣ן אָנֹ֑כִי",
+          "english": "will I judge [with ten plagues],"
+        },
+        {
+          "hebrew": "וְאַחֲרֵי־כֵ֥ן יֵצְא֖וּ בִּרְכֻ֥שׁ גָּדֽוֹל׃",
+          "english": "and afterwards they shall leave with great wealth [see Exodus 12:36]."
+        }
+      ]
+    },
+    {
+      "verse": "15:15",
+      "pairs": [
+        {
+          "hebrew": "וְאַתָּ֛ה תָּב֥וֹא אֶל־אֲבֹתֶ֖יךָ בְּשָׁל֑וֹם",
+          "english": "And you will come to your fathers [(Terach repented of his idolatry)] in peace [not witnessing any of the above]."
+        },
+        {
+          "hebrew": "תִּקָּבֵ֖ר בְּשֵׂיבָ֥ה טוֹבָֽה׃",
+          "english": "You will be buried in a good old age, [Ishmael repenting and Esav not turning to evil in his days]."
+        }
+      ]
+    },
+    {
+      "verse": "15:16",
+      "pairs": [
+        {
+          "hebrew": "וְד֥וֹר רְבִיעִ֖י יָשׁ֣וּבוּ הֵ֑נָּה",
+          "english": "And the fourth generation [of the Egyptian exile] shall return here [to Canaan (e.g., Calev, the son of Chetzron, the son of Peretz, the son of Judah was among those entering the land)],"
+        },
+        {
+          "hebrew": "כִּ֧י לֹא־שָׁלֵ֛ם עֲוֺ֥ן הָאֱמֹרִ֖י עַד־הֵֽנָּה׃",
+          "english": "for the sin of the Emori would not have been consummated, [(justifying their being driven out of the land)] until then."
+        }
+      ]
+    },
+    {
+      "verse": "15:17",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֤י הַשֶּׁ֙מֶשׁ֙ בָּ֔אָה וַעֲלָטָ֖ה הָיָ֑ה",
+          "english": "And it was, when the sun had set and it was dark,"
+        },
+        {
+          "hebrew": "וְהִנֵּ֨ה תַנּ֤וּר עָשָׁן֙ וְלַפִּ֣יד אֵ֔שׁ אֲשֶׁ֣ר עָבַ֔ר בֵּ֖ין הַגְּזָרִ֥ים הָאֵֽלֶּה׃",
+          "english": "and, behold, a smoking furnace and a torch of fire that passed between these pieces [(intimating the descent of the kingdoms into Gehinnom)]."
+        }
+      ]
+    },
+    {
+      "verse": "15:18",
+      "pairs": [
+        {
+          "hebrew": "בַּיּ֣וֹם הַה֗וּא כָּרַ֧ת יְהֹוָ֛ה אֶת־אַבְרָ֖ם בְּרִ֣ית לֵאמֹ֑ר לְזַרְעֲךָ֗ נָתַ֙תִּי֙ אֶת־הָאָ֣רֶץ הַזֹּ֔את מִנְּהַ֣ר מִצְרַ֔יִם עַד־הַנָּהָ֥ר הַגָּדֹ֖ל נְהַר־פְּרָֽת׃",
+          "english": "On that day the L-rd made a covenant with Avram, saying: To your seed have I given this land, from the river of Egypt until the Great River, the Euphrates [(called the \"Great river\" because of its being mentioned in conjunction with Eretz Yisrael)]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "15:19",
+      "pairs": [
+        {
+          "hebrew": "אֶת־הַקֵּינִי֙ וְאֶת־הַקְּנִזִּ֔י",
+          "english": "The Keini and the Kenizi"
+        },
+        {
+          "hebrew": "וְאֵ֖ת הַקַּדְמֹנִֽי׃",
+          "english": "and the Kadmoni."
+        }
+      ]
+    },
+    {
+      "verse": "15:20",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הַחִתִּ֥י וְאֶת־הַפְּרִזִּ֖י",
+          "english": "And the Chitti and the Perizi"
+        },
+        {
+          "hebrew": "וְאֶת־הָרְפָאִֽים׃",
+          "english": "and the Refaim."
+        }
+      ]
+    },
+    {
+      "verse": "15:21",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הָֽאֱמֹרִי֙ וְאֶת־הַֽכְּנַעֲנִ֔י וְאֶת־הַגִּרְגָּשִׁ֖י וְאֶת־הַיְבוּסִֽי׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "And the Emori and the Canaani and the Girgashi and the Yevussi, [ten nations all told, although only seven were conquered. The Keini, the Kenizi, and the Kadmoni (Edom, Moav, and Ammon) were destined to be inherited in time to come (Isaiah 11:4)]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "16:1",
+      "pairs": [
+        {
+          "hebrew": "וְשָׂרַי֙ אֵ֣שֶׁת אַבְרָ֔ם לֹ֥א יָלְדָ֖ה ל֑וֹ",
+          "english": "And Sarai the wife of Avram had not borne (children) unto him."
+        },
+        {
+          "hebrew": "וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית וּשְׁמָ֥הּ הָגָֽר׃",
+          "english": "And she had an Egyptian handmaid [the daughter of Pharaoh], whose name was Hagar."
+        }
+      ]
+    },
+    {
+      "verse": "16:2",
+      "pairs": [
+        {
+          "hebrew": "וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם הִנֵּה־נָ֞א עֲצָרַ֤נִי יְהֹוָה֙ מִלֶּ֔דֶת",
+          "english": "And Sarai said to Avram: Behold, the L-rd has held me back from bearing."
+        },
+        {
+          "hebrew": "בֹּא־נָא֙ אֶל־שִׁפְחָתִ֔י אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה",
+          "english": "Come, I pray you, to my handmaid. Perhaps I will be built up through her [in the merit of bringing my rival into my house]."
+        },
+        {
+          "hebrew": "וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי׃",
+          "english": "And Avram heeded the voice [the Holy spirit] of Sarai."
+        }
+      ]
+    },
+    {
+      "verse": "16:3",
+      "pairs": [
+        {
+          "hebrew": "וַתִּקַּ֞ח שָׂרַ֣י אֵֽשֶׁת־אַבְרָ֗ם אֶת־הָגָ֤ר הַמִּצְרִית֙ שִׁפְחָתָ֔הּ",
+          "english": "And Sarai the wife of Avram \"took\" [by suasion] Hagar the Egyptian, her handmaid,"
+        },
+        {
+          "hebrew": "מִקֵּץ֙ עֶ֣שֶׂר שָׁנִ֔ים לְשֶׁ֥בֶת אַבְרָ֖ם בְּאֶ֣רֶץ כְּנָ֑עַן",
+          "english": "after ten years [(this being the mandatory period for taking a new wife after a childless union)] of Avram's dwelling in the land of Canaan [(the years outside the land of Canaan being irrelevant in this regard)],"
+        },
+        {
+          "hebrew": "וַתִּתֵּ֥ן אֹתָ֛הּ לְאַבְרָ֥ם אִישָׁ֖הּ ל֥וֹ לְאִשָּֽׁה׃",
+          "english": "and she gave her to Avram her husband as a wife."
+        }
+      ]
+    },
+    {
+      "verse": "16:4",
+      "pairs": [
+        {
+          "hebrew": "וַיָּבֹ֥א אֶל־הָגָ֖ר וַתַּ֑הַר",
+          "english": "And he came to Hagar and she conceived [from the first union]."
+        },
+        {
+          "hebrew": "וַתֵּ֙רֶא֙ כִּ֣י הָרָ֔תָה וַתֵּקַ֥ל גְּבִרְתָּ֖הּ בְּעֵינֶֽיהָ׃",
+          "english": "And when she saw that she had [thus] conceived, her mistress became light in her eyes [by invidious comparison]."
+        }
+      ]
+    },
+    {
+      "verse": "16:5",
+      "pairs": [
+        {
+          "hebrew": "וַתֹּ֨אמֶר שָׂרַ֣י אֶל־אַבְרָם֮ חֲמָסִ֣י עָלֶ֒יךָ֒",
+          "english": "And Sarai said to Avram: [The punishment for] my being wronged is upon you [for having prayed that you (not necessarily I) be granted children]."
+        },
+        {
+          "hebrew": "אָנֹכִ֗י נָתַ֤תִּי שִׁפְחָתִי֙ בְּחֵיקֶ֔ךָ וַתֵּ֙רֶא֙ כִּ֣י הָרָ֔תָה וָאֵקַ֖ל בְּעֵינֶ֑יהָ",
+          "english": "I gave my handmaid into your bosom, and when she saw that she had conceived I became light in her eyes."
+        },
+        {
+          "hebrew": "יִשְׁפֹּ֥ט יְהֹוָ֖ה בֵּינִ֥י וּבֵינֶֽיׄךָ׃",
+          "english": "May the L-rd judge between me and you."
+        }
+      ]
+    },
+    {
+      "verse": "16:6",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֨אמֶר אַבְרָ֜ם אֶל־שָׂרַ֗י",
+          "english": "And Avram said to Sarai:"
+        },
+        {
+          "hebrew": "הִנֵּ֤ה שִׁפְחָתֵךְ֙ בְּיָדֵ֔ךְ עֲשִׂי־לָ֖הּ הַטּ֣וֹב בְּעֵינָ֑יִךְ",
+          "english": "Behold, your handmaid is in your hand. Do with her as is good in your eyes."
+        },
+        {
+          "hebrew": "וַתְּעַנֶּ֣הָ שָׂרַ֔י וַתִּבְרַ֖ח מִפָּנֶֽיהָ׃",
+          "english": "And Sarai afflicted her [with arduous labor] and she fled from her presence."
+        }
+      ]
+    },
+    {
+      "verse": "16:7",
+      "pairs": [
+        {
+          "hebrew": "וַֽיִּמְצָאָ֞הּ מַלְאַ֧ךְ יְהֹוָ֛ה עַל־עֵ֥ין הַמַּ֖יִם בַּמִּדְבָּ֑ר",
+          "english": "And an angel of the L-rd found her by a well of water in the desert,"
+        },
+        {
+          "hebrew": "עַל־הָעַ֖יִן בְּדֶ֥רֶךְ שֽׁוּר׃",
+          "english": "by the well on the way to Shur."
+        }
+      ]
+    },
+    {
+      "verse": "16:8",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּאמַ֗ר הָגָ֞ר שִׁפְחַ֥ת שָׂרַ֛י אֵֽי־מִזֶּ֥ה בָ֖את וְאָ֣נָה תֵלֵ֑כִי",
+          "english": "And he said: Hagar, handmaid of Sarai, whence do you come and whither are you going?"
+        },
+        {
+          "hebrew": "וַתֹּ֕אמֶר מִפְּנֵי֙ שָׂרַ֣י גְּבִרְתִּ֔י אָנֹכִ֖י בֹּרַֽחַת׃",
+          "english": "And she said: I am fleeing Sarai my mistress."
+        }
+      ]
+    },
+    {
+      "verse": "16:9",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהֹוָ֔ה",
+          "english": "And an angel of the L-rd said to her [(a different angel being sent for each \"saying\")]:"
+        },
+        {
+          "hebrew": "שׁ֖וּבִי אֶל־גְּבִרְתֵּ֑ךְ וְהִתְעַנִּ֖י תַּ֥חַת יָדֶֽיהָ׃",
+          "english": "Return to your mistress and be afflicted under her hands."
+        }
+      ]
+    },
+    {
+      "verse": "16:10",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהֹוָ֔ה",
+          "english": "And an angel of the L-rd said to her:"
+        },
+        {
+          "hebrew": "הַרְבָּ֥ה אַרְבֶּ֖ה אֶת־זַרְעֵ֑ךְ וְלֹ֥א יִסָּפֵ֖ר מֵרֹֽב׃",
+          "english": "I shall multiply your seed, and they shall not be counted for multitude."
+        }
+      ]
+    },
+    {
+      "verse": "16:11",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהֹוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן",
+          "english": "And an angel of the L-rd said to her: Behold, you shall conceive [(her first conception having been aborted by Sarai's \"evil eye\")], and you will bear a son;"
+        },
+        {
+          "hebrew": "וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל כִּֽי־שָׁמַ֥ע יְהֹוָ֖ה אֶל־עׇנְיֵֽךְ׃",
+          "english": "and call his name Ishmael, for G-d [El] has given heed [shama] to your afflictions."
+        }
+      ]
+    },
+    {
+      "verse": "16:12",
+      "pairs": [
+        {
+          "hebrew": "וְה֤וּא יִהְיֶה֙ פֶּ֣רֶא אָדָ֔ם יָד֣וֹ בַכֹּ֔ל וְיַ֥ד כֹּ֖ל בּ֑וֹ",
+          "english": "And he will be a man of the wilderness, his hand against all [i.e., a robber] and the hand of all against him, [hating him and assailing him],"
+        },
+        {
+          "hebrew": "וְעַל־פְּנֵ֥י כׇל־אֶחָ֖יו יִשְׁכֹּֽן׃",
+          "english": "and on the face of his brothers shall he dwell, [his seed being numerous]."
+        }
+      ]
+    },
+    {
+      "verse": "16:13",
+      "pairs": [
+        {
+          "hebrew": "וַתִּקְרָ֤א שֵׁם־יְהֹוָה֙ הַדֹּבֵ֣ר אֵלֶ֔יהָ אַתָּ֖ה אֵ֣ל רֳאִ֑י כִּ֣י אָֽמְרָ֗ה הֲגַ֥ם הֲלֹ֛ם רָאִ֖יתִי אַחֲרֵ֥י רֹאִֽי׃",
+          "english": "And she called the name of the L-rd who spoke to her \"You are the G-d of seeing\"; for she said: Would I have believed to see [an angel of the L-rd] here [in the wilderness], too, after having seen (angels) [in the house of Avram]?"
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "16:14",
+      "pairs": [
+        {
+          "hebrew": "עַל־כֵּן֙ קָרָ֣א לַבְּאֵ֔ר בְּאֵ֥ר לַחַ֖י רֹאִ֑י",
+          "english": "She, therefore, called the well \"the well of the appearance of the living (angel).\""
+        },
+        {
+          "hebrew": "הִנֵּ֥ה בֵין־קָדֵ֖שׁ וּבֵ֥ין בָּֽרֶד׃",
+          "english": "It is between Kadesh and Bared."
+        }
+      ]
+    },
+    {
+      "verse": "16:15",
+      "pairs": [
+        {
+          "hebrew": "וַתֵּ֧לֶד הָגָ֛ר לְאַבְרָ֖ם בֵּ֑ן",
+          "english": "And Hagar bore a son to Avram."
+        },
+        {
+          "hebrew": "וַיִּקְרָ֨א אַבְרָ֧ם שֶׁם־בְּנ֛וֹ אֲשֶׁר־יָלְדָ֥ה הָגָ֖ר יִשְׁמָעֵֽאל׃",
+          "english": "And Avram called [through the Holy Spirit] the name of his son, whom Hagar had borne, \"Ishmael.\""
+        }
+      ]
+    },
+    {
+      "verse": "16:16",
+      "pairs": [
+        {
+          "hebrew": "וְאַבְרָ֕ם בֶּן־שְׁמֹנִ֥ים שָׁנָ֖ה וְשֵׁ֣שׁ שָׁנִ֑ים בְּלֶֽדֶת־הָגָ֥ר אֶת־יִשְׁמָעֵ֖אל לְאַבְרָֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "And Avram was eighty-six years old when Hagar bore Ishmael to Avram [(this being mentioned to Ishmael's credit, that though thirteen years old when circumcised, (17:24-25), he did not protest)]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "17:1",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֣י אַבְרָ֔ם בֶּן־תִּשְׁעִ֥ים שָׁנָ֖ה וְתֵ֣שַׁע שָׁנִ֑ים",
+          "english": "And Avram was ninety-nine years old,"
+        },
+        {
+          "hebrew": "וַיֵּרָ֨א יְהֹוָ֜ה אֶל־אַבְרָ֗ם וַיֹּ֤אמֶר אֵלָיו֙",
+          "english": "and the L-rd appeared to Avram and He said to him:"
+        },
+        {
+          "hebrew": "אֲנִי־אֵ֣ל שַׁדַּ֔י",
+          "english": "I am the All-Sufficient G-d."
+        },
+        {
+          "hebrew": "הִתְהַלֵּ֥ךְ לְפָנַ֖י וֶהְיֵ֥ה תָמִֽים׃",
+          "english": "[Therefore,] walk before Me [i.e., worship Me] and be whole [in the trials I shall set for you, and I shall be your Patron]."
+        }
+      ]
+    },
+    {
+      "verse": "17:2",
+      "pairs": [
+        {
+          "hebrew": "וְאֶתְּנָ֥ה בְרִיתִ֖י בֵּינִ֣י וּבֵינֶ֑ךָ",
+          "english": "And I shall set My covenant [of love and of inheritance of the land (through the mitzvah of circumcision)] between Me and you,"
+        },
+        {
+          "hebrew": "וְאַרְבֶּ֥ה אוֹתְךָ֖ בִּמְאֹ֥ד מְאֹֽד׃",
+          "english": "and I will increase you exceedingly."
+        }
+      ]
+    },
+    {
+      "verse": "17:3",
+      "pairs": [
+        {
+          "hebrew": "וַיִּפֹּ֥ל אַבְרָ֖ם עַל־פָּנָ֑יו",
+          "english": "And Avram fell upon his face [in awe, lacking the power to stand in the presence of the Shechinah while yet uncircumcised]."
+        },
+        {
+          "hebrew": "וַיְדַבֵּ֥ר אִתּ֛וֹ אֱלֹהִ֖ים לֵאמֹֽר׃",
+          "english": "And the L-rd spoke to him, saying:"
+        }
+      ]
+    },
+    {
+      "verse": "17:4",
+      "pairs": [
+        {
+          "hebrew": "אֲנִ֕י הִנֵּ֥ה בְרִיתִ֖י אִתָּ֑ךְ",
+          "english": "I, behold, My covenant is with you,"
+        },
+        {
+          "hebrew": "וְהָיִ֕יתָ לְאַ֖ב הֲמ֥וֹן גּוֹיִֽם׃",
+          "english": "and you shall be the father of a multitude of nations."
+        }
+      ]
+    },
+    {
+      "verse": "17:5",
+      "pairs": [
+        {
+          "hebrew": "וְלֹא־יִקָּרֵ֥א ע֛וֹד אֶת־שִׁמְךָ֖ אַבְרָ֑ם",
+          "english": "And your name will no longer be called Avram,"
+        },
+        {
+          "hebrew": "וְהָיָ֤ה שִׁמְךָ֙ אַבְרָהָ֔ם",
+          "english": "but your name will be Avraham,"
+        },
+        {
+          "hebrew": "כִּ֛י אַב־הֲמ֥וֹן גּוֹיִ֖ם נְתַתִּֽיךָ׃",
+          "english": "for a father of a multitude (av hamon) of nations have I made you [(\"Av (ra) ham,\" acronymically = av hamon)]"
+        }
+      ]
+    },
+    {
+      "verse": "17:6",
+      "pairs": [
+        {
+          "hebrew": "וְהִפְרֵתִ֤י אֹֽתְךָ֙ בִּמְאֹ֣ד מְאֹ֔ד",
+          "english": "And I shall multiply you exceedingly,"
+        },
+        {
+          "hebrew": "וּנְתַתִּ֖יךָ לְגוֹיִ֑ם",
+          "english": "and I shall make of you nations [Israel and Edom, (Ishmael already having been born)],"
+        },
+        {
+          "hebrew": "וּמְלָכִ֖ים מִמְּךָ֥ יֵצֵֽאוּ׃",
+          "english": "and kings will go forth from you."
+        }
+      ]
+    },
+    {
+      "verse": "17:7",
+      "pairs": [
+        {
+          "hebrew": "וַהֲקִמֹתִ֨י אֶת־בְּרִיתִ֜י בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֨ין זַרְעֲךָ֧ אַחֲרֶ֛יךָ לְדֹרֹתָ֖ם לִבְרִ֣ית עוֹלָ֑ם",
+          "english": "And I will establish My covenant between Me and you and your seed after you throughout their generations as an eternal covenant,"
+        },
+        {
+          "hebrew": "לִהְי֤וֹת לְךָ֙ לֵֽאלֹהִ֔ים וּֽלְזַרְעֲךָ֖ אַחֲרֶֽיךָ׃",
+          "english": "[My covenant being] to be a G-d unto you and unto your seed after you."
+        }
+      ]
+    },
+    {
+      "verse": "17:8",
+      "pairs": [
+        {
+          "hebrew": "וְנָתַתִּ֣י לְ֠ךָ֠ וּלְזַרְעֲךָ֨ אַחֲרֶ֜יךָ אֵ֣ת&thinsp;׀ אֶ֣רֶץ מְגֻרֶ֗יךָ אֵ֚ת כׇּל־אֶ֣רֶץ כְּנַ֔עַן לַאֲחֻזַּ֖ת עוֹלָ֑ם",
+          "english": "And I will give unto you and unto your seed after you the land of your sojournings, the whole land of Canaan, as an eternal holding,"
+        },
+        {
+          "hebrew": "וְהָיִ֥יתִי לָהֶ֖ם לֵאלֹהִֽים׃",
+          "english": "and [there] I will be a G-d unto them [(but if one lives elsewhere, it is \"as if he has no G-d\")]."
+        }
+      ]
+    },
+    {
+      "verse": "17:9",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־אַבְרָהָ֔ם",
+          "english": "And G-d said to Abraham:"
+        },
+        {
+          "hebrew": "וְאַתָּ֖ה אֶת־בְּרִיתִ֣י תִשְׁמֹ֑ר אַתָּ֛ה וְזַרְעֲךָ֥ אַֽחֲרֶ֖יךָ לְדֹרֹתָֽם׃",
+          "english": "And, [as for] you, My covenant shall you keep, you and your seed after you throughout your generations."
+        }
+      ]
+    },
+    {
+      "verse": "17:10",
+      "pairs": [
+        {
+          "hebrew": "זֹ֣את בְּרִיתִ֞י אֲשֶׁ֣ר תִּשְׁמְר֗וּ בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֥ין זַרְעֲךָ֖ אַחֲרֶ֑יךָ",
+          "english": "[And what constitutes its \"keeping\"?] This is My covenant which you shall keep between Me and you [those living now] and your seed after you, [those yet to be born]"
+        },
+        {
+          "hebrew": "הִמּ֥וֹל לָכֶ֖ם כׇּל־זָכָֽר׃",
+          "english": "— that all of your males be circumcised."
+        }
+      ]
+    },
+    {
+      "verse": "17:11",
+      "pairs": [
+        {
+          "hebrew": "וּנְמַלְתֶּ֕ם אֵ֖ת בְּשַׂ֣ר עׇרְלַתְכֶ֑ם",
+          "english": "And you shall circumcise the flesh of your foreskins,"
+        },
+        {
+          "hebrew": "וְהָיָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵינֵיכֶֽם׃",
+          "english": "and it shall be for a sign of the covenant between Me and you."
+        }
+      ]
+    },
+    {
+      "verse": "17:12",
+      "pairs": [
+        {
+          "hebrew": "וּבֶן־שְׁמֹנַ֣ת יָמִ֗ים יִמּ֥וֹל לָכֶ֛ם כׇּל־זָכָ֖ר לְדֹרֹתֵיכֶ֑ם יְלִ֣יד בָּ֔יִת וּמִקְנַת־כֶּ֙סֶף֙ מִכֹּ֣ל בֶּן־נֵכָ֔ר אֲשֶׁ֛ר לֹ֥א מִֽזַּרְעֲךָ֖ הֽוּא׃",
+          "english": "And at eight days old, every male of yours throughout your generations shall be circumcised, (whether) born at home [of your maidservant] or bought for money [after he was born] of any stranger who is not of your seed."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "17:13",
+      "pairs": [
+        {
+          "hebrew": "הִמּ֧וֹל&thinsp;׀&thinsp;יִמּ֛וֹל יְלִ֥יד בֵּֽיתְךָ֖ וּמִקְנַ֣ת כַּסְפֶּ֑ךָ",
+          "english": "Circumcised, he shall be circumcised, [in any event, even (in certain cases) after eight days], one born in your house and one bought for your money,"
+        },
+        {
+          "hebrew": "וְהָיְתָ֧ה בְרִיתִ֛י בִּבְשַׂרְכֶ֖ם לִבְרִ֥ית עוֹלָֽם׃",
+          "english": "and My covenant shall be in your flesh as an everlasting covenant."
+        }
+      ]
+    },
+    {
+      "verse": "17:14",
+      "pairs": [
+        {
+          "hebrew": "וְעָרֵ֣ל&thinsp;׀ זָכָ֗ר אֲשֶׁ֤ר לֹֽא־יִמּוֹל֙ אֶת־בְּשַׂ֣ר עׇרְלָת֔וֹ וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּ֑יהָ אֶת־בְּרִיתִ֖י הֵפַֽר׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "And an uncircumcised male [(the locus of circumcision being the \"maleness\" locus)], who does not circumcise the flesh of his foreskin [upon reaching the age of liability] — that soul shall be cut off from its people, [going childless and dying before his time. (But if his father is remiss in circumcising him, he is in transgression of a positive commandment, but does not incur \"cutting off\")]; My covenant has he broken."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "17:15",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־אַבְרָהָ֔ם",
+          "english": "And G-d said to Abraham:"
+        },
+        {
+          "hebrew": "שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־תִקְרָ֥א אֶת־שְׁמָ֖הּ שָׂרָ֑י",
+          "english": "Sarai your wife — you shall not call her name Sarai [\"my mistress\"];"
+        },
+        {
+          "hebrew": "כִּ֥י שָׂרָ֖ה שְׁמָֽהּ׃",
+          "english": "but her name is Sarah [\"mistress (over all)\"]."
+        }
+      ]
+    },
+    {
+      "verse": "17:16",
+      "pairs": [
+        {
+          "hebrew": "וּבֵרַכְתִּ֣י אֹתָ֔הּ",
+          "english": "And I shall bless her, [rejuvenating her (18:12)],"
+        },
+        {
+          "hebrew": "וְגַ֨ם נָתַ֧תִּי מִמֶּ֛נָּה לְךָ֖ בֵּ֑ן",
+          "english": "and I shall also give from her to you a son,"
+        },
+        {
+          "hebrew": "וּבֵֽרַכְתִּ֙יהָ֙ וְהָֽיְתָ֣ה לְגוֹיִ֔ם",
+          "english": "and I shall bless her [with nursing breasts], and nations will issue from her;"
+        },
+        {
+          "hebrew": "מַלְכֵ֥י עַמִּ֖ים מִמֶּ֥נָּה יִהְיֽוּ׃",
+          "english": "kings of peoples will come from her."
+        }
+      ]
+    },
+    {
+      "verse": "17:17",
+      "pairs": [
+        {
+          "hebrew": "וַיִּפֹּ֧ל אַבְרָהָ֛ם עַל־פָּנָ֖יו וַיִּצְחָ֑ק",
+          "english": "And Abraham fell upon his face and he rejoiced."
+        },
+        {
+          "hebrew": "וַיֹּ֣אמֶר בְּלִבּ֗וֹ",
+          "english": "And he said in his heart:"
+        },
+        {
+          "hebrew": "הַלְּבֶ֤ן מֵאָֽה־שָׁנָה֙ יִוָּלֵ֔ד",
+          "english": "Would [anyone think that] a man of a hundred [would] beget!"
+        },
+        {
+          "hebrew": "וְאִ֨ם־שָׂרָ֔ה הֲבַת־תִּשְׁעִ֥ים שָׁנָ֖ה תֵּלֵֽד׃",
+          "english": "or that Sarah, a woman of ninety, would bear!"
+        }
+      ]
+    },
+    {
+      "verse": "17:18",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֥אמֶר אַבְרָהָ֖ם אֶל־הָֽאֱלֹהִ֑ים",
+          "english": "And Abraham said to G-d:"
+        },
+        {
+          "hebrew": "ל֥וּ יִשְׁמָעֵ֖אל יִחְיֶ֥ה לְפָנֶֽיךָ׃",
+          "english": "Would that Ishmael lived before You [i.e., worshipping You]!"
+        }
+      ]
+    },
+    {
+      "verse": "17:19",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים",
+          "english": "And G-d said:"
+        },
+        {
+          "hebrew": "אֲבָל֙ שָׂרָ֣ה אִשְׁתְּךָ֗",
+          "english": "In truth, Sarah your wife"
+        },
+        {
+          "hebrew": "יֹלֶ֤דֶת לְךָ֙ בֵּ֔ן וְקָרָ֥אתָ אֶת־שְׁמ֖וֹ יִצְחָ֑ק",
+          "english": "shall bear a son unto you, and you shall call his name Yitzchak [\"He shall laugh\"],"
+        },
+        {
+          "hebrew": "וַהֲקִמֹתִ֨י אֶת־בְּרִיתִ֥י אִתּ֛וֹ לִבְרִ֥ית עוֹלָ֖ם לְזַרְע֥וֹ אַחֲרָֽיו׃",
+          "english": "and I shall establish My covenant [of circumcision] with him, [and not with the sons of Ishmael and Keturah], an everlasting covenant, for his seed after him."
+        }
+      ]
+    },
+    {
+      "verse": "17:20",
+      "pairs": [
+        {
+          "hebrew": "וּֽלְיִשְׁמָעֵאל֮ שְׁמַעְתִּ֒יךָ֒",
+          "english": "And, as for Ishmael, I have heard you."
+        },
+        {
+          "hebrew": "הִנֵּ֣ה&thinsp;׀ בֵּרַ֣כְתִּי אֹת֗וֹ וְהִפְרֵיתִ֥י אֹת֛וֹ וְהִרְבֵּיתִ֥י אֹת֖וֹ בִּמְאֹ֣ד מְאֹ֑ד",
+          "english": "Behold, I have blessed him and have made him fruitful, and have multiplied him exceedingly."
+        },
+        {
+          "hebrew": "שְׁנֵים־עָשָׂ֤ר נְשִׂיאִם֙ יוֹלִ֔יד",
+          "english": "Twelve princes (nesi'im) [also construable as \"clouds\" (which will vanish)] will he beget,"
+        },
+        {
+          "hebrew": "וּנְתַתִּ֖יו לְג֥וֹי גָּדֽוֹל׃",
+          "english": "and I shall make him a great nation."
+        }
+      ]
+    },
+    {
+      "verse": "17:21",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־בְּרִיתִ֖י אָקִ֣ים אֶת־יִצְחָ֑ק",
+          "english": "And My covenant shall I establish with Isaac [(Isaac was \"holy\", i.e., circumcised, from birth)],"
+        },
+        {
+          "hebrew": "אֲשֶׁר֩ תֵּלֵ֨ד לְךָ֤ שָׂרָה֙ לַמּוֹעֵ֣ד הַזֶּ֔ה בַּשָּׁנָ֖ה הָאַחֶֽרֶת׃",
+          "english": "whom Sarah will bear unto you at this time in the following year."
+        }
+      ]
+    },
+    {
+      "verse": "17:22",
+      "pairs": [
+        {
+          "hebrew": "וַיְכַ֖ל לְדַבֵּ֣ר אִתּ֑וֹ",
+          "english": "And He finished speaking with him,"
+        },
+        {
+          "hebrew": "וַיַּ֣עַל אֱלֹהִ֔ים מֵעַ֖ל אַבְרָהָֽם׃",
+          "english": "and G-d went up from Abraham, [(the righteous being the \"chariot\" of the L-rd)]."
+        }
+      ]
+    },
+    {
+      "verse": "17:23",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקַּ֨ח אַבְרָהָ֜ם אֶת־יִשְׁמָעֵ֣אל בְּנ֗וֹ וְאֵ֨ת כׇּל־יְלִידֵ֤י בֵיתוֹ֙ וְאֵת֙ כׇּל־מִקְנַ֣ת כַּסְפּ֔וֹ כׇּל־זָכָ֕ר בְּאַנְשֵׁ֖י בֵּ֣ית אַבְרָהָ֑ם",
+          "english": "And Abraham took Ishmael his son and all that were born in his house and all that were bought with his money, every male of the men of Abraham's household,"
+        },
+        {
+          "hebrew": "וַיָּ֜מׇל אֶת־בְּשַׂ֣ר עׇרְלָתָ֗ם בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה",
+          "english": "and he circumcised the flesh of their foreskin. On this very same day,"
+        },
+        {
+          "hebrew": "כַּאֲשֶׁ֛ר דִּבֶּ֥ר אִתּ֖וֹ אֱלֹהִֽים׃",
+          "english": "[in the daytime and not at night, (not fearing heathens or mockers, and (also) so that his foes and his contemporaries not say: Had we seen him, we would not have permitted him to do G-d's bidding)], as G-d had spoken to him."
+        }
+      ]
+    },
+    {
+      "verse": "17:24",
+      "pairs": [
+        {
+          "hebrew": "וְאַ֨בְרָהָ֔ם בֶּן־תִּשְׁעִ֥ים וָתֵ֖שַׁע שָׁנָ֑ה",
+          "english": "And Abraham was ninety-nine years old"
+        },
+        {
+          "hebrew": "בְּהִמֹּל֖וֹ בְּשַׂ֥ר עׇרְלָתֽוֹ׃",
+          "english": "when the flesh of his foreskin was circumcised."
+        }
+      ]
+    },
+    {
+      "verse": "17:25",
+      "pairs": [
+        {
+          "hebrew": "וְיִשְׁמָעֵ֣אל בְּנ֔וֹ בֶּן־שְׁלֹ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה",
+          "english": "And Ishmael his son was thirteen years old"
+        },
+        {
+          "hebrew": "בְּהִ֨מֹּל֔וֹ אֵ֖ת בְּשַׂ֥ר עׇרְלָתֽוֹ׃",
+          "english": "when the flesh of his foreskin was circumcised."
+        }
+      ]
+    },
+    {
+      "verse": "17:26",
+      "pairs": [
+        {
+          "hebrew": "בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה",
+          "english": "On this very same day, [when Abraham had completed his ninety-ninth year, and Ishmael, his thirteenth,]"
+        },
+        {
+          "hebrew": "נִמּ֖וֹל אַבְרָהָ֑ם וְיִשְׁמָעֵ֖אל בְּנֽוֹ׃",
+          "english": "Abraham and Ishmael his son were circumcised."
+        }
+      ]
+    },
+    {
+      "verse": "17:27",
+      "pairs": [
+        {
+          "hebrew": "וְכׇל־אַנְשֵׁ֤י בֵיתוֹ֙",
+          "english": "And all the men of his house,"
+        },
+        {
+          "hebrew": "יְלִ֣יד בָּ֔יִת",
+          "english": "born in the house"
+        },
+        {
+          "hebrew": "וּמִקְנַת־כֶּ֖סֶף מֵאֵ֣ת בֶּן־נֵכָ֑ר",
+          "english": "or bought with money from a stranger,"
+        },
+        {
+          "hebrew": "נִמֹּ֖לוּ אִתּֽוֹ׃&nbsp;{פ}",
+          "english": "were circumcised with him."
+        }
+      ]
+    }
+  ],
+  "complete": false,
+  "models": {
+    "primary": "gemini-3.5-flash-lite",
+    "repair": "gemini-3.8-flash"
+  }
+}
