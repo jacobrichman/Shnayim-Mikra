@@ -1,0 +1,2387 @@
+{
+  "schemaVersion": 1,
+  "ref": "Genesis 6:9-11:32",
+  "generatedAt": "2026-10-15T12:12:54.164Z",
+  "model": "gemini-3.5-flash-lite",
+  "versions": {
+    "hebrew": "Miqra according to the Masorah",
+    "english": "The Rashi chumash by Rabbi Shraga Silverstein"
+  },
+  "sources": [
+    {
+      "versionTitle": "Miqra according to the Masorah",
+      "versionSource": "https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94",
+      "license": "CC-BY-SA"
+    },
+    {
+      "versionTitle": "The Rashi chumash by Rabbi Shraga Silverstein",
+      "versionSource": "http://www.sefaria.org/shraga-silverstein",
+      "license": "CC-BY"
+    }
+  ],
+  "rows": [
+    {
+      "verse": "6:9",
+      "pairs": [
+        {
+          "hebrew": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ",
+          "english": "These are the progeny of Noach."
+        },
+        {
+          "hebrew": "נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו",
+          "english": "[(Noach's name having been mentioned, \"The remembrance of the righteous is for blessing,\" viz.:)] Noach was a righteous man; perfect was he in his generations."
+        },
+        {
+          "hebrew": "אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃",
+          "english": "With G-d [i.e., with His support] Noach walked."
+        }
+      ]
+    },
+    {
+      "verse": "6:10",
+      "pairs": [
+        {
+          "hebrew": "וַיּ֥וֹלֶד נֹ֖חַ שְׁלֹשָׁ֣ה בָנִ֑ים",
+          "english": "And Noach begot three sons:"
+        },
+        {
+          "hebrew": "אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃",
+          "english": "Shem, Cham, and Yafeth."
+        }
+      ]
+    },
+    {
+      "verse": "6:11",
+      "pairs": [
+        {
+          "hebrew": "וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים",
+          "english": "And the earth became corrupt [(with illicit relations and idolatry)] before G-d,"
+        },
+        {
+          "hebrew": "וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס׃",
+          "english": "and the earth was filled with theft."
+        }
+      ]
+    },
+    {
+      "verse": "6:12",
+      "pairs": [
+        {
+          "hebrew": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה",
+          "english": "And G-d beheld the earth, and, behold, it had become corrupt,"
+        },
+        {
+          "hebrew": "כִּֽי־הִשְׁחִ֧ית כׇּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "for all flesh had corrupted its way upon the earth, [even beasts, animals, and birds mating outside of their kind]."
+        }
+      ]
+    },
+    {
+      "verse": "6:13",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ",
+          "english": "And G-d said to Noach:"
+        },
+        {
+          "hebrew": "קֵ֤ץ כׇּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י",
+          "english": "The end of all flesh has come before Me, [illicit relations and idolatry bringing \"promiscuous\" destruction to the world],"
+        },
+        {
+          "hebrew": "כִּֽי־מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם",
+          "english": "for the earth is filled with theft through them, [theft \"sealing\" their decree],"
+        },
+        {
+          "hebrew": "וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ׃",
+          "english": "and, behold, I shall destroy them from the earth."
+        }
+      ]
+    },
+    {
+      "verse": "6:14",
+      "pairs": [
+        {
+          "hebrew": "עֲשֵׂ֤ה לְךָ֙ תֵּבַ֣ת עֲצֵי־גֹ֔פֶר קִנִּ֖ים תַּֽעֲשֶׂ֣ה אֶת־הַתֵּבָ֑ה וְכָֽפַרְתָּ֥ אֹתָ֛הּ מִבַּ֥יִת וּמִח֖וּץ בַּכֹּֽפֶר׃",
+          "english": "Make for yourself an ark of gopher wood. [Measured] compartments shall you make in the ark, and you shall pitch it inside and outside with pitch [against the turbulent waters]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "6:15",
+      "pairs": [
+        {
+          "hebrew": "וְזֶ֕ה אֲשֶׁ֥ר תַּֽעֲשֶׂ֖ה אֹתָ֑הּ",
+          "english": "And this is how you shall make it:"
+        },
+        {
+          "hebrew": "שְׁלֹ֧שׁ מֵא֣וֹת אַמָּ֗ה אֹ֚רֶךְ הַתֵּבָ֔ה חֲמִשִּׁ֤ים אַמָּה֙ רׇחְבָּ֔הּ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קוֹמָתָֽהּ׃",
+          "english": "three hundred cubits, the length of the ark; fifty cubits, its width; and thirty cubits, its height."
+        }
+      ]
+    },
+    {
+      "verse": "6:16",
+      "pairs": [
+        {
+          "hebrew": "צֹ֣הַר&thinsp;׀ תַּעֲשֶׂ֣ה לַתֵּבָ֗ה",
+          "english": "A window shall you make for the ark."
+        },
+        {
+          "hebrew": "וְאֶל־אַמָּה֙ תְּכַלֶּ֣נָּה מִלְמַ֔עְלָה",
+          "english": "To a cubit shall you finish it above, [the roof slanting upwards to a cubit so that the water would run down its sides],"
+        },
+        {
+          "hebrew": "וּפֶ֥תַח הַתֵּבָ֖ה בְּצִדָּ֣הּ תָּשִׂ֑ים",
+          "english": "and the door of the ark shall you place in its side, [so that the rain not enter it]."
+        },
+        {
+          "hebrew": "תַּחְתִּיִּ֛ם שְׁנִיִּ֥ם וּשְׁלִשִׁ֖ים תַּֽעֲשֶֽׂהָ׃",
+          "english": "Lower stories [for dung], middle stories [for animals], and third stories [for men] shall you make it."
+        }
+      ]
+    },
+    {
+      "verse": "6:17",
+      "pairs": [
+        {
+          "hebrew": "וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת־הַמַּבּ֥וּל מַ֙יִם֙ עַל־הָאָ֔רֶץ",
+          "english": "And, behold, I shall bring the deluge [(in concession to the angels' \"What is man that You are mindful of him?\")], waters upon the earth,"
+        },
+        {
+          "hebrew": "לְשַׁחֵ֣ת כׇּל־בָּשָׂ֗ר אֲשֶׁר־בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם",
+          "english": "to destroy all flesh that has in it a spirit of life from under the heavens."
+        },
+        {
+          "hebrew": "כֹּ֥ל אֲשֶׁר־בָּאָ֖רֶץ יִגְוָֽע׃",
+          "english": "All that is on the earth shall perish."
+        }
+      ]
+    },
+    {
+      "verse": "6:18",
+      "pairs": [
+        {
+          "hebrew": "וַהֲקִמֹתִ֥י אֶת־בְּרִיתִ֖י אִתָּ֑ךְ",
+          "english": "And I shall establish My covenant with you [(a \"covenant\" being needed so that the food not decay and so that the wicked ones of the generation not kill him)]."
+        },
+        {
+          "hebrew": "וּבָאתָ֙ אֶל־הַתֵּבָ֔ה",
+          "english": "And you shall come to the ark;"
+        },
+        {
+          "hebrew": "אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "english": "you and your sons, and your wife and the wives of your sons with you [(men and women separately, cohabitation being forbidden to them in the ark)]."
+        }
+      ]
+    },
+    {
+      "verse": "6:19",
+      "pairs": [
+        {
+          "hebrew": "וּמִכׇּל־הָ֠חַ֠י מִֽכׇּל־בָּשָׂ֞ר",
+          "english": "And of all that lives [(including demons)], of all flesh,"
+        },
+        {
+          "hebrew": "שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל־הַתֵּבָ֖ה לְהַחֲיֹ֣ת אִתָּ֑ךְ",
+          "english": "[at least] two [male and female] of all [even of the least numerous] shall you bring to the ark to keep alive with you."
+        },
+        {
+          "hebrew": "זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ׃",
+          "english": "Male and female shall they be."
+        }
+      ]
+    },
+    {
+      "verse": "6:20",
+      "pairs": [
+        {
+          "hebrew": "מֵהָע֣וֹף לְמִינֵ֗הוּ וּמִן־הַבְּהֵמָה֙ לְמִינָ֔הּ מִכֹּ֛ל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ",
+          "english": "Of birds [who had mated] according to their kind [and not promiscuously] and of beasts according to their kind, of all the creeping things of the ground, according to their kind —"
+        },
+        {
+          "hebrew": "שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ לְהַֽחֲיֽוֹת׃",
+          "english": "two of all shall come to you to keep alive, [(all coming, the ark admitting only those which had mated with their kind, and Noach taking two of these)]."
+        }
+      ]
+    },
+    {
+      "verse": "6:21",
+      "pairs": [
+        {
+          "hebrew": "וְאַתָּ֣ה קַח־לְךָ֗",
+          "english": "And you, take for yourself"
+        },
+        {
+          "hebrew": "מִכׇּל־מַֽאֲכָל֙ אֲשֶׁ֣ר יֵֽאָכֵ֔ל וְאָסַפְתָּ֖ אֵלֶ֑יךָ",
+          "english": "all of the food that is to be eaten, and gather it unto you,"
+        },
+        {
+          "hebrew": "וְהָיָ֥ה לְךָ֛ וְלָהֶ֖ם לְאׇכְלָֽה׃",
+          "english": "and it shall be for you and for them to eat."
+        }
+      ]
+    },
+    {
+      "verse": "6:22",
+      "pairs": [
+        {
+          "hebrew": "וַיַּ֖עַשׂ נֹ֑חַ",
+          "english": "And Noach did [i.e., built]"
+        },
+        {
+          "hebrew": "כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+          "english": "as all that G-d commanded him; thus did he do."
+        }
+      ]
+    },
+    {
+      "verse": "7:1",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ לְנֹ֔חַ",
+          "english": "And the L-rd said to Noach:"
+        },
+        {
+          "hebrew": "בֹּֽא־אַתָּ֥ה וְכׇל־בֵּיתְךָ֖ אֶל־הַתֵּבָ֑ה",
+          "english": "Come, you and all your household into the ark;"
+        },
+        {
+          "hebrew": "כִּֽי־אֹתְךָ֥ רָאִ֛יתִי צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה׃",
+          "english": "for you have I seen to be righteous before Me in this generation [(as opposed to \"perfectly righteous\" (6:9), only part of a man's praises being stated to his face)]."
+        }
+      ]
+    },
+    {
+      "verse": "7:2",
+      "pairs": [
+        {
+          "hebrew": "מִכֹּ֣ל&thinsp;׀ הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה תִּֽקַּח־לְךָ֛ שִׁבְעָ֥ה שִׁבְעָ֖ה אִ֣ישׁ וְאִשְׁתּ֑וֹ",
+          "english": "Of all the beasts that are [destined to be pronounced] clean [to Israel (whence it follows that Noach studied Torah)], take for yourself seven, seven, male and female, [some to be sacrificed upon leaving the ark],"
+        },
+        {
+          "hebrew": "וּמִן־הַבְּהֵמָ֡ה אֲ֠שֶׁ֠ר לֹ֣א טְהֹרָ֥ה הִ֛וא שְׁנַ֖יִם אִ֥ישׁ וְאִשְׁתּֽוֹ׃",
+          "english": "and of the beasts which are not clean, two, male and female."
+        }
+      ]
+    },
+    {
+      "verse": "7:3",
+      "pairs": [
+        {
+          "hebrew": "גַּ֣ם מֵע֧וֹף הַשָּׁמַ֛יִם שִׁבְעָ֥ה שִׁבְעָ֖ה זָכָ֣ר וּנְקֵבָ֑ה",
+          "english": "Also, of the [clean] birds of heaven, seven, seven, male and female,"
+        },
+        {
+          "hebrew": "לְחַיּ֥וֹת זֶ֖רַע עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+          "english": "to sustain seed on the face of all the earth."
+        }
+      ]
+    },
+    {
+      "verse": "7:4",
+      "pairs": [
+        {
+          "hebrew": "כִּי֩ לְיָמִ֨ים ע֜וֹד שִׁבְעָ֗ה אָֽנֹכִי֙ מַמְטִ֣יר עַל־הָאָ֔רֶץ",
+          "english": "For in an additional seven days [seven days of mourning in honor of Methuselah, in addition to the 120 year grace period], I shall bring down rain upon the earth,"
+        },
+        {
+          "hebrew": "אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה",
+          "english": "forty days and forty nights [(retribution for constraining the L-rd to form bastard embryos, (forty days being the formation period)],"
+        },
+        {
+          "hebrew": "וּמָחִ֗יתִי אֶֽת־כׇּל־הַיְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+          "english": "and I shall blot out every being that I have made from the face of the earth."
+        }
+      ]
+    },
+    {
+      "verse": "7:5",
+      "pairs": [
+        {
+          "hebrew": "וַיַּ֖עַשׂ נֹ֑חַ",
+          "english": "And Noach did"
+        },
+        {
+          "hebrew": "כְּכֹ֥ל אֲשֶׁר־צִוָּ֖הוּ יְהֹוָֽה׃",
+          "english": "as all that the L-rd had commanded him, [in entering the ark]."
+        }
+      ]
+    },
+    {
+      "verse": "7:6",
+      "pairs": [
+        {
+          "hebrew": "וְנֹ֕חַ בֶּן־שֵׁ֥שׁ מֵא֖וֹת שָׁנָ֑ה",
+          "english": "And Noach was six hundred years old"
+        },
+        {
+          "hebrew": "וְהַמַּבּ֣וּל הָיָ֔ה מַ֖יִם עַל־הָאָֽרֶץ׃",
+          "english": "when the deluge was water upon the earth."
+        }
+      ]
+    },
+    {
+      "verse": "7:7",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָ֠יו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי־בָנָ֛יו אִתּ֖וֹ אֶל־הַתֵּבָ֑ה",
+          "english": "And Noach and his sons, and his wife, and the wives of his sons with him, entered the ark [(men and women separately, cohabitation being forbidden because of the world's affliction)]"
+        },
+        {
+          "hebrew": "מִפְּנֵ֖י מֵ֥י הַמַּבּֽוּל׃",
+          "english": "in the face of the waters of the deluge, [(even Noach being one of the \"small in faith,\" not entering until actually being \"pushed\" by the waters)]."
+        }
+      ]
+    },
+    {
+      "verse": "7:8",
+      "pairs": [
+        {
+          "hebrew": "מִן־הַבְּהֵמָה֙ הַטְּהוֹרָ֔ה וּמִ֨ן־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אֵינֶ֖נָּה טְהֹרָ֑ה וּמִ֨ן־הָע֔וֹף וְכֹ֥ל אֲשֶׁר־רֹמֵ֖שׂ עַל־הָֽאֲדָמָֽה׃",
+          "english": "Of the clean beast and of the beast which is not clean and of the fowl and all that creeps upon the ground."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "7:9",
+      "pairs": [
+        {
+          "hebrew": "שְׁנַ֨יִם שְׁנַ֜יִם בָּ֧אוּ אֶל־נֹ֛חַ אֶל־הַתֵּבָ֖ה זָכָ֣ר וּנְקֵבָ֑ה",
+          "english": "Two, two [(at the least)] they came to Noach to the ark, male and female,"
+        },
+        {
+          "hebrew": "כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֱלֹהִ֖ים אֶת־נֹֽחַ׃",
+          "english": "as G-d had commanded Noach."
+        }
+      ]
+    },
+    {
+      "verse": "7:10",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֖י לְשִׁבְעַ֣ת הַיָּמִ֑ים",
+          "english": "And it was, after the seven days,"
+        },
+        {
+          "hebrew": "וּמֵ֣י הַמַּבּ֔וּל הָי֖וּ עַל־הָאָֽרֶץ׃",
+          "english": "that the waters of the deluge were upon the earth."
+        }
+      ]
+    },
+    {
+      "verse": "7:11",
+      "pairs": [
+        {
+          "hebrew": "בִּשְׁנַ֨ת שֵׁשׁ־מֵא֤וֹת שָׁנָה֙ לְחַיֵּי־נֹ֔חַ בַּחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כׇּֽל־מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם נִפְתָּֽחוּ׃",
+          "english": "In the six hundredth year of Noach's life, in the second month, on the seventeenth day of the month — on this day, all the fountains of the great deep burst, and the windows of heaven were opened."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "7:12",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֥י הַגֶּ֖שֶׁם עַל־הָאָ֑רֶץ",
+          "english": "And the rain was on the earth"
+        },
+        {
+          "hebrew": "אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה׃",
+          "english": "forty days and forty nights [(G-d bringing it down first as \"merciful\" rain pending their repentance, which, not forthcoming, it was changed to a flood (17)]."
+        }
+      ]
+    },
+    {
+      "verse": "7:13",
+      "pairs": [
+        {
+          "hebrew": "בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם־וְחָ֥ם וָיֶ֖פֶת בְּנֵי־נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ וּשְׁלֹ֧שֶׁת נְשֵֽׁי־בָנָ֛יו אִתָּ֖ם אֶל־הַתֵּבָֽה׃",
+          "english": "On this very day, [in plain sight, in defiance of the wicked ones who said: If we see him entering the ark we will kill him], Noach, and Shem, Cham, and Yefeth, the sons of Noach, and the wife of Noach, and the three wives of his sons with them, came to the ark."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "7:14",
+      "pairs": [
+        {
+          "hebrew": "הֵ֜מָּה וְכׇל־הַֽחַיָּ֣ה לְמִינָ֗הּ וְכׇל־הַבְּהֵמָה֙ לְמִינָ֔הּ וְכׇל־הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־הָאָ֖רֶץ לְמִינֵ֑הוּ וְכׇל־הָע֣וֹף לְמִינֵ֔הוּ כֹּ֖ל צִפּ֥וֹר כׇּל־כָּנָֽף׃",
+          "english": "They, and every animal according to its kind, and every creeping thing that creeps upon the earth according to its kind, and every flying thing according to its kind, every bird of every [type of] wing, [including locusts]."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "7:15",
+      "pairs": [
+        {
+          "hebrew": "וַיָּבֹ֥אוּ אֶל־נֹ֖חַ אֶל־הַתֵּבָ֑ה",
+          "english": "And they came to Noach to the ark,"
+        },
+        {
+          "hebrew": "שְׁנַ֤יִם שְׁנַ֙יִם֙ מִכׇּל־הַבָּשָׂ֔ר אֲשֶׁר־בּ֖וֹ ר֥וּחַ חַיִּֽים׃",
+          "english": "two, two, of all flesh which had in it the spirit of life."
+        }
+      ]
+    },
+    {
+      "verse": "7:16",
+      "pairs": [
+        {
+          "hebrew": "וְהַבָּאִ֗ים זָכָ֨ר וּנְקֵבָ֤ה מִכׇּל־בָּשָׂר֙ בָּ֔אוּ",
+          "english": "And those who came, male and female of all flesh came,"
+        },
+        {
+          "hebrew": "כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִ֑ים",
+          "english": "as G-d had commanded him,"
+        },
+        {
+          "hebrew": "וַיִּסְגֹּ֥ר יְהֹוָ֖ה בַּֽעֲדֽוֹ׃",
+          "english": "and the L-rd closed up [the ark] for him [against the waters]."
+        }
+      ]
+    },
+    {
+      "verse": "7:17",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְהִ֧י הַמַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל־הָאָ֑רֶץ",
+          "english": "And the flood was on the earth forty days,"
+        },
+        {
+          "hebrew": "וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙ אֶת־הַתֵּבָ֔ה וַתָּ֖רׇם מֵעַ֥ל הָאָֽרֶץ׃",
+          "english": "and the waters increased and bore up the ark, and it was lifted above the earth."
+        }
+      ]
+    },
+    {
+      "verse": "7:18",
+      "pairs": [
+        {
+          "hebrew": "וַיִּגְבְּר֥וּ הַמַּ֛יִם וַיִּרְבּ֥וּ מְאֹ֖ד עַל־הָאָ֑רֶץ",
+          "english": "And the waters grew stronger and increased greatly upon the earth,"
+        },
+        {
+          "hebrew": "וַתֵּ֥לֶךְ הַתֵּבָ֖ה עַל־פְּנֵ֥י הַמָּֽיִם׃",
+          "english": "and the ark moved on the face of the waters."
+        }
+      ]
+    },
+    {
+      "verse": "7:19",
+      "pairs": [
+        {
+          "hebrew": "וְהַמַּ֗יִם גָּ֥בְר֛וּ מְאֹ֥ד מְאֹ֖ד עַל־הָאָ֑רֶץ",
+          "english": "And the waters grew exceedingly stronger upon the earth,"
+        },
+        {
+          "hebrew": "וַיְכֻסּ֗וּ כׇּל־הֶֽהָרִים֙ הַגְּבֹהִ֔ים אֲשֶׁר־תַּ֖חַת כׇּל־הַשָּׁמָֽיִם׃",
+          "english": "and all the high mountains under all of the heavens were covered."
+        }
+      ]
+    },
+    {
+      "verse": "7:20",
+      "pairs": [
+        {
+          "hebrew": "חֲמֵ֨שׁ עֶשְׂרֵ֤ה אַמָּה֙ מִלְמַ֔עְלָה גָּבְר֖וּ הַמָּ֑יִם",
+          "english": "The waters grew stronger [until they were] fifteen cubits above [the mountains],"
+        },
+        {
+          "hebrew": "וַיְכֻסּ֖וּ הֶהָרִֽים׃",
+          "english": "and the mountains were covered."
+        }
+      ]
+    },
+    {
+      "verse": "7:21",
+      "pairs": [
+        {
+          "hebrew": "וַיִּגְוַ֞ע כׇּל־בָּשָׂ֣ר&thinsp;׀ הָרֹמֵ֣שׂ עַל־הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם׃",
+          "english": "And all the flesh died that moved upon the ground, in bird, beast, and animal, and in all creeping things that creep on the ground, and all men (died)."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "7:22",
+      "pairs": [
+        {
+          "hebrew": "כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת־ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו",
+          "english": "Whatever had the breath of the spirit of life in its nostrils,"
+        },
+        {
+          "hebrew": "מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ׃",
+          "english": "of all that was on the dry land, died, [but not the fish in the sea]."
+        }
+      ]
+    },
+    {
+      "verse": "7:23",
+      "pairs": [
+        {
+          "hebrew": "וַיִּ֜מַח אֶֽת־כׇּל־הַיְק֣וּם&thinsp;׀ אֲשֶׁ֣ר&thinsp;׀ עַל־פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד־בְּהֵמָה֙ עַד־רֶ֙מֶשׂ֙ וְעַד־ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן־הָאָ֑רֶץ וַיִּשָּׁ֧אֶר אַךְ־נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָֽה׃",
+          "english": "And He blotted out every being upon the face of the ground — from man until beast until creeping thing until bird of heaven. And they were blotted out from the earth, and there remained only Noach and those with him in the ark."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "7:24",
+      "pairs": [
+        {
+          "hebrew": "וַיִּגְבְּר֥וּ הַמַּ֖יִם עַל־הָאָ֑רֶץ",
+          "english": "And the waters grew stronger upon the earth,"
+        },
+        {
+          "hebrew": "חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+          "english": "a hundred and fifty days."
+        }
+      ]
+    },
+    {
+      "verse": "8:1",
+      "pairs": [
+        {
+          "hebrew": "וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־נֹ֔חַ וְאֵ֤ת כׇּל־הַֽחַיָּה֙ וְאֶת־כׇּל־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָ֑ה",
+          "english": "And G-d [(Elokim, the attribute of justice, having been transmuted to that of mercy by Noach's prayers)] remembered Noach and all of the animals, and all of the beasts which were with him in the ark, [G-d \"remembering\" in their behalf that they had not corrupted their ways (by mating with different species) and that they had not mated in the ark],"
+        },
+        {
+          "hebrew": "וַיַּעֲבֵ֨ר אֱלֹהִ֥ים ר֙וּחַ֙ עַל־הָאָ֔רֶץ וַיָּשֹׁ֖כּוּ הַמָּֽיִם׃",
+          "english": "and G-d passed [before Him] a spirit [of conciliation and easement] over the [\"affairs\" of] the earth, and the waters receded."
+        }
+      ]
+    },
+    {
+      "verse": "8:2",
+      "pairs": [
+        {
+          "hebrew": "וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם",
+          "english": "And the fountains of the deep were dammed up [(not all the fountains as in 7:11; those needed for the continuation of the world were left open)] and the openings of heaven;"
+        },
+        {
+          "hebrew": "וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן־הַשָּׁמָֽיִם׃",
+          "english": "and the rain was withheld from the heavens."
+        }
+      ]
+    },
+    {
+      "verse": "8:3",
+      "pairs": [
+        {
+          "hebrew": "וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב",
+          "english": "And the waters started returning from upon the earth,"
+        },
+        {
+          "hebrew": "וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃",
+          "english": "and the waters began receding at the end of a hundred and fifty days [on the first of Sivan]."
+        }
+      ]
+    },
+    {
+      "verse": "8:4",
+      "pairs": [
+        {
+          "hebrew": "וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י",
+          "english": "And the ark rested in [Sivan] the seventh month"
+        },
+        {
+          "hebrew": "בְּשִׁבְעָה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט׃",
+          "english": "[after Kislev, when the rains had stopped falling], on the seventeenth day of the month, on Mount Ararat."
+        }
+      ]
+    },
+    {
+      "verse": "8:5",
+      "pairs": [
+        {
+          "hebrew": "וְהַמַּ֗יִם הָיוּ֙ הָל֣וֹךְ וְחָס֔וֹר עַ֖ד הַחֹ֣דֶשׁ הָֽעֲשִׂירִ֑י",
+          "english": "And the waters kept on receding until [Av] the tenth month [after the beginning of the rain in Marcheshvan]."
+        },
+        {
+          "hebrew": "בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ נִרְא֖וּ רָאשֵׁ֥י הֶֽהָרִֽים׃",
+          "english": "In the tenth month, on the first day of the month, the tops of the mountains were seen."
+        }
+      ]
+    },
+    {
+      "verse": "8:6",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֕י מִקֵּ֖ץ אַרְבָּעִ֣ים י֑וֹם",
+          "english": "And it was at the end of forty days [from when the tops of the mountains were seen]"
+        },
+        {
+          "hebrew": "וַיִּפְתַּ֣ח נֹ֔חַ אֶת־חַלּ֥וֹן הַתֵּבָ֖ה אֲשֶׁ֥ר עָשָֽׂה׃",
+          "english": "that Noach opened the window [i.e., the skylight] of the ark that he had made."
+        }
+      ]
+    },
+    {
+      "verse": "8:7",
+      "pairs": [
+        {
+          "hebrew": "וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב",
+          "english": "And he sent the raven,"
+        },
+        {
+          "hebrew": "וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־יְבֹ֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+          "english": "and it went out and circled [(the ark, not executing its mission, suspecting Noach of designs upon its mate)], until the waters had dried off from the earth."
+        }
+      ]
+    },
+    {
+      "verse": "8:8",
+      "pairs": [
+        {
+          "hebrew": "וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃",
+          "english": "And he sent away the dove from him [after seven days] to see if the waters had \"lightened\" from the face of the ground."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "8:9",
+      "pairs": [
+        {
+          "hebrew": "וְלֹֽא־מָצְאָה֩ הַיּוֹנָ֨ה מָנ֜וֹחַ לְכַף־רַגְלָ֗הּ וַתָּ֤שׇׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה",
+          "english": "And the dove found no rest for the sole of its foot, and it returned to him to the ark,"
+        },
+        {
+          "hebrew": "כִּי־מַ֖יִם עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ",
+          "english": "for waters were on the face of the whole earth."
+        },
+        {
+          "hebrew": "וַיִּשְׁלַ֤ח יָדוֹ֙ וַיִּקָּחֶ֔הָ וַיָּבֵ֥א אֹתָ֛הּ אֵלָ֖יו אֶל־הַתֵּבָֽה׃",
+          "english": "And he sent forth his hand and he took it and he brought it to him to the ark."
+        }
+      ]
+    },
+    {
+      "verse": "8:10",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים",
+          "english": "And he waited yet another seven days,"
+        },
+        {
+          "hebrew": "וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מִן־הַתֵּבָֽה׃",
+          "english": "and he again sent forth the dove from the ark."
+        }
+      ]
+    },
+    {
+      "verse": "8:11",
+      "pairs": [
+        {
+          "hebrew": "וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב",
+          "english": "And the dove came to him towards evening,"
+        },
+        {
+          "hebrew": "וְהִנֵּ֥ה עֲלֵה־זַ֖יִת טָרָ֣ף בְּפִ֑יהָ",
+          "english": "and, behold, it had torn an olive leaf with its beak,"
+        },
+        {
+          "hebrew": "וַיֵּ֣דַע נֹ֔חַ כִּי־קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃",
+          "english": "and Noach knew that the waters had lightened from off the earth."
+        }
+      ]
+    },
+    {
+      "verse": "8:12",
+      "pairs": [
+        {
+          "hebrew": "וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים",
+          "english": "And he held off another seven days,"
+        },
+        {
+          "hebrew": "וַיְשַׁלַּח֙ אֶת־הַיּוֹנָ֔ה וְלֹֽא־יָסְפָ֥ה שׁוּב־אֵלָ֖יו עֽוֹד׃",
+          "english": "and he sent the dove, and it did not return to him again."
+        }
+      ]
+    },
+    {
+      "verse": "8:13",
+      "pairs": [
+        {
+          "hebrew": "וַ֠יְהִ֠י בְּאַחַ֨ת וְשֵׁשׁ־מֵא֜וֹת שָׁנָ֗ה בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ",
+          "english": "And it was in the six hundred and first year (of Noach's life), in the first month [of the year], on the first day of the month,"
+        },
+        {
+          "hebrew": "חָֽרְב֥וּ הַמַּ֖יִם מֵעַ֣ל הָאָ֑רֶץ",
+          "english": "that the water dried from off the earth,"
+        },
+        {
+          "hebrew": "וַיָּ֤סַר נֹ֙חַ֙ אֶת־מִכְסֵ֣ה הַתֵּבָ֔ה",
+          "english": "and Noach removed the covering of the ark,"
+        },
+        {
+          "hebrew": "וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה׃",
+          "english": "and, behold, the face of the earth had become (somewhat) hardened."
+        }
+      ]
+    },
+    {
+      "verse": "8:14",
+      "pairs": [
+        {
+          "hebrew": "וּבַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים י֖וֹם לַחֹ֑דֶשׁ",
+          "english": "And in the second month, on the twenty-seventh day of the month,"
+        },
+        {
+          "hebrew": "יָבְשָׁ֖ה הָאָֽרֶץ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "[exactly one solar year after the beginning of the flood (see 7:11), this being the duration of the punishment of the generation of the flood], the earth dried up [i.e., it returned to its normal state]."
+        }
+      ]
+    },
+    {
+      "verse": "8:15",
+      "pairs": [
+        {
+          "hebrew": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים",
+          "english": "And G-d spoke"
+        },
+        {
+          "hebrew": "אֶל־נֹ֥חַ לֵאמֹֽר׃",
+          "english": "to Noach, saying:"
+        }
+      ]
+    },
+    {
+      "verse": "8:16",
+      "pairs": [
+        {
+          "hebrew": "צֵ֖א מִן־הַתֵּבָ֑ה",
+          "english": "Go out of the ark"
+        },
+        {
+          "hebrew": "אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "english": "— you and your wife, [cohabitation now being permitted (see 7:7)], and your sons and the wives of your sons with you."
+        }
+      ]
+    },
+    {
+      "verse": "8:17",
+      "pairs": [
+        {
+          "hebrew": "כׇּל־הַחַיָּ֨ה אֲשֶֽׁר־אִתְּךָ֜ מִכׇּל־בָּשָׂ֗ר בָּע֧וֹף וּבַבְּהֵמָ֛ה וּבְכׇל־הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־הָאָ֖רֶץ",
+          "english": "Every animal that is with you, of all flesh, of bird and of beast, and of every creeping thing that creeps upon the earth"
+        },
+        {
+          "hebrew": "(הוצא) [הַיְצֵ֣א] אִתָּ֑ךְ",
+          "english": "haytzeh [\"Tell them to go out\" (this, the spoken form), or hotzeh, \"Take them out\" (by force, if they refuse to leave — this, the written form)] with you,"
+        },
+        {
+          "hebrew": "וְשָֽׁרְצ֣וּ בָאָ֔רֶץ",
+          "english": "and they shall teem in the earth, [but not in the ark (whence it is seen that even the beasts and the birds were forbidden to mate there)],"
+        },
+        {
+          "hebrew": "וּפָר֥וּ וְרָב֖וּ עַל־הָאָֽרֶץ׃",
+          "english": "and they shall be fruitful and shall multiply upon the earth."
+        }
+      ]
+    },
+    {
+      "verse": "8:18",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּ֖צֵא־נֹ֑חַ",
+          "english": "And there went out Noach"
+        },
+        {
+          "hebrew": "וּבָנָ֛יו וְאִשְׁתּ֥וֹ וּנְשֵֽׁי־בָנָ֖יו אִתּֽוֹ׃",
+          "english": "and his sons and his wife, and the wives of his sons with him."
+        }
+      ]
+    },
+    {
+      "verse": "8:19",
+      "pairs": [
+        {
+          "hebrew": "כׇּל־הַֽחַיָּ֗ה כׇּל־הָרֶ֙מֶשׂ֙ וְכׇל־הָע֔וֹף כֹּ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ",
+          "english": "Every animal, every creeping thing, and every bird — every thing that creeps upon the earth,"
+        },
+        {
+          "hebrew": "לְמִשְׁפְּחֹ֣תֵיהֶ֔ם",
+          "english": "according to their families [(They took upon themselves to mate only with their kind)]"
+        },
+        {
+          "hebrew": "יָצְא֖וּ מִן־הַתֵּבָֽה׃",
+          "english": "went out of the ark."
+        }
+      ]
+    },
+    {
+      "verse": "8:20",
+      "pairs": [
+        {
+          "hebrew": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה",
+          "english": "And Noach built an altar to the L-rd,"
+        },
+        {
+          "hebrew": "וַיִּקַּ֞ח מִכֹּ֣ל&thinsp;׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר",
+          "english": "and he took of all the clean beasts and of all the clean birds"
+        },
+        {
+          "hebrew": "וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+          "english": "and he offered up burnt-offerings upon the altar, [reasoning that he had been commanded to bring \"seven, seven\" of those (7:2) only so that he might offer sacrifices]."
+        }
+      ]
+    },
+    {
+      "verse": "8:21",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֣רַח יְהֹוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒",
+          "english": "And the L-rd smelled the fragrant odor,"
+        },
+        {
+          "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ",
+          "english": "and the L-rd said within His heart:"
+        },
+        {
+          "hebrew": "לֹֽא־אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם",
+          "english": "I shall not again curse the ground for the sake of man."
+        },
+        {
+          "hebrew": "כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו",
+          "english": "For the inclination of man's heart is evil from his youth [(min'eurav, lit., from the time he \"bestirs\" himself (to leave his mother's womb)],"
+        },
+        {
+          "hebrew": "וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כׇּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃",
+          "english": "and I shall not again [(repetition constituting an oath)] smite all living things as I have done."
+        }
+      ]
+    },
+    {
+      "verse": "8:22",
+      "pairs": [
+        {
+          "hebrew": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ",
+          "english": "No more shall cease, all the days of the earth,"
+        },
+        {
+          "hebrew": "זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף",
+          "english": "seed-time [half of Tishrei, Marcheshvan, and half of Kislev], and harvest-time [half of Nissan, Iyyar, and half of Sivan], cold-season [half of Kislev, Teveth, and half of Shvat], and hot season [half of Av, Elul, and half of Tishrei], summer-fruit season [half of Sivan, Tammuz, and half of Av], and winter-fruit season [half of Shvat, Adar, and half of Nissan],"
+        },
+        {
+          "hebrew": "וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
+          "english": "and day and night [shall not cease (whence it is seen that all the days of the flood they did cease)]."
+        }
+      ]
+    },
+    {
+      "verse": "9:1",
+      "pairs": [
+        {
+          "hebrew": "וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת־נֹ֖חַ וְאֶת־בָּנָ֑יו",
+          "english": "And G-d blessed Noach and his sons,"
+        },
+        {
+          "hebrew": "וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ אֶת־הָאָֽרֶץ׃",
+          "english": "and He said to them: Be fruitful and multiply and fill the earth."
+        }
+      ]
+    },
+    {
+      "verse": "9:2",
+      "pairs": [
+        {
+          "hebrew": "וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כׇּל־חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כׇּל־ע֣וֹף הַשָּׁמָ֑יִם",
+          "english": "And your dread and your awe shall be upon all the animals of the earth and on all the birds of the heaven,"
+        },
+        {
+          "hebrew": "בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּֽבְכׇל־דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ׃",
+          "english": "on all that moves upon the earth and on all the fish of the sea; into your hand are they given."
+        }
+      ]
+    },
+    {
+      "verse": "9:3",
+      "pairs": [
+        {
+          "hebrew": "כׇּל־רֶ֙מֶשׂ֙ אֲשֶׁ֣ר הוּא־חַ֔י לָכֶ֥ם יִהְיֶ֖ה לְאׇכְלָ֑ה",
+          "english": "Every creeping thing that lives shall be for you to eat."
+        },
+        {
+          "hebrew": "כְּיֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָכֶ֖ם אֶת־כֹּֽל׃",
+          "english": "As green herbs [which alone, I permitted to Adam], to you have I given all."
+        }
+      ]
+    },
+    {
+      "verse": "9:4",
+      "pairs": [
+        {
+          "hebrew": "אַךְ־בָּשָׂ֕ר",
+          "english": "Only, you shall not eat flesh"
+        },
+        {
+          "hebrew": "בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃",
+          "english": "with its life [(the ban on ever min hachai — flesh torn from a living animal)] — blood [(the ban on blood from a living animal)]."
+        }
+      ]
+    },
+    {
+      "verse": "9:5",
+      "pairs": [
+        {
+          "hebrew": "וְאַ֨ךְ אֶת־דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְרֹ֔שׁ",
+          "english": "But [though I have permitted you to take the life of a beast], I shall require your blood [(if you take your life)]"
+        },
+        {
+          "hebrew": "מִיַּ֥ד כׇּל־חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ",
+          "english": "for your lives [even if you do not spill blood, (e.g., strangulation)]. From the hand of every animal will I [now] require it, [the men of the generation of the flood having been consigned as prey to the beasts],"
+        },
+        {
+          "hebrew": "וּמִיַּ֣ד הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְרֹ֖שׁ אֶת־נֶ֥פֶשׁ הָֽאָדָֽם׃",
+          "english": "and from the hand of man [one who kills wilfully, in the absence of witnesses], from the hand of a man [against one he loves as] his brother, [whom he kills unwittingly, in the absence of witnesses to make him liable to exile, and in the absence of contrition and penance on his part], I shall require the life of a man."
+        }
+      ]
+    },
+    {
+      "verse": "9:6",
+      "pairs": [
+        {
+          "hebrew": "שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ",
+          "english": "One who spills the blood of man [in the presence of witnesses], by man shall his blood be spilled."
+        },
+        {
+          "hebrew": "כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת־הָאָדָֽם׃",
+          "english": "[Why so?] For in the image of G-d did He make man."
+        }
+      ]
+    },
+    {
+      "verse": "9:7",
+      "pairs": [
+        {
+          "hebrew": "וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ",
+          "english": "And you, be fruitful and multiply, [(this being stated originally (9:1) as a blessing, and here, as a command)],"
+        },
+        {
+          "hebrew": "שִׁרְצ֥וּ בָאָ֖רֶץ וּרְבוּ־בָֽהּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "teem in the earth and increase in it."
+        }
+      ]
+    },
+    {
+      "verse": "9:8",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־נֹ֔חַ וְאֶל־בָּנָ֥יו אִתּ֖וֹ",
+          "english": "And G-d said to Noach and to his sons with him,"
+        },
+        {
+          "hebrew": "לֵאמֹֽר׃",
+          "english": "saying:"
+        }
+      ]
+    },
+    {
+      "verse": "9:9",
+      "pairs": [
+        {
+          "hebrew": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם",
+          "english": "And I, behold, [I concur with you in your apprehension of begetting children (with the threat of another deluge looming over them) and] I am establishing My covenant with you [not to destroy you],"
+        },
+        {
+          "hebrew": "וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+          "english": "and with your seed after you."
+        }
+      ]
+    },
+    {
+      "verse": "9:10",
+      "pairs": [
+        {
+          "hebrew": "וְאֵ֨ת כׇּל־נֶ֤פֶשׁ הַֽחַיָּה֙ אֲשֶׁ֣ר אִתְּכֶ֔ם בָּע֧וֹף בַּבְּהֵמָ֛ה וּֽבְכׇל־חַיַּ֥ת הָאָ֖רֶץ אִתְּכֶ֑ם",
+          "english": "And with all living things that are with you, of bird and beast, and of all the animals of the earth that are [\"compatible\"] with you,"
+        },
+        {
+          "hebrew": "מִכֹּל֙ יֹצְאֵ֣י הַתֵּבָ֔ה לְכֹ֖ל חַיַּ֥ת הָאָֽרֶץ׃",
+          "english": "of all that leave the ark [including reptiles and creeping things], of all the animals of the earth [including mazikkin (\"injurers\")]."
+        }
+      ]
+    },
+    {
+      "verse": "9:11",
+      "pairs": [
+        {
+          "hebrew": "וַהֲקִמֹתִ֤י אֶת־בְּרִיתִי֙ אִתְּכֶ֔ם",
+          "english": "And I will confirm [through the sign of the rainbow] My covenant with you,"
+        },
+        {
+          "hebrew": "וְלֹֽא־יִכָּרֵ֧ת כׇּל־בָּשָׂ֛ר ע֖וֹד מִמֵּ֣י הַמַּבּ֑וּל",
+          "english": "and no flesh will again be cut off by the waters of the deluge,"
+        },
+        {
+          "hebrew": "וְלֹֽא־יִהְיֶ֥ה ע֛וֹד מַבּ֖וּל לְשַׁחֵ֥ת הָאָֽרֶץ׃",
+          "english": "and there will not again be a deluge to destroy the earth."
+        }
+      ]
+    },
+    {
+      "verse": "9:12",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים זֹ֤את אֽוֹת־הַבְּרִית֙ אֲשֶׁר־אֲנִ֣י נֹתֵ֗ן בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין כׇּל־נֶ֥פֶשׁ חַיָּ֖ה אֲשֶׁ֣ר אִתְּכֶ֑ם",
+          "english": "And G-d said: This is the sign of the covenant that I give between Me and you and between every living soul that is with you"
+        },
+        {
+          "hebrew": "לְדֹרֹ֖ת עוֹלָֽם׃",
+          "english": "for the generations [(doroth, written defective, some generations of righteous men not requiring a sign)] forever."
+        }
+      ]
+    },
+    {
+      "verse": "9:13",
+      "pairs": [
+        {
+          "hebrew": "אֶת־קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן וְהָֽיְתָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵ֥ין הָאָֽרֶץ׃",
+          "english": "My bow have I set in the cloud, and it shall be a sign of a covenant between Me and the earth."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "9:14",
+      "pairs": [
+        {
+          "hebrew": "וְהָיָ֕ה בְּעַֽנְנִ֥י עָנָ֖ן עַל־הָאָ֑רֶץ וְנִרְאֲתָ֥ה הַקֶּ֖שֶׁת בֶּעָנָֽן׃",
+          "english": "And it will be, when I \"cloud a cloud\" upon the earth [i.e., when it enters My mind to bring darkness and destruction to the world], then the bow will be seen in the cloud."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "9:15",
+      "pairs": [
+        {
+          "hebrew": "וְזָכַרְתִּ֣י אֶת־בְּרִיתִ֗י אֲשֶׁ֤ר בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין כׇּל־נֶ֥פֶשׁ חַיָּ֖ה בְּכׇל־בָּשָׂ֑ר",
+          "english": "And I shall remember My covenant between Me and you and between every living thing of all flesh,"
+        },
+        {
+          "hebrew": "וְלֹֽא־יִֽהְיֶ֨ה ע֤וֹד הַמַּ֙יִם֙ לְמַבּ֔וּל לְשַׁחֵ֖ת כׇּל־בָּשָֽׂר׃",
+          "english": "and the waters will no more be a deluge to destroy all flesh."
+        }
+      ]
+    },
+    {
+      "verse": "9:16",
+      "pairs": [
+        {
+          "hebrew": "וְהָיְתָ֥ה הַקֶּ֖שֶׁת בֶּֽעָנָ֑ן",
+          "english": "And the bow will be in the cloud"
+        },
+        {
+          "hebrew": "וּרְאִיתִ֗יהָ",
+          "english": "and I will see it,"
+        },
+        {
+          "hebrew": "לִזְכֹּר֙ בְּרִ֣ית עוֹלָ֔ם",
+          "english": "to remember the eternal covenant"
+        },
+        {
+          "hebrew": "בֵּ֣ין אֱלֹהִ֔ים",
+          "english": "between G-d [Elokim — the Attribute of Justice]"
+        },
+        {
+          "hebrew": "וּבֵין֙ כׇּל־נֶ֣פֶשׁ חַיָּ֔ה",
+          "english": "and between every living soul"
+        },
+        {
+          "hebrew": "בְּכׇל־בָּשָׂ֖ר",
+          "english": "in all flesh"
+        },
+        {
+          "hebrew": "אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃",
+          "english": "upon the earth."
+        }
+      ]
+    },
+    {
+      "verse": "9:17",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֥אמֶר אֱלֹהִ֖ים אֶל־נֹ֑חַ",
+          "english": "And G-d said to Noach [showing him the bow]:"
+        },
+        {
+          "hebrew": "זֹ֤את אֽוֹת־הַבְּרִית֙",
+          "english": "This is the sign of the covenant"
+        },
+        {
+          "hebrew": "אֲשֶׁ֣ר הֲקִמֹ֔תִי",
+          "english": "that I have established"
+        },
+        {
+          "hebrew": "בֵּינִ֕י וּבֵ֥ין כׇּל־בָּשָׂ֖ר",
+          "english": "between Me and between all flesh"
+        },
+        {
+          "hebrew": "אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃&nbsp;{פ}",
+          "english": "that is on the earth."
+        }
+      ]
+    },
+    {
+      "verse": "9:18",
+      "pairs": [
+        {
+          "hebrew": "וַיִּֽהְי֣וּ בְנֵי־נֹ֗חַ",
+          "english": "And the sons of Noach"
+        },
+        {
+          "hebrew": "הַיֹּֽצְאִים֙ מִן־הַתֵּבָ֔ה",
+          "english": "who went out of the ark"
+        },
+        {
+          "hebrew": "שֵׁ֖ם וְחָ֣ם וָיָ֑פֶת",
+          "english": "were Shem, Cham, and Yefeth;"
+        },
+        {
+          "hebrew": "וְחָ֕ם ה֖וּא אֲבִ֥י כְנָֽעַן׃",
+          "english": "and Cham was the father of Canaan [(the relationship being mentioned here to shed light on what is to follow vis-à-vis the cursing of Cham and Canaan)]."
+        }
+      ]
+    },
+    {
+      "verse": "9:19",
+      "pairs": [
+        {
+          "hebrew": "שְׁלֹשָׁ֥ה אֵ֖לֶּה בְּנֵי־נֹ֑חַ",
+          "english": "These three are the sons of Noach,"
+        },
+        {
+          "hebrew": "וּמֵאֵ֖לֶּה נָֽפְצָ֥ה כׇל־הָאָֽרֶץ׃",
+          "english": "and from these did the whole earth spread."
+        }
+      ]
+    },
+    {
+      "verse": "9:20",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽאֲדָמָ֑ה",
+          "english": "And Noach profaned himself, the lord of the ground,"
+        },
+        {
+          "hebrew": "וַיִּטַּ֖ע כָּֽרֶם׃",
+          "english": "and he planted a vineyard. [He should have planted something else first.]"
+        }
+      ]
+    },
+    {
+      "verse": "9:21",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּ֥שְׁתְּ מִן־הַיַּ֖יִן וַיִּשְׁכָּ֑ר",
+          "english": "And he drank from the wine and he was inebriated"
+        },
+        {
+          "hebrew": "וַיִּתְגַּ֖ל בְּת֥וֹךְ אׇהֳלֹֽה׃",
+          "english": "and he uncovered himself in the midst of his tent [ahalo, written \"ahalah,\" an allusion to the ten tribes, called by the name of Shomron (Ahalah), who were exiled because of overindulgence in wine]."
+        }
+      ]
+    },
+    {
+      "verse": "9:22",
+      "pairs": [
+        {
+          "hebrew": "וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן",
+          "english": "And Cham the father of Canaan saw [(Some say Canaan saw and reported it to his father)]"
+        },
+        {
+          "hebrew": "אֵ֖ת עֶרְוַ֣ת אָבִ֑יו",
+          "english": "the nakedness of his father [(Some say that he castrated him; others, that he sodomized him)],"
+        },
+        {
+          "hebrew": "וַיַּגֵּ֥ד לִשְׁנֵֽי־אֶחָ֖יו בַּחֽוּץ׃",
+          "english": "and he told his two brothers outside."
+        }
+      ]
+    },
+    {
+      "verse": "9:23",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקַּח֩ שֵׁ֨ם וָיֶ֜פֶת אֶת־הַשִּׂמְלָ֗ה",
+          "english": "And Shem took [(Shem, exerting himself on behalf of the mitzvah more than Yefeth did (for which reason his descendants merited the mitzvah of tzitzith)] and Yefeth, the garment [(for which reason he merited burial for his descendants (Ezekiel 39:11), (the descendants of Cham, who shamed his father, being led in nakedness into exile (Isaiah 20:4)],"
+        },
+        {
+          "hebrew": "וַיָּשִׂ֙ימוּ֙ עַל־שְׁכֶ֣ם שְׁנֵיהֶ֔ם",
+          "english": "and they placed it on the shoulders of both"
+        },
+        {
+          "hebrew": "וַיֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית",
+          "english": "and they walked backwards,"
+        },
+        {
+          "hebrew": "וַיְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִיהֶ֑ם",
+          "english": "and they covered the nakedness of their father,"
+        },
+        {
+          "hebrew": "וּפְנֵיהֶם֙ אֲחֹ֣רַנִּ֔ית",
+          "english": "and their faces were [(kept)] turned backwards"
+        },
+        {
+          "hebrew": "וְעֶרְוַ֥ת אֲבִיהֶ֖ם לֹ֥א רָאֽוּ׃",
+          "english": "[when they drew near him to cover him], and the nakedness of their father they did not see."
+        }
+      ]
+    },
+    {
+      "verse": "9:24",
+      "pairs": [
+        {
+          "hebrew": "וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ",
+          "english": "And Noach awoke from his wine"
+        },
+        {
+          "hebrew": "וַיֵּ֕דַע אֵ֛ת אֲשֶׁר־עָ֥שָׂה ל֖וֹ בְּנ֥וֹ הַקָּטָֽן׃",
+          "english": "and he knew what his \"small\" [i.e., unworthy, despicable] son had done to him."
+        }
+      ]
+    },
+    {
+      "verse": "9:25",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן",
+          "english": "And he said: Cursed is Canaan;"
+        },
+        {
+          "hebrew": "עֶ֥בֶד עֲבָדִ֖ים יִֽהְיֶ֥ה לְאֶחָֽיו׃",
+          "english": "a servant of servants shall he be to his brothers."
+        }
+      ]
+    },
+    {
+      "verse": "9:26",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם",
+          "english": "And he said: Blessed is the L-rd, the G-d of Shem,"
+        },
+        {
+          "hebrew": "וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃",
+          "english": "[who is destined to keep His promise to his (Shem's) seed and give them the land of Canaan], and Canaan will be a servant to him."
+        }
+      ]
+    },
+    {
+      "verse": "9:27",
+      "pairs": [
+        {
+          "hebrew": "יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת",
+          "english": "G-d will \"expand\" Yefeth,"
+        },
+        {
+          "hebrew": "וְיִשְׁכֹּ֖ן בְּאׇֽהֳלֵי־שֵׁ֑ם",
+          "english": "but He will dwell in the tents of Shem,"
+        },
+        {
+          "hebrew": "וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃",
+          "english": "and Canaan will be a servant unto him. [Even after the sons of Shem are exiled, servants will be sold to them from the sons of Canaan.]"
+        }
+      ]
+    },
+    {
+      "verse": "9:28",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל",
+          "english": "And Noach lived after the flood"
+        },
+        {
+          "hebrew": "שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה׃",
+          "english": "three hundred and fifty years."
+        }
+      ]
+    },
+    {
+      "verse": "9:29",
+      "pairs": [
+        {
+          "hebrew": "וַיִּֽהְיוּ֙ כׇּל־יְמֵי־נֹ֔חַ",
+          "english": "And all the days of Noach"
+        },
+        {
+          "hebrew": "תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה",
+          "english": "were nine hundred and fifty years,"
+        },
+        {
+          "hebrew": "וַיָּמֹֽת׃&nbsp;{פ}",
+          "english": "and he died."
+        }
+      ]
+    },
+    {
+      "verse": "10:1",
+      "pairs": [
+        {
+          "hebrew": "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת בְּנֵי־נֹ֔חַ",
+          "english": "And these are the progeny of the sons of Noach —"
+        },
+        {
+          "hebrew": "שֵׁ֖ם חָ֣ם וָיָ֑פֶת",
+          "english": "Shem, Cham, and Yafeth."
+        },
+        {
+          "hebrew": "וַיִּוָּלְד֥וּ לָהֶ֛ם בָּנִ֖ים",
+          "english": "And sons were born to them"
+        },
+        {
+          "hebrew": "אַחַ֥ר הַמַּבּֽוּל׃",
+          "english": "after the deluge."
+        }
+      ]
+    },
+    {
+      "verse": "10:2",
+      "pairs": [
+        {
+          "hebrew": "בְּנֵ֣י יֶ֔פֶת",
+          "english": "The sons of Yefeth:"
+        },
+        {
+          "hebrew": "גֹּ֣מֶר וּמָג֔וֹג וּמָדַ֖י וְיָוָ֣ן וְתֻבָ֑ל",
+          "english": "Gomer, Magog, Maddai, Yavan, Tuval,"
+        },
+        {
+          "hebrew": "וּמֶ֖שֶׁךְ וְתִירָֽס׃",
+          "english": "Meshech and Tiras [Persia]."
+        }
+      ]
+    },
+    {
+      "verse": "10:3",
+      "pairs": [
+        {
+          "hebrew": "וּבְנֵ֖י גֹּ֑מֶר",
+          "english": "And the sons of Gomer:"
+        },
+        {
+          "hebrew": "אַשְׁכְּנַ֥ז וְרִיפַ֖ת וְתֹגַרְמָֽה׃",
+          "english": "Ashkenaz, Rifath, and Togarmah."
+        }
+      ]
+    },
+    {
+      "verse": "10:4",
+      "pairs": [
+        {
+          "hebrew": "וּבְנֵ֥י יָוָ֖ן",
+          "english": "And the sons of Yavan:"
+        },
+        {
+          "hebrew": "אֱלִישָׁ֣ה וְתַרְשִׁ֑ישׁ כִּתִּ֖ים וְדֹדָנִֽים׃",
+          "english": "Elishah, Tarshish, Kittim, and Dodanim."
+        }
+      ]
+    },
+    {
+      "verse": "10:5",
+      "pairs": [
+        {
+          "hebrew": "מֵ֠אֵ֠לֶּה נִפְרְד֞וּ אִיֵּ֤י הַגּוֹיִם֙ בְּאַרְצֹתָ֔ם",
+          "english": "From these there branched out the islands of the nations in their lands,"
+        },
+        {
+          "hebrew": "אִ֖ישׁ לִלְשֹׁנ֑וֹ",
+          "english": "each after his tongue,"
+        },
+        {
+          "hebrew": "לְמִשְׁפְּחֹתָ֖ם בְּגוֹיֵהֶֽם׃",
+          "english": "according to their families in their nations."
+        }
+      ]
+    },
+    {
+      "verse": "10:6",
+      "pairs": [
+        {
+          "hebrew": "וּבְנֵ֖י חָ֑ם",
+          "english": "And the sons of Cham:"
+        },
+        {
+          "hebrew": "כּ֥וּשׁ וּמִצְרַ֖יִם וּפ֥וּט וּכְנָֽעַן׃",
+          "english": "Kush, Mitzrayim, Fut, and Canaan."
+        }
+      ]
+    },
+    {
+      "verse": "10:7",
+      "pairs": [
+        {
+          "hebrew": "וּבְנֵ֣י כ֔וּשׁ",
+          "english": "And the sons of Kush:"
+        },
+        {
+          "hebrew": "סְבָא֙ וַֽחֲוִילָ֔ה וְסַבְתָּ֥ה וְרַעְמָ֖ה וְסַבְתְּכָ֑א",
+          "english": "Seva, Chavilah, Savtah, Ra'amah, and Savtecha."
+        },
+        {
+          "hebrew": "וּבְנֵ֥י רַעְמָ֖ה שְׁבָ֥א וּדְדָֽן׃",
+          "english": "And the sons of Ra'amah: Sheva and Dedan."
+        }
+      ]
+    },
+    {
+      "verse": "10:8",
+      "pairs": [
+        {
+          "hebrew": "וְכ֖וּשׁ יָלַ֣ד אֶת־נִמְרֹ֑ד",
+          "english": "And Kush begot Nimrod."
+        },
+        {
+          "hebrew": "ה֣וּא הֵחֵ֔ל לִֽהְי֥וֹת גִּבֹּ֖ר בָּאָֽרֶץ׃",
+          "english": "He began to be a mighty one in the earth [to cause all to rebel (nimrod = \"Let us rebel\") against the Holy One Blessed be He in the counsel of the Tower of Babel)]."
+        }
+      ]
+    },
+    {
+      "verse": "10:9",
+      "pairs": [
+        {
+          "hebrew": "הֽוּא־הָיָ֥ה גִבֹּֽר־צַ֖יִד לִפְנֵ֣י יְהֹוָ֑ה",
+          "english": "He was a \"mighty snare\" [ensnaring men with his mouth and inciting them to rebel against G-d] before the L-rd [\"to His face!\"],"
+        },
+        {
+          "hebrew": "עַל־כֵּן֙ יֵֽאָמַ֔ר",
+          "english": "wherefore it is said [of such as he]:"
+        },
+        {
+          "hebrew": "כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד לִפְנֵ֥י יְהֹוָֽה׃",
+          "english": "\"As Nimrod, a mighty snare before the L-rd.\""
+        }
+      ]
+    },
+    {
+      "verse": "10:10",
+      "pairs": [
+        {
+          "hebrew": "וַתְּהִ֨י רֵאשִׁ֤ית מַמְלַכְתּוֹ֙ בָּבֶ֔ל וְאֶ֖רֶךְ וְאַכַּ֣ד וְכַלְנֵ֑ה",
+          "english": "And the beginning of his kingdom was Bavel and Erech and Akkad and Kalnah"
+        },
+        {
+          "hebrew": "בְּאֶ֖רֶץ שִׁנְעָֽר׃",
+          "english": "in the land of Shinar."
+        }
+      ]
+    },
+    {
+      "verse": "10:11",
+      "pairs": [
+        {
+          "hebrew": "מִן־הָאָ֥רֶץ הַהִ֖וא יָצָ֣א אַשּׁ֑וּר",
+          "english": "Ashur went out of that land [when he saw his sons heeding Nimrod and building the tower in rebellion against the L-rd],"
+        },
+        {
+          "hebrew": "וַיִּ֙בֶן֙ אֶת־נִ֣ינְוֵ֔ה וְאֶת־רְחֹבֹ֥ת עִ֖יר וְאֶת־כָּֽלַח׃",
+          "english": "and he built Ninveh, and Rechovoth-Ir, and Kalach."
+        }
+      ]
+    },
+    {
+      "verse": "10:12",
+      "pairs": [
+        {
+          "hebrew": "וְֽאֶת־רֶ֔סֶן",
+          "english": "And Ressen,"
+        },
+        {
+          "hebrew": "בֵּ֥ין נִֽינְוֵ֖ה וּבֵ֣ין כָּ֑לַח",
+          "english": "between Ninveh and Kalach."
+        },
+        {
+          "hebrew": "הִ֖וא הָעִ֥יר הַגְּדֹלָֽה׃",
+          "english": "It [Ninveh] is \"the great city.\" [see Jonah (1:2)]"
+        }
+      ]
+    },
+    {
+      "verse": "10:13",
+      "pairs": [
+        {
+          "hebrew": "וּמִצְרַ֡יִם יָלַ֞ד",
+          "english": "And Mitzrayim begot"
+        },
+        {
+          "hebrew": "אֶת־לוּדִ֧ים",
+          "english": "Ludim"
+        },
+        {
+          "hebrew": "וְאֶת־עֲנָמִ֛ים",
+          "english": "and Anamim"
+        },
+        {
+          "hebrew": "וְאֶת־לְהָבִ֖ים",
+          "english": "and Lehavim [so called because of their fiery faces (lahav = flame)]"
+        },
+        {
+          "hebrew": "וְאֶת־נַפְתֻּחִֽים׃",
+          "english": "and Naftuchim."
+        }
+      ]
+    },
+    {
+      "verse": "10:14",
+      "pairs": [
+        {
+          "hebrew": "וְֽאֶת־פַּתְרֻסִ֞ים וְאֶת־כַּסְלֻחִ֗ים",
+          "english": "And Patrusim and Kashluchim,"
+        },
+        {
+          "hebrew": "אֲשֶׁ֨ר יָצְא֥וּ מִשָּׁ֛ם",
+          "english": "whence came forth"
+        },
+        {
+          "hebrew": "פְּלִשְׁתִּ֖ים",
+          "english": "Plishtim"
+        },
+        {
+          "hebrew": "וְאֶת־כַּפְתֹּרִֽים׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and Kaftorim [Patrusim and Kasluchim \"exchanging\" their wives, and \"between both\" begetting Plishtim and Kaftorim]."
+        }
+      ]
+    },
+    {
+      "verse": "10:15",
+      "pairs": [
+        {
+          "hebrew": "וּכְנַ֗עַן יָלַ֛ד",
+          "english": "And Canaan begot"
+        },
+        {
+          "hebrew": "אֶת־צִידֹ֥ן בְּכֹר֖וֹ",
+          "english": "Tziddon, his first-born,"
+        },
+        {
+          "hebrew": "וְאֶת־חֵֽת׃",
+          "english": "and Cheth."
+        }
+      ]
+    },
+    {
+      "verse": "10:16",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הַיְבוּסִי֙",
+          "english": "And the Yevussi"
+        },
+        {
+          "hebrew": "וְאֶת־הָ֣אֱמֹרִ֔י",
+          "english": "and the Emori"
+        },
+        {
+          "hebrew": "וְאֵ֖ת הַגִּרְגָּשִֽׁי׃",
+          "english": "and the Girgashi."
+        }
+      ]
+    },
+    {
+      "verse": "10:17",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הַֽחִוִּ֥י",
+          "english": "And the Chivi"
+        },
+        {
+          "hebrew": "וְאֶת־הַֽעַרְקִ֖י",
+          "english": "and the Arki"
+        },
+        {
+          "hebrew": "וְאֶת־הַסִּינִֽי׃",
+          "english": "and the Sini."
+        }
+      ]
+    },
+    {
+      "verse": "10:18",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הָֽאַרְוָדִ֥י וְאֶת־הַצְּמָרִ֖י וְאֶת־הַֽחֲמָתִ֑י",
+          "english": "And the Arvadi and the Tzemari and the Chamathi."
+        },
+        {
+          "hebrew": "וְאַחַ֣ר נָפֹ֔צוּ",
+          "english": "And after, [from these] there spread forth [many]"
+        },
+        {
+          "hebrew": "מִשְׁפְּח֖וֹת הַֽכְּנַעֲנִֽי׃",
+          "english": "families of the Canaani."
+        }
+      ]
+    },
+    {
+      "verse": "10:19",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֞י גְּב֤וּל הַֽכְּנַעֲנִי֙",
+          "english": "And the border of the Canaani"
+        },
+        {
+          "hebrew": "מִצִּידֹ֔ן בֹּאֲכָ֥ה גְרָ֖רָה עַד־עַזָּ֑ה",
+          "english": "was from Tziddon as you come to Gerar, until Azzah;"
+        },
+        {
+          "hebrew": "בֹּאֲכָ֞ה סְדֹ֧מָה וַעֲמֹרָ֛ה וְאַדְמָ֥ה וּצְבֹיִ֖ם",
+          "english": "as you come to Sodom and Amorrah and Admah and Tzvoyim,"
+        },
+        {
+          "hebrew": "עַד־לָֽשַׁע׃",
+          "english": "until Lasha."
+        }
+      ]
+    },
+    {
+      "verse": "10:20",
+      "pairs": [
+        {
+          "hebrew": "אֵ֣לֶּה בְנֵי־חָ֔ם",
+          "english": "These are the sons of Cham"
+        },
+        {
+          "hebrew": "לְמִשְׁפְּחֹתָ֖ם",
+          "english": "according to their families. [(They are all sons of Cham, even though they branched out)]"
+        },
+        {
+          "hebrew": "לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם בְּגוֹיֵהֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "according to their tongues, in their lands, and in their nations."
+        }
+      ]
+    },
+    {
+      "verse": "10:21",
+      "pairs": [
+        {
+          "hebrew": "וּלְשֵׁ֥ם יֻלַּ֖ד גַּם־ה֑וּא",
+          "english": "And to Shem was born, he too,"
+        },
+        {
+          "hebrew": "אֲבִי֙ כׇּל־בְּנֵי־עֵ֔בֶר",
+          "english": "the father of all the children of Ever, [(i.e., Shem was the father of all the children of ever hanahar (the other side of the Euphrates)],"
+        },
+        {
+          "hebrew": "אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃",
+          "english": "the brother of Yefeth, the elder [(Cham not being mentioned in that he, unlike Shem and Yefeth, did not honor his father)]."
+        }
+      ]
+    },
+    {
+      "verse": "10:22",
+      "pairs": [
+        {
+          "hebrew": "בְּנֵ֥י שֵׁ֖ם",
+          "english": "The sons of Shem:"
+        },
+        {
+          "hebrew": "עֵילָ֣ם וְאַשּׁ֑וּר וְאַרְפַּכְשַׁ֖ד וְל֥וּד וַֽאֲרָֽם׃",
+          "english": "Eilam, Ashur, Arpachshad, Lud, and Aram."
+        }
+      ]
+    },
+    {
+      "verse": "10:23",
+      "pairs": [
+        {
+          "hebrew": "וּבְנֵ֖י אֲרָ֑ם",
+          "english": "And the sons of Aram:"
+        },
+        {
+          "hebrew": "ע֥וּץ וְח֖וּל וְגֶ֥תֶר וָמַֽשׁ׃",
+          "english": "Utz, Chul, Gether, and Mash."
+        }
+      ]
+    },
+    {
+      "verse": "10:24",
+      "pairs": [
+        {
+          "hebrew": "וְאַרְפַּכְשַׁ֖ד יָלַ֣ד",
+          "english": "And Arpachshad begot"
+        },
+        {
+          "hebrew": "אֶת־שָׁ֑לַח",
+          "english": "Shalach,"
+        },
+        {
+          "hebrew": "וְשֶׁ֖לַח יָלַ֥ד",
+          "english": "and Shelach begot"
+        },
+        {
+          "hebrew": "אֶת־עֵֽבֶר׃",
+          "english": "Ever."
+        }
+      ]
+    },
+    {
+      "verse": "10:25",
+      "pairs": [
+        {
+          "hebrew": "וּלְעֵ֥בֶר יֻלַּ֖ד שְׁנֵ֣י בָנִ֑ים",
+          "english": "And to Ever was born two sons;"
+        },
+        {
+          "hebrew": "שֵׁ֣ם הָֽאֶחָ֞ד פֶּ֗לֶג",
+          "english": "the name of the first, Peleg,"
+        },
+        {
+          "hebrew": "כִּ֤י בְיָמָיו֙ נִפְלְגָ֣ה הָאָ֔רֶץ",
+          "english": "for in his days the earth was divided (niflegah) [Languages were confounded and men \"divided themselves\" throughout the earth],"
+        },
+        {
+          "hebrew": "וְשֵׁ֥ם אָחִ֖יו יׇקְטָֽן׃",
+          "english": "and the name of his brother was Yaktan. [(Because he \"humbled\" (hiktin) himself, he merited the many families (which follow).]"
+        }
+      ]
+    },
+    {
+      "verse": "10:26",
+      "pairs": [
+        {
+          "hebrew": "וְיׇקְטָ֣ן יָלַ֔ד",
+          "english": "And Yaktan begot"
+        },
+        {
+          "hebrew": "אֶת־אַלְמוֹדָ֖ד וְאֶת־שָׁ֑לֶף וְאֶת־חֲצַרְמָ֖וֶת וְאֶת־יָֽרַח׃",
+          "english": "Almodad, and Shalef, and Chatzarmaveth, and Yarach."
+        }
+      ]
+    },
+    {
+      "verse": "10:27",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־הֲדוֹרָ֥ם",
+          "english": "And Hadoram,"
+        },
+        {
+          "hebrew": "וְאֶת־אוּזָ֖ל",
+          "english": "and Uzzal,"
+        },
+        {
+          "hebrew": "וְאֶת־דִּקְלָֽה׃",
+          "english": "and Diklah."
+        }
+      ]
+    },
+    {
+      "verse": "10:28",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־עוֹבָ֥ל",
+          "english": "And Oval,"
+        },
+        {
+          "hebrew": "וְאֶת־אֲבִֽימָאֵ֖ל",
+          "english": "and Avimael,"
+        },
+        {
+          "hebrew": "וְאֶת־שְׁבָֽא׃",
+          "english": "and Sheva."
+        }
+      ]
+    },
+    {
+      "verse": "10:29",
+      "pairs": [
+        {
+          "hebrew": "וְאֶת־אוֹפִ֥ר וְאֶת־חֲוִילָ֖ה וְאֶת־יוֹבָ֑ב",
+          "english": "And Ofir, and Chavilah, and Yovav"
+        },
+        {
+          "hebrew": "כׇּל־אֵ֖לֶּה בְּנֵ֥י יׇקְטָֽן׃",
+          "english": "—- all these are the sons of Yaktan."
+        }
+      ]
+    },
+    {
+      "verse": "10:30",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֥י מוֹשָׁבָ֖ם מִמֵּשָׁ֑א",
+          "english": "And their habitation was from Mesha,"
+        },
+        {
+          "hebrew": "בֹּאֲכָ֥ה סְפָ֖רָה",
+          "english": "as you come to Sefar,"
+        },
+        {
+          "hebrew": "הַ֥ר הַקֶּֽדֶם׃",
+          "english": "a mountain of the east."
+        }
+      ]
+    },
+    {
+      "verse": "10:31",
+      "pairs": [
+        {
+          "hebrew": "אֵ֣לֶּה בְנֵי־שֵׁ֔ם",
+          "english": "These are the sons of Shem"
+        },
+        {
+          "hebrew": "לְמִשְׁפְּחֹתָ֖ם לִלְשֹׁנֹתָ֑ם",
+          "english": "by their families according to their tongues,"
+        },
+        {
+          "hebrew": "בְּאַרְצֹתָ֖ם לְגוֹיֵהֶֽם׃",
+          "english": "in their lands according to their nations."
+        }
+      ]
+    },
+    {
+      "verse": "10:32",
+      "pairs": [
+        {
+          "hebrew": "אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ",
+          "english": "These are the families of the sons of Noach,"
+        },
+        {
+          "hebrew": "לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם",
+          "english": "their progeny according to their nations."
+        },
+        {
+          "hebrew": "וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל׃&nbsp;{פ}",
+          "english": "And from these there branched out the nations of the earth after the deluge."
+        }
+      ]
+    },
+    {
+      "verse": "11:1",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֥י כׇל־הָאָ֖רֶץ",
+          "english": "And all the earth"
+        },
+        {
+          "hebrew": "שָׂפָ֣ה אֶחָ֑ת",
+          "english": "was one language [the holy tongue]"
+        },
+        {
+          "hebrew": "וּדְבָרִ֖ים אֲחָדִֽים׃",
+          "english": "and single speech [i.e., united counsel]."
+        }
+      ]
+    },
+    {
+      "verse": "11:2",
+      "pairs": [
+        {
+          "hebrew": "וַיְהִ֖י בְּנׇסְעָ֣ם מִקֶּ֑דֶם",
+          "english": "And it was, when they traveled from the east [(see 10:30) to find a place that would contain them all]"
+        },
+        {
+          "hebrew": "וַֽיִּמְצְא֥וּ בִקְעָ֛ה בְּאֶ֥רֶץ שִׁנְעָ֖ר",
+          "english": "that they found a valley in the land of Shinar"
+        },
+        {
+          "hebrew": "וַיֵּ֥שְׁבוּ שָֽׁם׃",
+          "english": "and they settled there."
+        }
+      ]
+    },
+    {
+      "verse": "11:3",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ",
+          "english": "And one [nation] said to the other:"
+        },
+        {
+          "hebrew": "הָ֚בָה נִלְבְּנָ֣ה לְבֵנִ֔ים וְנִשְׂרְפָ֖ה לִשְׂרֵפָ֑ה",
+          "english": "Ready yourselves. Let us make bricks, [there being no stone in Bavel (which is a valley)], and let us fire them [in an oven]."
+        },
+        {
+          "hebrew": "וַתְּהִ֨י לָהֶ֤ם הַלְּבֵנָה֙ לְאָ֔בֶן",
+          "english": "And they had brick for stone,"
+        },
+        {
+          "hebrew": "וְהַ֣חֵמָ֔ר הָיָ֥ה לָהֶ֖ם לַחֹֽמֶר׃",
+          "english": "and bitumen for mortar [for wall plaster]."
+        }
+      ]
+    },
+    {
+      "verse": "11:4",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּאמְר֞וּ הָ֣בָה&thinsp;׀ נִבְנֶה־לָּ֣נוּ עִ֗יר",
+          "english": "And they said: Let us build for ourselves a city"
+        },
+        {
+          "hebrew": "וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם",
+          "english": "and a tower with its top in the heavens,"
+        },
+        {
+          "hebrew": "וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם",
+          "english": "and let us make a name for ourselves"
+        },
+        {
+          "hebrew": "פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+          "english": "lest we be scattered [by an act of Heaven] upon the face of all the earth."
+        }
+      ]
+    },
+    {
+      "verse": "11:5",
+      "pairs": [
+        {
+          "hebrew": "וַיֵּ֣רֶד יְהֹוָ֔ה",
+          "english": "And the L-rd \"went down to see\""
+        },
+        {
+          "hebrew": "לִרְאֹ֥ת אֶת־הָעִ֖יר וְאֶת־הַמִּגְדָּ֑ל",
+          "english": "[(an object lesson to judges: that they not judge until they see and understand)] the city and the tower"
+        },
+        {
+          "hebrew": "אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם׃",
+          "english": "which the sons of [ungrateful] man [whom He had rescued from the flood] had built."
+        }
+      ]
+    },
+    {
+      "verse": "11:6",
+      "pairs": [
+        {
+          "hebrew": "וַיֹּ֣אמֶר יְהֹוָ֗ה",
+          "english": "And the L-rd said:"
+        },
+        {
+          "hebrew": "הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם",
+          "english": "Behold, [all of this good is theirs:] they are one people, and all of them have one language,"
+        },
+        {
+          "hebrew": "וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת",
+          "english": "and this is what they begin to do!"
+        },
+        {
+          "hebrew": "וְעַתָּה֙ לֹֽא־יִבָּצֵ֣ר מֵהֶ֔ם",
+          "english": "And now, should there not be withheld from them"
+        },
+        {
+          "hebrew": "כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת׃",
+          "english": "all that they scheme to do!"
+        }
+      ]
+    },
+    {
+      "verse": "11:7",
+      "pairs": [
+        {
+          "hebrew": "הָ֚בָה נֵֽרְדָ֔ה וְנָבְלָ֥ה שָׁ֖ם שְׂפָתָ֑ם",
+          "english": "Let us [G-d and the celestial tribunal (G-d, in His great humility, including them with Him)] (\"Let us\") go down [\"measure for measure\" for \"Let us build\" (4)] and confound there their language,"
+        },
+        {
+          "hebrew": "אֲשֶׁר֙ לֹ֣א יִשְׁמְע֔וּ אִ֖ישׁ שְׂפַ֥ת רֵעֵֽהוּ׃",
+          "english": "that one man not understand another's tongue [and discord result]."
+        }
+      ]
+    },
+    {
+      "verse": "11:8",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֨פֶץ יְהֹוָ֥ה אֹתָ֛ם מִשָּׁ֖ם",
+          "english": "And the L-rd scattered them from there"
+        },
+        {
+          "hebrew": "עַל־פְּנֵ֣י כׇל־הָאָ֑רֶץ",
+          "english": "[in this world (\"measure for measure\" for (4) \"lest we be scattered\")] on the face of all the earth,"
+        },
+        {
+          "hebrew": "וַֽיַּחְדְּל֖וּ לִבְנֹ֥ת הָעִֽיר׃",
+          "english": "and they ceased building the city."
+        }
+      ]
+    },
+    {
+      "verse": "11:9",
+      "pairs": [
+        {
+          "hebrew": "עַל־כֵּ֞ן קָרָ֤א שְׁמָהּ֙ בָּבֶ֔ל",
+          "english": "Therefore, it is called Bavel;"
+        },
+        {
+          "hebrew": "כִּי־שָׁ֛ם בָּלַ֥ל יְהֹוָ֖ה שְׂפַ֣ת כׇּל־הָאָ֑רֶץ",
+          "english": "for there the L-rd confounded (balal) the language of all the earth,"
+        },
+        {
+          "hebrew": "וּמִשָּׁם֙ הֱפִיצָ֣ם יְהֹוָ֔ה עַל־פְּנֵ֖י כׇּל־הָאָֽרֶץ׃&nbsp;{פ}",
+          "english": "and from there the L-rd scattered them [(their having no portion in the world to come)] on the face of all the earth."
+        }
+      ]
+    },
+    {
+      "verse": "11:10",
+      "pairs": [
+        {
+          "hebrew": "אֵ֚לֶּה תּוֹלְדֹ֣ת שֵׁ֔ם",
+          "english": "These are the progeny of Shem."
+        },
+        {
+          "hebrew": "שֵׁ֚ם בֶּן־מְאַ֣ת שָׁנָ֔ה",
+          "english": "Shem was a hundred years old"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־אַרְפַּכְשָׁ֑ד",
+          "english": "when he begot Arpachshad"
+        },
+        {
+          "hebrew": "שְׁנָתַ֖יִם אַחַ֥ר הַמַּבּֽוּל׃",
+          "english": "two years after the deluge."
+        }
+      ]
+    },
+    {
+      "verse": "11:11",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־שֵׁ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־אַרְפַּכְשָׁ֔ד",
+          "english": "And Shem lived after he begot Arpachshad,"
+        },
+        {
+          "hebrew": "חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה",
+          "english": "five hundred years,"
+        },
+        {
+          "hebrew": "וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and he begot sons and daughters."
+        }
+      ]
+    },
+    {
+      "verse": "11:12",
+      "pairs": [
+        {
+          "hebrew": "וְאַרְפַּכְשַׁ֣ד חַ֔י",
+          "english": "And Arpachshad lived"
+        },
+        {
+          "hebrew": "חָמֵ֥שׁ וּשְׁלֹשִׁ֖ים שָׁנָ֑ה",
+          "english": "thirty-five years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־שָֽׁלַח׃",
+          "english": "and he begot Shalach."
+        }
+      ]
+    },
+    {
+      "verse": "11:13",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֣י אַרְפַּכְשַׁ֗ד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שֶׁ֔לַח",
+          "english": "And Arpachshad lived after he begot Shelach"
+        },
+        {
+          "hebrew": "שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה",
+          "english": "four hundred and three years,"
+        },
+        {
+          "hebrew": "וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and he begot sons and daughters."
+        }
+      ]
+    },
+    {
+      "verse": "11:14",
+      "pairs": [
+        {
+          "hebrew": "וְשֶׁ֥לַח חַ֖י",
+          "english": "And Shelach lived"
+        },
+        {
+          "hebrew": "שְׁלֹשִׁ֣ים שָׁנָ֑ה",
+          "english": "thirty years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־עֵֽבֶר׃",
+          "english": "and he begot Ever."
+        }
+      ]
+    },
+    {
+      "verse": "11:15",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־שֶׁ֗לַח אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־עֵ֔בֶר",
+          "english": "And Shelach lived after he begot Ever"
+        },
+        {
+          "hebrew": "שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה",
+          "english": "four hundred and three years,"
+        },
+        {
+          "hebrew": "וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and he begot sons and daughters."
+        }
+      ]
+    },
+    {
+      "verse": "11:16",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־עֵ֕בֶר",
+          "english": "And Ever lived"
+        },
+        {
+          "hebrew": "אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה",
+          "english": "thirty-four years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־פָּֽלֶג׃",
+          "english": "and he begot Paleg."
+        }
+      ]
+    },
+    {
+      "verse": "11:17",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־עֵ֗בֶר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־פֶּ֔לֶג",
+          "english": "And Ever lived after he begot Peleg"
+        },
+        {
+          "hebrew": "שְׁלֹשִׁ֣ים שָׁנָ֔ה וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה",
+          "english": "four hundred and thirty years,"
+        },
+        {
+          "hebrew": "וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and he begot sons and daughters."
+        }
+      ]
+    },
+    {
+      "verse": "11:18",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־פֶ֖לֶג",
+          "english": "And Peleg lived"
+        },
+        {
+          "hebrew": "שְׁלֹשִׁ֣ים שָׁנָ֑ה",
+          "english": "thirty years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־רְעֽוּ׃",
+          "english": "and he begot Re'u."
+        }
+      ]
+    },
+    {
+      "verse": "11:19",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־פֶ֗לֶג אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־רְע֔וּ תֵּ֥שַׁע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "And Peleg lived after he begot Re'u, two hundred and nine years, and he begot sons and daughters."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "11:20",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֣י רְע֔וּ",
+          "english": "And Re'u lived"
+        },
+        {
+          "hebrew": "שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה",
+          "english": "thirty-two years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־שְׂרֽוּג׃",
+          "english": "and he begot Serug."
+        }
+      ]
+    },
+    {
+      "verse": "11:21",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֣י רְע֗וּ אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שְׂר֔וּג שֶׁ֥בַע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "And Re'u lived after he begot Serug two hundred and seven years, and he begot sons and daughters."
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "11:22",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֥י שְׂר֖וּג",
+          "english": "And Serug lived"
+        },
+        {
+          "hebrew": "שְׁלֹשִׁ֣ים שָׁנָ֑ה",
+          "english": "thirty years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־נָחֽוֹר׃",
+          "english": "and he begot Nachor."
+        }
+      ]
+    },
+    {
+      "verse": "11:23",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֣י שְׂר֗וּג אַחֲרֵ֛י הוֹלִיד֥וֹ אֶת־נָח֖וֹר",
+          "english": "And Serug lived after he begot Nachor"
+        },
+        {
+          "hebrew": "מָאתַ֣יִם שָׁנָ֑ה",
+          "english": "two hundred years,"
+        },
+        {
+          "hebrew": "וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and he begot sons and daughters."
+        }
+      ]
+    },
+    {
+      "verse": "11:24",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֣י נָח֔וֹר",
+          "english": "And Nachor lived"
+        },
+        {
+          "hebrew": "תֵּ֥שַׁע וְעֶשְׂרִ֖ים שָׁנָ֑ה",
+          "english": "twenty-nine years"
+        },
+        {
+          "hebrew": "וַיּ֖וֹלֶד אֶת־תָּֽרַח׃",
+          "english": "and he begot Terach."
+        }
+      ]
+    },
+    {
+      "verse": "11:25",
+      "pairs": [
+        {
+          "hebrew": "וַיְחִ֣י נָח֗וֹר אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־תֶּ֔רַח",
+          "english": "And Nachor lived after he begot Terach"
+        },
+        {
+          "hebrew": "תְּשַֽׁע־עֶשְׂרֵ֥ה שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה",
+          "english": "a hundred and nineteen years,"
+        },
+        {
+          "hebrew": "וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "english": "and he begot sons and daughters."
+        }
+      ]
+    },
+    {
+      "verse": "11:26",
+      "pairs": [
+        {
+          "hebrew": "וַֽיְחִי־תֶ֖רַח",
+          "english": "And Terach lived"
+        },
+        {
+          "hebrew": "שִׁבְעִ֣ים שָׁנָ֑ה",
+          "english": "seventy years"
+        },
+        {
+          "hebrew": "וַיּ֙וֹלֶד֙ אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָֽן׃",
+          "english": "and he begot Avram, Nachor, and Haran."
+        }
+      ]
+    },
+    {
+      "verse": "11:27",
+      "pairs": [
+        {
+          "hebrew": "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת תֶּ֔רַח",
+          "english": "And these are the progeny of Terach:"
+        },
+        {
+          "hebrew": "תֶּ֚רַח הוֹלִ֣יד אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָ֑ן",
+          "english": "Terach begot Avram, Nachor and Haran,"
+        },
+        {
+          "hebrew": "וְהָרָ֖ן הוֹלִ֥יד אֶת־לֽוֹט׃",
+          "english": "and Haran begot Lot."
+        }
+      ]
+    },
+    {
+      "verse": "11:28",
+      "pairs": [
+        {
+          "hebrew": "וַיָּ֣מׇת הָרָ֔ן עַל־פְּנֵ֖י תֶּ֣רַח אָבִ֑יו",
+          "english": "And Haran died in the lifetime of Terach his father,"
+        },
+        {
+          "hebrew": "בְּאֶ֥רֶץ מוֹלַדְתּ֖וֹ בְּא֥וּר כַּשְׂדִּֽים׃",
+          "english": "in the land of his birth, Ur Kasdim."
+        }
+      ]
+    },
+    {
+      "verse": "11:29",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקַּ֨ח אַבְרָ֧ם וְנָח֛וֹר לָהֶ֖ם נָשִׁ֑ים שֵׁ֤ם אֵֽשֶׁת־אַבְרָם֙ שָׂרָ֔י וְשֵׁ֤ם אֵֽשֶׁת־נָחוֹר֙ מִלְכָּ֔ה בַּת־הָרָ֥ן אֲבִֽי־מִלְכָּ֖ה וַֽאֲבִ֥י יִסְכָּֽה׃",
+          "english": "And Avram and Nachor took for themselves wives. The name of the wife of Avram was Sarai, and the name of the wife of Nachor was Milkah, the daughter of Haran, the father of Milkah and the father of Yiskah [Sarah, so called: because she \"looked\" (sachah) through the Holy Spirit, because all \"gazed\" at her beauty, and because of her queenly grace (nesichuth)]"
+        }
+      ],
+      "error": true
+    },
+    {
+      "verse": "11:30",
+      "pairs": [
+        {
+          "hebrew": "וַתְּהִ֥י שָׂרַ֖י עֲקָרָ֑ה",
+          "english": "And Sarai was barren;"
+        },
+        {
+          "hebrew": "אֵ֥ין לָ֖הּ וָלָֽד׃",
+          "english": "she had no child."
+        }
+      ]
+    },
+    {
+      "verse": "11:31",
+      "pairs": [
+        {
+          "hebrew": "וַיִּקַּ֨ח תֶּ֜רַח אֶת־אַבְרָ֣ם בְּנ֗וֹ וְאֶת־ל֤וֹט בֶּן־הָרָן֙ בֶּן־בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ",
+          "english": "And Terach took Avram, his son, and Lot, the son of Haran, his son's son, and Sarai, his daughter-in-law, the wife of Avram, his son,"
+        },
+        {
+          "hebrew": "וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן",
+          "english": "and they [Terach and Avram] went out with them [Lot and Sarai] from Ur Kasdim to go to the land of Canaan;"
+        },
+        {
+          "hebrew": "וַיָּבֹ֥אוּ עַד־חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם׃",
+          "english": "and they came until Charan and they dwelt there."
+        }
+      ]
+    },
+    {
+      "verse": "11:32",
+      "pairs": [
+        {
+          "hebrew": "וַיִּהְי֣וּ יְמֵי־תֶ֔רַח חָמֵ֥שׁ שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה",
+          "english": "And the days of Terach were two hundred and five years,"
+        },
+        {
+          "hebrew": "וַיָּ֥מׇת תֶּ֖רַח בְּחָרָֽן׃&nbsp;{פ}",
+          "english": "and Terach \"died\" in Charan, [the wicked, even in their lifetimes being called \"dead\" (Scripture stating this here so that Avram's leaving Charan not be felt as a breach of the honor due his father)]."
+        }
+      ]
+    }
+  ],
+  "complete": false,
+  "models": {
+    "primary": "gemini-3.5-flash-lite",
+    "repair": "gemini-3.8-flash"
+  }
+}
