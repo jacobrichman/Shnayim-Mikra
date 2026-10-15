@@ -80,3 +80,42 @@ export function displayCache(cache, rows, ref) {
   if (!validPairs) throw new Error('No usable phrase data for this page');
   return result;
 }
+
+// One durable store for every collected verse, independent of parsha boundaries.
+export function newStore() {
+  return {schemaVersion:2, versions:{hebrew:HEBREW_VERSION,english:ENGLISH_VERSION}, sources:[], books:{}};
+}
+export function assertStore(store) {
+  if (store?.schemaVersion !== 2 || store.versions?.hebrew !== HEBREW_VERSION || store.versions?.english !== ENGLISH_VERSION || !store.books || Array.isArray(store.books) || typeof store.books !== 'object') throw new Error('Saved verse store has incompatible format or editions');
+  return store;
+}
+export function storedVerse(store, source) {
+  assertStore(store);
+  const match = source.ref.match(/^(.*?) (\d+):(\d+)$/u);
+  if (!match) throw new Error('Invalid verse reference');
+  return store.books[match[1]]?.[match[2]]?.[match[3]];
+}
+export function storeVerse(store, source, entry) {
+  assertStore(store);
+  let clean;
+  if (entry.error) {
+    if (entry.verse !== source.verse || entry.pairs?.length !== 1 || entry.pairs[0].hebrew !== source.hebrew || entry.pairs[0].english !== source.english) throw new Error('Error fallback changed source');
+    clean = {verse:source.verse,pairs:[{hebrew:source.hebrew,english:source.english}],error:true};
+  } else clean = validatePairs(source,entry);
+  const [,book,chapter,verse] = source.ref.match(/^(.*?) (\d+):(\d+)$/u);
+  const {verse:unused,...value} = clean;
+  if (entry.model) value.model=entry.model;
+  if (entry.repairedBy) value.repairedBy=entry.repairedBy;
+  (store.books[book] ??= {})[chapter] ??= {};
+  store.books[book][chapter][verse] = value;
+}
+export function parshaCache(store, rows, ref) {
+  assertStore(store);
+  return {schemaVersion:1,versions:store.versions,ref,rows:rows.flatMap(source=>{
+    const entry=storedVerse(store,source);
+    return entry ? [{...entry,verse:source.verse}] : [];
+  })};
+}
+export function displayStore(store, rows, ref) {
+  return displayCache(parshaCache(store,rows,ref),rows,ref);
+  }
