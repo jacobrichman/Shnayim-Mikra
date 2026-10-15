@@ -38,14 +38,14 @@ async function run(overrides = {}) {
 test('complete mocked generation publishes validated JSON, without key',async()=>{
  const {cwd,result}=await run(); try {
   assert.equal(result.status,0,result.stderr);
-  const text=await readFile(join(cwd,'data/parshas/Genesis%201%3A1-2.json'),'utf8');
-  assert.equal(JSON.parse(text).rows.length,2); assert.ok(!text.includes('TEST-NOT-A-REAL-KEY'));
+  const text=await readFile(join(cwd,'data/phrases.json'),'utf8');
+  assert.equal(Object.keys(JSON.parse(text).books.Genesis['1']).length,2); assert.ok(!text.includes('TEST-NOT-A-REAL-KEY'));
  } finally {await rm(cwd,{recursive:true,force:true});}
 });
 for (const [name,env] of [['quota exceeded',{MOCK_QUOTA:'true'}],['unconfirmed free tier',{GEMINI_FREE_TIER_CONFIRMED:'false'}]]) {
  test(name+' stops without publishing',async()=>{
   const {cwd,result}=await run(env); try {
-   assert.notEqual(result.status,0); await assert.rejects(access(join(cwd,'data/parshas/Genesis%201%3A1-2.json')));
+   assert.notEqual(result.status,0); await assert.rejects(access(join(cwd,'data/phrases.json')));
    assert.ok(!result.stderr.includes('TEST-NOT-A-REAL-KEY'));
   } finally {await rm(cwd,{recursive:true,force:true});}
  });
@@ -64,7 +64,8 @@ test('truncated whole-parsha response splits and publishes only complete validat
  const {cwd,result}=await run({MOCK_TRUNCATE:'true'}); try {
   assert.equal(result.status,0,result.stderr);
   assert.ok(result.stdout.includes('splitting'));
-  const cache=JSON.parse(await readFile(join(cwd,'data/parshas/Genesis%201%3A1-2.json'),'utf8'));
+  const store=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  const cache={rows:Object.entries(store.books.Genesis['1']).map(([verse,entry])=>({...entry,verse:'1:'+verse}))};cache.complete=!cache.rows.some(row=>row.error);
   assert.equal(cache.rows.length,2);
  } finally {await rm(cwd,{recursive:true,force:true});}
 });
@@ -72,8 +73,25 @@ test('truncated whole-parsha response splits and publishes only complete validat
 test('changed source is never published; failed verse retains exact original with visible error flag',async()=>{
  const {cwd,result}=await run({MOCK_BAD:'true'});try {
   assert.equal(result.status,0,result.stderr);
-  const cache=JSON.parse(await readFile(join(cwd,'data/parshas/Genesis%201%3A1-2.json'),'utf8'));
+  const store=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  const cache={rows:Object.entries(store.books.Genesis['1']).map(([verse,entry])=>({...entry,verse:'1:'+verse}))};cache.complete=!cache.rows.some(row=>row.error);
   assert.equal(cache.rows[1].error,true);assert.equal(cache.rows[1].pairs[0].hebrew,'ג ד');
   assert.ok(!JSON.stringify(cache).includes('BAD'));assert.equal(cache.complete,false);
+ }finally{await rm(cwd,{recursive:true,force:true});}
+});
+
+test('resuming retries only failed verses and keeps good neighbors unchanged',async()=>{
+ const {cwd,result}=await run({MOCK_BAD:'true',PHRASE_SKIP_REPAIR:'true'});try {
+  assert.equal(result.status,0,result.stderr);
+  const before=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  assert.equal(before.books.Genesis['1']['2'].error,true);
+  const guard=preload.replace("let rows =",`const sent=JSON.parse(JSON.parse(options.body).contents[0].parts[0].text.split('Sources:\\n')[1]);
+  if(sent.some(row=>row.verse==='1:1'))throw new Error('Valid neighbor was regenerated');
+  let rows =`);
+  const second=spawnSync(process.execPath,['--import','data:text/javascript,'+encodeURIComponent(guard),script],{cwd,encoding:'utf8',env:{...process.env,GEMINI_API_KEY:'TEST-NOT-A-REAL-KEY',GEMINI_FREE_TIER_CONFIRMED:'true',PARSHA_DATE:'2026-10-14'}});
+  assert.equal(second.status,0,second.stderr);
+  const after=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  assert.deepEqual(after.books.Genesis['1']['1'],before.books.Genesis['1']['1']);
+  assert.equal(after.books.Genesis['1']['2'].error,undefined);
  }finally{await rm(cwd,{recursive:true,force:true});}
 });
