@@ -457,7 +457,7 @@
         let phrases = null;
         let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
         try {
-          const cache = await fetchJson('./data/parshas/' + encodeURIComponent(ref) + '.json');
+          const cache = await fetchJson('./data/parshas/' + encodeURIComponent(encodeURIComponent(ref)) + '.json');
           phrases = displayCache(cache, verseRows(heText, enText, ref), ref);
           phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
         } catch (error) { console.info('Phrase view unavailable:', error.message); }
@@ -558,4 +558,4 @@
       });
     </script>
   </body>
-        </html>
+</html>
