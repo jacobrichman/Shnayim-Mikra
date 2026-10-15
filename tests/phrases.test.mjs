@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { verseRows, validatePairs, validateCache, displayCache, HEBREW_VERSION, ENGLISH_VERSION } from '../scripts/phrases.mjs';
+import { verseRows, validatePairs, validateCache, displayCache, newStore, storeVerse, storedVerse, parshaCache, displayStore, HEBREW_VERSION, ENGLISH_VERSION } from '../scripts/phrases.mjs';
 test('single chapter stays in its chapter', () => {
   assert.deepEqual(verseRows(['א ב', 'ג ד'], ['a b', 'c d'], 'Genesis 3:8-9').map(row => row.verse), ['3:8', '3:9']);
 });
@@ -40,4 +40,18 @@ test('ambiguous damaged verse falls back locally while other phrases remain',()=
  const result=displayCache(viewCache([displayGood]),[displaySource,second],'Genesis 1:1');
  assert.equal(result[1].pairs[0].wholeVerse,true);assert.equal(result[1].pairs[0].english,'a b c');
  assert.equal(result[0].pairs[0].error,undefined);
+});
+
+test('one store keys verses by book/chapter/verse and preserves earlier readings',()=>{
+ const store=newStore();const a={...displaySource,ref:'Genesis 1:1'},b={...displaySource,verse:'2:1',ref:'Genesis 2:1'};
+ storeVerse(store,a,displayGood);storeVerse(store,b,{...displayGood,verse:'2:1'});
+ assert.equal(Object.keys(store.books.Genesis).length,2);assert.equal(storedVerse(store,a).pairs.length,3);
+ assert.equal(parshaCache(store,[a],'Genesis 1:1').rows[0].verse,'1:1');
+ assert.equal(displayStore(store,[b],'Genesis 2:1')[0].pairs.length,3);
+});
+test('single-file error stores only exact original and rejects changed fallback',()=>{
+ const store=newStore(),source={...displaySource,ref:'Genesis 1:1'};
+ storeVerse(store,source,{verse:'1:1',pairs:[{hebrew:source.hebrew,english:source.english}],error:true});
+ assert.equal(storedVerse(store,source).error,true);
+ assert.throws(()=>storeVerse(store,source,{verse:'1:1',pairs:[{hebrew:'WRONG',english:source.english}],error:true}));
 });
