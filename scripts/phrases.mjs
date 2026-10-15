@@ -27,9 +27,22 @@ export function validatePairs(source, output) {
       throw new Error('Empty or invalid ' + language + ' phrase: ' + source.verse);
     }
     const joined = normalize(output.pairs.map(pair => pair[language]).join(' '));
-    if (joined !== source[language]) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
+    if (joined.normalize('NFC') !== source[language].normalize('NFC')) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
   }
-  return { verse: source.verse, pairs: output.pairs.map(pair => ({ hebrew: normalize(pair.hebrew), english: normalize(pair.english) })) };
+  // Canonically equivalent Unicode may encode the same Hebrew marks in a
+  // different order. Always reconstruct accepted phrases from the exact source,
+  // never store the model's spelling or combining-mark order.
+  const pairs = output.pairs.map(() => ({}));
+  for (const language of ['hebrew', 'english']) {
+    const words = source[language].split(' ');
+    let offset = 0;
+    output.pairs.forEach((pair, index) => {
+      const count = normalize(pair[language]).split(' ').length;
+      pairs[index][language] = words.slice(offset, offset + count).join(' ');
+      offset += count;
+    });
+  }
+  return { verse: source.verse, pairs };
 }
 export function validateCache(cache, rows, ref) {
   if (cache?.schemaVersion !== 1 || cache.ref !== ref || cache.versions?.hebrew !== HEBREW_VERSION || cache.versions?.english !== ENGLISH_VERSION || cache.rows?.length !== rows.length) {
@@ -118,4 +131,4 @@ export function parshaCache(store, rows, ref) {
 }
 export function displayStore(store, rows, ref) {
   return displayCache(parshaCache(store,rows,ref),rows,ref);
-  }
+}
