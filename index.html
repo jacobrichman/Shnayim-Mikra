@@ -272,7 +272,7 @@
     </div>
 
     <script type="module">
-      import { verseRows, displayCache } from "./scripts/phrases.mjs";
+      import { verseRows, displayStore } from "./scripts/phrases.mjs";
       function formatDate(date) {
         const y = date.getFullYear();
         const m = String(date.getMonth() + 1).padStart(2, '0');
@@ -422,7 +422,7 @@
       }
 
       async function loadParsha() {
-        const date = formatDate(new Date());
+        const date = new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Jerusalem',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
         const override = new URLSearchParams(location.search).get('parsha');
         let item;
         let overrideMissed = false;
@@ -460,8 +460,8 @@
         let phrases = null;
         let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
         try {
-          const cache = await fetchJson('./data/parshas/' + encodeURIComponent(encodeURIComponent(ref)) + '.json');
-          phrases = displayCache(cache, verseRows(heText, enText, ref), ref);
+          const cache = await fetchJson('./data/phrases.json');
+          phrases = displayStore(cache, verseRows(heText, enText, ref), ref);
           phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
         } catch (error) { console.info('Phrase view unavailable:', error.message); }
         renderParsha({
