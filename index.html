@@ -303,6 +303,7 @@
       function normalizeDivineName(text) {
         return String(text || '')
           .replace(/G-d/gi, 'Hashem')
+          .replace(/\b(?:[Tt]he\s+)?(?:L-(?:o)?rd|LORD|Lord)\b/g, 'Hashem')
           .replace(/י(?:[\u0591-\u05C7\-–—]*)ה(?:[\u0591-\u05C7\-–—]*)ו(?:[\u0591-\u05C7\-–—]*)ה/g, 'ה׳')
           .replace(/יהוה/g, 'ה׳');
       }
@@ -567,4 +568,4 @@
       });
     </script>
   </body>
-</html>
+        </html>
