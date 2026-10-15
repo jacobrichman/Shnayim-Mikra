@@ -20,6 +20,19 @@ globalThis.fetch = async (url, options) => {
  if (url.includes('generativelanguage.googleapis.com')) {
   if(JSON.parse(options.body).generationConfig.responseFormat.text.mimeType !== 'APPLICATION_JSON') throw new Error('REST JSON enum must be APPLICATION_JSON');
   if (process.env.MOCK_QUOTA) return new Response('{}',{status:429});
+  if (process.env.MOCK_INDEX_REPAIR && url.includes('gemini-3.8-flash')) return new Response('{}',{status:process.env.MOCK_REPAIR_QUOTA?'429':'503'});
+  const prompt=JSON.parse(options.body).contents[0].parts[0].text;
+  if(prompt.startsWith('Align the numbered')) {
+    if(process.env.MOCK_REPAIR_QUOTA)throw new Error('Index retry after quota is forbidden');
+    if(!process.env.MOCK_INDEX_REPAIR)return json({candidates:[{finishReason:'STOP',content:{parts:[{text:'{"rows":[]}'}]}}]});
+    const numbered=JSON.parse(prompt.split('Sources:\\n')[1]);
+    if(numbered.some(row=>row.verse==='1:1'))throw new Error('Index fallback received a valid neighbor');
+    if(numbered.some(row=>row.hebrewWordCount!==2||row.englishWords[0].end!==1))throw new Error('Missing numbered source words');
+    let ends=[[1,1],[2,2]];
+    if(process.env.MOCK_INDEX_INVALID)ends=[[1,1],[2,1]];
+    return json({candidates:[{finishReason:'STOP',content:{parts:[{text:JSON.stringify({rows:numbered.map(row=>({verse:row.verse,ends}))})}]}}]});
+  }
+
   let rows = [{verse:'1:1',pairs:[{hebrew:'א',english:'a'},{hebrew:'ב',english:'b'}]}, {verse:'1:2',pairs:[{hebrew:'ג',english:'c'},{hebrew:'ד',english:'d'}]}];
   const supplied=JSON.parse(JSON.parse(options.body).contents[0].parts[0].text.split('Sources:\\n')[1]);
   rows=rows.filter(row=>supplied.some(source=>source.verse===row.verse));
@@ -93,5 +106,32 @@ test('resuming retries only failed verses and keeps good neighbors unchanged',as
   const after=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
   assert.deepEqual(after.books.Genesis['1']['1'],before.books.Genesis['1']['1']);
   assert.equal(after.books.Genesis['1']['2'].error,undefined);
+ }finally{await rm(cwd,{recursive:true,force:true});}
+});
+
+test('numbered-index fallback runs automatically after failed copy repair and 503, only for failed verses',async()=>{
+ const {cwd,result}=await run({MOCK_BAD:'true',MOCK_INDEX_REPAIR:'true'});try{
+  assert.equal(result.status,0,result.stderr);
+  const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  assert.equal(s.books.Genesis['1']['2'].error,undefined);
+  assert.equal(s.books.Genesis['1']['2'].repairedBy,'gemini-3.5-flash-lite');
+  assert.equal(s.books.Genesis['1']['2'].pairs.map(p=>p.hebrew).join(' '),'ג ד');
+  assert.equal(s.books.Genesis['1']['1'].pairs.map(p=>p.english).join(' '),'a b');
+ }finally{await rm(cwd,{recursive:true,force:true});}
+});
+test('invalid index fallback keeps exact original red text',async()=>{
+ const {cwd,result}=await run({MOCK_BAD:'true',MOCK_INDEX_REPAIR:'true',MOCK_INDEX_INVALID:'true'});try{
+  assert.equal(result.status,0,result.stderr);
+  const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  assert.equal(s.books.Genesis['1']['2'].error,true);
+  assert.equal(s.books.Genesis['1']['2'].pairs[0].hebrew,'ג ד');
+ }finally{await rm(cwd,{recursive:true,force:true});}
+});
+test('repair quota stops before numbered-index fallback',async()=>{
+ const {cwd,result}=await run({MOCK_BAD:'true',MOCK_INDEX_REPAIR:'true',MOCK_REPAIR_QUOTA:'true'});try{
+  assert.equal(result.status,2,result.stderr);
+  assert.ok(!result.stdout.includes('Index retry after quota'));
+  const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  assert.equal(s.books.Genesis['1']['2'].error,true);
  }finally{await rm(cwd,{recursive:true,force:true});}
 });
