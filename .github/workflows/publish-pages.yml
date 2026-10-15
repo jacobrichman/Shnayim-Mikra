@@ -29,9 +29,9 @@ jobs:
           cp index.html README.md _site/
           cp -r fonts _site/
           cp scripts/phrases.mjs _site/scripts/
-          if [ -d data/parshas ]; then
-            mkdir -p _site/data/parshas
-            find data/parshas -name '*.json' ! -name '*.progress.json' -exec cp {} _site/data/parshas/ \;
+          if [ -f data/phrases.json ]; then
+            mkdir -p _site/data
+            cp data/phrases.json _site/data/
           fi
       - uses: actions/upload-pages-artifact@v3
         with:
