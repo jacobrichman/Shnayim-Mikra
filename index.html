@@ -425,12 +425,15 @@
         const date = formatDate(new Date());
         const override = new URLSearchParams(location.search).get('parsha');
         let item;
+        let overrideMissed = false;
         if (override) {
           if (override.length > 100 || /[<>\/]/.test(override)) throw new Error('Invalid parsha name');
           const reading = await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim()) + '?diaspora=0');
           item = reading.parasha;
           if (!item && override.includes(' ')) item = (await fetchJson('https://www.sefaria.org/api/calendars/next-read/' + encodeURIComponent(override.trim().replace(/\s+/g,'-')) + '?diaspora=0')).parasha;
-        } else {
+          overrideMissed = !item;
+        }
+        if (!item) {
           const [year,month,day] = date.split('-');
           const calendar = await fetchJson('https://www.sefaria.org/api/calendars?' + new URLSearchParams({year,month,day,diaspora:'0',timezone:'Asia/Jerusalem'}));
           item = calendar.calendar_items.find(function (entry) {
@@ -471,6 +474,7 @@
           hebrewText: heText,
           englishText: enText,
           aliyot: aliyot,
+          notice: overrideMissed ? 'We could not find a parsha named "' + override.trim() + '", so this week\'s parsha is shown.' : null,
         });
       }
 
@@ -535,11 +539,11 @@
         }
 
         document.getElementById('status').textContent = '';
-        if (!data.phrases) {
+        if (data.notice || !data.phrases) {
           const popup = document.createElement('dialog');
           popup.style.cssText = 'max-width: min(28rem, 80vw); border: 1px solid #ddcdb3; border-radius: 12px; padding: 24px; background: #fffdf9; color: #342819; font: 16px/1.5 Georgia, serif';
           const message = document.createElement('p');
-          message.textContent = 'Phrase data is not available for this parsha. Showing the original verses.';
+          message.textContent = [data.notice, !data.phrases ? 'Phrase data is not available for this parsha. Showing the original verses.' : null].filter(Boolean).join(' ');
           popup.setAttribute('aria-label', 'Phrase data unavailable');
           const close = document.createElement('button');
           close.textContent = 'OK';
@@ -553,7 +557,12 @@
 
       loadParsha().catch(function (error) {
         document.getElementById('status').textContent = '';
-        alert('Unable to load this parsha. Check the parsha name in the URL and try again.');
+        const table = document.getElementById('table');
+        table.innerHTML = '';
+        const message = document.createElement('p');
+        message.style.cssText = 'padding: 40px 24px; text-align: center; color: #5d6470; font: 16px/1.6 Georgia, serif';
+        message.textContent = 'Unable to load this parsha. Check the parsha name in the URL and try again.';
+        table.appendChild(message);
         console.error(error);
       });
     </script>
