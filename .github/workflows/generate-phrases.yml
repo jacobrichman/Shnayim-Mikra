@@ -40,12 +40,13 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_FREE_TIER_CONFIRMED: 'true'
           PARSHA_DATE: ${{ inputs.date }}
-      - name: Save completed data and resumable public-text checkpoints
+      - name: Save merged source-checked verse store
         run: |
           git config user.name 'Shnayim Mikra data generator'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          mkdir -p data/parshas
-          git add data/parshas/
+          mkdir -p data
+          if [ ! -f data/phrases.json ]; then exit 0; fi
+          git add data/phrases.json
           if ! git diff --cached --quiet; then
             git commit -m 'Save validated phrase data and generation progress'
             git push origin HEAD:${GITHUB_REF_NAME}
@@ -53,7 +54,7 @@ jobs:
       - name: Report quota or validation failure
         if: steps.generation.outcome == 'failure'
         run: |
-          echo 'Generation stopped. Completed caches and public-text progress were saved. No paid fallback. Check logs and rerun after resolving quota/validation.'
+          echo 'Generation stopped. Merged verse store was saved. No paid fallback. Check logs and rerun after resolving quota/validation.'
           exit 1
   deploy:
     needs: generate
@@ -73,9 +74,9 @@ jobs:
           cp index.html README.md _site/
           cp -r fonts _site/
           cp scripts/phrases.mjs _site/scripts/
-          if [ -d data/parshas ]; then
-            mkdir -p _site/data/parshas
-            find data/parshas -name '*.json' ! -name '*.progress.json' -exec cp {} _site/data/parshas/ \;
+          if [ -f data/phrases.json ]; then
+            mkdir -p _site/data
+            cp data/phrases.json _site/data/
           fi
       - uses: actions/upload-pages-artifact@v3
         with:
