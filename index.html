@@ -165,6 +165,115 @@
         opacity: 0.35;
       }
 
+
+      /* A4 print pages: fixed-size page boxes with three Hebrew+English
+         column pairs, filled on screen, so printing reproduces exactly what
+         is shown. Same method as the BT Siddur. On wide screens the rows move
+         into the pages; on small screens the pages are built from hidden
+         copies so the mobile layout stays untouched but printing still
+         produces the A4 pages. */
+      body.paginated .table,
+      body.paginated-print .table {
+        display: none;
+      }
+
+      .a4-box {
+        width: 210mm;
+        height: 297mm;
+        background: var(--panel);
+        border: 1px solid #ccc;
+        box-shadow: 0 8px 24px rgba(32, 24, 14, 0.08);
+        padding: 12mm 12mm;
+        box-sizing: border-box;
+        margin: 24px auto;
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .a4-box .header {
+        margin-bottom: 6px;
+        padding: 6px 8px 4px;
+      }
+
+      .a4-box .header h1 .title-main {
+        font-size: 0.65rem;
+      }
+
+      .a4-box .header h1 .title-sub {
+        font-size: 0.4rem;
+      }
+
+      .a4-cols {
+        flex: 1;
+        min-height: 0;
+        display: flex;
+      }
+
+      .a4-col {
+        flex: 1;
+        min-width: 0;
+        height: 100%;
+      }
+
+      .a4-col + .a4-col {
+        border-left: 1px solid var(--line);
+        padding-left: 4mm;
+        margin-left: 4mm;
+      }
+
+      /* Rows keep the side-by-side Hebrew/English grid inside pages even on
+         narrow screens, where the regular layout stacks them. */
+      .a4-box .row {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      }
+
+      .a4-box .cell + .cell {
+        border-left: 1px solid var(--line);
+        border-top: none;
+      }
+
+      /* Print-density typography: one third of the screen sizes. */
+      .a4-box .cell {
+        padding: 4px 6px;
+        min-height: auto;
+        line-height: 1.5;
+        font-size: calc(1rem / 3);
+      }
+
+      .a4-box .hebrew {
+        font-size: calc(1.3rem / 3);
+        line-height: 1.9;
+      }
+
+      .a4-box .english {
+        font-size: calc(0.981rem / 3); /* English at +9%: largest size that keeps Noach at 4 pages */
+      }
+
+      .a4-box .verse-num {
+        font-size: calc(0.72rem / 3);
+      }
+
+      .a4-box--grow {
+        height: auto;
+        overflow: visible;
+      }
+
+      /* Small screens: keep the pages off the screen, show them when printing. */
+      @media screen {
+        body.paginated-print #pages {
+          position: absolute;
+          visibility: hidden;
+          top: 0;
+          left: 0;
+        }
+
+        body.paginated-print .table {
+          display: block;
+        }
+      }
+
       @media (max-width: 700px) {
         .row {
           grid-template-columns: 1fr;
@@ -196,7 +305,18 @@
           margin: 0;
         }
 
-        .page {
+        .status {
+          display: none !important;
+        }
+
+        .row {
+          break-inside: avoid;
+          page-break-inside: avoid;
+        }
+
+        /* Original flowing print layout, used when the page boxes were not built
+           (small screens or the unpaginated view). */
+        body:not(.paginated):not(.paginated-print) .page {
           max-width: none;
           width: 210mm;
           min-height: 297mm;
@@ -204,7 +324,7 @@
           padding: 0;
         }
 
-        .header {
+        body:not(.paginated):not(.paginated-print) .header {
           display: block !important;
           background: transparent;
           border: none;
@@ -214,41 +334,83 @@
           margin: 0;
         }
 
-        .header h1 {
+        body:not(.paginated):not(.paginated-print) .header h1 {
           font-size: 22pt;
           text-align: center;
         }
 
-        .status {
-          display: none !important;
-        }
-
-        .table {
+        body:not(.paginated):not(.paginated-print) .table {
           border: none;
           box-shadow: none;
           border-radius: 0;
         }
 
-        .row {
+        body:not(.paginated):not(.paginated-print) .row {
           display: grid;
           grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-          break-inside: avoid;
-          page-break-inside: avoid;
           border-bottom: 1px solid rgba(0, 0, 0, 0.08);
         }
 
-        .cell {
+        body:not(.paginated):not(.paginated-print) .cell {
           padding: 6px 10px;
           min-height: auto;
         }
 
-        .english {
+        body:not(.paginated):not(.paginated-print) .english {
           font-size: 10.5pt;
         }
 
-        .hebrew {
+        body:not(.paginated):not(.paginated-print) .hebrew {
           font-size: 18pt;
           line-height: 1.6;
+        }
+
+        /* Paginated layout: each on-screen A4 box prints as exactly one page. */
+        body.paginated .page,
+        body.paginated-print .page {
+          max-width: none;
+          margin: 0;
+          padding: 0;
+        }
+
+        body.paginated .table,
+        body.paginated-print .table {
+          display: none !important;
+        }
+
+        body.paginated-print #pages {
+          position: static !important;
+          visibility: visible !important;
+        }
+
+        body.paginated-print .page > .header {
+          display: none !important;
+        }
+
+        body.paginated .a4-box,
+        body.paginated-print .a4-box {
+          border: none;
+          box-shadow: none;
+          margin: 0;
+          page-break-after: always;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+
+        body.paginated .a4-box:last-child,
+        body.paginated-print .a4-box:last-child {
+          page-break-after: auto;
+        }
+
+        body.paginated .a4-box--grow,
+        body.paginated-print .a4-box--grow {
+          height: auto;
+          overflow: visible;
+        }
+
+        body.paginated .page > a,
+        body.paginated-print .page > a {
+          display: none !important;
         }
       }
     </style>
@@ -481,6 +643,100 @@
         });
       }
 
+
+      // A4 print pagination, adapted from the BT Siddur method: every row
+      // starts in the first column of the first fixed-size A4 page, then rows
+      // that do not fit move to the next column, and after the third column
+      // onto the next page, until every row has a place. Wide screens show the
+      // pages on screen; small screens keep the mobile table on screen and use
+      // hidden copies of the rows so printing still yields the A4 pages.
+      function a4PageHeightUsed(parent) {
+        let height = 0;
+        for (const child of parent.children) {
+          const style = window.getComputedStyle(child);
+          height += child.offsetHeight;
+          height += parseFloat(style.marginTop) || 0;
+          height += parseFloat(style.marginBottom) || 0;
+        }
+        return height;
+      }
+
+      function paginateA4() {
+        if (document.body.classList.contains('paginated') || document.body.classList.contains('paginated-print')) return;
+        const forcePages = document.body.classList.contains('force-pages');
+        const wideEnough = forcePages || window.matchMedia('(min-width: 701px)').matches || window.matchMedia('print').matches;
+
+        const pageEl = document.querySelector('.page');
+        const header = pageEl.querySelector('.header');
+        const table = document.getElementById('table');
+        if (!table || !table.children.length) return;
+
+        const moveRows = wideEnough; // small screens keep their table and get cloned print pages
+        document.body.classList.add(moveRows ? 'paginated' : 'paginated-print');
+
+        const pages = document.createElement('div');
+        pages.id = 'pages';
+        pageEl.insertBefore(pages, table);
+
+        function makeBox() {
+          const box = document.createElement('div');
+          box.className = 'a4-box';
+          const cols = document.createElement('div');
+          cols.className = 'a4-cols';
+          for (let i = 0; i < 3; i++) {
+            const col = document.createElement('div');
+            col.className = 'a4-col';
+            cols.appendChild(col);
+          }
+          box.appendChild(cols);
+          return box;
+        }
+
+        const firstBox = makeBox();
+        pages.appendChild(firstBox);
+        if (header) firstBox.insertBefore(moveRows ? header : header.cloneNode(true), firstBox.firstChild);
+
+        const firstCol = firstBox.querySelector('.a4-col');
+        if (moveRows) {
+          while (table.firstChild) {
+            firstCol.appendChild(table.firstChild);
+          }
+          table.remove();
+        } else {
+          for (const row of table.children) {
+            firstCol.appendChild(row.cloneNode(true));
+          }
+        }
+
+        let active = firstBox;
+        while (active) {
+          const cols = active.querySelectorAll('.a4-col');
+          const usable = cols[0].clientHeight;
+          for (let i = 0; i < cols.length; i++) {
+            const col = cols[i];
+            while (a4PageHeightUsed(col) > usable && col.children.length > 1) {
+              const last = col.lastElementChild;
+              if (i < cols.length - 1) {
+                cols[i + 1].insertBefore(last, cols[i + 1].firstChild);
+              } else {
+                let next = active.nextElementSibling;
+                if (!next) {
+                  next = makeBox();
+                  active.after(next);
+                }
+                next.querySelector('.a4-col').insertBefore(last, next.querySelector('.a4-col').firstChild);
+              }
+            }
+            if (a4PageHeightUsed(col) > usable) {
+              // A single row taller than a whole column: let the page grow instead of clipping text.
+              active.classList.add('a4-box--grow');
+              console.warn('A row is taller than one A4 column; its page was allowed to grow.');
+            }
+          }
+          active = active.nextElementSibling;
+        }
+      }
+
       function renderParsha(data) {
         const titleMain = data.hebrewTitle || data.title || '';
         const titleSub = data.heRef || '';
@@ -556,6 +812,9 @@
           document.body.append(popup);
           popup.showModal();
         }
+
+        document.fonts.ready.then(() => requestAnimationFrame(paginateA4));
+        window.addEventListener('beforeprint', paginateA4);
       }
 
       loadParsha().catch(function (error) {
@@ -570,4 +829,4 @@
       });
     </script>
   </body>
-        </html>
+</html>
