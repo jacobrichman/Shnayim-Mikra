@@ -7801,7 +7801,7 @@
               "english": "..."
             }
           ],
-          "error": true
+          "error": true, "untranslated": true
         },
         "47": {
           "pairs": [
