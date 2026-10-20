@@ -15,7 +15,7 @@ globalThis.fetch = async (url, options) => {
  if (url.includes('/sheets/')) return json({ref:['Genesis 1:1','Genesis 1:2']});
  if (url.includes('/v3/texts/')) return json({versions:[
   {versionTitle:'Miqra according to the Masorah',license:'CC-BY-SA',text:['א ב','ג ד']},
-  {versionTitle:'The Rashi chumash by Rabbi Shraga Silverstein',license:'CC-BY',text:['a b','c d']}
+  {versionTitle:'The Rashi chumash by Rabbi Shraga Silverstein',license:'CC-BY',text:process.env.MOCK_UNTRANSLATED?['a b','...']:['a b','c d']}
  ]});
  if (url.includes('generativelanguage.googleapis.com')) {
   if(JSON.parse(options.body).generationConfig.responseFormat.text.mimeType !== 'APPLICATION_JSON') throw new Error('REST JSON enum must be APPLICATION_JSON');
@@ -35,6 +35,7 @@ globalThis.fetch = async (url, options) => {
 
   let rows = [{verse:'1:1',pairs:[{hebrew:'א',english:'a'},{hebrew:'ב',english:'b'}]}, {verse:'1:2',pairs:[{hebrew:'ג',english:'c'},{hebrew:'ד',english:'d'}]}];
   const supplied=JSON.parse(JSON.parse(options.body).contents[0].parts[0].text.split('Sources:\\n')[1]);
+  if(supplied.some(row=>!/[\\p{L}\\p{N}]/u.test(row.english)))throw new Error('Untranslated verse sent to Gemini');
   rows=rows.filter(row=>supplied.some(source=>source.verse===row.verse));
   if(process.env.MOCK_TRUNCATE && supplied.length>1) return json({candidates:[{finishReason:'MAX_TOKENS'}]});
   if(process.env.MOCK_BAD) rows.at(-1).pairs[0].hebrew = 'BAD';
@@ -133,5 +134,20 @@ test('repair quota stops before numbered-index fallback',async()=>{
   assert.ok(!result.stdout.includes('Index retry after quota'));
   const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
   assert.equal(s.books.Genesis['1']['2'].error,true);
+ }finally{await rm(cwd,{recursive:true,force:true});}
+});
+
+test('verse without source translation is stored exactly once and never sent to Gemini',async()=>{
+ const {cwd,result}=await run({MOCK_UNTRANSLATED:'true'});try{
+  assert.equal(result.status,0,result.stderr);
+  const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  assert.equal(s.books.Genesis['1']['2'].error,true);
+  assert.equal(s.books.Genesis['1']['2'].untranslated,true);
+  assert.equal(s.books.Genesis['1']['2'].pairs[0].english,'...');
+  assert.equal(s.books.Genesis['1']['2'].pairs[0].hebrew,'ג ד');
+  assert.equal(s.books.Genesis['1']['1'].error,undefined);
+  const second=spawnSync(process.execPath,['--import',preloadURL,script],{cwd,encoding:'utf8',env:{...process.env,GEMINI_API_KEY:'TEST-NOT-A-REAL-KEY',GEMINI_FREE_TIER_CONFIRMED:'true',PARSHA_DATE:'2026-10-14',MOCK_UNTRANSLATED:'true',MOCK_QUOTA:'true'}});
+  assert.equal(second.status,0,second.stderr);
+  assert.ok(second.stdout.includes('no Gemini calls needed'));
  }finally{await rm(cwd,{recursive:true,force:true});}
 });
