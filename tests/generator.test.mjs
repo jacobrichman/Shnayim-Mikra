@@ -13,10 +13,15 @@ globalThis.fetch = async (url, options) => {
  const json = body => new Response(JSON.stringify(body), {status:200,headers:{'Content-Type':'application/json'}});
  if (url.includes('/calendars?')) {const q=new URL(url).searchParams;if(!q.has('year')||!q.has('month')||!q.has('day')) throw new Error('Calendar requires year/month/day');return json({calendar_items:[{title:{en:'Parashat Hashavua'},ref:'Genesis 1:1-2',displayValue:{en:'Bereshit'}}]});}
  if (url.includes('/sheets/')) return json({ref:['Genesis 1:1','Genesis 1:2']});
- if (url.includes('/v3/texts/')) return json({versions:[
-  {versionTitle:'Miqra according to the Masorah',license:'CC-BY-SA',text:['א ב','ג ד']},
-  {versionTitle:'The Rashi chumash by Rabbi Shraga Silverstein',license:'CC-BY',text:process.env.MOCK_UNTRANSLATED?['a b','...']:['a b','c d']}
- ]});
+ if (url.includes('/v3/texts/')) {
+  const koren = url.includes('Koren');
+  return json({versions:[
+   {versionTitle:'Miqra according to the Masorah',license:'CC-BY-SA',text:['א ב','ג ד']},
+   koren
+    ? {versionTitle:'The Koren Jerusalem Bible',license:'CC-BY-NC',text:process.env.MOCK_BOTH_EMPTY?['a b','...']:['a b','c d']}
+    : {versionTitle:'The Rashi chumash by Rabbi Shraga Silverstein',license:'CC-BY',text:process.env.MOCK_UNTRANSLATED?['a b','...']:['a b','c d']}
+  ]});
+ }
  if (url.includes('generativelanguage.googleapis.com')) {
   if(JSON.parse(options.body).generationConfig.responseFormat.text.mimeType !== 'APPLICATION_JSON') throw new Error('REST JSON enum must be APPLICATION_JSON');
   if (process.env.MOCK_QUOTA) return new Response('{}',{status:429});
@@ -137,16 +142,30 @@ test('repair quota stops before numbered-index fallback',async()=>{
  }finally{await rm(cwd,{recursive:true,force:true});}
 });
 
-test('verse without source translation is stored exactly once and never sent to Gemini',async()=>{
+test('verse missing in Silverstein falls back to Koren with attribution',async()=>{
  const {cwd,result}=await run({MOCK_UNTRANSLATED:'true'});try{
   assert.equal(result.status,0,result.stderr);
   const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
-  assert.equal(s.books.Genesis['1']['2'].error,true);
-  assert.equal(s.books.Genesis['1']['2'].untranslated,true);
-  assert.equal(s.books.Genesis['1']['2'].pairs[0].english,'...');
-  assert.equal(s.books.Genesis['1']['2'].pairs[0].hebrew,'ג ד');
-  assert.equal(s.books.Genesis['1']['1'].error,undefined);
+  const v=s.books.Genesis['1']['2'];
+  assert.equal(v.error,undefined);assert.equal(v.untranslated,undefined);
+  assert.equal(v.englishVersion,'The Koren Jerusalem Bible');
+  assert.equal(v.pairs.map(pair=>pair.english).join(' '),'c d');
+  assert.ok(s.sources.some(src=>src.versionTitle==='The Koren Jerusalem Bible'&&src.license==='CC-BY-NC'));
   const second=spawnSync(process.execPath,['--import',preloadURL,script],{cwd,encoding:'utf8',env:{...process.env,GEMINI_API_KEY:'TEST-NOT-A-REAL-KEY',GEMINI_FREE_TIER_CONFIRMED:'true',PARSHA_DATE:'2026-10-14',MOCK_UNTRANSLATED:'true',MOCK_QUOTA:'true'}});
+  assert.equal(second.status,0,second.stderr);
+  assert.ok(second.stdout.includes('no Gemini calls needed'));
+ }finally{await rm(cwd,{recursive:true,force:true});}
+});
+
+test('verse missing in both editions is stored exactly once and never sent to Gemini',async()=>{
+ const {cwd,result}=await run({MOCK_UNTRANSLATED:'true',MOCK_BOTH_EMPTY:'true'});try{
+  assert.equal(result.status,0,result.stderr);
+  const s=JSON.parse(await readFile(join(cwd,'data/phrases.json'),'utf8'));
+  const v=s.books.Genesis['1']['2'];
+  assert.equal(v.error,true);assert.equal(v.untranslated,true);
+  assert.equal(v.pairs[0].english,'...');
+  assert.equal(s.books.Genesis['1']['1'].error,undefined);
+  const second=spawnSync(process.execPath,['--import',preloadURL,script],{cwd,encoding:'utf8',env:{...process.env,GEMINI_API_KEY:'TEST-NOT-A-REAL-KEY',GEMINI_FREE_TIER_CONFIRMED:'true',PARSHA_DATE:'2026-10-14',MOCK_UNTRANSLATED:'true',MOCK_BOTH_EMPTY:'true',MOCK_QUOTA:'true'}});
   assert.equal(second.status,0,second.stderr);
   assert.ok(second.stdout.includes('no Gemini calls needed'));
  }finally{await rm(cwd,{recursive:true,force:true});}
