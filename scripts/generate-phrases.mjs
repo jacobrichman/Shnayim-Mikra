@@ -49,15 +49,32 @@ async function saveStore() {
   await rename(storePath+'.tmp',storePath);
 }
 const output = {schemaVersion:1,ref:item.ref,versions:store.versions,rows:[]};
-const pending = [];
+// A verse is alignable only when both source editions carry real text. Some
+// verses have no translation in the source edition (English is literally
+// '...'); they can never be aligned and must never be sent to Gemini.
+const alignable = source => /[\p{L}\p{N}]/u.test(source.hebrew) && /[\p{L}\p{N}]/u.test(source.english);
+let pending = [];
 for (const source of rows) {
   const saved = storedVerse(store,source);
+  if (saved?.untranslated && saved.pairs?.length === 1 && saved.pairs[0].hebrew === source.hebrew && saved.pairs[0].english === source.english) {
+    output.rows.push({verse:source.verse,pairs:saved.pairs,error:true,untranslated:true});
+    continue;
+  }
   try {
     if (!saved || saved.error) throw new Error('Needs alignment');
     const valid=validatePairs(source,{...saved,verse:source.verse});
     output.rows.push({...valid,model:saved.model,repairedBy:saved.repairedBy});
   } catch { pending.push(source); }
 }
+const missingTranslation = pending.filter(source => !alignable(source));
+pending = pending.filter(source => alignable(source));
+for (const source of missingTranslation) {
+  console.log('Source edition has no translation for ' + source.ref + '; recording exact source without Gemini.');
+  const entry = {verse:source.verse,pairs:[{hebrew:source.hebrew,english:source.english}],error:true,untranslated:true};
+  output.rows.push(entry);
+  storeVerse(store,source,entry);
+}
+if (missingTranslation.length) await saveStore();
 if (!pending.length) { console.log('Already saved and valid: '+item.ref+'; no Gemini calls needed.'); process.exit(0); }
 const schema = { type: 'object', properties: { rows: { type: 'array', items: { type: 'object', properties: {
   verse: { type: 'string' }, pairs: { type: 'array', minItems: 2, items: { type: 'object', properties: { hebrew: { type: 'string' }, english: { type: 'string' } }, required: ['hebrew', 'english'] } }
@@ -151,7 +168,7 @@ for (let index=0;index<pending.length;index+=size) {
 output.rows.sort((a,b)=>rows.findIndex(row=>row.verse===a.verse)-rows.findIndex(row=>row.verse===b.verse));
 let quotaStopped = false;
 let repairAccessStopped = false;
-let failures = output.rows.filter(row => row.error);
+let failures = output.rows.filter(row => row.error && !row.untranslated);
 if (failures.length && process.env.PHRASE_SKIP_REPAIR !== 'true') {
   const failedSources = rows.filter(row => failures.some(failed => failed.verse === row.verse));
   try {
@@ -170,7 +187,7 @@ if (failures.length && process.env.PHRASE_SKIP_REPAIR !== 'true') {
     repairAccessStopped = /HTTP 40[13]|blocked/i.test(error.message);
     console.log('Stronger-model review unavailable: ' + error.message + '; original text remains flagged in red.');
   }
-  failures = output.rows.filter(row => row.error);
+  failures = output.rows.filter(row => row.error && !row.untranslated);
 }
 if (failures.length && !quotaStopped && !repairAccessStopped && process.env.PHRASE_SKIP_REPAIR !== 'true') {
   // One bounded fallback pass, at most 20 still-failed verses per request.
@@ -196,11 +213,14 @@ if (failures.length && !quotaStopped && !repairAccessStopped && process.env.PHRA
       break;
     }
   }
-  failures=output.rows.filter(row=>row.error);
+  failures=output.rows.filter(row=>row.error&&!row.untranslated);
 }
-if (!failures.length) validateCache(output, rows, item.ref);
+if (!failures.length) {
+  const translatedRows = rows.filter(alignable);
+  validateCache({...output,rows:output.rows.filter(row=>!row.untranslated)}, translatedRows, item.ref);
+}
 else if (output.rows.length !== rows.length) throw new Error('Incomplete source coverage');
 for (const entry of output.rows) storeVerse(store,rows.find(row=>row.verse===entry.verse),entry);
 await saveStore();
-console.log(`Saved source-checked verses: ${output.rows.length}, ${failures.length} flagged for stronger-model repair.`);
+console.log(`Saved source-checked verses: ${output.rows.length}, ${failures.length} flagged for stronger-model repair, ${output.rows.filter(row=>row.untranslated).length} without source translation.`);
 if (quotaStopped) process.exit(2);
