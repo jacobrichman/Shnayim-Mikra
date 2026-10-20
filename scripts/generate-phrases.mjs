@@ -43,6 +43,36 @@ let store;
 try { store = assertStore(JSON.parse(await readFile(storePath,'utf8'))); }
 catch (error) { if (error.code !== 'ENOENT') throw error; store = newStore(); }
 store.sources = data.versions.map(({versionTitle,versionSource,license})=>({versionTitle,versionSource,license}));
+
+// Verses with no usable Silverstein English (blank or '...') fall back to The
+// Koren Jerusalem Bible (CC-BY-NC) for that verse only, with attribution.
+// Gemini is skipped only when both editions lack the verse.
+const ENGLISH_FALLBACK_VERSION = 'The Koren Jerusalem Bible';
+const hasWords = text => /[\p{L}\p{N}]/u.test(text);
+const missingEnglish = rows.filter(row => !hasWords(row.english));
+if (missingEnglish.length) {
+  const fbParams = new URLSearchParams({ return_format: 'text_only' });
+  fbParams.append('version', 'hebrew|' + HEBREW_VERSION);
+  fbParams.append('version', 'english|' + ENGLISH_FALLBACK_VERSION);
+  const fbData = await json(api + 'v3/texts/' + encodeURIComponent(item.ref) + '?' + fbParams);
+  const fb = fbData.versions?.find(version => version.versionTitle === ENGLISH_FALLBACK_VERSION);
+  if (!fb || fbData.warnings?.length) throw new Error('Fallback English edition unavailable');
+  if (fb.license !== 'CC-BY-NC') throw new Error('Fallback English licensing changed; review before publishing');
+  const fbByVerse = new Map(verseRows(he.text, fb.text, item.ref).map(row => [row.verse, row.english]));
+  let used = 0;
+  for (const row of missingEnglish) {
+    const fallbackText = fbByVerse.get(row.verse);
+    if (fallbackText && hasWords(fallbackText)) {
+      row.english = fallbackText;
+      row.englishVersion = ENGLISH_FALLBACK_VERSION;
+      used++;
+    }
+  }
+  if (used) {
+    console.log('Silverstein English missing for ' + missingEnglish.length + ' verse(s); ' + used + ' filled from ' + ENGLISH_FALLBACK_VERSION + ' (' + fb.license + ').');
+    store.sources = [...store.sources, {versionTitle: fb.versionTitle, versionSource: fb.versionSource, license: fb.license}];
+  }
+}
 async function saveStore() {
   store.updatedAt = new Date().toISOString();
   await writeFile(storePath+'.tmp',JSON.stringify(store,null,2)+'\n');
@@ -52,7 +82,7 @@ const output = {schemaVersion:1,ref:item.ref,versions:store.versions,rows:[]};
 // A verse is alignable only when both source editions carry real text. Some
 // verses have no translation in the source edition (English is literally
 // '...'); they can never be aligned and must never be sent to Gemini.
-const alignable = source => /[\p{L}\p{N}]/u.test(source.hebrew) && /[\p{L}\p{N}]/u.test(source.english);
+const alignable = source => hasWords(source.hebrew) && hasWords(source.english);
 let pending = [];
 for (const source of rows) {
   const saved = storedVerse(store,source);
@@ -63,7 +93,7 @@ for (const source of rows) {
   try {
     if (!saved || saved.error) throw new Error('Needs alignment');
     const valid=validatePairs(source,{...saved,verse:source.verse});
-    output.rows.push({...valid,model:saved.model,repairedBy:saved.repairedBy});
+    output.rows.push({...valid,model:saved.model,repairedBy:saved.repairedBy,englishVersion:saved.englishVersion});
   } catch { pending.push(source); }
 }
 const missingTranslation = pending.filter(source => !alignable(source));
@@ -140,8 +170,8 @@ async function align(batch, depth = 0) {
     const parsed = await requestPairs(batch, model);
     validated = batch.map(row => {
       const matches = parsed.rows?.filter(value => value?.verse === row.verse) || [];
-      try { return {...validatePairs(row, matches.length === 1 ? matches[0] : null),model}; }
-      catch { return {verse:row.verse,pairs:[{hebrew:row.hebrew,english:row.english}],error:true}; }
+      try { const valid = validatePairs(row, matches.length === 1 ? matches[0] : null); if (row.englishVersion) valid.englishVersion = row.englishVersion; return {...valid,model}; }
+      catch { return {verse:row.verse,pairs:[{hebrew:row.hebrew,english:row.english}],error:true,englishVersion:row.englishVersion}; }
     });
   } catch (error) {
     // Never retry auth, service/quota errors or timeouts with smaller requests.
@@ -178,6 +208,7 @@ if (failures.length && process.env.PHRASE_SKIP_REPAIR !== 'true') {
       try {
         const fixed = validatePairs(row, matches.length === 1 ? matches[0] : null);
         fixed.repairedBy = 'gemini-3.8-flash';
+        if (row.englishVersion) fixed.englishVersion = row.englishVersion;
         output.rows[output.rows.findIndex(value => value.verse === row.verse)] = fixed;
       } catch {}
     }
@@ -202,6 +233,7 @@ if (failures.length && !quotaStopped && !repairAccessStopped && process.env.PHRA
         try {
           const fixed=indexPairs(source,matches.length===1?matches[0]:null);
           fixed.model='gemini-3.5-flash-lite';fixed.repairedBy='gemini-3.5-flash-lite';
+          if(source.englishVersion)fixed.englishVersion=source.englishVersion;
           output.rows[output.rows.findIndex(entry=>entry.verse===source.verse)]=fixed;
           storeVerse(store,source,fixed);
         } catch {} // Failed checks keep the exact original red fallback.
