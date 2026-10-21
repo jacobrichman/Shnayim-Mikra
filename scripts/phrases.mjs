@@ -120,6 +120,7 @@ export function storeVerse(store, source, entry) {
   if (entry.model) value.model=entry.model;
   if (entry.repairedBy) value.repairedBy=entry.repairedBy;
   if (entry.untranslated) value.untranslated=true;
+  if (entry.englishVersion) value.englishVersion=entry.englishVersion;
   (store.books[book] ??= {})[chapter] ??= {};
   store.books[book][chapter][verse] = value;
 }
