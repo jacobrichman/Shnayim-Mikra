@@ -31,6 +31,8 @@ The browser downloads this one JSON file, then selects only the current reading'
 
 Default: current Israel reading, using the Jerusalem date. Override with `?parsha=Noach` or `?parsha=Lech-Lecha`. Space-separated names are retried with hyphens where Sefaria requires them. The query only selects saved text; it never runs Gemini or asks visitors for a key.
 
+The page remembers the scroll position of each reading in browser storage, keyed by its Torah ref, and restores it the next time that reading opens. Storage keeps the 20 most recent readings and never leaves the browser.
+
 ## Private generation and Free-tier limits
 
 The key is read from `GEMINI_API_KEY` privately at generation time. It never belongs in HTML, browser JavaScript, data JSON, commits, or logs. Do not enable billing to get past quota limits.
