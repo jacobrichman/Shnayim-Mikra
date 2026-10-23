@@ -737,6 +737,63 @@
         }
       }
 
+      // Remembers where each parsha was scrolled to in browser storage, so
+      // reopening a parsha returns to the same place. Storage is keyed by the
+      // parsha ref, so every parsha keeps its own position.
+      const scrollStoreKey = 'shnayim-mikra.scrollPositions';
+
+      function readScrollPositions() {
+        try {
+          const parsed = JSON.parse(localStorage.getItem(scrollStoreKey));
+          return parsed && typeof parsed === 'object' ? parsed : {};
+        } catch (error) {
+          return {};
+        }
+      }
+
+      function rememberScrollPosition(parshaKey) {
+        let saveQueued = false;
+        function save() {
+          saveQueued = false;
+          try {
+            const positions = readScrollPositions();
+            positions[parshaKey] = Math.round(window.scrollY);
+            const keys = Object.keys(positions);
+            if (keys.length > 20) {
+              // Keep at most the 20 most recent parshiyot so storage stays small.
+              for (const oldKey of keys.slice(0, keys.length - 20)) delete positions[oldKey];
+            }
+            localStorage.setItem(scrollStoreKey, JSON.stringify(positions));
+          } catch (error) {
+            // Storage unavailable (for example private browsing): nothing to save.
+          }
+        }
+        window.addEventListener('scroll', () => {
+          if (!saveQueued) {
+            saveQueued = true;
+            requestAnimationFrame(save);
+          }
+        }, { passive: true });
+        window.addEventListener('pagehide', save);
+      }
+
+      function restoreScrollPosition(parshaKey) {
+        const saved = readScrollPositions()[parshaKey];
+        if (typeof saved !== 'number' || saved <= 0) return;
+        let userScrolled = false;
+        window.addEventListener('scroll', () => { userScrolled = true; }, { passive: true });
+        document.fonts.ready.then(() => {
+          // Registered after paginateA4's own frame, so the A4 page layout has
+          // settled before the scroll is restored. Skipped when the reader
+          // already scrolled while the page was loading.
+          requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+              if (!userScrolled) window.scrollTo(0, saved);
+            });
+          });
+        });
+      }
+
       function renderParsha(data) {
         const titleMain = data.hebrewTitle || data.title || '';
         const titleSub = data.heRef || '';
@@ -815,6 +872,8 @@
 
         document.fonts.ready.then(() => requestAnimationFrame(paginateA4));
         window.addEventListener('beforeprint', paginateA4);
+        rememberScrollPosition(data.ref);
+        restoreScrollPosition(data.ref);
       }
 
       loadParsha().catch(function (error) {
