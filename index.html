@@ -183,7 +183,7 @@
         background: var(--panel);
         border: 1px solid #ccc;
         box-shadow: 0 8px 24px rgba(32, 24, 14, 0.08);
-        padding: 12mm 12mm;
+        padding: 0; /* Edge to edge: the printer's fit-to-page supplies the margin. */
         box-sizing: border-box;
         margin: 24px auto;
         overflow: hidden;
@@ -219,8 +219,8 @@
 
       .a4-col + .a4-col {
         border-left: 1px solid var(--line);
-        padding-left: 4mm;
-        margin-left: 4mm;
+        padding-left: 2mm;
+        margin-left: 2mm;
       }
 
       /* Rows keep the side-by-side Hebrew/English grid inside pages even on
@@ -236,23 +236,23 @@
 
       /* Print-density typography: one third of the screen sizes. */
       .a4-box .cell {
-        padding: 4px 6px;
+        padding: 2px 4px;
         min-height: auto;
-        line-height: 1.5;
-        font-size: calc(1rem / 3);
+        line-height: 1.35;
+        font-size: calc(1rem / 2.5);
       }
 
       .a4-box .hebrew {
-        font-size: calc(1.3rem / 3);
-        line-height: 1.9;
+        font-size: calc(1.3rem / 2.5);
+        line-height: 1.6;
       }
 
       .a4-box .english {
-        font-size: calc(0.981rem / 3); /* English at +9%: largest size that keeps Noach at 4 pages */
+        font-size: calc(0.981rem / 2.5); /* English at +9% relative size, enlarged in the tightened four-column pages. */
       }
 
       .a4-box .verse-num {
-        font-size: calc(0.72rem / 3);
+        font-size: calc(0.72rem / 2.5);
       }
 
       .a4-box--grow {
@@ -646,7 +646,7 @@
 
       // A4 print pagination, adapted from the BT Siddur method: every row
       // starts in the first column of the first fixed-size A4 page, then rows
-      // that do not fit move to the next column, and after the third column
+      // that do not fit move to the next column, and after the last column
       // onto the next page, until every row has a place. Wide screens show the
       // pages on screen; small screens keep the mobile table on screen and use
       // hidden copies of the rows so printing still yields the A4 pages.
@@ -683,7 +683,7 @@
           box.className = 'a4-box';
           const cols = document.createElement('div');
           cols.className = 'a4-cols';
-          for (let i = 0; i < 3; i++) {
+          for (let i = 0; i < 4; i++) {
             const col = document.createElement('div');
             col.className = 'a4-col';
             cols.appendChild(col);
