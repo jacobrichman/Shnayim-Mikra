@@ -197,6 +197,11 @@
         padding: 6px 8px 4px;
       }
 
+      .a4-box .a4-col .header {
+        margin: 0 0 4px;
+        padding: 4px 4px 2px;
+      }
+
       .a4-box .header h1 .title-main {
         font-size: 0.65rem;
       }
@@ -219,32 +224,32 @@
 
       .a4-col + .a4-col {
         border-left: 1px solid var(--line);
-        padding-left: 2mm;
-        margin-left: 2mm;
+        padding-left: 1mm;
+        margin-left: 1mm;
       }
 
       /* Rows keep the side-by-side Hebrew/English grid inside pages even on
          narrow screens, where the regular layout stacks them. */
       .a4-box .row {
-        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        grid-template-columns: minmax(0, 1fr);
       }
 
       .a4-box .cell + .cell {
-        border-left: 1px solid var(--line);
-        border-top: none;
+        border-left: none;
+        border-top: 1px solid var(--line);
       }
 
       /* Print-density typography: one third of the screen sizes. */
       .a4-box .cell {
-        padding: 2px 4px;
+        padding: 0px 2px;
         min-height: auto;
-        line-height: 1.35;
+        line-height: 1.18;
         font-size: calc(1rem / 2.5);
       }
 
       .a4-box .hebrew {
         font-size: calc(1.3rem / 2.5);
-        line-height: 1.6;
+        line-height: 1.35;
       }
 
       .a4-box .english {
@@ -253,6 +258,82 @@
 
       .a4-box .verse-num {
         font-size: calc(0.72rem / 2.5);
+      }
+
+      /* Grayscale print pages: dark text and rules, no background tint. */
+      .a4-box {
+        background: #fff;
+        border-color: #b5b5b5;
+        box-shadow: none;
+        color: #111;
+      }
+
+      .a4-box .header {
+        background: none;
+        border-color: #999;
+        box-shadow: none;
+      }
+
+      .a4-box .header h1 {
+        color: #000;
+      }
+
+      .a4-box .hebrew {
+        color: #000;
+      }
+
+      .a4-box .english {
+        color: #1a1a1a;
+      }
+
+      .a4-box .english strong {
+        color: #000;
+      }
+
+      .a4-box .verse-num {
+        color: #444;
+      }
+
+      .a4-box .row {
+        border-bottom-color: #b5b5b5;
+      }
+
+      .a4-box .cell + .cell {
+        border-top-color: #b5b5b5;
+      }
+
+      .a4-box .a4-col + .a4-col {
+        border-left-color: #999;
+      }
+
+      /* Hairline rules: Chrome clamps borders to 1pt in print, so draw
+         the rules as 0.5px gradient backgrounds instead. */
+      .a4-box .row {
+        border-bottom: none;
+        background-image: linear-gradient(#b5b5b5, #b5b5b5);
+        background-size: 100% 0.5px;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+      }
+
+      .a4-box .row:last-child {
+        background-image: none;
+      }
+
+      .a4-box .cell + .cell {
+        border-top: none;
+        background-image: linear-gradient(#b5b5b5, #b5b5b5);
+        background-size: 100% 0.5px;
+        background-position: top left;
+        background-repeat: no-repeat;
+      }
+
+      .a4-box .a4-col + .a4-col {
+        border-left: none;
+        background-image: linear-gradient(#999, #999);
+        background-size: 0.5px 100%;
+        background-position: top left;
+        background-repeat: no-repeat;
       }
 
       .a4-box--grow {
@@ -683,7 +764,7 @@
           box.className = 'a4-box';
           const cols = document.createElement('div');
           cols.className = 'a4-cols';
-          for (let i = 0; i < 4; i++) {
+          for (let i = 0; i < 7; i++) {
             const col = document.createElement('div');
             col.className = 'a4-col';
             cols.appendChild(col);
@@ -694,7 +775,7 @@
 
         const firstBox = makeBox();
         pages.appendChild(firstBox);
-        if (header) firstBox.insertBefore(moveRows ? header : header.cloneNode(true), firstBox.firstChild);
+        if (header) firstBox.querySelectorAll('.a4-col')[3].prepend(moveRows ? header : header.cloneNode(true));
 
         const firstCol = firstBox.querySelector('.a4-col');
         if (moveRows) {
@@ -717,7 +798,9 @@
             while (a4PageHeightUsed(col) > usable && col.children.length > 1) {
               const last = col.lastElementChild;
               if (i < cols.length - 1) {
-                cols[i + 1].insertBefore(last, cols[i + 1].firstChild);
+                const target = cols[i + 1];
+                const firstEl = target.firstElementChild;
+                target.insertBefore(last, firstEl && firstEl.classList.contains('header') ? firstEl.nextElementSibling : firstEl);
               } else {
                 let next = active.nextElementSibling;
                 if (!next) {
