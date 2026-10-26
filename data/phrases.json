@@ -58431,8 +58431,815 @@
           ],
           "model": "Instinct"
         }
+      },
+      "9": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֣ה אֶל־מֹשֶׁ֣ה בְמִדְבַּר־סִ֠ינַ֠י",
+              "english": "And the L-rd spoke to Moses in the desert of Sinai"
+            },
+            {
+              "hebrew": "בַּשָּׁנָ֨ה הַשֵּׁנִ֜ית לְצֵאתָ֨ם מֵאֶ֧רֶץ מִצְרַ֛יִם בַּחֹ֥דֶשׁ הָרִאשׁ֖וֹן לֵאמֹֽר׃",
+              "english": "in the second year after their going out from the land of Egypt, in the first month (Nissan), saying: [(Bamidbar begins with the second month (1:1) — whence it is derived that \"there is no before and after (i.e., strict chronological sequence) in the Torah.\" (It does not begin with this section for it is disparaging to Israel that all the forty years that they were in the desert they offered only this one Paschal sacrifice.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְיַעֲשׂ֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־הַפָּ֖סַח",
+              "english": "The children of Israel shall offer the Pesach"
+            },
+            {
+              "hebrew": "בְּמוֹעֲדֽוֹ׃",
+              "english": "in its appointed time, [even on the Sabbath, even in a state of (communal) uncleanliness]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "בְּאַרְבָּעָ֣ה עָשָֽׂר־י֠וֹם בַּחֹ֨דֶשׁ הַזֶּ֜ה בֵּ֧ין הָֽעַרְבַּ֛יִם תַּעֲשׂ֥וּ אֹת֖וֹ בְּמֹעֲד֑וֹ",
+              "english": "On the fourteenth day of this month, towards evening shall you offer it, in its appointed time."
+            },
+            {
+              "hebrew": "כְּכׇל־חֻקֹּתָ֥יו וּכְכׇל־מִשְׁפָּטָ֖יו תַּעֲשׂ֥וּ אֹתֽוֹ׃",
+              "english": "According to all of its statutes [the mitzvoth relating directly to its body] and according to all its [attendant] ordinances shall you offer it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר מֹשֶׁ֛ה אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל",
+              "english": "And Moses spoke to the children of Israel"
+            },
+            {
+              "hebrew": "לַעֲשֹׂ֥ת הַפָּֽסַח׃",
+              "english": "to offer the Pesach. [(He exhorted them prior to observance (having already promulgated it to them when he heard it from Sinai)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּעֲשׂ֣וּ אֶת־הַפֶּ֡סַח בָּרִאשׁ֡וֹן בְּאַרְבָּעָה֩ עָשָׂ֨ר י֥וֹם לַחֹ֛דֶשׁ בֵּ֥ין הָעַרְבַּ֖יִם בְּמִדְבַּ֣ר סִינָ֑י",
+              "english": "And they offered the Pesach in the first (month) on the fourteenth day of the month, towards evening, in the desert of Sinai."
+            },
+            {
+              "hebrew": "כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֤ה יְהֹוָה֙ אֶת־מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "According to all that the L-rd had commanded Moses, so did the children of Israel do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֣י אֲנָשִׁ֗ים אֲשֶׁ֨ר הָי֤וּ טְמֵאִים֙ לְנֶ֣פֶשׁ אָדָ֔ם",
+              "english": "And there were men who were unclean by the body of a dead man,"
+            },
+            {
+              "hebrew": "וְלֹא־יָכְל֥וּ לַעֲשֹׂת־הַפֶּ֖סַח בַּיּ֣וֹם הַה֑וּא",
+              "english": "and they could not offer the Pesach on that day,"
+            },
+            {
+              "hebrew": "וַֽיִּקְרְב֞וּ לִפְנֵ֥י מֹשֶׁ֛ה וְלִפְנֵ֥י אַהֲרֹ֖ן בַּיּ֥וֹם הַהֽוּא׃",
+              "english": "and they drew near before Moses and Aaron on that day."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַ֠יֹּאמְר֠וּ הָאֲנָשִׁ֤ים הָהֵ֙מָּה֙ אֵלָ֔יו אֲנַ֥חְנוּ טְמֵאִ֖ים לְנֶ֣פֶשׁ אָדָ֑ם",
+              "english": "And those men said to him: We are unclean by the body of a dead man."
+            },
+            {
+              "hebrew": "לָ֣מָּה נִגָּרַ֗ע לְבִלְתִּ֨י הַקְרִ֜יב אֶת־קׇרְבַּ֤ן יְהֹוָה֙ בְּמֹ֣עֲד֔וֹ בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "Why should we be held back, not to offer the sacrifice of the L-rd in its appointed time, in the midst of the children of Israel?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֲלֵהֶ֖ם מֹשֶׁ֑ה",
+              "english": "And Moses said to them:"
+            },
+            {
+              "hebrew": "עִמְד֣וּ וְאֶשְׁמְעָ֔ה מַה־יְצַוֶּ֥ה יְהֹוָ֖ה לָכֶֽם׃&nbsp;{פ}",
+              "english": "Stand, and I will hear what the L-rd will command concerning you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר",
+              "english": "Speak to the children of Israel, saying:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אִ֣ישׁ כִּי־יִהְיֶֽה־טָמֵ֣א&thinsp;׀&thinsp;לָנֶ֡פֶשׁ אוֹ֩ בְדֶ֨רֶךְ רְחֹקָ֜הׄ לָכֶ֗ם א֚וֹ לְדֹרֹ֣תֵיכֶ֔ם",
+              "english": "A man, if he be unclean by a dead body, or on a distant way [(Not literally \"distant\"; it is sufficient that he should have been outside the threshold of the azarah all the time of slaughtering.)], of you or of your generations,"
+            },
+            {
+              "hebrew": "וְעָ֥שָׂה פֶ֖סַח לַיהֹוָֽה׃",
+              "english": "he shall (yet) offer the Pesach to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "בַּחֹ֨דֶשׁ הַשֵּׁנִ֜י בְּאַרְבָּעָ֨ה עָשָׂ֥ר י֛וֹם בֵּ֥ין הָעַרְבַּ֖יִם יַעֲשׂ֣וּ אֹת֑וֹ",
+              "english": "In the second month, on the fourteenth day, towards evening shall they offer it;"
+            },
+            {
+              "hebrew": "עַל־מַצּ֥וֹת וּמְרֹרִ֖ים יֹאכְלֻֽהוּ׃",
+              "english": "with matzoth and bitter herbs shall they eat it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־יַשְׁאִ֤ירוּ מִמֶּ֙נּוּ֙ עַד־בֹּ֔קֶר",
+              "english": "They shall not leave over of it until the morning,"
+            },
+            {
+              "hebrew": "וְעֶ֖צֶם לֹ֣א יִשְׁבְּרוּ־ב֑וֹ",
+              "english": "and a bone shall they not break in it;"
+            },
+            {
+              "hebrew": "כְּכׇל־חֻקַּ֥ת הַפֶּ֖סַח יַעֲשׂ֥וּ אֹתֽוֹ׃",
+              "english": "according to all the statute of the Pesach shall they offer it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהָאִישׁ֩ אֲשֶׁר־ה֨וּא טָה֜וֹר וּבְדֶ֣רֶךְ לֹא־הָיָ֗ה וְחָדַל֙ לַעֲשׂ֣וֹת הַפֶּ֔סַח",
+              "english": "And the man who is clean and was not on the way and who failed to offer the Pesach,"
+            },
+            {
+              "hebrew": "וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּ֑יהָ",
+              "english": "that soul shall be cut off from his people;"
+            },
+            {
+              "hebrew": "כִּ֣י&thinsp;׀ קׇרְבַּ֣ן יְהֹוָ֗ה לֹ֤א הִקְרִיב֙ בְּמֹ֣עֲד֔וֹ חֶטְא֥וֹ יִשָּׂ֖א הָאִ֥ישׁ הַהֽוּא׃",
+              "english": "for the sacrifice of the L-rd he did not offer in its appointed time. That man shall bear his sin."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יָג֨וּר אִתְּכֶ֜ם גֵּ֗ר וְעָ֤שָֽׂה פֶ֙סַח֙ לַֽיהֹוָ֔ה",
+              "english": "And if there live a proselyte among you, and he would offer a Pesach to the L-rd,"
+            },
+            {
+              "hebrew": "כְּחֻקַּ֥ת הַפֶּ֛סַח וּכְמִשְׁפָּט֖וֹ כֵּ֣ן יַעֲשֶׂ֑ה",
+              "english": "then according to the statute of the Pesach and according to its ordinance, thus shall he do."
+            },
+            {
+              "hebrew": "חֻקָּ֤ה אַחַת֙ יִהְיֶ֣ה לָכֶ֔ם וְלַגֵּ֖ר וּלְאֶזְרַ֥ח הָאָֽרֶץ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "One statute shall there be for you, both for the proselyte and for the native of the land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וּבְיוֹם֙ הָקִ֣ים אֶת־הַמִּשְׁכָּ֔ן כִּסָּ֤ה הֶֽעָנָן֙ אֶת־הַמִּשְׁכָּ֔ן לְאֹ֖הֶל הָעֵדֻ֑ת",
+              "english": "And on the day that the mishkan was erected, the cloud covered the mishkan [which had been made] as a tent for the [tablets of the] Testimony."
+            },
+            {
+              "hebrew": "וּבָעֶ֜רֶב יִהְיֶ֧ה עַֽל־הַמִּשְׁכָּ֛ן כְּמַרְאֵה־אֵ֖שׁ עַד־בֹּֽקֶר׃",
+              "english": "And in the evening there would be on the mishkan a semblance of fire until morning."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "כֵּ֚ן יִהְיֶ֣ה תָמִ֔יד הֶעָנָ֖ן יְכַסֶּ֑נּוּ",
+              "english": "So was it always: the cloud covered it,"
+            },
+            {
+              "hebrew": "וּמַרְאֵה־אֵ֖שׁ לָֽיְלָה׃",
+              "english": "and a semblance of fire at night."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וּלְפִ֞י הֵעָל֤וֹת הֶֽעָנָן֙ מֵעַ֣ל הָאֹ֔הֶל וְאַ֣חֲרֵי כֵ֔ן יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And when the cloud departed from over the tent, the children of Israel would travel."
+            },
+            {
+              "hebrew": "וּבִמְק֗וֹם אֲשֶׁ֤ר יִשְׁכׇּן־שָׁם֙ הֶֽעָנָ֔ן שָׁ֥ם יַחֲנ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "And in the place where the cloud rested, the children of Israel encamped."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "עַל־פִּ֣י יְהֹוָ֗ה יִסְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "By word of the L-rd the children of Israel traveled [The cloud would fold itself up like a beam over the (encampment of) the children of Judah (by word of the L-rd), and did not start moving until Moses said: \"Stand, O L-rd!\" (see 10:35)],"
+            },
+            {
+              "hebrew": "וְעַל־פִּ֥י יְהֹוָ֖ה יַחֲנ֑וּ",
+              "english": "and by word of the L-rd they encamped. [The cloud would ascend as a pillar over the children of Judah and would not spread out (over the mishkan) until Moses said: \"Rest, O L-rd, etc.\" (see 10:36). Thus (23): \"By word of the L-rd, at the hand of Moses.\"]"
+            },
+            {
+              "hebrew": "כׇּל־יְמֵ֗י אֲשֶׁ֨ר יִשְׁכֹּ֧ן הֶעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן יַחֲנֽוּ׃",
+              "english": "All the days that the cloud abode over the mishkan, they camped."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וּבְהַאֲרִ֧יךְ הֶֽעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן יָמִ֣ים רַבִּ֑ים",
+              "english": "And when the cloud lingered over the mishkan many days,"
+            },
+            {
+              "hebrew": "וְשָׁמְר֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־מִשְׁמֶ֥רֶת יְהֹוָ֖ה וְלֹ֥א יִסָּֽעוּ׃",
+              "english": "the children of Israel kept the charge of the L-rd and did not travel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְיֵ֞שׁ אֲשֶׁ֨ר יִהְיֶ֧ה הֶֽעָנָ֛ן יָמִ֥ים מִסְפָּ֖ר עַל־הַמִּשְׁכָּ֑ן",
+              "english": "And at times the cloud remained over the mishkan but a few days."
+            },
+            {
+              "hebrew": "עַל־פִּ֤י יְהֹוָה֙ יַחֲנ֔וּ וְעַל־פִּ֥י יְהֹוָ֖ה יִסָּֽעוּ׃",
+              "english": "By word of the L-rd they encamped, and by word of the L-rd they traveled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְיֵ֞שׁ אֲשֶׁר־יִהְיֶ֤ה הֶֽעָנָן֙ מֵעֶ֣רֶב עַד־בֹּ֔קֶר וְנַעֲלָ֧ה הֶֽעָנָ֛ן בַּבֹּ֖קֶר וְנָסָ֑עוּ",
+              "english": "And at times the cloud remained from evening until morning, and when the cloud departed in the morning, they traveled."
+            },
+            {
+              "hebrew": "א֚וֹ יוֹמָ֣ם וָלַ֔יְלָה וְנַעֲלָ֥ה הֶעָנָ֖ן וְנָסָֽעוּ׃",
+              "english": "Or a day or a night — when the cloud departed, they traveled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "אֽוֹ־יֹמַ֜יִם אוֹ־חֹ֣דֶשׁ אוֹ־יָמִ֗ים בְּהַאֲרִ֨יךְ הֶעָנָ֤ן עַל־הַמִּשְׁכָּן֙ לִשְׁכֹּ֣ן עָלָ֔יו יַחֲנ֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל וְלֹ֣א יִסָּ֑עוּ",
+              "english": "Or two days, or a month, or a year — when the cloud lingered over the mishkan, abiding upon it, the children of Israel remained encamped and did not travel;"
+            },
+            {
+              "hebrew": "וּבְהֵעָלֹת֖וֹ יִסָּֽעוּ׃",
+              "english": "and when it departed, they traveled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "עַל־פִּ֤י יְהֹוָה֙ יַחֲנ֔וּ וְעַל־פִּ֥י יְהֹוָ֖ה יִסָּ֑עוּ",
+              "english": "By word of the L-rd they encamped, and by word of the L-rd they traveled."
+            },
+            {
+              "hebrew": "אֶת־מִשְׁמֶ֤רֶת יְהֹוָה֙ שָׁמָ֔רוּ עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "The charge of the L-rd they kept — by word of the L-rd, at the hand of Moses."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "10": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "עֲשֵׂ֣ה לְךָ֗ שְׁתֵּי֙ חֲצֽוֹצְרֹ֣ת כֶּ֔סֶף מִקְשָׁ֖ה תַּעֲשֶׂ֣ה אֹתָ֑ם",
+              "english": "Make for yourself [i.e., from what is yours] two trumpets of silver; beaten work (from a block of silver) shall you make them."
+            },
+            {
+              "hebrew": "וְהָי֤וּ לְךָ֙ לְמִקְרָ֣א הָֽעֵדָ֔ה וּלְמַסַּ֖ע אֶת־הַֽמַּחֲנֽוֹת׃",
+              "english": "And they shall be for you for convoking the congregation [the Sanhedrin and the rest of the people] and for the [signaling of the] traveling of the camps."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְתָקְע֖וּ בָּהֵ֑ן",
+              "english": "And when they [the Cohanim] blow [tekiah] with [both of] them,"
+            },
+            {
+              "hebrew": "וְנֽוֹעֲד֤וּ אֵלֶ֙יךָ֙ כׇּל־הָ֣עֵדָ֔ה אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "then all the congregation shall gather unto you, to the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־בְּאַחַ֖ת יִתְקָ֑עוּ",
+              "english": "And if they blow with one,"
+            },
+            {
+              "hebrew": "וְנוֹעֲד֤וּ אֵלֶ֙יךָ֙ הַנְּשִׂיאִ֔ים רָאשֵׁ֖י אַלְפֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "there shall gather unto you [at the door of the tent of meeting], the chiefs, the heads of the thousands of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וּתְקַעְתֶּ֖ם תְּרוּעָ֑ה",
+              "english": "And when you blow a teruah (tremolo), [in sum: tekiah, teruah, tekiah]"
+            },
+            {
+              "hebrew": "וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים קֵֽדְמָה׃",
+              "english": "then there shall travel the eastern encampments."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וּתְקַעְתֶּ֤ם תְּרוּעָה֙ שֵׁנִ֔ית וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים תֵּימָ֑נָה",
+              "english": "And when you blow a second teruah then there shall travel the southern encampments;"
+            },
+            {
+              "hebrew": "תְּרוּעָ֥ה יִתְקְע֖וּ לְמַסְעֵיהֶֽם׃",
+              "english": "a teruah shall they blow for their travels."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וּבְהַקְהִ֖יל אֶת־הַקָּהָ֑ל תִּתְקְע֖וּ",
+              "english": "And when the assembly is to be gathered you shall blow a tekiah (an extended blast),"
+            },
+            {
+              "hebrew": "וְלֹ֥א תָרִֽיעוּ׃",
+              "english": "but not a teruah. [In sum: convoking of the congregation, with two trumpets; convoking of the chiefs, with one. In both instances, no teruah. Traveling of the camps, with two trumpets, teruah and tekiah.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים יִתְקְע֖וּ בַּחֲצֹֽצְר֑וֹת",
+              "english": "And the sons of Aaron the Cohanim shall blow on the trumpets [for these convocations and travels],"
+            },
+            {
+              "hebrew": "וְהָי֥וּ לָכֶ֛ם לְחֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם׃",
+              "english": "and they shall be to you for a statute forever throughout your generations."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־תָבֹ֨אוּ מִלְחָמָ֜ה בְּאַרְצְכֶ֗ם עַל־הַצַּר֙ הַצֹּרֵ֣ר אֶתְכֶ֔ם",
+              "english": "And when you go to war in your land against the oppressor who oppresses you,"
+            },
+            {
+              "hebrew": "וַהֲרֵעֹתֶ֖ם בַּחֲצֹצְרֹ֑ת",
+              "english": "then you shall sound the trumpets"
+            },
+            {
+              "hebrew": "וְנִזְכַּרְתֶּ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וְנוֹשַׁעְתֶּ֖ם מֵאֹיְבֵיכֶֽם׃",
+              "english": "and you will be remembered before the L-rd your G-d, and you will be saved from your enemies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וּבְי֨וֹם שִׂמְחַתְכֶ֥ם וּֽבְמוֹעֲדֵיכֶם֮ וּבְרָאשֵׁ֣י חׇדְשֵׁיכֶם֒ וּתְקַעְתֶּ֣ם בַּחֲצֹֽצְרֹ֗ת עַ֚ל עֹלֹ֣תֵיכֶ֔ם וְעַ֖ל זִבְחֵ֣י שַׁלְמֵיכֶ֑ם",
+              "english": "And on the day of your rejoicing and on your appointed times, and on your new moons, you shall sound the trumpets [( — whence is derived \"shofaroth\" (on Rosh Hashanah)] over your [communal] burnt-offerings, and over the sacrifices of your peace-offerings."
+            },
+            {
+              "hebrew": "וְהָי֨וּ לָכֶ֤ם לְזִכָּרוֹן֙ לִפְנֵ֣י אֱלֹֽהֵיכֶ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;{פ}",
+              "english": "And they shall be to you for a remembrance (zikkaron) [( — whence is derived \"zichronoth\")] before your G-d. I am the L-rd your G-d [( — whence is derived \"malchuyoth\" (melech = king)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ",
+              "english": "And it was, in the second year, in the second month, on the twentieth day of the month,"
+            },
+            {
+              "hebrew": "נַעֲלָה֙ הֶֽעָנָ֔ן מֵעַ֖ל מִשְׁכַּ֥ן הָעֵדֻֽת׃",
+              "english": "that the cloud departed from over the mishkan of the Testimony [(Israel was in Chorev, then, twelve months less ten days.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּסְע֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל לְמַסְעֵיהֶ֖ם מִמִּדְבַּ֣ר סִינָ֑י",
+              "english": "And Israel embarked on their travels from the desert of Sinai [in the order of their standards, as prescribed],"
+            },
+            {
+              "hebrew": "וַיִּשְׁכֹּ֥ן הֶעָנָ֖ן בְּמִדְבַּ֥ר פָּארָֽן׃",
+              "english": "and the cloud came to rest in the desert of Paran [in Kivroth Hata'avah (12:34)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּסְע֖וּ בָּרִאשֹׁנָ֑ה",
+              "english": "They traveled for the first time"
+            },
+            {
+              "hebrew": "עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃",
+              "english": "by word of the L-rd, at the hand of Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּסַּ֞ע דֶּ֣גֶל מַחֲנֵ֧ה בְנֵֽי־יְהוּדָ֛ה בָּרִאשֹׁנָ֖ה לְצִבְאֹתָ֑ם",
+              "english": "The standard of the camp of the children of Yehudah traveled first, according to their hosts."
+            },
+            {
+              "hebrew": "וְעַ֨ל־צְבָא֔וֹ נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃",
+              "english": "And over his host, Nachshon ben Aminadav."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י יִשָּׂשכָ֑ר",
+              "english": "And over the host of the tribe of the children of Yissachar,"
+            },
+            {
+              "hebrew": "נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃",
+              "english": "Nethanel ben Tzuar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י זְבוּלֻ֑ן",
+              "english": "And over the host of the tribe of the children of Zevulun,"
+            },
+            {
+              "hebrew": "אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+              "english": "Eliyav ben Cheilon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְהוּרַ֖ד הַמִּשְׁכָּ֑ן",
+              "english": "And when the mishkan was taken down,"
+            },
+            {
+              "hebrew": "וְנָסְע֤וּ בְנֵֽי־גֵרְשׁוֹן֙ וּבְנֵ֣י מְרָרִ֔י נֹשְׂאֵ֖י הַמִּשְׁכָּֽן׃",
+              "english": "there set forth the sons of Gershon and the sons of Merari, the bearers of the mishkan. [When the standard of Yehudah set forth, Aaron and his sons entered and removed the parocheth and covered the ark with it. Then the sons of Gershon and the sons of Merari dismantled the mishkan and loaded it in wagons. The ark and holy vessels to be borne by the children of Kehath stood covered and readied on staves until the standard of the camp of Reuven set forth, whereupon (21): \"And the Kehathim set forth.\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְנָסַ֗ע דֶּ֛גֶל מַחֲנֵ֥ה רְאוּבֵ֖ן לְצִבְאֹתָ֑ם",
+              "english": "And the standard of the camp of Reuven set forth according to their hosts;"
+            },
+            {
+              "hebrew": "וְעַ֨ל־צְבָא֔וֹ אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+              "english": "and over his host, Elitzur ben Shedeur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י שִׁמְע֑וֹן",
+              "english": "And over the host of the tribe of the children of Shimon,"
+            },
+            {
+              "hebrew": "שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+              "english": "Shelumiel ben Tzurishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְעַל־צְבָ֖א מַטֵּ֣ה בְנֵי־גָ֑ד",
+              "english": "And over the host of the tribe of the children of Gad,"
+            },
+            {
+              "hebrew": "אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+              "english": "Elyasaf ben De'uel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְנָסְעוּ֙ הַקְּהָתִ֔ים נֹשְׂאֵ֖י הַמִּקְדָּ֑שׁ",
+              "english": "And the Kehathim set forth, the bearers of the holy things,"
+            },
+            {
+              "hebrew": "וְהֵקִ֥ימוּ אֶת־הַמִּשְׁכָּ֖ן עַד־בֹּאָֽם׃",
+              "english": "and they [the sons of Gershon and the sons of Merari (when they saw the signal for encamping on the standard of the camp of Yehudah)], set up the mishkan [so that it was ready to receive the ark, the table, the menorah, and the altars], by the time they [the sons of Kehath (who were traveling two standards behind)] arrived."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְנָסַ֗ע דֶּ֛גֶל מַחֲנֵ֥ה בְנֵֽי־אֶפְרַ֖יִם לְצִבְאֹתָ֑ם",
+              "english": "And the standard of the children of Ephraim set forth according to their hosts;"
+            },
+            {
+              "hebrew": "וְעַ֨ל־צְבָא֔וֹ אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃",
+              "english": "and over his host, Elishama ben Amihud."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י מְנַשֶּׁ֑ה",
+              "english": "And over the host of the tribe of the children of Menasheh,"
+            },
+            {
+              "hebrew": "גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+              "english": "Gamliel ben Pedatzur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י בִנְיָמִ֑ן",
+              "english": "And over the host of the tribe of the children of Binyamin,"
+            },
+            {
+              "hebrew": "אֲבִידָ֖ן בֶּן־גִּדְעוֹנִֽי׃",
+              "english": "Avidan ben Gidoni."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְנָסַ֗ע דֶּ֚גֶל מַחֲנֵ֣ה בְנֵי־דָ֔ן מְאַסֵּ֥ף לְכׇל־הַֽמַּחֲנֹ֖ת לְצִבְאֹתָ֑ם",
+              "english": "And the standard of the camp of the children of Dan set forth, the rearward of all the camps, according to their hosts;"
+            },
+            {
+              "hebrew": "וְעַ֨ל־צְבָא֔וֹ אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃",
+              "english": "and over his host, Achiezer ben Amishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י אָשֵׁ֑ר",
+              "english": "And over the host of the tribe of the children of Asher,"
+            },
+            {
+              "hebrew": "פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+              "english": "Pagiel ben Achran."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י נַפְתָּלִ֑י",
+              "english": "And over the host of the tribe of the children of Naftali,"
+            },
+            {
+              "hebrew": "אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+              "english": "Achira ben Einan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֛לֶּה מַסְעֵ֥י בְנֵֽי־יִשְׂרָאֵ֖ל לְצִבְאֹתָ֑ם",
+              "english": "This is the traveling order of the children of Israel according to their hosts."
+            },
+            {
+              "hebrew": "וַיִּסָּֽעוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And [on that day (11)] they set forth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר מֹשֶׁ֗ה לְ֠חֹבָ֠ב בֶּן־רְעוּאֵ֣ל הַמִּדְיָנִי֮ חֹתֵ֣ן מֹשֶׁה֒",
+              "english": "And Moses said to Chovav [Yithro] the son of Reuel the Midianite, the father-in-law of Moses:"
+            },
+            {
+              "hebrew": "נֹסְעִ֣ים&thinsp;׀ אֲנַ֗חְנוּ אֶל־הַמָּקוֹם֙ אֲשֶׁ֣ר אָמַ֣ר יְהֹוָ֔ה אֹת֖וֹ אֶתֵּ֣ן לָכֶ֑ם",
+              "english": "We are journeying to the place of which the L-rd said: It will I give to you [(Within three days we will enter the land)]."
+            },
+            {
+              "hebrew": "לְכָ֤ה אִתָּ֙נוּ֙ וְהֵטַ֣בְנוּ לָ֔ךְ כִּֽי־יְהֹוָ֥ה דִּבֶּר־ט֖וֹב עַל־יִשְׂרָאֵֽל׃",
+              "english": "Come with us and we will do good with you, for the L-rd has spoken (the doing of) good for Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֵלָ֖יו לֹ֣א אֵלֵ֑ךְ",
+              "english": "And he said to him: I will not go;"
+            },
+            {
+              "hebrew": "כִּ֧י אִם־אֶל־אַרְצִ֛י וְאֶל־מוֹלַדְתִּ֖י אֵלֵֽךְ׃",
+              "english": "but to my land, [for the sake of my possessions] and to my kindred, [for the sake of my family], I will go."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֕אמֶר אַל־נָ֖א תַּעֲזֹ֣ב אֹתָ֑נוּ",
+              "english": "And he said: I pray you, do not leave us, [so that it not be said that you became a proselyte only in expectation of a portion in the land, which, seeing not to be forthcoming, you abandoned us.]"
+            },
+            {
+              "hebrew": "כִּ֣י&thinsp;׀ עַל־כֵּ֣ן יָדַ֗עְתָּ חֲנֹתֵ֙נוּ֙ בַּמִּדְבָּ֔ר וְהָיִ֥יתָ לָּ֖נוּ לְעֵינָֽיִם׃",
+              "english": "[Indeed, it becomes you to remain with us] inasmuch as you have known our camping in the desert [and have seen the miracles and wonders wrought for us], and you have been \"eyes\" for us."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֖ה כִּי־תֵלֵ֣ךְ עִמָּ֑נוּ",
+              "english": "And it shall be, if you go with us,"
+            },
+            {
+              "hebrew": "וְהָיָ֣ה&thinsp;׀ הַטּ֣וֹב הַה֗וּא אֲשֶׁ֨ר יֵיטִ֧יב יְהֹוָ֛ה עִמָּ֖נוּ וְהֵטַ֥בְנוּ לָֽךְ׃",
+              "english": "that good which the L-rd will accord to us, we shall accord to you. [(The children of Yithro were given the choicest land of Jericho as a holding until it reverted to the tribe of Binyamin.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּסְעוּ֙ מֵהַ֣ר יְהֹוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים",
+              "english": "And they traveled from the mountain of the L-rd, a journey of three days. [They traveled a three-days distance in one day, the Holy One Blessed be He desiring to bring them immediately into the land.]"
+            },
+            {
+              "hebrew": "וַאֲר֨וֹן בְּרִית־יְהֹוָ֜ה נֹסֵ֣עַ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃",
+              "english": "And the ark of the covenant of the L-rd [the ark with the broken tablets, which went out with them to war)] preceded them, a distance of three days, to look out a resting place for them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַעֲנַ֧ן יְהֹוָ֛ה עֲלֵיהֶ֖ם יוֹמָ֑ם",
+              "english": "And the cloud of the L-rd was above them by day"
+            },
+            {
+              "hebrew": "בְּנׇסְעָ֖ם מִן־הַֽמַּחֲנֶֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "when they set forth from the encampment."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "׆&nbsp;וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה",
+              "english": "[There are signs (inverted nuns) before (this verse) and after (the next verse) to indicate that this is not where these verses actually belong; they were inserted here to create a hiatus between one misfortune and another (see Shabbath 116a)] and it was, when the ark traveled that Moses said:"
+            },
+            {
+              "hebrew": "קוּמָ֣ה&thinsp;׀ יְהֹוָ֗ה וְיָפֻ֙צוּ֙ אֹֽיְבֶ֔יךָ",
+              "english": "\"Stand [and wait for us (the ark preceding them a three-days distance)], O L-rd, and let Your foes [Your massed foes] be scattered,"
+            },
+            {
+              "hebrew": "וְיָנֻ֥סוּ מְשַׂנְאֶ֖יךָ מִפָּנֶֽיךָ׃",
+              "english": "and let Your haters [the enemies of Israel (those in pursuit)] flee before You.\""
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֻחֹ֖ה יֹאמַ֑ר",
+              "english": "And when it came to rest, he said:"
+            },
+            {
+              "hebrew": "שׁוּבָ֣ה יְהֹוָ֔ה רִֽבְב֖וֹת אַלְפֵ֥י יִשְׂרָאֵֽל׃&nbsp;׆&nbsp;{פ}",
+              "english": "\"Rest, O L-rd, upon the [two] ten thousands [and two] thousands of Israel,\" [the Shechinah not resting in Israel upon fewer than twenty-two thousand.]"
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:11:36.217Z"
+  "updatedAt": "2026-10-26T19:12:55.871Z"
 }
