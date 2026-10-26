@@ -926,8 +926,12 @@
         "5": {
           "pairs": [
             {
-              "hebrew": "כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכׇלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם",
-              "english": "For G-d knows that on the day you eat of it your eyes will be opened"
+              "hebrew": "כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים",
+              "english": "For G-d knows"
+            },
+            {
+              "hebrew": "כִּ֗י בְּיוֹם֙ אֲכׇלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם",
+              "english": "that on the day you eat of it your eyes will be opened"
             },
             {
               "hebrew": "וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹדְעֵ֖י ט֥וֹב וָרָֽע׃",
@@ -977,8 +981,12 @@
               "english": "And they heard the voice of the L-rd G-d sounding in the garden in the direction of (the descent of) the sun, [i.e., the west],"
             },
             {
-              "hebrew": "וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהֹוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃",
-              "english": "and the man and his wife hid before the L-rd G-d in the midst of the trees of the garden."
+              "hebrew": "וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהֹוָ֣ה אֱלֹהִ֔ים",
+              "english": "and the man and his wife hid before the L-rd G-d"
+            },
+            {
+              "hebrew": "בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃",
+              "english": "in the midst of the trees of the garden."
             }
           ],
           "model": "Instinct"
@@ -1179,8 +1187,12 @@
               "english": "And the L-rd G-d said: Behold, man has become like one of us [(He is unique among the terrestrial creations as I am unique among the celestial. And what is his uniqueness?)] knowing good and evil [(such knowledge not obtaining with beasts and animals)]."
             },
             {
-              "hebrew": "וְעַתָּ֣ה&thinsp;׀ פֶּן־יִשְׁלַ֣ח יָד֗וֹ וְלָקַח֙ גַּ֚ם מֵעֵ֣ץ הַֽחַיִּ֔ים וְאָכַ֖ל וָחַ֥י לְעֹלָֽם׃",
-              "english": "And now, perhaps he will put forth his hand and take also of the tree of life and eat and live forever [and draw the other creatures after him to regard him as a deity]."
+              "hebrew": "וְעַתָּ֣ה&thinsp;׀ פֶּן־יִשְׁלַ֣ח יָד֗וֹ וְלָקַח֙ גַּ֚ם מֵעֵ֣ץ הַֽחַיִּ֔ים",
+              "english": "And now, perhaps he will put forth his hand and take also of the tree of life"
+            },
+            {
+              "hebrew": "וְאָכַ֖ל וָחַ֥י לְעֹלָֽם׃",
+              "english": "and eat and live forever [and draw the other creatures after him to regard him as a deity]."
             }
           ],
           "model": "Instinct"
@@ -1426,8 +1438,12 @@
               "english": "And the L-rd said to him: Therefore, whoever kills Cain … At the end of seven [generations] it shall be avenged (see 24)."
             },
             {
-              "hebrew": "וַיָּ֨שֶׂם יְהֹוָ֤ה לְקַ֙יִן֙ א֔וֹת לְבִלְתִּ֥י הַכּוֹת־אֹת֖וֹ כׇּל־מֹצְאֽוֹ׃",
-              "english": "And the L-rd made for Cain a sign that he not be smitten by any who find him."
+              "hebrew": "וַיָּ֨שֶׂם יְהֹוָ֤ה לְקַ֙יִן֙ א֔וֹת",
+              "english": "And the L-rd made for Cain a sign"
+            },
+            {
+              "hebrew": "לְבִלְתִּ֥י הַכּוֹת־אֹת֖וֹ כׇּל־מֹצְאֽוֹ׃",
+              "english": "that he not be smitten by any who find him."
             }
           ],
           "model": "Instinct"
@@ -1534,8 +1550,12 @@
         "23": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֨אמֶר לֶ֜מֶךְ לְנָשָׁ֗יו עָדָ֤ה וְצִלָּה֙ שְׁמַ֣עַן קוֹלִ֔י נְשֵׁ֣י לֶ֔מֶךְ הַאְזֵ֖נָּה אִמְרָתִ֑י",
-              "english": "And Lemech said to his wives, Adah and Tzilah, [who had separated from him after he had (unwittingly) killed Cain and Tuval-Cain:] Hear my voice, wives of Lemech. Heed my speech."
+              "hebrew": "וַיֹּ֨אמֶר לֶ֜מֶךְ לְנָשָׁ֗יו עָדָ֤ה וְצִלָּה֙ שְׁמַ֣עַן קוֹלִ֔י",
+              "english": "And Lemech said to his wives, Adah and Tzilah, [who had separated from him after he had (unwittingly) killed Cain and Tuval-Cain:] Hear my voice,"
+            },
+            {
+              "hebrew": "נְשֵׁ֣י לֶ֔מֶךְ הַאְזֵ֖נָּה אִמְרָתִ֑י",
+              "english": "wives of Lemech. Heed my speech."
             },
             {
               "hebrew": "כִּ֣י אִ֤ישׁ הָרַ֙גְתִּי֙ לְפִצְעִ֔י וְיֶ֖לֶד לְחַבֻּרָתִֽי׃",
@@ -12121,8 +12141,12 @@
         "12": {
           "pairs": [
             {
-              "hebrew": "וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה",
-              "english": "And he dreamed, and, behold, a ladder set in the earth, and its top reaching the heavens,"
+              "hebrew": "וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה",
+              "english": "And he dreamed, and, behold, a ladder set in the earth,"
+            },
+            {
+              "hebrew": "וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה",
+              "english": "and its top reaching the heavens,"
             },
             {
               "hebrew": "וְהִנֵּה֙ מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ׃",
@@ -12811,8 +12835,12 @@
               "english": "And Rachel saw that she had not borne (a child) to Jacob, and Rachel envied her sister, [thinking that if Leah were not more righteous than she, she, too, would not have borne],"
             },
             {
-              "hebrew": "וַתֹּ֤אמֶר אֶֽל־יַעֲקֹב֙ הָֽבָה־לִּ֣י בָנִ֔ים וְאִם־אַ֖יִן מֵתָ֥ה אָנֹֽכִי׃",
-              "english": "and she said to Jacob: \"Give me children\" [i.e., pray for me to bear children, as your father did for your mother], \"and if not, I am dead.\""
+              "hebrew": "וַתֹּ֤אמֶר אֶֽל־יַעֲקֹב֙ הָֽבָה־לִּ֣י בָנִ֔ים",
+              "english": "and she said to Jacob: \"Give me children\" [i.e., pray for me to bear children, as your father did for your mother],"
+            },
+            {
+              "hebrew": "וְאִם־אַ֖יִן מֵתָ֥ה אָנֹֽכִי׃",
+              "english": "\"and if not, I am dead.\""
             }
           ],
           "model": "Instinct"
@@ -13001,8 +13029,12 @@
               "english": "And she said to her: Is your taking my husband too little that you would also take the violets of my son?"
             },
             {
-              "hebrew": "וַתֹּ֣אמֶר רָחֵ֗ל לָכֵן֙ יִשְׁכַּ֤ב עִמָּךְ֙ הַלַּ֔יְלָה תַּ֖חַת דּוּדָאֵ֥י בְנֵֽךְ׃",
-              "english": "And Rachel said: Therefore, he will lie with you this night [(which was \"Rachel's night\")] in exchange for the violets of your son."
+              "hebrew": "וַתֹּ֣אמֶר רָחֵ֗ל לָכֵן֙ יִשְׁכַּ֤ב עִמָּךְ֙ הַלַּ֔יְלָה",
+              "english": "And Rachel said: Therefore, he will lie with you this night [(which was \"Rachel's night\")]"
+            },
+            {
+              "hebrew": "תַּ֖חַת דּוּדָאֵ֥י בְנֵֽךְ׃",
+              "english": "in exchange for the violets of your son."
             }
           ],
           "model": "Instinct"
@@ -13251,12 +13283,16 @@
         "33": {
           "pairs": [
             {
-              "hebrew": "וְעָֽנְתָה־בִּ֤י צִדְקָתִי֙ בְּי֣וֹם מָחָ֔ר כִּֽי־תָב֥וֹא עַל־שְׂכָרִ֖י לְפָנֶ֑יךָ",
-              "english": "And my righteousness shall answer for me on the morrow. For it [my righteousness] will come [and testify] to my wage before you, [i.e.,]"
+              "hebrew": "וְעָֽנְתָה־בִּ֤י צִדְקָתִי֙ בְּי֣וֹם מָחָ֔ר",
+              "english": "And my righteousness shall answer for me on the morrow."
+            },
+            {
+              "hebrew": "כִּֽי־תָב֥וֹא עַל־שְׂכָרִ֖י לְפָנֶ֑יךָ",
+              "english": "For it [my righteousness] will come [and testify] to my wage before you,"
             },
             {
               "hebrew": "כֹּ֣ל אֲשֶׁר־אֵינֶ֩נּוּ֩ נָקֹ֨ד וְטָל֜וּא בָּֽעִזִּ֗ים וְחוּם֙ בַּכְּשָׂבִ֔ים גָּנ֥וּב ה֖וּא אִתִּֽי׃",
-              "english": "anything [which you find in my flock] that is not speckled and spotted among the goats or brownish among the sheep is stolen with me."
+              "english": "[i.e.,] anything [which you find in my flock] that is not speckled and spotted among the goats or brownish among the sheep is stolen with me."
             }
           ],
           "model": "Instinct"
@@ -13311,8 +13347,12 @@
               "english": "And Jacob took a moist stick of white poplar and [a stick of] almond and of chestnut,"
             },
             {
-              "hebrew": "וַיְפַצֵּ֤ל בָּהֵן֙ פְּצָל֣וֹת לְבָנ֔וֹת מַחְשֹׂף֙ הַלָּבָ֔ן אֲשֶׁ֖ר עַל־הַמַּקְלֽוֹת׃",
-              "english": "and he peeled them into white streaks, baring the white on the sticks."
+              "hebrew": "וַיְפַצֵּ֤ל בָּהֵן֙ פְּצָל֣וֹת לְבָנ֔וֹת",
+              "english": "and he peeled them into white streaks,"
+            },
+            {
+              "hebrew": "מַחְשֹׂף֙ הַלָּבָ֔ן אֲשֶׁ֖ר עַל־הַמַּקְלֽוֹת׃",
+              "english": "baring the white on the sticks."
             }
           ],
           "model": "Instinct"
@@ -13464,8 +13504,12 @@
         "5": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֣אמֶר לָהֶ֗ן רֹאֶ֤ה אָנֹכִי֙ אֶת־פְּנֵ֣י אֲבִיכֶ֔ן כִּֽי־אֵינֶ֥נּוּ אֵלַ֖י כִּתְמֹ֣ל שִׁלְשֹׁ֑ם",
-              "english": "And he said to them: I see that your father's face is not with me as of yore;"
+              "hebrew": "וַיֹּ֣אמֶר לָהֶ֗ן רֹאֶ֤ה אָנֹכִי֙ אֶת־פְּנֵ֣י אֲבִיכֶ֔ן",
+              "english": "And he said to them: I see that your father's face"
+            },
+            {
+              "hebrew": "כִּֽי־אֵינֶ֥נּוּ אֵלַ֖י כִּתְמֹ֣ל שִׁלְשֹׁ֑ם",
+              "english": "is not with me as of yore;"
             },
             {
               "hebrew": "וֵֽאלֹהֵ֣י אָבִ֔י הָיָ֖ה עִמָּדִֽי׃",
@@ -13529,8 +13573,12 @@
         "10": {
           "pairs": [
             {
-              "hebrew": "וַיְהִ֗י בְּעֵת֙ יַחֵ֣ם הַצֹּ֔אן וָאֶשָּׂ֥א עֵינַ֛י וָאֵ֖רֶא בַּחֲל֑וֹם",
-              "english": "And it was, at the time the flocks were heated, I lifted up my eyes and I saw in a dream:"
+              "hebrew": "וַיְהִ֗י בְּעֵת֙ יַחֵ֣ם הַצֹּ֔אן",
+              "english": "And it was, at the time the flocks were heated,"
+            },
+            {
+              "hebrew": "וָאֶשָּׂ֥א עֵינַ֛י וָאֵ֖רֶא בַּחֲל֑וֹם",
+              "english": "I lifted up my eyes and I saw in a dream:"
             },
             {
               "hebrew": "וְהִנֵּ֤ה הָֽעַתֻּדִים֙ הָעֹלִ֣ים עַל־הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּבְרֻדִּֽים׃",
@@ -13555,8 +13603,12 @@
         "12": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֗אמֶר שָׂא־נָ֨א עֵינֶ֤יךָ וּרְאֵה֙ כׇּל־הָֽעַתֻּדִים֙ הָעֹלִ֣ים עַל־הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּבְרֻדִּ֑ים",
-              "english": "And he said: Lift up your eyes now and see all the rams that go up on the sheep — ringstraked, speckled, and grizzled —"
+              "hebrew": "וַיֹּ֗אמֶר שָׂא־נָ֨א עֵינֶ֤יךָ וּרְאֵה֙",
+              "english": "And he said: Lift up your eyes now and see"
+            },
+            {
+              "hebrew": "כׇּל־הָֽעַתֻּדִים֙ הָעֹלִ֣ים עַל־הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּבְרֻדִּ֑ים",
+              "english": "all the rams that go up on the sheep — ringstraked, speckled, and grizzled —"
             },
             {
               "hebrew": "כִּ֣י רָאִ֔יתִי אֵ֛ת כׇּל־אֲשֶׁ֥ר לָבָ֖ן עֹ֥שֶׂה לָּֽךְ׃",
@@ -13572,8 +13624,12 @@
               "english": "I am the G d of Bethel, where you anointed a pillar where you vowed a vow unto Me, [which it is now time to fulfill (see 28:22)]."
             },
             {
-              "hebrew": "עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את וְשׁ֖וּב אֶל־אֶ֥רֶץ מוֹלַדְתֶּֽךָ׃",
-              "english": "Now, arise, go out of this land and return to the land of your birth."
+              "hebrew": "עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את",
+              "english": "Now, arise, go out of this land"
+            },
+            {
+              "hebrew": "וְשׁ֖וּב אֶל־אֶ֥רֶץ מוֹלַדְתֶּֽךָ׃",
+              "english": "and return to the land of your birth."
             }
           ],
           "model": "Instinct"
@@ -13848,12 +13904,16 @@
         "33": {
           "pairs": [
             {
-              "hebrew": "וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב&thinsp;׀ וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א מָצָ֑א",
-              "english": "And Lavan came into Jacob's [i.e., Rachel's] tent and into the tent of Leah and into the tent of the two handmaids, but he found nothing."
+              "hebrew": "וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב&thinsp;׀ וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת",
+              "english": "And Lavan came into Jacob's [i.e., Rachel's] tent and into the tent of Leah and into the tent of the two handmaids,"
             },
             {
-              "hebrew": "וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל׃",
-              "english": "And (when) he went out of the tent of Leah, he came [again] into the tent of Rachel, [knowing her to be a \"toucher\"]."
+              "hebrew": "וְלֹ֣א מָצָ֑א וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה",
+              "english": "but he found nothing. And (when) he went out of the tent of Leah,"
+            },
+            {
+              "hebrew": "וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל׃",
+              "english": "he came [again] into the tent of Rachel, [knowing her to be a \"toucher\"]."
             }
           ],
           "model": "Instinct"
@@ -13895,8 +13955,12 @@
               "english": "And Jacob was wroth and he strove with Lavan."
             },
             {
-              "hebrew": "וַיַּ֤עַן יַעֲקֹב֙ וַיֹּ֣אמֶר לְלָבָ֔ן מַה־פִּשְׁעִי֙ מַ֣ה חַטָּאתִ֔י כִּ֥י דָלַ֖קְתָּ אַחֲרָֽי׃",
-              "english": "And Jacob retorted and said to Lavan: What is my offense and what is my sin that you have pursued me?"
+              "hebrew": "וַיַּ֤עַן יַעֲקֹב֙ וַיֹּ֣אמֶר לְלָבָ֔ן",
+              "english": "And Jacob retorted and said to Lavan:"
+            },
+            {
+              "hebrew": "מַה־פִּשְׁעִי֙ מַ֣ה חַטָּאתִ֔י כִּ֥י דָלַ֖קְתָּ אַחֲרָֽי׃",
+              "english": "What is my offense and what is my sin that you have pursued me?"
             }
           ],
           "model": "Instinct"
@@ -13964,8 +14028,12 @@
         "41": {
           "pairs": [
             {
-              "hebrew": "זֶה־לִּ֞י עֶשְׂרִ֣ים שָׁנָה֮ בְּבֵיתֶ֒ךָ֒ עֲבַדְתִּ֜יךָ אַרְבַּֽע־עֶשְׂרֵ֤ה שָׁנָה֙ בִּשְׁתֵּ֣י בְנֹתֶ֔יךָ וְשֵׁ֥שׁ שָׁנִ֖ים בְּצֹאנֶ֑ךָ",
-              "english": "This twenty years have I served you in your house — fourteen years for your two daughters and six years for your flocks;"
+              "hebrew": "זֶה־לִּ֞י עֶשְׂרִ֣ים שָׁנָה֮ בְּבֵיתֶ֒ךָ֒",
+              "english": "This twenty years have I served you in your house —"
+            },
+            {
+              "hebrew": "עֲבַדְתִּ֜יךָ אַרְבַּֽע־עֶשְׂרֵ֤ה שָׁנָה֙ בִּשְׁתֵּ֣י בְנֹתֶ֔יךָ וְשֵׁ֥שׁ שָׁנִ֖ים בְּצֹאנֶ֑ךָ",
+              "english": "fourteen years for your two daughters and six years for your flocks;"
             },
             {
               "hebrew": "וַתַּחֲלֵ֥ף אֶת־מַשְׂכֻּרְתִּ֖י עֲשֶׂ֥רֶת מֹנִֽים׃",
@@ -13994,8 +14062,12 @@
         "43": {
           "pairs": [
             {
-              "hebrew": "וַיַּ֨עַן לָבָ֜ן וַיֹּ֣אמֶר אֶֽל־יַעֲקֹ֗ב הַבָּנ֨וֹת בְּנֹתַ֜י וְהַבָּנִ֤ים בָּנַי֙ וְהַצֹּ֣אן צֹאנִ֔י וְכֹ֛ל אֲשֶׁר־אַתָּ֥ה רֹאֶ֖ה לִי־ה֑וּא",
-              "english": "And Lavan answered and he said to Jacob: The daughters are my daughters, and the sons are my sons, and the flocks are my flocks, and everything you see is mine."
+              "hebrew": "וַיַּ֨עַן לָבָ֜ן וַיֹּ֣אמֶר אֶֽל־יַעֲקֹ֗ב הַבָּנ֨וֹת בְּנֹתַ֜י וְהַבָּנִ֤ים בָּנַי֙ וְהַצֹּ֣אן צֹאנִ֔י",
+              "english": "And Lavan answered and he said to Jacob: The daughters are my daughters, and the sons are my sons, and the flocks are my flocks,"
+            },
+            {
+              "hebrew": "וְכֹ֛ל אֲשֶׁר־אַתָּ֥ה רֹאֶ֖ה לִי־ה֑וּא",
+              "english": "and everything you see is mine."
             },
             {
               "hebrew": "וְלִבְנֹתַ֞י מָֽה־אֶעֱשֶׂ֤ה לָאֵ֙לֶּה֙ הַיּ֔וֹם א֥וֹ לִבְנֵיהֶ֖ן אֲשֶׁ֥ר יָלָֽדוּ׃",
