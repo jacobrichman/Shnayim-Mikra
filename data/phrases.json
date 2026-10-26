@@ -64078,8 +64078,1522 @@
           ],
           "model": "Instinct"
         }
+      },
+      "22": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And the children of Israel journeyed,"
+            },
+            {
+              "hebrew": "וַֽיַּחֲנוּ֙ בְּעַֽרְב֣וֹת מוֹאָ֔ב מֵעֵ֖בֶר לְיַרְדֵּ֥ן יְרֵחֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and they encamped in the plains of Moav across the Jordan from Jericho."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥רְא בָּלָ֖ק בֶּן־צִפּ֑וֹר",
+              "english": "And Balak the son of Tzippor saw"
+            },
+            {
+              "hebrew": "אֵ֛ת כׇּל־אֲשֶׁר־עָשָׂ֥ה יִשְׂרָאֵ֖ל לָֽאֱמֹרִֽי׃",
+              "english": "all that Israel had done to the Emori [He said: If these two kings (Sichon and Og) on whom we relied, could not withstand them, how much more so we alone! — wherefore:]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֨גׇר מוֹאָ֜ב מִפְּנֵ֥י הָעָ֛ם מְאֹ֖ד כִּ֣י רַב־ה֑וּא",
+              "english": "And Moav greatly feared the people, for they were many,"
+            },
+            {
+              "hebrew": "וַיָּ֣קׇץ מוֹאָ֔ב מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and Moav despaired [of their lives] before the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר מוֹאָ֜ב אֶל־זִקְנֵ֣י מִדְיָ֗ן עַתָּ֞ה יְלַחֲכ֤וּ הַקָּהָל֙ אֶת־כׇּל־סְבִ֣יבֹתֵ֔ינוּ כִּלְחֹ֣ךְ הַשּׁ֔וֹר אֵ֖ת יֶ֣רֶק הַשָּׂדֶ֑ה",
+              "english": "And Moav said to the elders of Midian: Now this horde will lap up everything around us as an ox laps up the greens of the field —"
+            },
+            {
+              "hebrew": "וּבָלָ֧ק בֶּן־צִפּ֛וֹר מֶ֥לֶךְ לְמוֹאָ֖ב בָּעֵ֥ת הַהִֽוא׃",
+              "english": "and Balak the son of Tzippor [one of the princes of Midian] was [made] king of Moav at that time [because of the exigency of the time, though he was not of the royal line]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁלַ֨ח מַלְאָכִ֜ים אֶל־בִּלְעָ֣ם בֶּן־בְּעֹ֗ר פְּ֠ת֠וֹרָה אֲשֶׁ֧ר עַל־הַנָּהָ֛ר אֶ֥רֶץ בְּנֵי־עַמּ֖וֹ לִקְרֹא־ל֑וֹ לֵאמֹ֗ר",
+              "english": "And he sent messengers to Bilam the son of Beor to Pethor, which is by the river of the land of the children of his people to call for him [i.e., for his (Bilam's) benefit, Balak promising to enrich him], saying:"
+            },
+            {
+              "hebrew": "הִ֠נֵּ֠ה עַ֣ם יָצָ֤א מִמִּצְרַ֙יִם֙ הִנֵּ֤ה כִסָּה֙ אֶת־עֵ֣ין הָאָ֔רֶץ",
+              "english": "Behold, a people has gone forth from Egypt; behold, it has covered \"the eye of the land\" [Sichon and Moav, who were our protectors — Israel rose against them and killed them],"
+            },
+            {
+              "hebrew": "וְה֥וּא יֹשֵׁ֖ב מִמֻּלִֽי׃",
+              "english": "and it abides opposite me, [against me, to cut me off]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּה֩ לְכָה־נָּ֨א אָֽרָה־לִּ֜י אֶת־הָעָ֣ם הַזֶּ֗ה כִּֽי־עָצ֥וּם הוּא֙ מִמֶּ֔נִּי",
+              "english": "And now, come, I pray you, and curse this people for me, for it is too strong for me."
+            },
+            {
+              "hebrew": "אוּלַ֤י אוּכַל֙ נַכֶּה־בּ֔וֹ וַאֲגָרְשֶׁ֖נּוּ מִן־הָאָ֑רֶץ",
+              "english": "Perhaps I shall be able to smite it and drive it from the land."
+            },
+            {
+              "hebrew": "כִּ֣י יָדַ֗עְתִּי אֵ֤ת אֲשֶׁר־תְּבָרֵךְ֙ מְבֹרָ֔ךְ וַאֲשֶׁ֥ר תָּאֹ֖ר יוּאָֽר׃",
+              "english": "For I know [by your having helped Sichon to defeat Moav (see 21:27)] that what you bless is blessed and what you curse is cursed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֨לְכ֜וּ זִקְנֵ֤י מוֹאָב֙ וְזִקְנֵ֣י מִדְיָ֔ן וּקְסָמִ֖ים בְּיָדָ֑ם",
+              "english": "And the elders of Moav went, and the elders of Midian, with [all kinds of] charms in their hand [(so that Bilam not plead lack of \"tools\")],"
+            },
+            {
+              "hebrew": "וַיָּבֹ֙אוּ֙ אֶל־בִּלְעָ֔ם וַיְדַבְּר֥וּ אֵלָ֖יו דִּבְרֵ֥י בָלָֽק׃",
+              "english": "and they came to Bilam and they related to him the words of Balak."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר אֲלֵיהֶ֗ם לִ֤ינוּ פֹה֙ הַלַּ֔יְלָה וַהֲשִׁבֹתִ֤י אֶתְכֶם֙ דָּבָ֔ר כַּאֲשֶׁ֛ר יְדַבֵּ֥ר יְהֹוָ֖ה אֵלָ֑י",
+              "english": "And he said to them: Lodge here this night [(The Holy Spirit reposes on the prophets of the nations only at night (as one \"steals into\" his concubine)], and I will return to you a word, as the L-rd speaks to me [(Perhaps He will consider it beneath His dignity to permit me to go with emissaries of your (lowly) rank)],"
+            },
+            {
+              "hebrew": "וַיֵּשְׁב֥וּ שָׂרֵֽי־מוֹאָ֖ב עִם־בִּלְעָֽם׃",
+              "english": "and the officers of Moav abode with Bilam."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֥א אֱלֹהִ֖ים אֶל־בִּלְעָ֑ם",
+              "english": "And G-d came to Bilam"
+            },
+            {
+              "hebrew": "וַיֹּ֕אמֶר מִ֛י הָאֲנָשִׁ֥ים הָאֵ֖לֶּה עִמָּֽךְ׃",
+              "english": "and He said: Who are these people with you? [(G-d's purpose was to delude Bilam into thinking that there were some \"gaps\" in His knowledge and that he might seize upon one of them to curse Israel.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר בִּלְעָ֖ם אֶל־הָאֱלֹהִ֑ים",
+              "english": "And Bilam said to G-d:"
+            },
+            {
+              "hebrew": "בָּלָ֧ק בֶּן־צִפֹּ֛ר מֶ֥לֶךְ מוֹאָ֖ב שָׁלַ֥ח אֵלָֽי׃",
+              "english": "Balak the son of Tzippor, the king of Moav, sent to me [(I may not \"rate\" with You, but I do rate with kings)]:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "הִנֵּ֤ה הָעָם֙ הַיֹּצֵ֣א מִמִּצְרַ֔יִם וַיְכַ֖ס אֶת־עֵ֣ין הָאָ֑רֶץ",
+              "english": "Behold, the people that has gone forth from Egypt and covers the eye of the land."
+            },
+            {
+              "hebrew": "עַתָּ֗ה לְכָ֤ה קָֽבָה־לִּי֙ אֹת֔וֹ אוּלַ֥י אוּכַ֛ל לְהִלָּ֥חֶם בּ֖וֹ וְגֵרַשְׁתִּֽיו׃",
+              "english": "Now, go and curse (kavah) it for me [(\"kavah\" is more \"pointed\" and explicit than Balak's \"arah\" (6)]. Perhaps I will be able to war against it and drive it out [\"of the world,\" whereas Balak had said (6): \"and drive it from the land,\" Balak desiring only to free himself of them.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־בִּלְעָ֔ם לֹ֥א תֵלֵ֖ךְ עִמָּהֶ֑ם",
+              "english": "And G-d said to Bilam: \"Do not go with them.\" [Bilam: \"If so, I will curse them in my place.\"]"
+            },
+            {
+              "hebrew": "לֹ֤א תָאֹר֙ אֶת־הָעָ֔ם כִּ֥י בָר֖וּךְ הֽוּא׃",
+              "english": "(G-d): \"Do not curse the people\" [Bilam: \"If so, I will bless them.\" (G-d): \"They do not need your blessing], for it is blessed.\" [\"Neither your honey nor your sting!\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֤קׇם בִּלְעָם֙ בַּבֹּ֔קֶר וַיֹּ֙אמֶר֙ אֶל־שָׂרֵ֣י בָלָ֔ק לְכ֖וּ אֶֽל־אַרְצְכֶ֑ם",
+              "english": "And Bilam arose in the morning and he said to the officers of Balak: Go to your land,"
+            },
+            {
+              "hebrew": "כִּ֚י מֵאֵ֣ן יְהֹוָ֔ה לְתִתִּ֖י לַהֲלֹ֥ךְ עִמָּכֶֽם׃",
+              "english": "for the L-rd refuses to allow me to go with you, [but only with men of higher station, (Bilam shrouding his impotence in his arrogance)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּק֙וּמוּ֙ שָׂרֵ֣י מוֹאָ֔ב וַיָּבֹ֖אוּ אֶל־בָּלָ֑ק",
+              "english": "And the officers of Moav arose and came to Balak"
+            },
+            {
+              "hebrew": "וַיֹּ֣אמְר֔וּ מֵאֵ֥ן בִּלְעָ֖ם הֲלֹ֥ךְ עִמָּֽנוּ׃",
+              "english": "and they said: Bilam refuses to go with us."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥סֶף ע֖וֹד בָּלָ֑ק שְׁלֹ֣חַ שָׂרִ֔ים",
+              "english": "And Balak sent officers yet again —"
+            },
+            {
+              "hebrew": "רַבִּ֥ים וְנִכְבָּדִ֖ים מֵאֵֽלֶּה׃",
+              "english": "more, and more honorable than these."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֖אוּ אֶל־בִּלְעָ֑ם וַיֹּ֣אמְרוּ ל֗וֹ כֹּ֤ה אָמַר֙ בָּלָ֣ק בֶּן־צִפּ֔וֹר",
+              "english": "And they came to Bilam and said to him: Thus said Balak the son of Tzippor:"
+            },
+            {
+              "hebrew": "אַל־נָ֥א תִמָּנַ֖ע מֵהֲלֹ֥ךְ אֵלָֽי׃",
+              "english": "Do not, I pray you, refrain from going to me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־כַבֵּ֤ד אֲכַבֶּדְךָ֙ מְאֹ֔ד וְכֹ֛ל אֲשֶׁר־תֹּאמַ֥ר אֵלַ֖י אֶֽעֱשֶׂ֑ה",
+              "english": "For I will honor you greatly [(I will give you more than you were wont to receive in the past)], and whatever you tell me I will do;"
+            },
+            {
+              "hebrew": "וּלְכָה־נָּא֙ קָֽבָה־לִּ֔י אֵ֖ת הָעָ֥ם הַזֶּֽה׃",
+              "english": "but go, I pray you, and curse this people for me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַן בִּלְעָ֗ם וַיֹּ֙אמֶר֙ אֶל־עַבְדֵ֣י בָלָ֔ק אִם־יִתֶּן־לִ֥י בָלָ֛ק מְלֹ֥א בֵית֖וֹ כֶּ֣סֶף וְזָהָ֑ב",
+              "english": "And Bilam answered and said to the servants of Balak: If Balak gives me his house full of silver and gold [— and he really should, for if he hired armies, he would have to pay them; and their success is in doubt, whereas mine is assured (Bilam here \"gives away\" his lust for the wealth of others)],"
+            },
+            {
+              "hebrew": "לֹ֣א אוּכַ֗ל לַעֲבֹר֙ אֶת־פִּי֙ יְהֹוָ֣ה אֱלֹהָ֔י לַעֲשׂ֥וֹת קְטַנָּ֖ה א֥וֹ גְדוֹלָֽה׃",
+              "english": "I will not be able to countermand the word of the L-rd my G-d to do (anything) small or great [(Bilam here perforce reveals that he is not his own master and prophesies that he will not be able to annul the L-rd's blessings to the patriarchs)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּ֗ה שְׁב֨וּ נָ֥א בָזֶ֛ה גַּם־אַתֶּ֖ם הַלָּ֑יְלָה",
+              "english": "And now, abide here, I pray you — you, too [(His mouth \"foiled\" him — \"you, too,\" like the first, are destined to leave in frustration)],"
+            },
+            {
+              "hebrew": "וְאֵ֣דְעָ֔ה מַה־יֹּסֵ֥ף יְהֹוָ֖ה דַּבֵּ֥ר עִמִּֽי׃",
+              "english": "and I shall know what more the L-rd will say to me. [He will not change His blessings to curses — would that He would not bless them more! (Bilam here prophesies that He will!)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֨א אֱלֹהִ֥ים&thinsp;׀&thinsp;אֶל־בִּלְעָם֮ לַ֒יְלָה֒ וַיֹּ֣אמֶר ל֗וֹ אִם־לִקְרֹ֤א לְךָ֙ בָּ֣אוּ הָאֲנָשִׁ֔ים ק֖וּם לֵ֣ךְ אִתָּ֑ם",
+              "english": "And G-d came to Bilam at night and He said to Him: If the men came to call for you [i.e., if their calling is for your benefit; if you think you can turn it toward your profit], arise and go with them,"
+            },
+            {
+              "hebrew": "וְאַ֗ךְ אֶת־הַדָּבָ֛ר אֲשֶׁר־אֲדַבֵּ֥ר אֵלֶ֖יךָ אֹת֥וֹ תַעֲשֶֽׂה׃",
+              "english": "but [perforce] what I speak to you that shall you do [ — in spite of which Bilam went, hoping to \"win over\" the L-rd]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֤קׇם בִּלְעָם֙ בַּבֹּ֔קֶר וַֽיַּחֲבֹ֖שׁ אֶת־אֲתֹנ֑וֹ",
+              "english": "And Bilam arose in the morning and he [himself] saddled his donkey [\"Hatred undermines the proprieties\"],"
+            },
+            {
+              "hebrew": "וַיֵּ֖לֶךְ עִם־שָׂרֵ֥י מוֹאָֽב׃",
+              "english": "and he went [of one accord] with the officers of Moav."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽחַר־אַ֣ף אֱלֹהִים֮ כִּֽי־הוֹלֵ֣ךְ הוּא֒ וַיִּתְיַצֵּ֞ב מַלְאַ֧ךְ יְהֹוָ֛ה בַּדֶּ֖רֶךְ לְשָׂטָ֣ן ל֑וֹ",
+              "english": "And the L-rd was wroth that He went [(for though Bilam saw that G-d objected (12), he persisted in going)], and an angel of the L-rd [an angel of mercy] stood in the way to turn him aside [to prevent him from sinning and going lost];"
+            },
+            {
+              "hebrew": "וְהוּא֙ רֹכֵ֣ב עַל־אֲתֹנ֔וֹ וּשְׁנֵ֥י נְעָרָ֖יו עִמּֽוֹ׃",
+              "english": "and he was riding on his donkey and his two youths with him [(whence it is derived that a man of eminence going on a journey should take two men to attend him (who relieve each other in turn)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֣רֶא הָאָתוֹן֩ אֶת־מַלְאַ֨ךְ יְהֹוָ֜ה נִצָּ֣ב בַּדֶּ֗רֶךְ וְחַרְבּ֤וֹ שְׁלוּפָה֙ בְּיָד֔וֹ",
+              "english": "And the donkey saw the angel of the L-rd [(but Bilam did not, G-d allowing animals to see more than men, who, possessing intellect, would become \"unhinged\" at the sight of mazzikin (destructive agents)], standing on the way with his sword drawn in his hand,"
+            },
+            {
+              "hebrew": "וַתֵּ֤ט הָֽאָתוֹן֙ מִן־הַדֶּ֔רֶךְ וַתֵּ֖לֶךְ בַּשָּׂדֶ֑ה",
+              "english": "and the donkey turned aside from the way and walked in the field,"
+            },
+            {
+              "hebrew": "וַיַּ֤ךְ בִּלְעָם֙ אֶת־הָ֣אָת֔וֹן לְהַטֹּתָ֖הּ הַדָּֽרֶךְ׃",
+              "english": "and Bilam struck the donkey to turn it back upon the road."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲמֹד֙ מַלְאַ֣ךְ יְהֹוָ֔ה בְּמִשְׁע֖וֹל הַכְּרָמִ֑ים",
+              "english": "And the angel of the L-rd stood in the path of the vineyards,"
+            },
+            {
+              "hebrew": "גָּדֵ֥ר מִזֶּ֖ה וְגָדֵ֥ר מִזֶּֽה׃",
+              "english": "a [stone] fence on one side and a fence on the other."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֨רֶא הָאָת֜וֹן אֶת־מַלְאַ֣ךְ יְהֹוָ֗ה וַתִּלָּחֵץ֙ אֶל־הַקִּ֔יר",
+              "english": "And the donkey saw the angel of the L-rd, and it pinned itself against the fence,"
+            },
+            {
+              "hebrew": "וַתִּלְחַ֛ץ אֶת־רֶ֥גֶל בִּלְעָ֖ם אֶל־הַקִּ֑יר וַיֹּ֖סֶף לְהַכֹּתָֽהּ׃",
+              "english": "and it pinned Bilam's leg against the fence, and he struck her again."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיּ֥וֹסֶף מַלְאַךְ־יְהֹוָ֖ה עֲב֑וֹר",
+              "english": "And the angel of the L-rd passed on [before him] again,"
+            },
+            {
+              "hebrew": "וַֽיַּעֲמֹד֙ בְּמָק֣וֹם צָ֔ר אֲשֶׁ֛ר אֵֽין־דֶּ֥רֶךְ לִנְט֖וֹת יָמִ֥ין וּשְׂמֹֽאול׃",
+              "english": "and he stood in a narrow place where there was no way to turn to the right or to the left."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֤רֶא הָֽאָתוֹן֙ אֶת־מַלְאַ֣ךְ יְהֹוָ֔ה וַתִּרְבַּ֖ץ תַּ֣חַת בִּלְעָ֑ם",
+              "english": "And the donkey saw the angel of the L-rd, and it sank under Bilam,"
+            },
+            {
+              "hebrew": "וַיִּֽחַר־אַ֣ף בִּלְעָ֔ם וַיַּ֥ךְ אֶת־הָאָת֖וֹן בַּמַּקֵּֽל׃",
+              "english": "and Bilam was wroth, and he struck the donkey with the rod."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְתַּ֥ח יְהֹוָ֖ה אֶת־פִּ֣י הָאָת֑וֹן וַתֹּ֤אמֶר לְבִלְעָם֙",
+              "english": "And the L-rd opened the donkey's mouth and it said to Bilam:"
+            },
+            {
+              "hebrew": "מֶה־עָשִׂ֣יתִֽי לְךָ֔ כִּ֣י הִכִּיתַ֔נִי זֶ֖ה שָׁלֹ֥שׁ רְגָלִֽים׃",
+              "english": "What have I done to you that you have struck me this three times? [Would you uproot a nation that celebrates three times (i.e., festivals) in the year?]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר בִּלְעָם֙ לָֽאָת֔וֹן כִּ֥י הִתְעַלַּ֖לְתְּ בִּ֑י",
+              "english": "And Bilam said to the donkey: Because you mocked me!"
+            },
+            {
+              "hebrew": "ל֤וּ יֶשׁ־חֶ֙רֶב֙ בְּיָדִ֔י כִּ֥י עַתָּ֖ה הֲרַגְתִּֽיךְ׃",
+              "english": "Would there were a sword in my hand and I would slay you now!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֨אמֶר הָאָת֜וֹן אֶל־בִּלְעָ֗ם הֲלוֹא֩ אָנֹכִ֨י אֲתֹֽנְךָ֜ אֲשֶׁר־רָכַ֣בְתָּ עָלַ֗י מֵעֽוֹדְךָ֙ עַד־הַיּ֣וֹם הַזֶּ֔ה",
+              "english": "And the donkey said to Bilam: Am I not your donkey, on which you have ridden from the very beginning until this day?"
+            },
+            {
+              "hebrew": "הַֽהַסְכֵּ֣ן הִסְכַּ֔נְתִּי לַעֲשׂ֥וֹת לְךָ֖ כֹּ֑ה",
+              "english": "Was I ever wont to do thus unto you?"
+            },
+            {
+              "hebrew": "וַיֹּ֖אמֶר לֹֽא׃",
+              "english": "And he said: No."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיְגַ֣ל יְהֹוָה֮ אֶת־עֵינֵ֣י בִלְעָם֒ וַיַּ֞רְא אֶת־מַלְאַ֤ךְ יְהֹוָה֙ נִצָּ֣ב בַּדֶּ֔רֶךְ וְחַרְבּ֥וֹ שְׁלֻפָ֖ה בְּיָד֑וֹ",
+              "english": "And the L-rd uncovered Bilam's eyes, and he saw the angel of the L-rd standing in the way with his sword drawn in his hand,"
+            },
+            {
+              "hebrew": "וַיִּקֹּ֥ד וַיִּשְׁתַּ֖חוּ לְאַפָּֽיו׃",
+              "english": "and he bowed down and prostrated himself on his face."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר אֵלָיו֙ מַלְאַ֣ךְ יְהֹוָ֔ה עַל־מָ֗ה הִכִּ֙יתָ֙ אֶת־אֲתֹ֣נְךָ֔ זֶ֖ה שָׁל֣וֹשׁ רְגָלִ֑ים",
+              "english": "And the angel of the L-rd said to him: Why did you strike your donkey this three times?"
+            },
+            {
+              "hebrew": "הִנֵּ֤ה אָנֹכִי֙ יָצָ֣אתִי לְשָׂטָ֔ן כִּֽי־יָרַ֥ט הַדֶּ֖רֶךְ לְנֶגְדִּֽי׃",
+              "english": "Behold, I went out to turn [you] aside, for [I saw that] the [goer on the] way [i.e., you] hastened [(on the way] against me [i.e., in defiance of me]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּרְאַ֙נִי֙ הָֽאָת֔וֹן וַתֵּ֣ט לְפָנַ֔י זֶ֖ה שָׁלֹ֣שׁ רְגָלִ֑ים",
+              "english": "And the donkey saw me and turned aside before me this three times."
+            },
+            {
+              "hebrew": "אוּלַי֙ נָטְתָ֣ה מִפָּנַ֔י כִּ֥י עַתָּ֛ה גַּם־אֹתְכָ֥ה הָרַ֖גְתִּי וְאוֹתָ֥הּ הֶחֱיֵֽיתִי׃",
+              "english": "Had it not turned aside before me, I would now [not only have delayed you, but] also have killed you and kept it alive, [but since it silenced you with its rebuke, I have killed it so that it not be pointed to as your \"undoer\" (the Holy One Blessed be He being solicitous of men's honor)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־מַלְאַ֤ךְ יְהֹוָה֙ חָטָ֔אתִי כִּ֚י לֹ֣א יָדַ֔עְתִּי כִּ֥י אַתָּ֛ה נִצָּ֥ב לִקְרָאתִ֖י בַּדָּ֑רֶךְ",
+              "english": "And Bilam said to the angel of the L-rd: I have sinned, for I did not know that you were standing against me on the way [(Bilam's own mouth here perforce \"undoes\" him — \"I did not know,\" as opposed to (24:16): \"And he (Bilam) knows, etc.\")]"
+            },
+            {
+              "hebrew": "וְעַתָּ֛ה אִם־רַ֥ע בְּעֵינֶ֖יךָ אָשׁ֥וּבָה לִּֽי׃",
+              "english": "And, now, if it is evil in your eyes, I will go back [(a \"dig\" at the Holy One Blessed be He, viz.: He Himself commanded me to go, and you a (mere) angel countermand His word!)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֩אמֶר֩ מַלְאַ֨ךְ יְהֹוָ֜ה אֶל־בִּלְעָ֗ם לֵ֚ךְ עִם־הָ֣אֲנָשִׁ֔ים וְאֶ֗פֶס אֶת־הַדָּבָ֛ר אֲשֶׁר־אֲדַבֵּ֥ר אֵלֶ֖יךָ אֹת֣וֹ תְדַבֵּ֑ר",
+              "english": "And the angel of the L-rd said to Bilam: Go with the men [(\"A man is led on the way he would travel\")], but, perforce, the thing that I shall speak to you, that shall you speak."
+            },
+            {
+              "hebrew": "וַיֵּ֥לֶךְ בִּלְעָ֖ם עִם־שָׂרֵ֥י בָלָֽק׃",
+              "english": "And Bilam went with the officers of Balak [(as happy as they to curse the Jews)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁמַ֥ע בָּלָ֖ק כִּ֣י בָ֣א בִלְעָ֑ם",
+              "english": "And Balak heard [through messengers sent by Bilam] that Bilam was coming,"
+            },
+            {
+              "hebrew": "וַיֵּצֵ֨א לִקְרָאת֜וֹ אֶל־עִ֣יר מוֹאָ֗ב אֲשֶׁר֙ עַל־גְּב֣וּל אַרְנֹ֔ן אֲשֶׁ֖ר בִּקְצֵ֥ה הַגְּבֽוּל׃",
+              "english": "and he went out towards him to the city [i.e., the metropolis] of Moav [(by way of saying: \"See what these Jews would uproot!\")] which borders on Arnon at the edge of the boundary."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר בָּלָ֜ק אֶל־בִּלְעָ֗ם הֲלֹא֩ שָׁלֹ֨חַ שָׁלַ֤חְתִּי אֵלֶ֙יךָ֙ לִקְרֹא־לָ֔ךְ לָ֥מָּה לֹא־הָלַ֖כְתָּ אֵלָ֑י",
+              "english": "And Balak said to Bilam: Did I not send to you to call for you? Why did you not come to me?"
+            },
+            {
+              "hebrew": "הַֽאֻמְנָ֔ם לֹ֥א אוּכַ֖ל כַּבְּדֶֽךָ׃",
+              "english": "Am I not, indeed, able to honor you? [(a prophecy that Bilam is destined to depart from him in shame)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־בָּלָ֗ק הִֽנֵּה־בָ֙אתִי֙ אֵלֶ֔יךָ עַתָּ֕ה הֲיָכֹ֥ל אוּכַ֖ל דַּבֵּ֣ר מְא֑וּמָה",
+              "english": "And Bilam said to Balak: Behold, I have come to you now. Is there aught that I can speak?"
+            },
+            {
+              "hebrew": "הַדָּבָ֗ר אֲשֶׁ֨ר יָשִׂ֧ים אֱלֹהִ֛ים בְּפִ֖י אֹת֥וֹ אֲדַבֵּֽר׃",
+              "english": "The thing that G-d shall put in my mouth, that shall I speak."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֥לֶךְ בִּלְעָ֖ם עִם־בָּלָ֑ק",
+              "english": "And Bilam went with Balak,"
+            },
+            {
+              "hebrew": "וַיָּבֹ֖אוּ קִרְיַ֥ת חֻצֽוֹת׃",
+              "english": "and they came to Kiryat Chutzoth [lit., \"a city of (crowded) thoroughfares\" — again, by way of saying: \"See what the Jews would uproot!\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּזְבַּ֥ח בָּלָ֖ק בָּקָ֣ר וָצֹ֑אן",
+              "english": "And Balak slaughtered cattle and sheep [a small amount],"
+            },
+            {
+              "hebrew": "וַיְשַׁלַּ֣ח לְבִלְעָ֔ם וְלַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃",
+              "english": "and he sent it to Bilam and to the officers who were with him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֣י בַבֹּ֔קֶר וַיִּקַּ֤ח בָּלָק֙ אֶת־בִּלְעָ֔ם וַֽיַּעֲלֵ֖הוּ בָּמ֣וֹת בָּ֑עַל",
+              "english": "And it was in the morning that Balak took Bilam and he brought him up to the heights of Ba'al [his deity],"
+            },
+            {
+              "hebrew": "וַיַּ֥רְא מִשָּׁ֖ם קְצֵ֥ה הָעָֽם׃",
+              "english": "and he saw from there the edge of the people (of Israel)."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "23": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר בִּלְעָם֙ אֶל־בָּלָ֔ק בְּנֵה־לִ֥י בָזֶ֖ה שִׁבְעָ֣ה מִזְבְּחֹ֑ת",
+              "english": "And Bilam said to Balak: Build me here seven altars,"
+            },
+            {
+              "hebrew": "וְהָכֵ֥ן לִי֙ בָּזֶ֔ה שִׁבְעָ֥ה פָרִ֖ים וְשִׁבְעָ֥ה אֵילִֽים׃",
+              "english": "and prepare me here seven bullocks and seven rams."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַשׂ בָּלָ֔ק כַּאֲשֶׁ֖ר דִּבֶּ֣ר בִּלְעָ֑ם",
+              "english": "And Balak did as Bilam had spoken,"
+            },
+            {
+              "hebrew": "וַיַּ֨עַל בָּלָ֧ק וּבִלְעָ֛ם פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+              "english": "and Balak and Bilam offered a bullock and a ram on (each) altar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר בִּלְעָ֜ם לְבָלָ֗ק הִתְיַצֵּב֮ עַל־עֹלָתֶ֒ךָ֒ וְאֵֽלְכָ֗ה אוּלַ֞י יִקָּרֵ֤ה יְהֹוָה֙ לִקְרָאתִ֔י",
+              "english": "And Bilam said to Balak: Stand by your burnt-offering and I will go; perhaps the (word of) the L-rd will chance to (come to) me [(He is not wont to speak with me in the daytime)],"
+            },
+            {
+              "hebrew": "וּדְבַ֥ר מַה־יַּרְאֵ֖נִי וְהִגַּ֣דְתִּי לָ֑ךְ וַיֵּ֖לֶךְ שֶֽׁפִי׃",
+              "english": "and I will tell you; and he went off alone."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקָּ֥ר אֱלֹהִ֖ים אֶל־בִּלְעָ֑ם וַיֹּ֣אמֶר אֵלָ֗יו אֶת־שִׁבְעַ֤ת הַֽמִּזְבְּחֹת֙ עָרַ֔כְתִּי",
+              "english": "And G-d chanced upon Bilam [in the daytime, \"grudgingly and contemptuously,\" and only in order to show His love for Israel]; and he said to Him: The seven altars [corresponding to the seven altars that the patriarchs arranged before You] have I arranged,"
+            },
+            {
+              "hebrew": "וָאַ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+              "english": "and I have offered up a bullock and a ram on (each) altar [whereas Abraham offered up only one ram]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֧שֶׂם יְהֹוָ֛ה דָּבָ֖ר בְּפִ֣י בִלְעָ֑ם",
+              "english": "And the L-rd placed a word in the mouth of Bilam"
+            },
+            {
+              "hebrew": "וַיֹּ֛אמֶר שׁ֥וּב אֶל־בָּלָ֖ק וְכֹ֥ה תְדַבֵּֽר׃",
+              "english": "and He said: Return to Balak and thus shall you speak."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣שׇׁב אֵלָ֔יו וְהִנֵּ֥ה נִצָּ֖ב עַל־עֹלָת֑וֹ",
+              "english": "And he returned to him, and, behold, he was standing by his burnt-offering,"
+            },
+            {
+              "hebrew": "ה֖וּא וְכׇל־שָׂרֵ֥י מוֹאָֽב׃",
+              "english": "he and all the officers of Moav."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר מִן־אֲ֠רָ֠ם יַנְחֵ֨נִי בָלָ֤ק מֶֽלֶךְ־מוֹאָב֙ מֵֽהַרְרֵי־קֶ֔דֶם",
+              "english": "And he took up his parable and he said: From Aram, Balak the king of Moav brought me, from the mountains of the east (saying to me):"
+            },
+            {
+              "hebrew": "לְכָה֙ אָֽרָה־לִּ֣י יַעֲקֹ֔ב וּלְכָ֖ה זֹעֲמָ֥ה יִשְׂרָאֵֽל׃",
+              "english": "Go and curse (arah) Jacob for me, and go and curse (zoamah) Israel [(Balak using both terms, being uncertain as to the \"lethal\" form)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "מָ֣ה אֶקֹּ֔ב לֹ֥א קַבֹּ֖ה אֵ֑ל",
+              "english": "When I would curse, the Almighty would not curse [(Even when they deserved to be cursed, they were not cursed (see citations in Rashi)],"
+            },
+            {
+              "hebrew": "וּמָ֣ה אֶזְעֹ֔ם לֹ֥א זָעַ֖ם יְהֹוָֽה׃",
+              "english": "and when I would vent wrath, the L-rd would not. [My only power is in knowing G-d's \"moment of wrath,\" and He did not manifest that moment all of these days)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־מֵרֹ֤אשׁ צֻרִים֙ אֶרְאֶ֔נּוּ וּמִגְּבָע֖וֹת אֲשׁוּרֶ֑נּוּ",
+              "english": "For from [their very] beginning, I behold them [fortified as] rocks [by the patriarchs and the matriarchs]; and [fortified] as mounts, I view them."
+            },
+            {
+              "hebrew": "הֶן־עָם֙ לְבָדָ֣ד יִשְׁכֹּ֔ן וּבַגּוֹיִ֖ם לֹ֥א יִתְחַשָּֽׁב׃",
+              "english": "Lo, the people (of Israel) shall dwell alone [in the world], and among the nations they shall not be reckoned [for destruction]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "מִ֤י מָנָה֙ עֲפַ֣ר יַעֲקֹ֔ב וּמִסְפָּ֖ר אֶת־רֹ֣בַע יִשְׂרָאֵ֑ל",
+              "english": "Who can count the dust [i.e., the offspring (see Genesis 13:16)] of Jacob or the number of [one of] the four [banners of the encampments of] Israel?"
+            },
+            {
+              "hebrew": "תָּמֹ֤ת נַפְשִׁי֙ מ֣וֹת יְשָׁרִ֔ים וּתְהִ֥י אַחֲרִיתִ֖י כָּמֹֽהוּ׃",
+              "english": "Let my soul die the death of the righteous [among them] and let my last end be like theirs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם מֶ֥ה עָשִׂ֖יתָ לִ֑י לָקֹ֤ב אֹיְבַי֙ לְקַחְתִּ֔יךָ",
+              "english": "And Balak said to Bilam: What did you do to me? To curse my foes did I take you,"
+            },
+            {
+              "hebrew": "וְהִנֵּ֖ה בֵּרַ֥כְתָּ בָרֵֽךְ׃",
+              "english": "and, behold, you have blessed them!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֖עַן וַיֹּאמַ֑ר",
+              "english": "And he answered and said:"
+            },
+            {
+              "hebrew": "הֲלֹ֗א אֵת֩ אֲשֶׁ֨ר יָשִׂ֤ים יְהֹוָה֙ בְּפִ֔י אֹת֥וֹ אֶשְׁמֹ֖ר לְדַבֵּֽר׃",
+              "english": "Must I not take heed to speak that which the L-rd places in my mouth?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר אֵלָ֜יו בָּלָ֗ק (לך) [לְכָה־]נָּ֨א אִתִּ֜י אֶל־מָק֤וֹם אַחֵר֙ אֲשֶׁ֣ר תִּרְאֶ֣נּוּ מִשָּׁ֔ם",
+              "english": "And Balak said to him: Come, I pray you, with me to another place whence you will see them."
+            },
+            {
+              "hebrew": "אֶ֚פֶס קָצֵ֣הוּ תִרְאֶ֔ה וְכֻלּ֖וֹ לֹ֣א תִרְאֶ֑ה וְקׇבְנוֹ־לִ֖י מִשָּֽׁם׃",
+              "english": "But only their outermost part will you see, and you will not see all of them; and curse them for me from there."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקָּחֵ֙הוּ֙ שְׂדֵ֣ה צֹפִ֔ים אֶל־רֹ֖אשׁ הַפִּסְגָּ֑ה",
+              "english": "And he took him to the field of the scouts, to the top of the height [Balak divined that a breach would break forth in Israel there and assumed it to be the effect of the curse (whereas, in reality, the \"breach\" was Moses' dying there)];"
+            },
+            {
+              "hebrew": "וַיִּ֙בֶן֙ שִׁבְעָ֣ה מִזְבְּחֹ֔ת וַיַּ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+              "english": "and he built seven altars, and he offered up a bullock and a ram on (each) altar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֙אמֶר֙ אֶל־בָּלָ֔ק הִתְיַצֵּ֥ב כֹּ֖ה עַל־עֹלָתֶ֑ךָ",
+              "english": "And he said to Balak: Stand here by your burnt-offering,"
+            },
+            {
+              "hebrew": "וְאָנֹכִ֖י אִקָּ֥רֶה כֹּֽה׃",
+              "english": "and I will be chanced upon here [by the Holy One Blessed be He]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקָּ֤ר יְהֹוָה֙ אֶל־בִּלְעָ֔ם וַיָּ֥שֶׂם דָּבָ֖ר בְּפִ֑יו",
+              "english": "And the L-rd chanced upon Bilam, and He placed a word in his mouth, [as one places a bit in an animal's mouth (Bilam balking at what he now saw to be a futile errand, and the L-rd \"bridling\" him to His will)],"
+            },
+            {
+              "hebrew": "וַיֹּ֛אמֶר שׁ֥וּב אֶל־בָּלָ֖ק וְכֹ֥ה תְדַבֵּֽר׃",
+              "english": "and He said: Return to Balak, and thus shall you speak."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֣א אֵלָ֗יו וְהִנּ֤וֹ נִצָּב֙ עַל־עֹ֣לָת֔וֹ וְשָׂרֵ֥י מוֹאָ֖ב אִתּ֑וֹ",
+              "english": "And he came to him, and, lo, he stood by his burnt-offering, and [some of] the officers of Moav with him, [but not all of them (as opposed to (6), some of them having lost hope in him and having left)]."
+            },
+            {
+              "hebrew": "וַיֹּ֤אמֶר לוֹ֙ בָּלָ֔ק מַה־דִּבֶּ֖ר יְהֹוָֽה׃",
+              "english": "And Balak said to him [mockingly]: What did the L-rd (but not \"you\") speak? [you being nothing but His mouthpiece]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר ק֤וּם בָּלָק֙ וּֽשְׁמָ֔ע",
+              "english": "And he took up his parable and he said: Arise, Balak [(This is Bilam's \"riposte\" to Balak's mockery — Stand! You have no right to sit when being addressed by G-d's emissary!)];"
+            },
+            {
+              "hebrew": "הַאֲזִ֥ינָה עָדַ֖י בְּנ֥וֹ צִפֹּֽר׃",
+              "english": "give ear to me, son of Tzippor!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֣א אִ֥ישׁ אֵל֙ וִֽיכַזֵּ֔ב וּבֶן־אָדָ֖ם וְיִתְנֶחָ֑ם",
+              "english": "The Almighty is not a man that He should deceive [(He has sworn to give them the land, and do you think to slay them in the desert)]; nor the son of man, that He should retract."
+            },
+            {
+              "hebrew": "הַה֤וּא אָמַר֙ וְלֹ֣א יַעֲשֶׂ֔ה וְדִבֶּ֖ר וְלֹ֥א יְקִימֶֽנָּה׃",
+              "english": "Would He say and not do? [Would He] speak and not fulfill?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "הִנֵּ֥ה בָרֵ֖ךְ לָקָ֑חְתִּי",
+              "english": "Behold, [a fiat] to bless [them] have I received [from Him],"
+            },
+            {
+              "hebrew": "וּבֵרֵ֖ךְ וְלֹ֥א אֲשִׁיבֶֽנָּה׃",
+              "english": "and He has blessed [them], and I will not reverse it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־הִבִּ֥יט אָ֙וֶן֙ בְּיַעֲקֹ֔ב וְלֹא־רָאָ֥ה עָמָ֖ל בְּיִשְׂרָאֵ֑ל",
+              "english": "He does not scrutinize [exactingly] the iniquity [that is] in Jacob, and He does not see the toil [i.e., the toilsome transgression] [that is] in Israel."
+            },
+            {
+              "hebrew": "יְהֹוָ֤ה אֱלֹהָיו֙ עִמּ֔וֹ וּתְרוּעַ֥ת מֶ֖לֶךְ בּֽוֹ׃",
+              "english": "The L-rd, his G-d, is with him, [not leaving them even when they are rebellious], and the King's love is in him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֖ל מוֹצִיאָ֣ם מִמִּצְרָ֑יִם",
+              "english": "The Almighty brought them forth from Egypt [(as opposed to your: \"A people has gone forth from Egypt\" (22:5)];"
+            },
+            {
+              "hebrew": "כְּתוֹעֲפֹ֥ת רְאֵ֖ם לֽוֹ׃",
+              "english": "and the flight of the heights is His."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֤י לֹא־נַ֙חַשׁ֙ בְּיַעֲקֹ֔ב וְלֹא־קֶ֖סֶם בְּיִשְׂרָאֵ֑ל",
+              "english": "[They are worthy of blessing] for there is no [practice of] enchantment in Jacob, and there is no divination in Israel."
+            },
+            {
+              "hebrew": "כָּעֵ֗ת יֵאָמֵ֤ר לְיַעֲקֹב֙ וּלְיִשְׂרָאֵ֔ל מַה־פָּ֖עַל אֵֽל׃",
+              "english": "[There is destined to come] a time like this [when His love for them will be revealed, when they are seated within the Divine partition and] it will be asked of Jacob and of Israel: \"What hath the Almighty wrought?\""
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "הֶן־עָם֙ כְּלָבִ֣יא יָק֔וּם וְכַאֲרִ֖י יִתְנַשָּׂ֑א",
+              "english": "Behold, a people that rises like a lioness [in the morning from their sleep to \"snatch\" mitzvoth] and which lifts itself up as a lion."
+            },
+            {
+              "hebrew": "לֹ֤א יִשְׁכַּב֙ עַד־יֹ֣אכַל טֶ֔רֶף וְדַם־חֲלָלִ֖ים יִשְׁתֶּֽה׃",
+              "english": "It does not lie down [to sleep] until [by the reading of the Shema] it consumes its prey, [all of the mazzikin (destructive agents) which come to assail them], and [when armies come against them, the L-rd protects them and fights their wars], and it drinks the blood of the slain."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם גַּם־קֹ֖ב לֹ֣א תִקֳּבֶ֑נּוּ",
+              "english": "And Balak said to Bilam: Neither curse them"
+            },
+            {
+              "hebrew": "גַּם־בָּרֵ֖ךְ לֹ֥א תְבָרְכֶֽנּוּ׃",
+              "english": "nor bless them!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַן בִּלְעָ֔ם וַיֹּ֖אמֶר אֶל־בָּלָ֑ק הֲלֹ֗א דִּבַּ֤רְתִּי אֵלֶ֙יךָ֙ לֵאמֹ֔ר",
+              "english": "And Bilam answered and said to Balak: Did I not tell you:"
+            },
+            {
+              "hebrew": "כֹּ֛ל אֲשֶׁר־יְדַבֵּ֥ר יְהֹוָ֖ה אֹת֥וֹ אֶֽעֱשֶֽׂה׃",
+              "english": "All that the L-rd speaks, that will I do?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם לְכָה־נָּא֙ אֶקָּ֣חֲךָ֔ אֶל־מָק֖וֹם אַחֵ֑ר",
+              "english": "And Balak said to Bilam: Come, I pray you, let me take you to another place."
+            },
+            {
+              "hebrew": "אוּלַ֤י יִישַׁר֙ בְּעֵינֵ֣י הָאֱלֹהִ֔ים וְקַבֹּ֥תוֹ לִ֖י מִשָּֽׁם׃",
+              "english": "Perhaps it will be right in the eyes of G-d, and you will curse them for me from there."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֥ח בָּלָ֖ק אֶת־בִּלְעָ֑ם רֹ֣אשׁ הַפְּע֔וֹר",
+              "english": "And Balak took Bilam to the top of Peor,"
+            },
+            {
+              "hebrew": "הַנִּשְׁקָ֖ף עַל־פְּנֵ֥י הַיְשִׁימֹֽן׃",
+              "english": "which looks out upon the face of the wilderness. [Balak divined that Israel would be smitten by Peor and assumed the (prospective) curse to be the cause.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר בִּלְעָם֙ אֶל־בָּלָ֔ק בְּנֵה־לִ֥י בָזֶ֖ה שִׁבְעָ֣ה מִזְבְּחֹ֑ת",
+              "english": "And Bilam said to Balak: Build for me here seven altars"
+            },
+            {
+              "hebrew": "וְהָכֵ֥ן לִי֙ בָּזֶ֔ה שִׁבְעָ֥ה פָרִ֖ים וְשִׁבְעָ֥ה אֵילִֽם׃",
+              "english": "and prepare for me here seven bullocks and seven rams."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַשׂ בָּלָ֔ק כַּאֲשֶׁ֖ר אָמַ֣ר בִּלְעָ֑ם",
+              "english": "And Balak did as Bilam said,"
+            },
+            {
+              "hebrew": "וַיַּ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃",
+              "english": "and he offered up a bullock and a ram upon (each) altar."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "24": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣רְא בִּלְעָ֗ם כִּ֣י ט֞וֹב בְּעֵינֵ֤י יְהֹוָה֙ לְבָרֵ֣ךְ אֶת־יִשְׂרָאֵ֔ל",
+              "english": "And Bilam saw that it was good in the eyes of the L-rd to bless Israel,"
+            },
+            {
+              "hebrew": "וְלֹא־הָלַ֥ךְ כְּפַֽעַם־בְּפַ֖עַם לִקְרַ֣את נְחָשִׁ֑ים וַיָּ֥שֶׁת אֶל־הַמִּדְבָּ֖ר פָּנָֽיו׃",
+              "english": "and he did not go, as [he had gone] twice before to diviners [to divine whether the L-rd would \"chance upon\" him as he wished; but he said to himself: Whether or not He wishes to curse them, I shall mention their sins and the curse will perforce alight upon them], and he set his face to the desert [to the sin of the golden calf that Israel had made there]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֨א בִלְעָ֜ם אֶת־עֵינָ֗יו וַיַּרְא֙ אֶת־יִשְׂרָאֵ֔ל שֹׁכֵ֖ן לִשְׁבָטָ֑יו",
+              "english": "And Bilam lifted his eyes [seeking to cast the \"evil eye\" upon them], and he saw Israel dwelling according to its tribes, [each tribe by itself, and the doors of their tents non-aligned, so that none look into his neighbor's tent],"
+            },
+            {
+              "hebrew": "וַתְּהִ֥י עָלָ֖יו ר֥וּחַ אֱלֹהִֽים׃",
+              "english": "and the spirit of G-d reposed upon him. [It entered his heart not to curse them.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר",
+              "english": "And he took up his parable and he said:"
+            },
+            {
+              "hebrew": "נְאֻ֤ם בִּלְעָם֙ בְּנ֣וֹ בְעֹ֔ר וּנְאֻ֥ם הַגֶּ֖בֶר שְׁתֻ֥ם הָעָֽיִן׃",
+              "english": "The speech of Bilam the son of Beor and the speech of the man of the gouged-out eye."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "נְאֻ֕ם שֹׁמֵ֖עַ אִמְרֵי־אֵ֑ל",
+              "english": "The speech of the hearer of the words of the Almighty,"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר מַחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם׃",
+              "english": "who sees the vision of the Almighty, fallen [on his bed at night] and his eyes uncovered [(Bilam being granted prophecy only at night)]:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "מַה־טֹּ֥בוּ אֹהָלֶ֖יךָ יַעֲקֹ֑ב",
+              "english": "How goodly are your tents, O Jacob, [the tent-entrances not being aligned with one another],"
+            },
+            {
+              "hebrew": "מִשְׁכְּנֹתֶ֖יךָ יִשְׂרָאֵֽל׃",
+              "english": "your dwelling places [i.e., your encampments], O Israel!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "כִּנְחָלִ֣ים נִטָּ֔יוּ כְּגַנֹּ֖ת עֲלֵ֣י נָהָ֑ר",
+              "english": "As brooks which stretch out [into the distance], as gardens by the river,"
+            },
+            {
+              "hebrew": "כַּאֲהָלִים֙ נָטַ֣ע יְהֹוָ֔ה כַּאֲרָזִ֖ים עֲלֵי־מָֽיִם׃",
+              "english": "as the aloes planted by the L-rd [in the garden of Eden], as cedar trees by the waters."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "יִֽזַּל־מַ֙יִם֙ מִדָּ֣לְיָ֔ו וְזַרְע֖וֹ בְּמַ֣יִם רַבִּ֑ים",
+              "english": "Water shall flow from his springs [i.e., the king issuing from his sons shall flourish], and his seed in many waters [i.e., his seed will prosper],"
+            },
+            {
+              "hebrew": "וְיָרֹ֤ם מֵֽאֲגַג֙ מַלְכּ֔וֹ וְתִנַּשֵּׂ֖א מַלְכֻתֽוֹ׃",
+              "english": "and his [first] king (Saul) will be exalted above [i.e., he will vanquish] Agag [the king of Amalek], and his [Jacob's] kingdom will rise [ever higher, (David and Solomon following Saul)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֚ל מוֹצִיא֣וֹ מִמִּצְרַ֔יִם כְּתוֹעֲפֹ֥ת רְאֵ֖ם ל֑וֹ",
+              "english": "[Who accorded this greatness to them?] The Almighty who brought them forth from Egypt [with His strength and grandeur]. The flight of the heights is His."
+            },
+            {
+              "hebrew": "יֹאכַ֞ל גּוֹיִ֣ם צָרָ֗יו וְעַצְמֹתֵיהֶ֛ם יְגָרֵ֖ם וְחִצָּ֥יו יִמְחָֽץ׃",
+              "english": "He shall devour the nations, his oppressors, and their bones shall he strip clean, and he shall dye His arrows [in their blood.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כָּרַ֨ע שָׁכַ֧ב כַּאֲרִ֛י וּכְלָבִ֖יא מִ֣י יְקִימֶ֑נּוּ",
+              "english": "He shall crouch and lie down as a lion [i.e., They will settle their land in strength and might], and as a lioness — Who shall make him rise?"
+            },
+            {
+              "hebrew": "מְבָרְכֶ֣יךָ בָר֔וּךְ וְאֹרְרֶ֖יךָ אָרֽוּר׃",
+              "english": "Those who bless you will be blessed, and those who curse you will be cursed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽחַר־אַ֤ף בָּלָק֙ אֶל־בִּלְעָ֔ם וַיִּסְפֹּ֖ק אֶת־כַּפָּ֑יו וַיֹּ֨אמֶר בָּלָ֜ק אֶל־בִּלְעָ֗ם לָקֹ֤ב אֹֽיְבַי֙ קְרָאתִ֔יךָ",
+              "english": "And Balak's anger burned against Bilam and he smote his hands together and Balak said to Bilam: To curse my foes did I call you,"
+            },
+            {
+              "hebrew": "וְהִנֵּה֙ בֵּרַ֣כְתָּ בָרֵ֔ךְ זֶ֖ה שָׁלֹ֥שׁ פְּעָמִֽים׃",
+              "english": "and here you have blessed them this three times!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּ֖ה בְּרַח־לְךָ֣ אֶל־מְקוֹמֶ֑ךָ",
+              "english": "And now, flee to your place."
+            },
+            {
+              "hebrew": "אָמַ֙רְתִּי֙ כַּבֵּ֣ד אֲכַבֶּדְךָ֔ וְהִנֵּ֛ה מְנָעֲךָ֥ יְהֹוָ֖ה מִכָּבֽוֹד׃",
+              "english": "I said that I would honor you, but the L-rd has withheld you from honor."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר בִּלְעָ֖ם אֶל־בָּלָ֑ק",
+              "english": "And Bilam said to Balak:"
+            },
+            {
+              "hebrew": "הֲלֹ֗א גַּ֧ם אֶל־מַלְאָכֶ֛יךָ אֲשֶׁר־שָׁלַ֥חְתָּ אֵלַ֖י דִּבַּ֥רְתִּי לֵאמֹֽר׃",
+              "english": "Did I not also speak to your messengers that you sent to me, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "אִם־יִתֶּן־לִ֨י בָלָ֜ק מְלֹ֣א בֵיתוֹ֮ כֶּ֣סֶף וְזָהָב֒",
+              "english": "If Balak gives me his house full of silver and gold,"
+            },
+            {
+              "hebrew": "לֹ֣א אוּכַ֗ל לַעֲבֹר֙ אֶת־פִּ֣י יְהֹוָ֔ה לַעֲשׂ֥וֹת טוֹבָ֛ה א֥וֹ רָעָ֖ה מִלִּבִּ֑י",
+              "english": "I will not be able to countermand the word of the L-rd [(Here he omits \"my G-d,\" as opposed to 22:18, knowing that he has been rejected and \"cast out\" by Him)] to do good or evil as I wish?"
+            },
+            {
+              "hebrew": "אֲשֶׁר־יְדַבֵּ֥ר יְהֹוָ֖ה אֹת֥וֹ אֲדַבֵּֽר׃",
+              "english": "What the L-rd speaks, that will I speak."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּ֕ה הִנְנִ֥י הוֹלֵ֖ךְ לְעַמִּ֑י",
+              "english": "And now, behold, I go to my people, [to be as one of them (the L-rd having left him)]."
+            },
+            {
+              "hebrew": "לְכָה֙ אִיעָ֣צְךָ֔ אֲשֶׁ֨ר יַעֲשֶׂ֜ה הָעָ֥ם הַזֶּ֛ה לְעַמְּךָ֖ בְּאַחֲרִ֥ית הַיָּמִֽים׃",
+              "english": "Come, I will counsel you [what to do to them — to undo them by harlotry (see 31:16). And I shall reveal to you] what this people will do to your people in the end of days [viz., 17]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר",
+              "english": "And he took up his parable and he said:"
+            },
+            {
+              "hebrew": "נְאֻ֤ם בִּלְעָם֙ בְּנ֣וֹ בְעֹ֔ר וּנְאֻ֥ם הַגֶּ֖בֶר שְׁתֻ֥ם הָעָֽיִן׃",
+              "english": "The speech of Bilam the son of Beor and the speech of the man of the gouged-out eye."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "נְאֻ֗ם שֹׁמֵ֙עַ֙ אִמְרֵי־אֵ֔ל וְיֹדֵ֖עַ דַּ֣עַת עֶלְי֑וֹן",
+              "english": "The speech of the hearer of the words of the Almighty, and the knower of the knowledge of the Most High [(in that he can determine the time of His anger)]."
+            },
+            {
+              "hebrew": "מַחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם׃",
+              "english": "He sees the vision of the Almighty, fallen and his eyes uncovered [see 4]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "אֶרְאֶ֙נּוּ֙ וְלֹ֣א עַתָּ֔ה אֲשׁוּרֶ֖נּוּ וְלֹ֣א קָר֑וֹב",
+              "english": "I see it [the greatness of Jacob], but [it is] not now [but after a time]; I behold it, but [it is] not near."
+            },
+            {
+              "hebrew": "דָּרַ֨ךְ כּוֹכָ֜ב מִֽיַּעֲקֹ֗ב וְקָ֥ם שֵׁ֙בֶט֙ מִיִּשְׂרָאֵ֔ל",
+              "english": "A star [i.e., a king] will arise from Jacob, and a sceptre [i.e., a ruling king] will arise from Israel,"
+            },
+            {
+              "hebrew": "וּמָחַץ֙ פַּאֲתֵ֣י מוֹאָ֔ב וְקַרְקַ֖ר כׇּל־בְּנֵי־שֵֽׁת׃",
+              "english": "and he [David] shall smite the edges of Moav [See II Samuel 8:2] and he shall dig through all the sons of Sheth [i.e., the nations]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֨ה אֱד֜וֹם יְרֵשָׁ֗ה וְהָיָ֧ה יְרֵשָׁ֛ה שֵׂעִ֖יר אֹיְבָ֑יו",
+              "english": "And Edom will be a possession [to Israel], and Seir will be a possession [to Israel] his enemies,"
+            },
+            {
+              "hebrew": "וְיִשְׂרָאֵ֖ל עֹ֥שֶׂה חָֽיִל׃",
+              "english": "and Israel will do valiantly."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְיֵ֖רְדְּ מִֽיַּעֲקֹ֑ב",
+              "english": "And there will be [yet another] ruler [the Messiah] from Jacob,"
+            },
+            {
+              "hebrew": "וְהֶֽאֱבִ֥יד שָׂרִ֖יד מֵעִֽיר׃",
+              "english": "and he will destroy the remnant [of Edom] from [its capital] city [Rome]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּרְא֙ אֶת־עֲמָלֵ֔ק וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר רֵאשִׁ֤ית גּוֹיִם֙ עֲמָלֵ֔ק",
+              "english": "And he saw [the retribution of] Amalek, and he took up his parable and he said: The first of nations [to war against Israel] was Amalek,"
+            },
+            {
+              "hebrew": "וְאַחֲרִית֖וֹ עֲדֵ֥י אֹבֵֽד׃",
+              "english": "and his end is to perish everlastingly [through them]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּרְא֙ אֶת־הַקֵּינִ֔י וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר אֵיתָן֙ מֽוֹשָׁבֶ֔ךָ",
+              "english": "And he saw the Keini [(the grandeur of the descendants of Yithro. See I Chronicles 2:55.) Having just spoken of Amalek, he now speaks of the Keini, who were situated in their midst (I Samuel 15:6)], and he took up his parable and he said: [I wonder how you have attained to this. Were you (Yithro) not together with me in the counsel against Israel? (Exodus 1:10), and now] your dwelling place is firm [within the stronghold of Israel]"
+            },
+            {
+              "hebrew": "וְשִׂ֥ים בַּסֶּ֖לַע קִנֶּֽךָ׃",
+              "english": "and you have set your nest in the rock!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֥י אִם־יִהְיֶ֖ה לְבָ֣עֵֽר קָ֑יִן",
+              "english": "[Fortunate are you in having joined yourself to this strength, for you will thus never be driven from the world]; for though Kayin (i.e., the Keini) be destined to be removed [into exile together with the ten tribes, what of it?]"
+            },
+            {
+              "hebrew": "עַד־מָ֖ה אַשּׁ֥וּר תִּשְׁבֶּֽךָּ׃",
+              "english": "How far will Ashur carry you into captivity? [To Chalach or to Chavor? This is not extinction but removal, and you will return with the other exiles.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר",
+              "english": "And he took up his parable and he said: [(Having mentioned Ashur's conquest, he now says)]"
+            },
+            {
+              "hebrew": "א֕וֹי מִ֥י יִחְיֶ֖ה מִשֻּׂמ֥וֹ אֵֽל׃",
+              "english": "Woe, who shall live [i.e., Who shall escape] from the Placer of these [decreeing the same things against him!]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְצִים֙ מִיַּ֣ד כִּתִּ֔ים וְעִנּ֥וּ אַשּׁ֖וּר וְעִנּוּ־עֵ֑בֶר",
+              "english": "[For Sancherev (Ashur) will arise and confound the nations,] and, [thereafter,] great ships shall come from Kittim and they [the Romans] shall afflict Ashur, and they will afflict [those] beyond [the Euphrates],"
+            },
+            {
+              "hebrew": "וְגַם־ה֖וּא עֲדֵ֥י אֹבֵֽד׃",
+              "english": "but he, too, [i.e., the Romans] shall perish everlastingly [See Daniel 7:11]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣קׇם בִּלְעָ֔ם וַיֵּ֖לֶךְ וַיָּ֣שׇׁב לִמְקֹמ֑וֹ",
+              "english": "And Bilam arose and went and returned to his place,"
+            },
+            {
+              "hebrew": "וְגַם־בָּלָ֖ק הָלַ֥ךְ לְדַרְכּֽוֹ׃&nbsp;{פ}",
+              "english": "and Balak, too, went on his way."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "25": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בַּשִּׁטִּ֑ים",
+              "english": "And Israel dwelt in Shittim,"
+            },
+            {
+              "hebrew": "וַיָּ֣חֶל הָעָ֔ם לִזְנ֖וֹת אֶל־בְּנ֥וֹת מוֹאָֽב׃",
+              "english": "and the people began to stray after the daughters of Moav [(a result of Bilam's counsel)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּקְרֶ֣אןָ לָעָ֔ם לְזִבְחֵ֖י אֱלֹהֵיהֶ֑ן",
+              "english": "And they [the Moavite women] called the people to the sacrifices of their gods,"
+            },
+            {
+              "hebrew": "וַיֹּ֣אכַל הָעָ֔ם וַיִּֽשְׁתַּחֲו֖וּ לֵאלֹֽהֵיהֶֽן׃",
+              "english": "and the people ate, and they bowed down to their gods [(the Moavite women making this a condition for their consenting)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּצָּ֥מֶד יִשְׂרָאֵ֖ל לְבַ֣עַל פְּע֑וֹר",
+              "english": "And Israel joined itself to Ba'al Peor (the idolatry of Moav) [so called because they exposed (pa'aru) themselves and defecated before it (this being its mode of worship)],"
+            },
+            {
+              "hebrew": "וַיִּֽחַר־אַ֥ף יְהֹוָ֖ה בְּיִשְׂרָאֵֽל׃",
+              "english": "and the L-rd was wroth with Israel. [He sent a plague against them.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה קַ֚ח אֶת־כׇּל־רָאשֵׁ֣י הָעָ֔ם וְהוֹקַ֥ע אוֹתָ֛ם לַיהֹוָ֖ה נֶ֣גֶד הַשָּׁ֑מֶשׁ",
+              "english": "And the L-rd said to Moses: Take all the heads of the people [to judge the worshippers of Peor] and hang them [the worshippers] up to the L-rd [after stoning them (all who are executed by stoning being hanged thereafter)] in the face of the sun [i.e., before all]"
+            },
+            {
+              "hebrew": "וְיָשֹׁ֛ב חֲר֥וֹן אַף־יְהֹוָ֖ה מִיִּשְׂרָאֵֽל׃",
+              "english": "so that the wrath of the L-rd turn away from Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־שֹׁפְטֵ֖י יִשְׂרָאֵ֑ל",
+              "english": "And Moses said to the judges [88,000] of Israel:"
+            },
+            {
+              "hebrew": "הִרְגוּ֙ אִ֣ישׁ אֲנָשָׁ֔יו הַנִּצְמָדִ֖ים לְבַ֥עַל פְּעֽוֹר׃",
+              "english": "Slay each (of you) his [two] men that have joined themselves to Ba'al Peor."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י מֹשֶׁ֔ה וּלְעֵינֵ֖י כׇּל־עֲדַ֣ת בְּנֵי־יִשְׂרָאֵ֑ל",
+              "english": "And, behold, a man of the children of Israel [Zimri, chief of the tribe of Shimon] came, and he brought near to his brothers the Midianite woman [Kazbi, the daughter of Tzur] in the sight of Moses and in the sight of the entire congregation of the children of Israel,"
+            },
+            {
+              "hebrew": "וְהֵ֣מָּה בֹכִ֔ים פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and they wept at the door of the tent of meeting [(at Moses' seeming impotence to stand up against one man whereas in the incident of the golden calf he had stood up against six hundred thousand! (For a full account of what transpired here see Sanhedrin 82a)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֗רְא פִּֽינְחָס֙ בֶּן־אֶלְעָזָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵ֑ן",
+              "english": "And Pinchas, the son of Elazar, the son of Aaron the Cohein, saw [the act, and he remembered the halachah (that zealots may kill one they see cohabiting with an Aramite woman)],"
+            },
+            {
+              "hebrew": "וַיָּ֙קׇם֙ מִתּ֣וֹךְ הָֽעֵדָ֔ה וַיִּקַּ֥ח רֹ֖מַח בְּיָדֽוֹ׃",
+              "english": "and he arose from the midst of the congregation and he took a spear in his hand."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַ֠יָּבֹ֠א אַחַ֨ר אִֽישׁ־יִשְׂרָאֵ֜ל אֶל־הַקֻּבָּ֗ה וַיִּדְקֹר֙ אֶת־שְׁנֵיהֶ֔ם אֵ֚ת אִ֣ישׁ יִשְׂרָאֵ֔ל וְאֶת־הָאִשָּׁ֖ה אֶל־קֳבָתָ֑הּ",
+              "english": "And he came after the man of Israel to the tent and he thrust both of them through, the man of Israel [precisely through his genitals] and the woman [precisely] through her genitals [so that all see that he had not slain them for nought],"
+            },
+            {
+              "hebrew": "וַתֵּֽעָצַר֙ הַמַּגֵּפָ֔ה מֵעַ֖ל בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and the plague was stayed from the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּהְי֕וּ הַמֵּתִ֖ים בַּמַּגֵּפָ֑ה",
+              "english": "And the dead in the plague"
+            },
+            {
+              "hebrew": "אַרְבָּעָ֥ה וְעֶשְׂרִ֖ים אָֽלֶף׃&nbsp;{פ}",
+              "english": "were twenty-four thousand."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה",
+              "english": "And the L-rd spoke to Moses,"
+            },
+            {
+              "hebrew": "לֵּאמֹֽר׃",
+              "english": "saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "פִּֽינְחָ֨ס בֶּן־אֶלְעָזָ֜ר בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֗ן הֵשִׁ֤יב אֶת־חֲמָתִי֙ מֵעַ֣ל בְּנֵֽי־יִשְׂרָאֵ֔ל בְּקַנְא֥וֹ אֶת־קִנְאָתִ֖י בְּתוֹכָ֑ם",
+              "english": "Pinchas, the son of Elazar, the son of Aaron the Cohein, [(Because the tribes denigrated Pinchas — \"Did you see the son of this Puti (short for Putiel (Exodus 6:25), whose mother's father (Yithro) fattened (pitem) calves for idolatry, who killed the chief (Zimri) of a tribe of Israel!\" — Scripture took pains to trace his genealogy to Aaron)], (Pinchas) turned My wrath away from the children of Israel when he raged My rage [i.e., when he executed vengeance on My behalf] in their midst,"
+            },
+            {
+              "hebrew": "וְלֹא־כִלִּ֥יתִי אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל בְּקִנְאָתִֽי׃",
+              "english": "and I did not consume the children of Israel in My wrath."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "לָכֵ֖ן אֱמֹ֑ר",
+              "english": "Therefore, say:"
+            },
+            {
+              "hebrew": "הִנְנִ֨י נֹתֵ֥ן ל֛וֹ אֶת־בְּרִיתִ֖י שָׁלֽוֹם׃",
+              "english": "Behold, I give to him My covenant [to be unto him a covenant of] peace."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהָ֤יְתָה לּוֹ֙ וּלְזַרְע֣וֹ אַחֲרָ֔יו בְּרִ֖ית כְּהֻנַּ֣ת עוֹלָ֑ם",
+              "english": "And it shall be unto him and to his seed after him a covenant of eternal priesthood [(Prior to this, the priesthood had been given only to Aaron and his sons who were anointed with him and to their sons born thereafter, but Pinchas had been born before)] —"
+            },
+            {
+              "hebrew": "תַּ֗חַת אֲשֶׁ֤ר קִנֵּא֙ לֵֽאלֹהָ֔יו וַיְכַפֵּ֖ר עַל־בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "because he was wroth for his G-d and he atoned for the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְשֵׁם֩ אִ֨ישׁ יִשְׂרָאֵ֜ל הַמֻּכֶּ֗ה אֲשֶׁ֤ר הֻכָּה֙ אֶת־הַמִּדְיָנִ֔ית זִמְרִ֖י בֶּן־סָל֑וּא",
+              "english": "And the name of the man of Israel who was smitten, who was smitten together with the Midianite woman, was Zimri the son of Salu [(As the righteous one is cited for commendation, the wicked one is cited for condemnation)],"
+            },
+            {
+              "hebrew": "נְשִׂ֥יא בֵֽית־אָ֖ב לַשִּׁמְעֹנִֽי׃",
+              "english": "chief of a father's house [one of the five] in the house of Shimon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְשֵׁ֨ם הָֽאִשָּׁ֧ה הַמֻּכָּ֛ה הַמִּדְיָנִ֖ית כׇּזְבִּ֣י בַת־צ֑וּר",
+              "english": "And the name of the woman who was smitten, the Midianitess, was Kazbi the daughter of Tzur;"
+            },
+            {
+              "hebrew": "רֹ֣אשׁ אֻמּ֥וֹת בֵּֽית־אָ֛ב בְּמִדְיָ֖ן הֽוּא׃&nbsp;{פ}",
+              "english": "head of the peoples [chief of the five kings of Midian], of a father's house [one of the five] in Midian was he [ — in spite of which, the Midianites, in their fierce hatred of Israel, consigned her to harlotry]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה",
+              "english": "And the L-rd spoke to Moses,"
+            },
+            {
+              "hebrew": "לֵּאמֹֽר׃",
+              "english": "saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "צָר֖וֹר אֶת־הַמִּדְיָנִ֑ים",
+              "english": "Afflict the Midianites"
+            },
+            {
+              "hebrew": "וְהִכִּיתֶ֖ם אוֹתָֽם׃",
+              "english": "and smite them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י צֹרְרִ֥ים הֵם֙ לָכֶ֔ם בְּנִכְלֵיהֶ֛ם אֲשֶׁר־נִכְּל֥וּ לָכֶ֖ם עַל־דְּבַר־פְּע֑וֹר",
+              "english": "For they afflict you with their schemes which they have schemed against you in the cause of Peor, [consigning their daughters to harlotry to turn you to Peor worship],"
+            },
+            {
+              "hebrew": "וְעַל־דְּבַ֞ר כׇּזְבִּ֨י בַת־נְשִׂ֤יא מִדְיָן֙ אֲחֹתָ֔ם הַמֻּכָּ֥ה בְיוֹם־הַמַּגֵּפָ֖ה עַל־דְּבַר־פְּעֽוֹר׃",
+              "english": "and in the cause of Kazbi, the daughter of a prince of Midian, their sister, who was smitten in the day of the plague in the cause of Peor."
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:18:09.194Z"
+  "updatedAt": "2026-10-26T19:19:46.141Z"
 }
