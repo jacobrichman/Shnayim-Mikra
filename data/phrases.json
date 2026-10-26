@@ -82637,9 +82637,258 @@
             }
           ],
           "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֙יךָ֙ הַיּ֔וֹם",
+              "english": "See, I have set before you this day,"
+            },
+            {
+              "hebrew": "אֶת־הַֽחַיִּ֖ים וְאֶת־הַטּ֑וֹב וְאֶת־הַמָּ֖וֶת וְאֶת־הָרָֽע׃",
+              "english": "the life and the good [(The first is contingent upon the second)], and the death and the evil, [viz.:]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו וְלִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו",
+              "english": "What I command you this day, to love the L-rd your G-d, to walk in His ways, and to keep His mitzvoth, and His statutes, and His judgments [(This is \"the good\")],"
+            },
+            {
+              "hebrew": "וְחָיִ֣יתָ וְרָבִ֔יתָ וּבֵֽרַכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בָּאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+              "english": "and you will live, and you will multiply [(This is \"the life\")], and the L-rd your G-d will bless you in the land whither you come to inherit it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־יִפְנֶ֥ה לְבָבְךָ֖ וְלֹ֣א תִשְׁמָ֑ע",
+              "english": "And if your heart turns, and you do not hearken,"
+            },
+            {
+              "hebrew": "וְנִדַּחְתָּ֗ וְהִֽשְׁתַּחֲוִ֛יתָ לֵאלֹהִ֥ים אֲחֵרִ֖ים וַעֲבַדְתָּֽם׃",
+              "english": "and you are drawn away, and you bow down to other gods and you serve them [(This is \"the evil\")],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "הִגַּ֤דְתִּי לָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵד֑וּן",
+              "english": "I tell you this day that you will go lost [(This is \"the death\")];"
+            },
+            {
+              "hebrew": "לֹא־תַאֲרִיכֻ֤ן יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתָּ֤ה עֹבֵר֙ אֶת־הַיַּרְדֵּ֔ן לָב֥וֹא שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+              "english": "you will not prolong days on the land whither you cross over the Jordan to come there to inherit it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "הַעִדֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֒רֶץ֒ הַחַיִּ֤ים וְהַמָּ֙וֶת֙ נָתַ֣תִּי לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה",
+              "english": "I call as witness upon you this day heaven and earth [(They endure forever, and if evil befall you, they will testify that I forewarned you of all this.)] The life and the death have I set before you, the blessing and the curse,"
+            },
+            {
+              "hebrew": "וּבָֽחַרְתָּ֙ בַּחַיִּ֔ים לְמַ֥עַן תִּֽחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ׃",
+              "english": "and [I urge you to] choose the life, so that you live, you and your seed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "לְאַֽהֲבָה֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֥עַ בְּקֹל֖וֹ וּלְדׇבְקָה־ב֑וֹ",
+              "english": "To love the L-rd your G-d, to heed His voice, and to cleave to Him."
+            },
+            {
+              "hebrew": "כִּ֣י ה֤וּא חַיֶּ֙יךָ֙ וְאֹ֣רֶךְ יָמֶ֔יךָ לָשֶׁ֣בֶת עַל־הָאֲדָמָ֗ה אֲשֶׁר֩ נִשְׁבַּ֨ע יְהֹוָ֧ה לַאֲבֹתֶ֛יךָ לְאַבְרָהָ֛ם לְיִצְחָ֥ק וּֽלְיַעֲקֹ֖ב לָתֵ֥ת לָהֶֽם׃&nbsp;{פ}",
+              "english": "For He is your life and the length of your days to dwell on the land that the L-rd swore to your forefathers — to Abraham to Isaac and to Jacob — to give to them."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "31": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֖לֶךְ מֹשֶׁ֑ה",
+              "english": "And Moses went"
+            },
+            {
+              "hebrew": "וַיְדַבֵּ֛ר אֶת־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־כׇּל־יִשְׂרָאֵֽל׃",
+              "english": "and he spoke these words to all of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם בֶּן־מֵאָה֩ וְעֶשְׂרִ֨ים שָׁנָ֤ה אָנֹכִי֙ הַיּ֔וֹם",
+              "english": "And he said to them: I am one hundred and twenty years old this day [(On this day I was born, and on this day I shall die)]."
+            },
+            {
+              "hebrew": "לֹא־אוּכַ֥ל ע֖וֹד לָצֵ֣את וְלָב֑וֹא וַֽיהֹוָה֙ אָמַ֣ר אֵלַ֔י לֹ֥א תַעֲבֹ֖ר אֶת־הַיַּרְדֵּ֥ן הַזֶּֽה׃",
+              "english": "I shall no longer be able to go out and to come in, [(the warrant to do so having been taken from him and accorded Joshua)], for the L-rd has said to me: You shall not cross over this Jordan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "יְהֹוָ֨ה אֱלֹהֶ֜יךָ ה֣וּא&thinsp;׀ עֹבֵ֣ר לְפָנֶ֗יךָ הֽוּא־יַשְׁמִ֞יד אֶת־הַגּוֹיִ֥ם הָאֵ֛לֶּה מִלְּפָנֶ֖יךָ וִירִשְׁתָּ֑ם",
+              "english": "The L-rd your G-d — He crosses over before you. He will destroy these nations before you and you will inherit them."
+            },
+            {
+              "hebrew": "יְהוֹשֻׁ֗עַ ה֚וּא עֹבֵ֣ר לְפָנֶ֔יךָ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהֹוָֽה׃",
+              "english": "Joshua — he crosses over before you, as the L-rd has spoken."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשָׂ֤ה יְהֹוָה֙ לָהֶ֔ם",
+              "english": "And the L-rd shall do to them"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֣ר עָשָׂ֗ה לְסִיח֥וֹן וּלְע֛וֹג מַלְכֵ֥י הָאֱמֹרִ֖י וּלְאַרְצָ֑ם אֲשֶׁ֥ר הִשְׁמִ֖יד אֹתָֽם׃",
+              "english": "as He did to Sichon and to Og, the kings of the Emori and to their land, having destroyed them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וּנְתָנָ֥ם יְהֹוָ֖ה לִפְנֵיכֶ֑ם",
+              "english": "And the L-rd will deliver them before you,"
+            },
+            {
+              "hebrew": "וַעֲשִׂיתֶ֣ם לָהֶ֔ם כְּכׇ֨ל־הַמִּצְוָ֔ה אֲשֶׁ֥ר צִוִּ֖יתִי אֶתְכֶֽם׃",
+              "english": "and you shall do to them according to all of the mitzvah that I have commanded you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "חִזְק֣וּ וְאִמְצ֔וּ אַל־תִּֽירְא֥וּ וְאַל־תַּעַרְצ֖וּ מִפְּנֵיהֶ֑ם",
+              "english": "Be strong and firm. Do not fear and do not break before them."
+            },
+            {
+              "hebrew": "כִּ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ ה֚וּא הַהֹלֵ֣ךְ עִמָּ֔ךְ לֹ֥א יַרְפְּךָ֖ וְלֹ֥א יַעַזְבֶֽךָּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "For the L-rd your G-d — It is He that goes before you; He will not let go of you, and He will not forsake you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָ֨א מֹשֶׁ֜ה לִיהוֹשֻׁ֗עַ וַיֹּ֨אמֶר אֵלָ֜יו לְעֵינֵ֣י כׇל־יִשְׂרָאֵל֮ חֲזַ֣ק וֶאֱמָץ֒",
+              "english": "And Moses called to Joshua and he said to him before the eyes of all of Israel: Be strong and firm,"
+            },
+            {
+              "hebrew": "כִּ֣י אַתָּ֗ה תָּבוֹא֙ אֶת־הָעָ֣ם הַזֶּ֔ה אֶל־הָאָ֕רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתָ֖ם לָתֵ֣ת לָהֶ֑ם וְאַתָּ֖ה תַּנְחִילֶ֥נָּה אוֹתָֽם׃",
+              "english": "for you will come with this people [(The elders of the generation shall be with you — all will be according to their judgment and counsel)] to the land that the L-rd swore to their fathers to give to them, and you shall cause them to inherit it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיהֹוָ֞ה ה֣וּא&thinsp;׀ הַהֹלֵ֣ךְ לְפָנֶ֗יךָ ה֚וּא יִהְיֶ֣ה עִמָּ֔ךְ לֹ֥א יַרְפְּךָ֖ וְלֹ֣א יַעַזְבֶ֑ךָּ",
+              "english": "And the L-rd — It is He who goes before you. He will be with you; He will not let go of you and He will not forsake you."
+            },
+            {
+              "hebrew": "לֹ֥א תִירָ֖א וְלֹ֥א תֵחָֽת׃",
+              "english": "Do not fear and do not break."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת־הַתּוֹרָ֣ה הַזֹּאת֒",
+              "english": "And Moses wrote this Torah,"
+            },
+            {
+              "hebrew": "וַֽיִּתְּנָ֗הּ אֶל־הַכֹּֽהֲנִים֙ בְּנֵ֣י לֵוִ֔י הַנֹּ֣שְׂאִ֔ים אֶת־אֲר֖וֹן בְּרִ֣ית יְהֹוָ֑ה וְאֶל־כׇּל־זִקְנֵ֖י יִשְׂרָאֵֽל׃",
+              "english": "and [when he finished writing all of it], he gave it to [his tribe], the Cohanim, the sons of Levi, who carry the ark of the covenant of the L-rd, and to all the elders of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיְצַ֥ו מֹשֶׁ֖ה אוֹתָ֣ם לֵאמֹ֑ר",
+              "english": "And Moses commanded them, saying:"
+            },
+            {
+              "hebrew": "מִקֵּ֣ץ&thinsp;׀ שֶׁ֣בַע שָׁנִ֗ים בְּמֹעֵ֛ד שְׁנַ֥ת הַשְּׁמִטָּ֖ה בְּחַ֥ג הַסֻּכּֽוֹת׃",
+              "english": "At the end of seven years [in the first year of (the new) shemitah (period), i.e., in the eighth year)], at the time of the year of the shemitah, [(the laws of shemitah still obtaining for the produce of the seventh year harvested in the eighth)], in the festival of Succoth,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "בְּב֣וֹא כׇל־יִשְׂרָאֵ֗ל לֵֽרָאוֹת֙ אֶת־פְּנֵי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁ֣ר יִבְחָ֑ר",
+              "english": "When all of Israel come to appear before the L-rd your G-d in the place that He shall choose,"
+            },
+            {
+              "hebrew": "תִּקְרָ֞א אֶת־הַתּוֹרָ֥ה הַזֹּ֛את נֶ֥גֶד כׇּל־יִשְׂרָאֵ֖ל בְּאׇזְנֵיהֶֽם׃",
+              "english": "you shall read this Torah before all of Israel, in their ears [(The king would read from the beginning of Deuteronomy on a wooden platform that they set up in the azarah.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "הַקְהֵ֣ל אֶת־הָעָ֗ם הָֽאֲנָשִׁ֤ים וְהַנָּשִׁים֙ וְהַטַּ֔ף וְגֵרְךָ֖ אֲשֶׁ֣ר בִּשְׁעָרֶ֑יךָ",
+              "english": "Assemble the people: the men [to learn], the women [to hear], and the little ones, [to confer reward on those who bring them], and the stranger in your gates,"
+            },
+            {
+              "hebrew": "לְמַ֨עַן יִשְׁמְע֜וּ וּלְמַ֣עַן יִלְמְד֗וּ וְיָֽרְאוּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֵיכֶ֔ם וְשָׁמְר֣וּ לַעֲשׂ֔וֹת אֶת־כׇּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃",
+              "english": "so that they hear and so that they learn and fear the L-rd your G-d and observe to do all the words of this Torah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵיהֶ֞ם אֲשֶׁ֣ר לֹא־יָדְע֗וּ יִשְׁמְעוּ֙ וְלָ֣מְד֔וּ לְיִרְאָ֖ה אֶת־יְהֹוָ֣ה אֱלֹהֵיכֶ֑ם",
+              "english": "And their sons who did not know shall hear and learn to fear the L-rd your G-d"
+            },
+            {
+              "hebrew": "כׇּל־הַיָּמִ֗ים אֲשֶׁ֨ר אַתֶּ֤ם חַיִּים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּֽהּ׃&nbsp;{פ}",
+              "english": "all of the days that you live upon the land whither you cross the Jordan to inherit it."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:36:57.098Z"
+  "updatedAt": "2026-10-26T19:37:11.292Z"
 }
