@@ -66,3 +66,10 @@ test('Unicode equivalence does not allow changed cantillation or extra vowels',(
  const source={verse:'1:1',hebrew:'הָאָ֣רֶץ נֹחַ',english:'the land Noach'};
  for(const word of ['הָאָ֥רֶץ','הָאֲָ֣רֶץ'])assert.throws(()=>validatePairs(source,{verse:'1:1',pairs:[{hebrew:word,english:'the land'},{hebrew:'נֹחַ',english:'Noach'}]}));
 });
+
+test('poetic HTML spacing can be a boundary without adding a source character',()=>{
+ const source={verse:'32:1',hebrew:'האזינו השמים ואדברה&nbsp;&nbsp;ותשמע הארץ',english:'Listen heavens and I speak; and hear earth'};
+ const pairs=[{hebrew:'האזינו השמים ואדברה&nbsp;&nbsp;',english:'Listen heavens and I speak;'},{hebrew:'ותשמע הארץ',english:'and hear earth'}];
+ assert.deepEqual(validatePairs(source,{verse:source.verse,pairs}),{verse:source.verse,pairs});
+ assert.throws(()=>validatePairs(source,{verse:source.verse,pairs:[{...pairs[0],hebrew:'האזינו השמים ואדברה'},pairs[1]]}));
+});

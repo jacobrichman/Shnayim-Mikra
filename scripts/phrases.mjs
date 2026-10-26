@@ -2,6 +2,9 @@
 export const HEBREW_VERSION = 'Miqra according to the Masorah';
 export const ENGLISH_VERSION = 'The Rashi chumash by Rabbi Shraga Silverstein';
 export const normalize = value => String(value ?? '').replace(/\s+/gu, ' ').trim();
+// Retain literal source spacing entities at phrase boundaries in poetic text.
+export const joinSourcePhrases = phrases => phrases.reduce((text, phrase, i) =>
+  text + (i && !/(?:&nbsp;|&thinsp;|&#160;|&#x[aA]0;)$/u.test(text) ? ' ' : '') + phrase, '');
 export function verseRows(hebrew, english, ref) {
   const match = String(ref).match(/^(.*?) (\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/u);
   if (!match) throw new Error('Unsupported Torah reference: ' + ref);
@@ -26,7 +29,7 @@ export function validatePairs(source, output) {
     if (output.pairs.some(pair => typeof pair[language] !== 'string' || !normalize(pair[language]))) {
       throw new Error('Empty or invalid ' + language + ' phrase: ' + source.verse);
     }
-    const joined = normalize(output.pairs.map(pair => pair[language]).join(' '));
+    const joined = normalize(joinSourcePhrases(output.pairs.map(pair => pair[language])));
     if (joined.normalize('NFC') !== source[language].normalize('NFC')) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
   }
   // Canonically equivalent Unicode may encode the same Hebrew marks in a
@@ -34,11 +37,11 @@ export function validatePairs(source, output) {
   // never store the model's spelling or combining-mark order.
   const pairs = output.pairs.map(() => ({}));
   for (const language of ['hebrew', 'english']) {
-    const words = source[language].split(' ');
     let offset = 0;
     output.pairs.forEach((pair, index) => {
-      const count = normalize(pair[language]).split(' ').length;
-      pairs[index][language] = words.slice(offset, offset + count).join(' ');
+      if (index && source[language][offset] === ' ') offset++;
+      const count = normalize(pair[language]).length;
+      pairs[index][language] = source[language].slice(offset, offset + count);
       offset += count;
     });
   }
