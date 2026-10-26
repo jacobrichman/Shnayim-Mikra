@@ -7797,11 +7797,21 @@
         "46": {
           "pairs": [
             {
-              "hebrew": "וַתְּמַהֵ֗ר וַתּ֤וֹרֶד כַּדָּהּ֙ מֵֽעָלֶ֔יהָ וַתֹּ֣אמֶר שְׁתֵ֔ה וְגַם־גְּמַלֶּ֖יךָ אַשְׁקֶ֑ה וָאֵ֕שְׁתְּ וְגַ֥ם הַגְּמַלִּ֖ים הִשְׁקָֽתָה׃",
-              "english": "..."
+              "hebrew": "וַתְּמַהֵ֗ר וַתּ֤וֹרֶד כַּדָּהּ֙ מֵֽעָלֶ֔יהָ",
+              "english": "And she made haste, and let down her pitcher from her shoulder,"
+            },
+            {
+              "hebrew": "וַתֹּ֣אמֶר שְׁתֵ֔ה וְגַם־גְּמַלֶּ֖יךָ אַשְׁקֶ֑ה",
+              "english": "and said, Drink, and I will give thy camels to drink also:"
+            },
+            {
+              "hebrew": "וָאֵ֕שְׁתְּ וְגַ֥ם הַגְּמַלִּ֖ים הִשְׁקָֽתָה׃",
+              "english": "so I drank, and she made the camels drink also."
             }
           ],
-          "error": true, "untranslated": true
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite",
+          "englishVersion": "The Koren Jerusalem Bible"
         },
         "47": {
           "pairs": [
@@ -8387,9 +8397,1583 @@
             }
           ],
           "repairedBy": "gemini-3.8-flash"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֛לֶּה תּוֹלְדֹ֥ת יִצְחָ֖ק בֶּן־אַבְרָהָ֑ם",
+              "english": "And these [(Jacob and Esau)] are the progeny of Isaac the son of Abraham."
+            },
+            {
+              "hebrew": "אַבְרָהָ֖ם הוֹלִ֥יד אֶת־יִצְחָֽק׃",
+              "english": "Abraham begot Isaac [i.e., After he was called \"Abraham,\" he begot Isaac]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֤י יִצְחָק֙ בֶּן־אַרְבָּעִ֣ים שָׁנָ֔ה בְּקַחְתּ֣וֹ אֶת־רִבְקָ֗ה בַּת־בְּתוּאֵל֙ הָֽאֲרַמִּ֔י",
+              "english": "And Isaac was forty years old when he took Rivkah the daughter of Bethuel the Aramite [(an evildoer)]"
+            },
+            {
+              "hebrew": "מִפַּדַּ֖ן אֲרָ֑ם",
+              "english": "from Padan Aram [(a place of evildoers)],"
+            },
+            {
+              "hebrew": "אֲח֛וֹת לָבָ֥ן הָאֲרַמִּ֖י",
+              "english": "the sister of Lavan the Aramite [(an evildoer)]"
+            },
+            {
+              "hebrew": "ל֥וֹ לְאִשָּֽׁה׃",
+              "english": "to himself as a wife, [(Rivkah retaining her integrity in spite of the above associations)]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהֹוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ",
+              "english": "And Isaac entreated the L rd, [praying] opposite his wife,"
+            },
+            {
+              "hebrew": "כִּ֥י עֲקָרָ֖ה הִ֑וא",
+              "english": "for she was barren."
+            },
+            {
+              "hebrew": "וַיֵּעָ֤תֶר לוֹ֙ יְהֹוָ֔ה",
+              "english": "And the L rd was entreated of him, [(but not of her, the prayer of a righteous child of a wicked father not being comparable to that of a righteous child of a righteous father)],"
+            },
+            {
+              "hebrew": "וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ׃",
+              "english": "and Rivkah his wife conceived."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתְרֹֽצְצ֤וּ הַבָּנִים֙ בְּקִרְבָּ֔הּ",
+              "english": "And the children wrangled within her,"
+            },
+            {
+              "hebrew": "וַתֹּ֣אמֶר אִם־כֵּ֔ן לָ֥מָּה זֶּ֖ה אָנֹ֑כִי",
+              "english": "and she said: If so [great is the pain of pregnancy], why (did) I [so much desire and pray for] this?"
+            },
+            {
+              "hebrew": "וַתֵּ֖לֶךְ לִדְרֹ֥שׁ אֶת־יְהֹוָֽה׃",
+              "english": "And she went [to the school of Shem] to inquire of the L rd [as to what was portended for her.]"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה לָ֗הּ שְׁנֵ֤י (גיים) [גוֹיִם֙] בְּבִטְנֵ֔ךְ",
+              "english": "And the L rd said to her [through Shem]: Two nations are in your womb,"
+            },
+            {
+              "hebrew": "וּשְׁנֵ֣י לְאֻמִּ֔ים מִמֵּעַ֖יִךְ יִפָּרֵ֑דוּ",
+              "english": "and two kingdoms from your innards shall part, [one to do evil, the other to do good],"
+            },
+            {
+              "hebrew": "וּלְאֹם֙ מִלְאֹ֣ם יֶֽאֱמָ֔ץ",
+              "english": "and one kingdom shall gain strength from the other, [i.e., As one falls, the other shall rise],"
+            },
+            {
+              "hebrew": "וְרַ֖ב יַעֲבֹ֥ד צָעִֽיר׃",
+              "english": "and the elder shall serve the younger."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּמְלְא֥וּ יָמֶ֖יהָ לָלֶ֑דֶת",
+              "english": "And her days were filled to give birth,"
+            },
+            {
+              "hebrew": "וְהִנֵּ֥ה תוֹמִ֖ם בְּבִטְנָֽהּ׃",
+              "english": "and, behold, there were twins in her womb."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּצֵ֤א הָרִאשׁוֹן֙ אַדְמוֹנִ֔י",
+              "english": "And the first one came out ruddy,"
+            },
+            {
+              "hebrew": "כֻּלּ֖וֹ כְּאַדֶּ֣רֶת שֵׂעָ֑ר",
+              "english": "all like a hairy cloak,"
+            },
+            {
+              "hebrew": "וַיִּקְרְא֥וּ שְׁמ֖וֹ עֵשָֽׂו׃",
+              "english": "and they called his name Esau [\"all made\" (i.e., complete)]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְאַֽחֲרֵי־כֵ֞ן יָצָ֣א אָחִ֗יו וְיָד֤וֹ אֹחֶ֙זֶת֙ בַּעֲקֵ֣ב עֵשָׂ֔ו",
+              "english": "And after his brother went out, his hand grasping Esau's heel (akev), [(portending his seizure of Esau's kingdom before its consummation)],"
+            },
+            {
+              "hebrew": "וַיִּקְרָ֥א שְׁמ֖וֹ יַעֲקֹ֑ב",
+              "english": "and he called his name Yaakov."
+            },
+            {
+              "hebrew": "וְיִצְחָ֛ק בֶּן־שִׁשִּׁ֥ים שָׁנָ֖ה בְּלֶ֥דֶת אֹתָֽם׃",
+              "english": "And Isaac was sixty years old when she bore them."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיִּגְדְּלוּ֙ הַנְּעָרִ֔ים",
+              "english": "And when the youths grew up,"
+            },
+            {
+              "hebrew": "וַיְהִ֣י עֵשָׂ֗ו אִ֛ישׁ יֹדֵ֥עַ צַ֖יִד אִ֣ישׁ שָׂדֶ֑ה",
+              "english": "Esau became a man versed in deception, a man of the field [i.e., a hunter],"
+            },
+            {
+              "hebrew": "וְיַעֲקֹב֙ אִ֣ישׁ תָּ֔ם יֹשֵׁ֖ב אֹהָלִֽים׃",
+              "english": "and Jacob a whole (-hearted) man, a dweller of tents [i.e., of (the schools of) Shem and Ever]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּאֱהַ֥ב יִצְחָ֛ק אֶת־עֵשָׂ֖ו כִּי־צַ֣יִד בְּפִ֑יו",
+              "english": "And Isaac loved Esau, for [Esau \"placed\"] venison in his mouth,"
+            },
+            {
+              "hebrew": "וְרִבְקָ֖ה אֹהֶ֥בֶת אֶֽת־יַעֲקֹֽב׃",
+              "english": "and Rivkah loved Jacob."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֥זֶד יַעֲקֹ֖ב נָזִ֑יד",
+              "english": "And Jacob cooked a pottage,"
+            },
+            {
+              "hebrew": "וַיָּבֹ֥א עֵשָׂ֛ו מִן־הַשָּׂדֶ֖ה וְה֥וּא עָיֵֽף׃",
+              "english": "and Esau came from the field and he was faint [with murder.]"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר עֵשָׂ֜ו אֶֽל־יַעֲקֹ֗ב",
+              "english": "And Esau said to Jacob:"
+            },
+            {
+              "hebrew": "הַלְעִיטֵ֤נִי נָא֙ מִן־הָאָדֹ֤ם הָאָדֹם֙ הַזֶּ֔ה כִּ֥י עָיֵ֖ף אָנֹ֑כִי",
+              "english": "\"Pour down (my throat) some of this red (adom) red stuff, for I am faint\""
+            },
+            {
+              "hebrew": "עַל־כֵּ֥ן קָרָֽא־שְׁמ֖וֹ אֱדֽוֹם׃",
+              "english": "— wherefore his name was called Edom."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֖אמֶר יַעֲקֹ֑ב",
+              "english": "And Jacob said:"
+            },
+            {
+              "hebrew": "מִכְרָ֥ה כַיּ֛וֹם אֶת־בְּכֹרָתְךָ֖ לִֽי׃",
+              "english": "Sell [as \"clearly\"] as the day [is clear] your birthright to me. [An evildoer such as you is not worthy of the sacrificial service (which is the prerogative of the first-born.)]"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר עֵשָׂ֔ו הִנֵּ֛ה אָנֹכִ֥י הוֹלֵ֖ךְ לָמ֑וּת",
+              "english": "And Esau said: Behold, I am going to die."
+            },
+            {
+              "hebrew": "וְלָמָּה־זֶּ֥ה לִ֖י בְּכֹרָֽה׃",
+              "english": "What need have I, then, of this birthright?"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר יַעֲקֹ֗ב הִשָּׁ֤בְעָה לִּי֙ כַּיּ֔וֹם",
+              "english": "And Jacob said: Swear to me as the day [is clear]."
+            },
+            {
+              "hebrew": "וַיִּשָּׁבַ֖ע ל֑וֹ",
+              "english": "And he swore to him,"
+            },
+            {
+              "hebrew": "וַיִּמְכֹּ֥ר אֶת־בְּכֹרָת֖וֹ לְיַעֲקֹֽב׃",
+              "english": "and he sold his birthright to Jacob."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְיַעֲקֹ֞ב נָתַ֣ן לְעֵשָׂ֗ו לֶ֚חֶם וּנְזִ֣יד עֲדָשִׁ֔ים",
+              "english": "And Jacob gave to Esau bread and a pottage of lentils."
+            },
+            {
+              "hebrew": "וַיֹּ֣אכַל וַיֵּ֔שְׁתְּ וַיָּ֖קׇם וַיֵּלַ֑ךְ",
+              "english": "And he ate, and he drank, and he arose, and he went, and"
+            },
+            {
+              "hebrew": "וַיִּ֥בֶז עֵשָׂ֖ו אֶת־הַבְּכֹרָֽה׃&nbsp;{פ}",
+              "english": "[(Scripture testifying to this effect)] Esau shamed the birthright."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        }
+      },
+      "26": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֤י רָעָב֙ בָּאָ֔רֶץ מִלְּבַד֙ הָרָעָ֣ב הָרִאשׁ֔וֹן אֲשֶׁ֥ר הָיָ֖ה בִּימֵ֣י אַבְרָהָ֑ם",
+              "english": "And there was a famine in the land, aside from the first famine in the days of Abraham."
+            },
+            {
+              "hebrew": "וַיֵּ֧לֶךְ יִצְחָ֛ק אֶל־אֲבִימֶ֥לֶךְ מֶֽלֶךְ־פְּלִשְׁתִּ֖ים גְּרָֽרָה׃",
+              "english": "And Isaac went to Avimelech, king of the Philistines, to Gerar."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה וַיֹּ֖אמֶר אַל־תֵּרֵ֣ד מִצְרָ֑יְמָה",
+              "english": "And the L rd appeared to him and said: Do not go down to Egypt, [for you are a \"pure burnt-offering\"];"
+            },
+            {
+              "hebrew": "שְׁכֹ֣ן בָּאָ֔רֶץ אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃",
+              "english": "dwell in the land that I shall indicate to you."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "גּ֚וּר בָּאָ֣רֶץ הַזֹּ֔את וְאֶֽהְיֶ֥ה עִמְּךָ֖ וַאֲבָרְכֶ֑ךָּ",
+              "english": "Sojourn in this land, and I will be with you and I will bless you."
+            },
+            {
+              "hebrew": "כִּֽי־לְךָ֣ וּֽלְזַרְעֲךָ֗ אֶתֵּן֙ אֶת־כׇּל־הָֽאֲרָצֹ֣ת הָאֵ֔ל",
+              "english": "For to you and to your seed will I give all of these lands."
+            },
+            {
+              "hebrew": "וַהֲקִֽמֹתִי֙ אֶת־הַשְּׁבֻעָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֖עְתִּי לְאַבְרָהָ֥ם אָבִֽיךָ׃",
+              "english": "And I will fulfill the oath which I swore to Abraham your father."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְהִרְבֵּיתִ֤י אֶֽת־זַרְעֲךָ֙ כְּכוֹכְבֵ֣י הַשָּׁמַ֔יִם",
+              "english": "And I will multiply your seed as the stars of the heavens,"
+            },
+            {
+              "hebrew": "וְנָתַתִּ֣י לְזַרְעֲךָ֔ אֵ֥ת כׇּל־הָאֲרָצֹ֖ת הָאֵ֑ל",
+              "english": "and I will give to your seed all of these lands,"
+            },
+            {
+              "hebrew": "וְהִתְבָּרְכ֣וּ בְזַרְעֲךָ֔ כֹּ֖ל גּוֹיֵ֥י הָאָֽרֶץ׃",
+              "english": "and there will bless themselves in [the name of] your seed all the nations of the land."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "עֵ֕קֶב אֲשֶׁר־שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י",
+              "english": "Because Abraham heeded My voice [when I tried him],"
+            },
+            {
+              "hebrew": "וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי׃",
+              "english": "and he kept My keeping [i.e., decrees for the safekeeping of the exhortations of the Torah], My mitzvoth [self-evident moral imperatives], My statutes [decrees inaccessible to reason], and My laws [(including the oral law)]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֥שֶׁב יִצְחָ֖ק",
+              "english": "And Isaac dwelt"
+            },
+            {
+              "hebrew": "בִּגְרָֽר׃",
+              "english": "in Gerar."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיִּשְׁאֲל֞וּ אַנְשֵׁ֤י הַמָּקוֹם֙ לְאִשְׁתּ֔וֹ וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא",
+              "english": "And the men of the place asked about his wife, and he said: \"She is my sister.\""
+            },
+            {
+              "hebrew": "כִּ֤י יָרֵא֙ לֵאמֹ֣ר אִשְׁתִּ֔י פֶּן־יַֽהַרְגֻ֜נִי אַנְשֵׁ֤י הַמָּקוֹם֙ עַל־רִבְקָ֔ה כִּֽי־טוֹבַ֥ת מַרְאֶ֖ה הִֽוא׃",
+              "english": "For he feared to say: \"She is my wife,\" lest the men of the place kill me because of Rivkah, for she is very fair."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֗י כִּ֣י אָֽרְכוּ־ל֥וֹ שָׁם֙ הַיָּמִ֔ים",
+              "english": "And it was, when the days were grown long for him there, [Isaac thinking that Rivkah was no longer in danger and relaxing his vigil],"
+            },
+            {
+              "hebrew": "וַיַּשְׁקֵ֗ף אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ פְּלִשְׁתִּ֔ים בְּעַ֖ד הַֽחַלּ֑וֹן",
+              "english": "that Avimelech the king of the Philistines looked through the window,"
+            },
+            {
+              "hebrew": "וַיַּ֗רְא וְהִנֵּ֤ה יִצְחָק֙ מְצַחֵ֔ק אֵ֖ת רִבְקָ֥ה אִשְׁתּֽוֹ׃",
+              "english": "and behold, Isaac sporting [i.e., lying] with Rivkah his wife."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְיִצְחָ֗ק וַיֹּ֙אמֶר֙ אַ֣ךְ הִנֵּ֤ה אִשְׁתְּךָ֙ הִ֔וא וְאֵ֥יךְ אָמַ֖רְתָּ אֲחֹ֣תִי הִ֑וא",
+              "english": "And Avimelech called to Isaac and he said: But she is surely your wife! How, then, did you tell me: \"She is my sister\"?"
+            },
+            {
+              "hebrew": "וַיֹּ֤אמֶר אֵלָיו֙ יִצְחָ֔ק כִּ֣י אָמַ֔רְתִּי פֶּן־אָמ֖וּת עָלֶֽיהָ׃",
+              "english": "And Isaac said to him: For I said: Lest I die because of her."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ מַה־זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ",
+              "english": "And Avimelech said: What is this that you have done to us?"
+            },
+            {
+              "hebrew": "כִּ֠מְעַ֠ט שָׁכַ֞ב אַחַ֤ד הָעָם֙ אֶת־אִשְׁתֶּ֔ךָ",
+              "english": "The [distinctive] one of the people [i.e., the king] had almost lain with your wife,"
+            },
+            {
+              "hebrew": "וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם׃",
+              "english": "and, [had he done so], you would have brought guilt upon us."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיְצַ֣ו אֲבִימֶ֔לֶךְ אֶת־כׇּל־הָעָ֖ם לֵאמֹ֑ר",
+              "english": "And Avimelech commanded all the people, saying:"
+            },
+            {
+              "hebrew": "הַנֹּגֵ֜עַ בָּאִ֥ישׁ הַזֶּ֛ה וּבְאִשְׁתּ֖וֹ מ֥וֹת יוּמָֽת׃",
+              "english": "Whoever touches this man or his wife shall be put to death."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא",
+              "english": "And Isaac sowed in that land [(though it was not so fertile as the land of the seven nations)],"
+            },
+            {
+              "hebrew": "וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים",
+              "english": "and he found in that year, [a difficult year], a hundredfold [more than the estimated yield]."
+            },
+            {
+              "hebrew": "וַֽיְבָרְכֵ֖הוּ יְהֹוָֽה׃",
+              "english": "And the L rd blessed him."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּגְדַּ֖ל הָאִ֑ישׁ",
+              "english": "And the man grew (i.e., prospered),"
+            },
+            {
+              "hebrew": "וַיֵּ֤לֶךְ הָלוֹךְ֙ וְגָדֵ֔ל עַ֥ד כִּֽי־גָדַ֖ל מְאֹֽד׃",
+              "english": "and he continued growing, until he had grown exceedingly."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיְהִי־ל֤וֹ מִקְנֵה־צֹאן֙ וּמִקְנֵ֣ה בָקָ֔ר וַעֲבֻדָּ֖ה רַבָּ֑ה",
+              "english": "And he had flocks of sheep and herds of cattle and much labor,"
+            },
+            {
+              "hebrew": "וַיְקַנְא֥וּ אֹת֖וֹ פְּלִשְׁתִּֽים׃",
+              "english": "and the Philistines envied him."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַבְּאֵרֹ֗ת אֲשֶׁ֤ר חָֽפְרוּ֙ עַבְדֵ֣י אָבִ֔יו בִּימֵ֖י אַבְרָהָ֣ם אָבִ֑יו",
+              "english": "And all of the wells that the servants of his father had dug in the days of Abraham, his father,"
+            },
+            {
+              "hebrew": "סִתְּמ֣וּם פְּלִשְׁתִּ֔ים וַיְמַלְא֖וּם עָפָֽר׃",
+              "english": "were stopped up by the Philistines [(as abetting invading armies)], and they filled them up with sand."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל־יִצְחָ֑ק",
+              "english": "And Avimelech said to Isaac:"
+            },
+            {
+              "hebrew": "לֵ֚ךְ מֵֽעִמָּ֔נוּ כִּֽי־עָצַ֥מְתָּ מִמֶּ֖נּוּ מְאֹֽד׃",
+              "english": "Go away from us, for you have grown much stronger than we."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֥לֶךְ מִשָּׁ֖ם יִצְחָ֑ק",
+              "english": "And Isaac went thence,"
+            },
+            {
+              "hebrew": "וַיִּ֥חַן בְּנַֽחַל־גְּרָ֖ר וַיֵּ֥שֶׁב שָֽׁם׃",
+              "english": "and he camped in the valley of Gerar, and he dwelt there."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֨שׇׁב יִצְחָ֜ק וַיַּחְפֹּ֣ר&thinsp;׀ אֶת־בְּאֵרֹ֣ת הַמַּ֗יִם אֲשֶׁ֤ר חָֽפְרוּ֙ בִּימֵי֙ אַבְרָהָ֣ם אָבִ֔יו",
+              "english": "And Isaac returned [(before he left Gerar)] and dug the wells of water which they had dug in the days of Abraham his father"
+            },
+            {
+              "hebrew": "וַיְסַתְּמ֣וּם פְּלִשְׁתִּ֔ים אַחֲרֵ֖י מ֣וֹת אַבְרָהָ֑ם",
+              "english": "and which the Philistines had stopped up after the death of Abraham."
+            },
+            {
+              "hebrew": "וַיִּקְרָ֤א לָהֶן֙ שֵׁמ֔וֹת כַּשֵּׁמֹ֕ת אֲשֶׁר־קָרָ֥א לָהֶ֖ן אָבִֽיו׃",
+              "english": "And he called them by the names by which his father had called them."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּחְפְּר֥וּ עַבְדֵֽי־יִצְחָ֖ק בַּנָּ֑חַל",
+              "english": "And the servants of Isaac dug in the valley,"
+            },
+            {
+              "hebrew": "וַיִּ֨מְצְאוּ־שָׁ֔ם בְּאֵ֖ר מַ֥יִם חַיִּֽים׃",
+              "english": "and they found there a well of living waters."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּרִ֜יבוּ רֹעֵ֣י גְרָ֗ר עִם־רֹעֵ֥י יִצְחָ֛ק לֵאמֹ֖ר לָ֣נוּ הַמָּ֑יִם",
+              "english": "And the shepherds of Gerar quarreled with the shepherds of Isaac, saying: \"The water is ours!\""
+            },
+            {
+              "hebrew": "וַיִּקְרָ֤א שֵֽׁם־הַבְּאֵר֙ עֵ֔שֶׂק כִּ֥י הִֽתְעַשְּׂק֖וּ עִמּֽוֹ׃",
+              "english": "And he called the name of the well Esek (\"contention\"), for they contended with him [over it]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּחְפְּרוּ֙ בְּאֵ֣ר אַחֶ֔רֶת",
+              "english": "And they dug another well,"
+            },
+            {
+              "hebrew": "וַיָּרִ֖יבוּ גַּם־עָלֶ֑יהָ",
+              "english": "and they quarreled over it, too,"
+            },
+            {
+              "hebrew": "וַיִּקְרָ֥א שְׁמָ֖הּ שִׂטְנָֽה׃",
+              "english": "and they called its name Sitnah (\"constraint\")."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּעְתֵּ֣ק מִשָּׁ֗ם וַיַּחְפֹּר֙ בְּאֵ֣ר אַחֶ֔רֶת וְלֹ֥א רָב֖וּ עָלֶ֑יהָ",
+              "english": "And he traveled from there, and he dug another well, and they did not quarrel over it;"
+            },
+            {
+              "hebrew": "וַיִּקְרָ֤א שְׁמָהּ֙ רְחֹב֔וֹת וַיֹּ֗אמֶר כִּֽי־עַתָּ֞ה הִרְחִ֧יב יְהֹוָ֛ה לָ֖נוּ וּפָרִ֥ינוּ בָאָֽרֶץ׃",
+              "english": "and he called its name Rechovoth (\"widening\"), saying: For now the L rd has \"widened\" (things) for us, and we will be fruitful in the land."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַל מִשָּׁ֖ם",
+              "english": "And he went up from there"
+            },
+            {
+              "hebrew": "בְּאֵ֥ר שָֽׁבַע׃",
+              "english": "to Beersheva."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּרָ֨א אֵלָ֤יו יְהֹוָה֙ בַּלַּ֣יְלָה הַה֔וּא וַיֹּ֕אמֶר אָנֹכִ֕י אֱלֹהֵ֖י אַבְרָהָ֣ם אָבִ֑יךָ",
+              "english": "And the L rd appeared to him that night, and He said: I am the G d of Abraham your father."
+            },
+            {
+              "hebrew": "אַל־תִּירָא֙ כִּֽי־אִתְּךָ֣ אָנֹ֔כִי וּבֵֽרַכְתִּ֙יךָ֙ וְהִרְבֵּיתִ֣י אֶֽת־זַרְעֲךָ֔ בַּעֲב֖וּר אַבְרָהָ֥ם עַבְדִּֽי׃",
+              "english": "Do not fear, for I am with you. And I shall bless you and I shall multiply your seed for the sake of Abraham, My servant."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּ֧בֶן שָׁ֣ם מִזְבֵּ֗חַ",
+              "english": "And he built an altar there,"
+            },
+            {
+              "hebrew": "וַיִּקְרָא֙ בְּשֵׁ֣ם יְהֹוָ֔ה",
+              "english": "and he called in the name of the L rd."
+            },
+            {
+              "hebrew": "וַיֶּט־שָׁ֖ם אׇהֳל֑וֹ",
+              "english": "And he pitched his tent there,"
+            },
+            {
+              "hebrew": "וַיִּכְרוּ־שָׁ֥ם עַבְדֵי־יִצְחָ֖ק בְּאֵֽר׃",
+              "english": "and the servants of Isaac dug a well there."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר",
+              "english": "And Avimelech went to him from Gerar"
+            },
+            {
+              "hebrew": "וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ וּפִיכֹ֖ל שַׂר־צְבָאֽוֹ׃",
+              "english": "and a company of his friends and Phichol the captain of his host."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יִצְחָ֔ק מַדּ֖וּעַ בָּאתֶ֣ם אֵלָ֑י",
+              "english": "And Isaac said to them: Why have you come to me"
+            },
+            {
+              "hebrew": "וְאַתֶּם֙ שְׂנֵאתֶ֣ם אֹתִ֔י וַתְּשַׁלְּח֖וּנִי מֵאִתְּכֶֽם׃",
+              "english": "when you hate me and you sent me away from you?"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּאמְר֗וּ רָא֣וֹ רָאִ֘ינוּ֮ כִּֽי־הָיָ֣ה יְהֹוָ֣ה&thinsp;׀&thinsp;עִמָּךְ֒",
+              "english": "And they said: We saw [in you as] we saw [in your father] that the L rd was with you."
+            },
+            {
+              "hebrew": "וַנֹּ֗אמֶר תְּהִ֨י נָ֥א אָלָ֛ה בֵּינוֹתֵ֖ינוּ בֵּינֵ֣ינוּ וּבֵינֶ֑ךָ וְנִכְרְתָ֥ה בְרִ֖ית עִמָּֽךְ׃",
+              "english": "And we said: Let the oath that was between us [from the days of your father, also] be between us and you, and let us make a covenant with you."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "אִם־תַּעֲשֵׂ֨ה עִמָּ֜נוּ רָעָ֗ה כַּאֲשֶׁר֙ לֹ֣א נְגַֽעֲנ֔וּךָ וְכַאֲשֶׁ֨ר עָשִׂ֤ינוּ עִמְּךָ֙ רַק־ט֔וֹב וַנְּשַׁלֵּֽחֲךָ֖ בְּשָׁל֑וֹם",
+              "english": "That you do not evil to us just as we did not touch you and just as we did with you only good and we sent you away in peace."
+            },
+            {
+              "hebrew": "אַתָּ֥ה עַתָּ֖ה בְּר֥וּךְ יְהֹוָֽה׃",
+              "english": "You [too, do] now [likewise unto us], O blessed of the L rd."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה",
+              "english": "And he made a feast for them,"
+            },
+            {
+              "hebrew": "וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃",
+              "english": "and they ate and drank."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וַיִּשָּׁבְע֖וּ אִ֣ישׁ לְאָחִ֑יו",
+              "english": "And they arose early in the morning, and they swore to each other,"
+            },
+            {
+              "hebrew": "וַיְשַׁלְּחֵ֣ם יִצְחָ֔ק וַיֵּלְכ֥וּ מֵאִתּ֖וֹ בְּשָׁלֽוֹם׃",
+              "english": "and Isaac sent them away, and they went from him in peace."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֣י&thinsp;׀ בַּיּ֣וֹם הַה֗וּא וַיָּבֹ֙אוּ֙ עַבְדֵ֣י יִצְחָ֔ק",
+              "english": "And it was on that day that the servants of Isaac came"
+            },
+            {
+              "hebrew": "וַיַּגִּ֣דוּ ל֔וֹ עַל־אֹד֥וֹת הַבְּאֵ֖ר אֲשֶׁ֣ר חָפָ֑רוּ",
+              "english": "and told him about the well they had dug;"
+            },
+            {
+              "hebrew": "וַיֹּ֥אמְרוּ ל֖וֹ מָצָ֥אנוּ מָֽיִם׃",
+              "english": "and they said to him: We have found water."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָ֥א אֹתָ֖הּ שִׁבְעָ֑ה",
+              "english": "And he called it Shivah (\"covenanting\")."
+            },
+            {
+              "hebrew": "עַל־כֵּ֤ן שֵׁם־הָעִיר֙ בְּאֵ֣ר שֶׁ֔בַע",
+              "english": "Therefore, the name of the city is Beersheva (\"the well of the covenant\")"
+            },
+            {
+              "hebrew": "עַ֖ד הַיּ֥וֹם הַזֶּֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "until this day."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֤י עֵשָׂו֙ בֶּן־אַרְבָּעִ֣ים שָׁנָ֔ה",
+              "english": "And when Esau was forty years,"
+            },
+            {
+              "hebrew": "וַיִּקַּ֤ח אִשָּׁה֙ אֶת־יְהוּדִ֔ית בַּת־בְּאֵרִ֖י הַֽחִתִּ֑י",
+              "english": "he took as a wife Yehudith, the daughter of Be'eri the Hittite,"
+            },
+            {
+              "hebrew": "וְאֶת־בָּ֣שְׂמַ֔ת בַּת־אֵילֹ֖ן הַֽחִתִּֽי׃",
+              "english": "and Basmath, the daughter of Eilon the Hittite."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּהְיֶ֖יןָ מֹ֣רַת ר֑וּחַ",
+              "english": "And they were a vexation of spirit"
+            },
+            {
+              "hebrew": "לְיִצְחָ֖ק וּלְרִבְקָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "to Isaac and to Rivkah [in that they served idolatry]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        }
+      },
+      "27": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיְהִי֙ כִּֽי־זָקֵ֣ן יִצְחָ֔ק",
+              "english": "And it was, when Isaac became old,"
+            },
+            {
+              "hebrew": "וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת",
+              "english": "that his eyes grew dulled from seeing."
+            },
+            {
+              "hebrew": "וַיִּקְרָ֞א אֶת־עֵשָׂ֣ו&thinsp;׀ בְּנ֣וֹ הַגָּדֹ֗ל",
+              "english": "And he called to Esau, his elder son,"
+            },
+            {
+              "hebrew": "וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י",
+              "english": "saying to him: \"My son.\""
+            },
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי׃",
+              "english": "And he said to him: \"Here I am.\""
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֕אמֶר הִנֵּה־נָ֖א זָקַ֑נְתִּי",
+              "english": "And he said: Behold, I have become old;"
+            },
+            {
+              "hebrew": "לֹ֥א יָדַ֖עְתִּי י֥וֹם מוֹתִֽי׃",
+              "english": "I do not know the day of my death."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּה֙ שָׂא־נָ֣א כֵלֶ֔יךָ תֶּלְיְךָ֖ וְקַשְׁתֶּ֑ךָ",
+              "english": "And now, take [(also connoting \"sharpen\")] I pray you, your knives [for shechitah (ritual slaughter)], your sword and your bow,"
+            },
+            {
+              "hebrew": "וְצֵא֙ הַשָּׂדֶ֔ה וְצ֥וּדָה לִּ֖י (צידה) [צָֽיִד]׃",
+              "english": "and go out into the field, and hunt me a hunting, [and not theft]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַעֲשֵׂה־לִ֨י מַטְעַמִּ֜ים כַּאֲשֶׁ֥ר אָהַ֛בְתִּי וְהָבִ֥יאָה לִּ֖י וְאֹכֵ֑לָה",
+              "english": "And make me the kind of tasty dish that I like, and bring it to me and I shall eat it,"
+            },
+            {
+              "hebrew": "בַּעֲב֛וּר תְּבָרֶכְךָ֥ נַפְשִׁ֖י בְּטֶ֥רֶם אָמֽוּת׃",
+              "english": "so that my soul bless you before I die."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְרִבְקָ֣ה שֹׁמַ֔עַת בְּדַבֵּ֣ר יִצְחָ֔ק אֶל־עֵשָׂ֖ו בְּנ֑וֹ",
+              "english": "And Rivkah heard when Isaac spoke to Esau his son,"
+            },
+            {
+              "hebrew": "וַיֵּ֤לֶךְ עֵשָׂו֙ הַשָּׂדֶ֔ה לָצ֥וּד צַ֖יִד לְהָבִֽיא׃",
+              "english": "and Esau went to the field to hunt a hunting to bring [by theft, if \"hunting\" were not available]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְרִבְקָה֙ אָֽמְרָ֔ה אֶל־יַעֲקֹ֥ב בְּנָ֖הּ לֵאמֹ֑ר",
+              "english": "And Rivkah said to Jacob her son:"
+            },
+            {
+              "hebrew": "הִנֵּ֤ה שָׁמַ֙עְתִּי֙ אֶת־אָבִ֔יךָ מְדַבֵּ֛ר אֶל־עֵשָׂ֥ו אָחִ֖יךָ לֵאמֹֽר׃",
+              "english": "Behold, I have overheard your father saying to your brother Esau:"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "הָבִ֨יאָה לִּ֥י צַ֛יִד וַעֲשֵׂה־לִ֥י מַטְעַמִּ֖ים וְאֹכֵ֑לָה",
+              "english": "Bring me a hunting and make me savory food, and I shall eat,"
+            },
+            {
+              "hebrew": "וַאֲבָרֶכְכָ֛ה לִפְנֵ֥י יְהֹוָ֖ה לִפְנֵ֥י מוֹתִֽי׃",
+              "english": "and I shall bless you before the L rd [i.e., by His leave] before my death."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י",
+              "english": "And now, my son, hearken to my voice,"
+            },
+            {
+              "hebrew": "לַאֲשֶׁ֥ר אֲנִ֖י מְצַוָּ֥ה אֹתָֽךְ׃",
+              "english": "to what I command you."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "לֶךְ־נָא֙ אֶל־הַצֹּ֔אן וְקַֽח־לִ֣י מִשָּׁ֗ם שְׁנֵ֛י גְּדָיֵ֥י עִזִּ֖ים טֹבִ֑ים",
+              "english": "Go, now, to the flock, and take for me [(from what is mine)] from there two good goat kids, [one for a paschal offering, and one for a savory dish],"
+            },
+            {
+              "hebrew": "וְאֶֽעֱשֶׂ֨ה אֹתָ֧ם מַטְעַמִּ֛ים לְאָבִ֖יךָ כַּאֲשֶׁ֥ר אָהֵֽב׃",
+              "english": "and I shall make of them for your father the kind of tasty dish that he likes [(kid, tasting like venison)]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵבֵאתָ֥ לְאָבִ֖יךָ וְאָכָ֑ל",
+              "english": "And bring it to your father and have him eat,"
+            },
+            {
+              "hebrew": "בַּעֲבֻ֛ר אֲשֶׁ֥ר יְבָרֶכְךָ֖ לִפְנֵ֥י מוֹתֽוֹ׃",
+              "english": "so that he bless you before his death."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר יַעֲקֹ֔ב אֶל־רִבְקָ֖ה אִמּ֑וֹ",
+              "english": "And Jacob said to Rivkah, his mother:"
+            },
+            {
+              "hebrew": "הֵ֣ן עֵשָׂ֤ו אָחִי֙ אִ֣ישׁ שָׂעִ֔ר וְאָנֹכִ֖י אִ֥ישׁ חָלָֽק׃",
+              "english": "But Esau my brother is hairy and I am smooth-skinned."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "אוּלַ֤י יְמֻשֵּׁ֙נִי֙ אָבִ֔י",
+              "english": "Perchance my father will feel me"
+            },
+            {
+              "hebrew": "וְהָיִ֥יתִי בְעֵינָ֖יו כִּמְתַעְתֵּ֑עַ",
+              "english": "and I shall be in his eyes as a deceiver,"
+            },
+            {
+              "hebrew": "וְהֵבֵאתִ֥י עָלַ֛י קְלָלָ֖ה וְלֹ֥א בְרָכָֽה׃",
+              "english": "and I will bring upon myself a curse and not a blessing!"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֤אמֶר לוֹ֙ אִמּ֔וֹ עָלַ֥י קִלְלָתְךָ֖ בְּנִ֑י",
+              "english": "And his mother said to him: Your curse upon me, my son;"
+            },
+            {
+              "hebrew": "אַ֛ךְ שְׁמַ֥ע בְּקֹלִ֖י וְלֵ֥ךְ קַֽח־לִֽי׃",
+              "english": "only hear my voice and go take (them) for me."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֙לֶךְ֙ וַיִּקַּ֔ח וַיָּבֵ֖א לְאִמּ֑וֹ",
+              "english": "And he went and took (them) and brought (them) to his mother."
+            },
+            {
+              "hebrew": "וַתַּ֤עַשׂ אִמּוֹ֙ מַטְעַמִּ֔ים כַּאֲשֶׁ֖ר אָהֵ֥ב אָבִֽיו׃",
+              "english": "And his mother made the kind of tasty dish that his father liked."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּקַּ֣ח רִ֠בְקָ֠ה אֶת־בִּגְדֵ֨י עֵשָׂ֜ו בְּנָ֤הּ הַגָּדֹל֙ הַחֲמֻדֹ֔ת אֲשֶׁ֥ר אִתָּ֖הּ בַּבָּ֑יִת",
+              "english": "And Rivkah took the clean garments of Esau, her elder son, which were with her [for safe-keeping] in the house,"
+            },
+            {
+              "hebrew": "וַתַּלְבֵּ֥שׁ אֶֽת־יַעֲקֹ֖ב בְּנָ֥הּ הַקָּטָֽן׃",
+              "english": "and she clothed Jacob her younger son with them."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֗ת עֹרֹת֙ גְּדָיֵ֣י הָֽעִזִּ֔ים",
+              "english": "And the skins of the goat-kids"
+            },
+            {
+              "hebrew": "הִלְבִּ֖ישָׁה עַל־יָדָ֑יו וְעַ֖ל חֶלְקַ֥ת צַוָּארָֽיו׃",
+              "english": "she placed upon his hands and the smooth of his neck."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּתֵּ֧ן אֶת־הַמַּטְעַמִּ֛ים וְאֶת־הַלֶּ֖חֶם אֲשֶׁ֣ר עָשָׂ֑תָה",
+              "english": "And she placed the tasty dish and the bread that she had made"
+            },
+            {
+              "hebrew": "בְּיַ֖ד יַעֲקֹ֥ב בְּנָֽהּ׃",
+              "english": "in the hand of her son Jacob."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֥א אֶל־אָבִ֖יו וַיֹּ֣אמֶר אָבִ֑י",
+              "english": "And he brought (it) to his father, and he said: \"My father.\""
+            },
+            {
+              "hebrew": "וַיֹּ֣אמֶר הִנֶּ֔נִּי מִ֥י אַתָּ֖ה בְּנִֽי׃",
+              "english": "And he said: \"I am here. Who are you, my son?\""
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יַעֲקֹ֜ב אֶל־אָבִ֗יו אָנֹכִי֙ עֵשָׂ֣ו בְּכֹרֶ֔ךָ",
+              "english": "And Jacob said to his father: I am [(the one bringing food to you, and)] Esau [is] your first-born."
+            },
+            {
+              "hebrew": "עָשִׂ֕יתִי כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָ֑י",
+              "english": "I have done [(many things)] as you have spoken to me."
+            },
+            {
+              "hebrew": "קֽוּם־נָ֣א שְׁבָ֗ה וְאׇכְלָה֙ מִצֵּידִ֔י בַּעֲב֖וּר תְּבָרְכַ֥נִּי נַפְשֶֽׁךָ׃",
+              "english": "Arise, I pray you, and sit [at table] and eat of my hunting so that your soul bless me."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יִצְחָק֙ אֶל־בְּנ֔וֹ מַה־זֶּ֛ה מִהַ֥רְתָּ לִמְצֹ֖א בְּנִ֑י",
+              "english": "And Isaac said to his son: How did you find (it) so quickly, my son?"
+            },
+            {
+              "hebrew": "וַיֹּ֕אמֶר כִּ֥י הִקְרָ֛ה יְהֹוָ֥ה אֱלֹהֶ֖יךָ לְפָנָֽי׃",
+              "english": "And he said: For the L rd your G d put it in my way."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יִצְחָק֙ אֶֽל־יַעֲקֹ֔ב גְּשָׁה־נָּ֥א וַאֲמֻֽשְׁךָ֖ בְּנִ֑י",
+              "english": "And Isaac said to Jacob: Come near and let me feel you, my son, [(Isaac having been surprised at the reply, atypical of Esau)]."
+            },
+            {
+              "hebrew": "הַֽאַתָּ֥ה זֶ֛ה בְּנִ֥י עֵשָׂ֖ו אִם־לֹֽא׃",
+              "english": "Are you my son Esau or not?"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּגַּ֧שׁ יַעֲקֹ֛ב אֶל־יִצְחָ֥ק אָבִ֖יו וַיְמֻשֵּׁ֑הוּ",
+              "english": "And Jacob drew near to Isaac his father, and he felt him,"
+            },
+            {
+              "hebrew": "וַיֹּ֗אמֶר הַקֹּל֙ ק֣וֹל יַעֲקֹ֔ב וְהַיָּדַ֖יִם יְדֵ֥י עֵשָֽׂו׃",
+              "english": "and he said: The voice [i.e., the tone, e.g., \"Arise, I pray you\"] is the voice of Jacob [(as opposed to Esau's brusque \"Let my father arise\")], but the hands are the hands of Esau."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֣א הִכִּיר֔וֹ כִּֽי־הָי֣וּ יָדָ֗יו כִּידֵ֛י עֵשָׂ֥ו אָחִ֖יו שְׂעִרֹ֑ת",
+              "english": "And he did not recognize him, for his hands were like the hands of Esau his brother, hairy,"
+            },
+            {
+              "hebrew": "וַֽיְבָרְכֵֽהוּ׃",
+              "english": "and he blessed him."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֕אמֶר אַתָּ֥ה זֶ֖ה בְּנִ֣י עֵשָׂ֑ו",
+              "english": "And he said: Are you this, my son Esau?"
+            },
+            {
+              "hebrew": "וַיֹּ֖אמֶר אָֽנִי׃",
+              "english": "And he said: \"I\" [(but not: \"I am Esau.\")]"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֗אמֶר הַגִּ֤שָׁה לִּי֙ וְאֹֽכְלָה֙ מִצֵּ֣יד בְּנִ֔י לְמַ֥עַן תְּבָֽרֶכְךָ֖ נַפְשִׁ֑י",
+              "english": "And he said: Reach (it) to me, and I will eat of the hunting of my son, so that my soul bless you."
+            },
+            {
+              "hebrew": "וַיַּגֶּשׁ־לוֹ֙ וַיֹּאכַ֔ל וַיָּ֧בֵא ל֦וֹ יַ֖יִן וַיֵּֽשְׁתְּ׃",
+              "english": "And he reached (it) to him, and he ate, and he brought him wine and he drank."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֵלָ֖יו יִצְחָ֣ק אָבִ֑יו",
+              "english": "And Isaac his father said to him:"
+            },
+            {
+              "hebrew": "גְּשָׁה־נָּ֥א וּשְׁקָה־לִּ֖י בְּנִֽי׃",
+              "english": "Draw near, now, and kiss me, my son."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּגַּשׁ֙ וַיִּשַּׁק־ל֔וֹ וַיָּ֛רַח אֶת־רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרְכֵ֑הוּ",
+              "english": "And he drew near and he kissed him and he smelled the smell of his garments [into which the fragrance of Eden had entered], and he blessed him."
+            },
+            {
+              "hebrew": "וַיֹּ֗אמֶר רְאֵה֙ רֵ֣יחַ בְּנִ֔י",
+              "english": "And he said: See, the smell of my son"
+            },
+            {
+              "hebrew": "כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ יְהֹוָֽה׃",
+              "english": "is as that of a field [of apples] which the L rd has blessed."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים",
+              "english": "And may G d give you [in addition to the fragrance of Eden]"
+            },
+            {
+              "hebrew": "מִטַּל֙ הַשָּׁמַ֔יִם וּמִשְׁמַנֵּ֖י הָאָ֑רֶץ וְרֹ֥ב דָּגָ֖ן וְתִירֹֽשׁ׃",
+              "english": "of the dew of the heavens and the fat of the earth, and an abundance of corn and wine."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "יַֽעַבְד֣וּךָ עַמִּ֗ים (וישתחו) [וְיִֽשְׁתַּחֲו֤וּ] לְךָ֙ לְאֻמִּ֔ים",
+              "english": "Peoples will serve you, and nations will bow down to you."
+            },
+            {
+              "hebrew": "הֱוֵ֤ה גְבִיר֙ לְאַחֶ֔יךָ וְיִשְׁתַּחֲו֥וּ לְךָ֖ בְּנֵ֣י אִמֶּ֑ךָ",
+              "english": "Be a master to your brothers, and your mother's sons will bow down to you."
+            },
+            {
+              "hebrew": "אֹרְרֶ֣יךָ אָר֔וּר וּֽמְבָרְכֶ֖יךָ בָּרֽוּךְ׃",
+              "english": "Your cursers will be cursed and your blessers will be blessed."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֗י כַּאֲשֶׁ֨ר כִּלָּ֣ה יִצְחָק֮ לְבָרֵ֣ךְ אֶֽת־יַעֲקֹב֒",
+              "english": "And it was, when Isaac finished blessing Jacob —"
+            },
+            {
+              "hebrew": "וַיְהִ֗י אַ֣ךְ יָצֹ֤א יָצָא֙ יַעֲקֹ֔ב מֵאֵ֥ת פְּנֵ֖י יִצְחָ֣ק אָבִ֑יו",
+              "english": "Jacob had just left the presence of Isaac his father,"
+            },
+            {
+              "hebrew": "וְעֵשָׂ֣ו אָחִ֔יו בָּ֖א מִצֵּידֽוֹ׃",
+              "english": "when Esau his brother came from his hunting."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤עַשׂ גַּם־הוּא֙ מַטְעַמִּ֔ים וַיָּבֵ֖א לְאָבִ֑יו",
+              "english": "And he, too, made a savory dish and brought it to his father."
+            },
+            {
+              "hebrew": "וַיֹּ֣אמֶר לְאָבִ֗יו יָקֻ֤ם אָבִי֙ וְיֹאכַל֙ מִצֵּ֣יד בְּנ֔וֹ בַּעֲבֻ֖ר תְּבָרְכַ֥נִּי נַפְשֶֽׁךָ׃",
+              "english": "And he said to his father: Let my father arise and eat from the hunting of his son, so that your soul bless me."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר ל֛וֹ יִצְחָ֥ק אָבִ֖יו מִי־אָ֑תָּה",
+              "english": "And Isaac his father said to him: Who are you?"
+            },
+            {
+              "hebrew": "וַיֹּ֕אמֶר אֲנִ֛י בִּנְךָ֥ בְכֹֽרְךָ֖ עֵשָֽׂו׃",
+              "english": "And he said: I am your first-born son, Esau."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּחֱרַ֨ד יִצְחָ֣ק חֲרָדָה֮ גְּדֹלָ֣ה עַד־מְאֹד֒",
+              "english": "And Isaac was greatly confounded,"
+            },
+            {
+              "hebrew": "וַיֹּ֡אמֶר מִֽי־אֵפ֡וֹא ה֣וּא הַצָּֽד־צַ֩יִד֩ וַיָּ֨בֵא לִ֜י וָאֹכַ֥ל מִכֹּ֛ל בְּטֶ֥רֶם תָּב֖וֹא וָאֲבָרְכֵ֑הוּ",
+              "english": "and he said: Who is it, then, that hunted a hunting and brought it to me and I ate all [the flavors that I desired] before you came, and I blessed him —"
+            },
+            {
+              "hebrew": "גַּם־בָּר֖וּךְ יִהְיֶֽה׃",
+              "english": "and he will, indeed, be blessed."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "כִּשְׁמֹ֤עַ עֵשָׂו֙ אֶת־דִּבְרֵ֣י אָבִ֔יו",
+              "english": "When Esau heard the words of his father,"
+            },
+            {
+              "hebrew": "וַיִּצְעַ֣ק צְעָקָ֔ה גְּדֹלָ֥ה וּמָרָ֖ה עַד־מְאֹ֑ד",
+              "english": "he cried a great and bitter outcry,"
+            },
+            {
+              "hebrew": "וַיֹּ֣אמֶר לְאָבִ֔יו בָּרְכֵ֥נִי גַם־אָ֖נִי אָבִֽי׃",
+              "english": "and he said to his father: Bless me also, my father!"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֕אמֶר",
+              "english": "And he said:"
+            },
+            {
+              "hebrew": "בָּ֥א אָחִ֖יךָ בְּמִרְמָ֑ה וַיִּקַּ֖ח בִּרְכָתֶֽךָ׃",
+              "english": "Your brother came with subtlety and took your blessing."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֡אמֶר הֲכִי֩ קָרָ֨א שְׁמ֜וֹ יַעֲקֹ֗ב",
+              "english": "And he said: \"Is it for this that he was called 'Yaakov' ('following at the heels')?"
+            },
+            {
+              "hebrew": "וַֽיַּעְקְבֵ֙נִי֙ זֶ֣ה פַעֲמַ֔יִם",
+              "english": "That he would overtake me (ya'akveini) these two times?"
+            },
+            {
+              "hebrew": "אֶת־בְּכֹרָתִ֣י לָקָ֔ח",
+              "english": "He took my birthright,"
+            },
+            {
+              "hebrew": "וְהִנֵּ֥ה עַתָּ֖ה לָקַ֣ח בִּרְכָתִ֑י",
+              "english": "and, behold, now he has taken my blessing!\""
+            },
+            {
+              "hebrew": "וַיֹּאמַ֕ר הֲלֹא־אָצַ֥לְתָּ לִּ֖י בְּרָכָֽה׃",
+              "english": "And he said: \"Did you not keep back a blessing for me?\""
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֨עַן יִצְחָ֜ק וַיֹּ֣אמֶר לְעֵשָׂ֗ו הֵ֣ן גְּבִ֞יר שַׂמְתִּ֥יו לָךְ֙ וְאֶת־כׇּל־אֶחָ֗יו נָתַ֤תִּי לוֹ֙ לַעֲבָדִ֔ים",
+              "english": "And Isaac answered and he said to Esau: I made him a master over you, and all of his brothers have I given to him as bondsmen [and \"whatever a bondsman acquires is acquired by his master\"],"
+            },
+            {
+              "hebrew": "וְדָגָ֥ן וְתִירֹ֖שׁ סְמַכְתִּ֑יו",
+              "english": "and with corn and wine have I buttressed him,"
+            },
+            {
+              "hebrew": "וּלְכָ֣ה אֵפ֔וֹא מָ֥ה אֶֽעֱשֶׂ֖ה בְּנִֽי׃",
+              "english": "and for you, then, what can I do, my son?"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר עֵשָׂ֜ו אֶל־אָבִ֗יו הַֽבְרָכָ֨ה אַחַ֤ת הִֽוא־לְךָ֙ אָבִ֔י",
+              "english": "And Esau said to his father: Do you have only one blessing, my father?"
+            },
+            {
+              "hebrew": "בָּרְכֵ֥נִי גַם־אָ֖נִי אָבִ֑י",
+              "english": "Bless me, too, my father."
+            },
+            {
+              "hebrew": "וַיִּשָּׂ֥א עֵשָׂ֛ו קֹל֖וֹ וַיֵּֽבְךְּ׃",
+              "english": "And Esau raised his voice and wept."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֛עַן יִצְחָ֥ק אָבִ֖יו וַיֹּ֣אמֶר אֵלָ֑יו",
+              "english": "And Isaac his father answered and he said to him:"
+            },
+            {
+              "hebrew": "הִנֵּ֞ה מִשְׁמַנֵּ֤י הָאָ֙רֶץ֙ יִהְיֶ֣ה מֽוֹשָׁבֶ֔ךָ וּמִטַּ֥ל הַשָּׁמַ֖יִם מֵעָֽל׃",
+              "english": "Behold, of the fats of the earth [Graeca Magna] will be your dwelling, and of the dew of the heavens from above."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וְעַל־חַרְבְּךָ֣ תִֽחְיֶ֔ה וְאֶת־אָחִ֖יךָ תַּעֲבֹ֑ד",
+              "english": "And by your sword will you live, and your brother will you serve."
+            },
+            {
+              "hebrew": "וְהָיָה֙ כַּאֲשֶׁ֣ר תָּרִ֔יד וּפָרַקְתָּ֥ עֻלּ֖וֹ מֵעַ֥ל צַוָּארֶֽךָ׃",
+              "english": "And it shall be when you [have just reason to] grieve [over the blessings' having been appropriated by Jacob (i.e., when Israel transgresses the Torah)], then you shall remove his yoke from your neck."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׂטֹ֤ם עֵשָׂו֙ אֶֽת־יַעֲקֹ֔ב עַ֨ל־הַבְּרָכָ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ אָבִ֑יו",
+              "english": "And Esau hated Jacob because of the blessing that his father had given him,"
+            },
+            {
+              "hebrew": "וַיֹּ֨אמֶר עֵשָׂ֜ו בְּלִבּ֗וֹ יִקְרְבוּ֙ יְמֵי֙ אֵ֣בֶל אָבִ֔י וְאַֽהַרְגָ֖ה אֶת־יַעֲקֹ֥ב אָחִֽי׃",
+              "english": "and Esau said in his heart; Let the days of mourning for my father draw near, and I will [then] kill Jacob my brother [(and not before, so as not to aggrieve my father)]."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "וַיֻּגַּ֣ד לְרִבְקָ֔ה אֶת־דִּבְרֵ֥י עֵשָׂ֖ו בְּנָ֣הּ הַגָּדֹ֑ל",
+              "english": "And it was told to Rivkah [through the holy spirit] the thoughts of Esau her elder son,"
+            },
+            {
+              "hebrew": "וַתִּשְׁלַ֞ח וַתִּקְרָ֤א לְיַעֲקֹב֙ בְּנָ֣הּ הַקָּטָ֔ן וַתֹּ֣אמֶר אֵלָ֔יו",
+              "english": "and she sent and called to Jacob her younger son and said to him:"
+            },
+            {
+              "hebrew": "הִנֵּה֙ עֵשָׂ֣ו אָחִ֔יךָ מִתְנַחֵ֥ם לְךָ֖ לְהׇרְגֶֽךָ׃",
+              "english": "Behold, Esau your brother is bethinking himself [of his brotherhood] to you, to kill you."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י",
+              "english": "And now, my son, hearken to my voice."
+            },
+            {
+              "hebrew": "וְק֧וּם בְּרַח־לְךָ֛ אֶל־לָבָ֥ן אָחִ֖י חָרָֽנָה׃",
+              "english": "Arise, and run away to Lavan my brother in Charan."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "וְיָשַׁבְתָּ֥ עִמּ֖וֹ יָמִ֣ים אֲחָדִ֑ים",
+              "english": "And remain with him for some time,"
+            },
+            {
+              "hebrew": "עַ֥ד אֲשֶׁר־תָּשׁ֖וּב חֲמַ֥ת אָחִֽיךָ׃",
+              "english": "until your brother's fury is abated."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "עַד־שׁ֨וּב אַף־אָחִ֜יךָ מִמְּךָ֗ וְשָׁכַח֙ אֵ֣ת אֲשֶׁר־עָשִׂ֣יתָ לּ֔וֹ",
+              "english": "Until your brother's wrath turns from you and he forgets what you did to him,"
+            },
+            {
+              "hebrew": "וְשָׁלַחְתִּ֖י וּלְקַחְתִּ֣יךָ מִשָּׁ֑ם",
+              "english": "when I will send and take you from there."
+            },
+            {
+              "hebrew": "לָמָ֥ה אֶשְׁכַּ֛ל גַּם־שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד׃",
+              "english": "Why should I be bereft of both of you [(one killing, the other being killed in revenge)] in one day [(a presage of the future, Jacob and Esau being buried on the same day)] (See Sotah 13a)."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֤אמֶר רִבְקָה֙ אֶל־יִצְחָ֔ק קַ֣צְתִּי בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת",
+              "english": "And Rivkah said to Isaac: I have despised my life because of the daughters of Cheth."
+            },
+            {
+              "hebrew": "אִם־לֹקֵ֣חַ יַ֠עֲקֹ֠ב אִשָּׁ֨ה מִבְּנֽוֹת־חֵ֤ת כָּאֵ֙לֶּה֙ מִבְּנ֣וֹת הָאָ֔רֶץ לָ֥מָּה לִּ֖י חַיִּֽים׃",
+              "english": "If Jacob takes a wife of the daughters of Cheth such as these of the daughters of the land, what is life to me?"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        }
+      },
+      "28": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָ֥א יִצְחָ֛ק אֶֽל־יַעֲקֹ֖ב וַיְבָ֣רֶךְ אֹת֑וֹ",
+              "english": "And Isaac called to Jacob and he blessed him,"
+            },
+            {
+              "hebrew": "וַיְצַוֵּ֙הוּ֙ וַיֹּ֣אמֶר ל֔וֹ",
+              "english": "and he charged him, saying:"
+            },
+            {
+              "hebrew": "לֹֽא־תִקַּ֥ח אִשָּׁ֖ה מִבְּנ֥וֹת כְּנָֽעַן׃",
+              "english": "Do not take a wife from the daughters of Canaan."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "ק֥וּם לֵךְ֙ פַּדֶּ֣נָֽה אֲרָ֔ם בֵּ֥יתָה בְתוּאֵ֖ל אֲבִ֣י אִמֶּ֑ךָ",
+              "english": "Arise, go to Padan-Aram, to the house of Bethuel, your mother's father,"
+            },
+            {
+              "hebrew": "וְקַח־לְךָ֤ מִשָּׁם֙ אִשָּׁ֔ה מִבְּנ֥וֹת לָבָ֖ן אֲחִ֥י אִמֶּֽךָ׃",
+              "english": "and take for yourself from there a wife from the daughters of Lavan, your mother's brother."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֤ל שַׁדַּי֙ יְבָרֵ֣ךְ אֹֽתְךָ֔ וְיַפְרְךָ֖ וְיַרְבֶּ֑ךָ",
+              "english": "And the G d who is All-Sufficient [in His blessings] will bless you. And He will make you fruitful and will multiply you,"
+            },
+            {
+              "hebrew": "וְהָיִ֖יתָ לִקְהַ֥ל עַמִּֽים׃",
+              "english": "and you will be an assembly of peoples."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְיִֽתֶּן־לְךָ֙ אֶת־בִּרְכַּ֣ת אַבְרָהָ֔ם לְךָ֖ וּלְזַרְעֲךָ֣ אִתָּ֑ךְ",
+              "english": "And He will give you [i.e., there will issue from you] the blessing of [i.e., to] Abraham [(12:2): \"And I shall make you a great nation\" and (26:4): \"And they will bless themselves in your seed\"], to you and to your seed with you,"
+            },
+            {
+              "hebrew": "לְרִשְׁתְּךָ֙ אֶת־אֶ֣רֶץ מְגֻרֶ֔יךָ אֲשֶׁר־נָתַ֥ן אֱלֹהִ֖ים לְאַבְרָהָֽם׃",
+              "english": "to inherit the land of your sojournings which G d gave to Abraham."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁלַ֤ח יִצְחָק֙ אֶֽת־יַעֲקֹ֔ב וַיֵּ֖לֶךְ פַּדֶּ֣נָֽה אֲרָ֑ם",
+              "english": "And Isaac sent Jacob, and he went to Padan-Aram,"
+            },
+            {
+              "hebrew": "אֶל־לָבָ֤ן בֶּן־בְּתוּאֵל֙ הָֽאֲרַמִּ֔י אֲחִ֣י רִבְקָ֔ה אֵ֥ם יַעֲקֹ֖ב וְעֵשָֽׂו׃",
+              "english": "to Lavan the son of Bethuel the Aramite, the brother of Rivkah, the mother of Jacob and Esau."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣רְא עֵשָׂ֗ו כִּֽי־בֵרַ֣ךְ יִצְחָק֮ אֶֽת־יַעֲקֹב֒ וְשִׁלַּ֤ח אֹתוֹ֙ פַּדֶּ֣נָֽה אֲרָ֔ם לָקַֽחַת־ל֥וֹ מִשָּׁ֖ם אִשָּׁ֑ה",
+              "english": "And Esau saw that Isaac had blessed Jacob and that he had sent him to Padan-Aram to take for himself from there a wife"
+            },
+            {
+              "hebrew": "בְּבָרְכ֣וֹ אֹת֔וֹ וַיְצַ֤ו עָלָיו֙ לֵאמֹ֔ר לֹֽא־תִקַּ֥ח אִשָּׁ֖ה מִבְּנ֥וֹת כְּנָֽעַן׃",
+              "english": "in blessing him, charging him: Do not take wife from the daughters of Canaan,"
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁמַ֣ע יַעֲקֹ֔ב אֶל־אָבִ֖יו וְאֶל־אִמּ֑וֹ",
+              "english": "and that Jacob had heeded his father and mother"
+            },
+            {
+              "hebrew": "וַיֵּ֖לֶךְ פַּדֶּ֥נָֽה אֲרָֽם׃",
+              "english": "and gone to Padan-Aram."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣רְא עֵשָׂ֔ו כִּ֥י רָע֖וֹת בְּנ֣וֹת כְּנָ֑עַן",
+              "english": "And Esau saw that the daughters of Canaan were evil"
+            },
+            {
+              "hebrew": "בְּעֵינֵ֖י יִצְחָ֥ק אָבִֽיו׃",
+              "english": "in the eyes of Isaac his father."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֥לֶךְ עֵשָׂ֖ו אֶל־יִשְׁמָעֵ֑אל",
+              "english": "And Esau [likewise] went to Ishmael,"
+            },
+            {
+              "hebrew": "וַיִּקַּ֡ח אֶֽת־מָחֲלַ֣ת&thinsp;׀ בַּת־יִשְׁמָעֵ֨אל בֶּן־אַבְרָהָ֜ם אֲח֧וֹת נְבָי֛וֹת",
+              "english": "and he took Machlath the daughter of Ishmael, the son of Abraham, the sister of Nevayoth [(who gave her in marriage to Esau)]"
+            },
+            {
+              "hebrew": "עַל־נָשָׁ֖יו ל֥וֹ לְאִשָּֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "in addition to his (other) [wicked] wives for himself as a wife."
+            }
+          ],
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "gemini-3.5-flash-lite"
         }
       }
     }
   },
-  "updatedAt": "2026-10-19T09:14:32.814Z"
+  "updatedAt": "2026-10-26T09:11:16.780Z"
 }
