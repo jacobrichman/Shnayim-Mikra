@@ -42403,8 +42403,12 @@
               "english": "If the anointed Cohein shall sin to the guilt of the people [(If the high-priest sins, it is \"to the guilt of the people,\" for they depend upon him to atone for them and to pray for them)],"
             },
             {
-              "hebrew": "וְהִקְרִ֡יב עַ֣ל חַטָּאתוֹ֩ אֲשֶׁ֨ר חָטָ֜א פַּ֣ר בֶּן־בָּקָ֥ר תָּמִ֛ים לַיהֹוָ֖ה לְחַטָּֽאת׃",
-              "english": "then he shall offer for his sin which he has sinned a young bullock [three years old], unblemished, to the L-rd, as a sin-offering."
+              "hebrew": "וְהִקְרִ֡יב עַ֣ל חַטָּאתוֹ֩ אֲשֶׁ֨ר חָטָ֜א",
+              "english": "then he shall offer for his sin which he has sinned"
+            },
+            {
+              "hebrew": "פַּ֣ר בֶּן־בָּקָ֥ר תָּמִ֛ים לַיהֹוָ֖ה לְחַטָּֽאת׃",
+              "english": "a young bullock [three years old], unblemished, to the L-rd, as a sin-offering."
             }
           ],
           "model": "Instinct"
@@ -42459,8 +42463,12 @@
               "english": "And the Cohein shall put of the blood on the horns of the altar of the smoking of the incense before the L-rd, which is in the tent of meeting;"
             },
             {
-              "hebrew": "וְאֵ֣ת&thinsp;׀ כׇּל־דַּ֣ם הַפָּ֗ר יִשְׁפֹּךְ֙ אֶל־יְסוֹד֙ מִזְבַּ֣ח הָעֹלָ֔ה אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-              "english": "and all the [remaining] blood of the bullock he shall pour at the base of the altar of the burnt-offering, which is at the door of the tent of meeting."
+              "hebrew": "וְאֵ֣ת&thinsp;׀ כׇּל־דַּ֣ם הַפָּ֗ר יִשְׁפֹּךְ֙ אֶל־יְסוֹד֙ מִזְבַּ֣ח הָעֹלָ֔ה",
+              "english": "and all the [remaining] blood of the bullock he shall pour at the base of the altar of the burnt-offering,"
+            },
+            {
+              "hebrew": "אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "which is at the door of the tent of meeting."
             }
           ],
           "model": "Instinct"
@@ -42610,8 +42618,12 @@
               "english": "And of the blood shall he put upon the horns of the altar which is before the L-rd, which is in the tent of meeting;"
             },
             {
-              "hebrew": "וְאֵ֣ת כׇּל־הַדָּ֗ם יִשְׁפֹּךְ֙ אֶל־יְסוֹד֙ מִזְבַּ֣ח הָעֹלָ֔ה אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-              "english": "and all of the [remaining] blood shall he pour at the [western] base of the altar of the burnt-offering, which is at the door of the tent of meeting."
+              "hebrew": "וְאֵ֣ת כׇּל־הַדָּ֗ם יִשְׁפֹּךְ֙ אֶל־יְסוֹד֙ מִזְבַּ֣ח הָעֹלָ֔ה",
+              "english": "and all of the [remaining] blood shall he pour at the [western] base of the altar of the burnt-offering,"
+            },
+            {
+              "hebrew": "אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "which is at the door of the tent of meeting."
             }
           ],
           "model": "Instinct"
@@ -42912,8 +42924,12 @@
               "english": "Or if he touch the uncleanliness of man [(The allusion is to dead body uncleanliness)], for all his uncleanliness [including touching zavin or zavoth (men or women affected by a genital flux)] where he becomes unclean [(including touching one who cohabited with a niddah)] through it [(including swallowing the carcass of a (ritually) clean fowl)],"
             },
             {
-              "hebrew": "וְנֶעְלַ֣ם מִמֶּ֔נּוּ וְה֥וּא יָדַ֖ע וְאָשֵֽׁם׃",
-              "english": "and it were hidden from him, [i.e., he forgot that he had become unclean], and he (then) knew, and he be guilty [by eating consecrated food or entering the sanctuary],"
+              "hebrew": "וְנֶעְלַ֣ם מִמֶּ֔נּוּ",
+              "english": "and it were hidden from him, [i.e., he forgot that he had become unclean],"
+            },
+            {
+              "hebrew": "וְה֥וּא יָדַ֖ע וְאָשֵֽׁם׃",
+              "english": "and he (then) knew, and he be guilty [by eating consecrated food or entering the sanctuary],"
             }
           ],
           "model": "Instinct"
@@ -43105,8 +43121,12 @@
         "16": {
           "pairs": [
             {
-              "hebrew": "וְאֵ֣ת אֲשֶׁר֩ חָטָ֨א מִן־הַקֹּ֜דֶשׁ יְשַׁלֵּ֗ם וְאֶת־חֲמִֽישִׁתוֹ֙ יוֹסֵ֣ף עָלָ֔יו וְנָתַ֥ן אֹת֖וֹ לַכֹּהֵ֑ן",
-              "english": "And for what he has sinned in the holy thing [(the principal)] he shall pay, and its fifth he shall add to it, and he shall give it to the Cohein;"
+              "hebrew": "וְאֵ֣ת אֲשֶׁר֩ חָטָ֨א מִן־הַקֹּ֜דֶשׁ יְשַׁלֵּ֗ם וְאֶת־חֲמִֽישִׁתוֹ֙ יוֹסֵ֣ף עָלָ֔יו",
+              "english": "And for what he has sinned in the holy thing [(the principal)] he shall pay, and its fifth he shall add to it,"
+            },
+            {
+              "hebrew": "וְנָתַ֥ן אֹת֖וֹ לַכֹּהֵ֑ן",
+              "english": "and he shall give it to the Cohein;"
             },
             {
               "hebrew": "וְהַכֹּהֵ֗ן יְכַפֵּ֥ר עָלָ֛יו בְּאֵ֥יל הָאָשָׁ֖ם וְנִסְלַ֥ח לֽוֹ׃&nbsp;{פ}",
@@ -43135,8 +43155,12 @@
               "english": "And he shall bring a ram without blemish, from the flock, by your valuation [see 15] for a guilt-offering to the Cohein;"
             },
             {
-              "hebrew": "וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן עַ֣ל שִׁגְגָת֧וֹ אֲשֶׁר־שָׁגָ֛ג וְה֥וּא לֹֽא־יָדַ֖ע וְנִסְלַ֥ח לֽוֹ׃",
-              "english": "and the Cohein shall make atonement for him for his unwitting sin which he committed, for he did not know, and it shall be forgiven him. [But if he discovers later that he definitely sinned, he is not forgiven until he brings a sin-offering.]"
+              "hebrew": "וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן עַ֣ל שִׁגְגָת֧וֹ אֲשֶׁר־שָׁגָ֛ג וְה֥וּא לֹֽא־יָדַ֖ע",
+              "english": "and the Cohein shall make atonement for him for his unwitting sin which he committed, for he did not know,"
+            },
+            {
+              "hebrew": "וְנִסְלַ֥ח לֽוֹ׃",
+              "english": "and it shall be forgiven him. [But if he discovers later that he definitely sinned, he is not forgiven until he brings a sin-offering.]"
             }
           ],
           "model": "Instinct"
@@ -44040,8 +44064,12 @@
               "english": "For the breast of the waving [(forward and back)] and the thigh of the lifting [(up and down)] have I taken from the children of Israel from the sacrifices of their peace-offerings,"
             },
             {
-              "hebrew": "וָאֶתֵּ֣ן אֹ֠תָ֠ם לְאַהֲרֹ֨ן הַכֹּהֵ֤ן וּלְבָנָיו֙ לְחׇק־עוֹלָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
-              "english": "and I have given them to Aaron the Cohein and to his sons as an everlasting statute from the children of Israel."
+              "hebrew": "וָאֶתֵּ֣ן אֹ֠תָ֠ם לְאַהֲרֹ֨ן הַכֹּהֵ֤ן וּלְבָנָיו֙ לְחׇק־עוֹלָ֔ם",
+              "english": "and I have given them to Aaron the Cohein and to his sons as an everlasting statute"
+            },
+            {
+              "hebrew": "מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "from the children of Israel."
             }
           ],
           "model": "Instinct"
@@ -44451,8 +44479,12 @@
               "english": "And he took the fat and the fat-tail and all the fat on the innards"
             },
             {
-              "hebrew": "וְאֵת֙ יֹתֶ֣רֶת הַכָּבֵ֔ד וְאֶת־שְׁתֵּ֥י הַכְּלָיֹ֖ת וְאֶֽת־חֶלְבְּהֶ֑ן וְאֵ֖ת שׁ֥וֹק הַיָּמִֽין׃",
-              "english": "and the lobe with [some of] the liver and the two kidneys and their fat and the right shok."
+              "hebrew": "וְאֵת֙ יֹתֶ֣רֶת הַכָּבֵ֔ד וְאֶת־שְׁתֵּ֥י הַכְּלָיֹ֖ת וְאֶֽת־חֶלְבְּהֶ֑ן",
+              "english": "and the lobe with [some of] the liver and the two kidneys and their fat"
+            },
+            {
+              "hebrew": "וְאֵ֖ת שׁ֥וֹק הַיָּמִֽין׃",
+              "english": "and the right shok."
             }
           ],
           "model": "Instinct"
@@ -44494,8 +44526,12 @@
               "english": "And Moses took them from their hands and smoked them on the altar after the burnt-offering."
             },
             {
-              "hebrew": "מִלֻּאִ֥ים הֵם֙ לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֥ה ה֖וּא לַיהֹוָֽה׃",
-              "english": "They are an investiture-offering for a sweet savor; it is a fire-offering to the L-rd."
+              "hebrew": "מִלֻּאִ֥ים הֵם֙ לְרֵ֣יחַ נִיחֹ֔חַ",
+              "english": "They are an investiture-offering for a sweet savor;"
+            },
+            {
+              "hebrew": "אִשֶּׁ֥ה ה֖וּא לַיהֹוָֽה׃",
+              "english": "it is a fire-offering to the L-rd."
             }
           ],
           "model": "Instinct"
@@ -45030,8 +45066,12 @@
               "english": "And Moses called to Mishael and to Eltzafan, the sons of Uziel, the uncle of Aaron [Uziel was Amram's brother (6:18)]."
             },
             {
-              "hebrew": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם קִ֞֠רְב֞֠וּ שְׂא֤וּ אֶת־אֲחֵיכֶם֙ מֵאֵ֣ת פְּנֵי־הַקֹּ֔דֶשׁ אֶל־מִח֖וּץ לַֽמַּחֲנֶֽה׃",
-              "english": "And he said to them: Draw near; carry your brothers from before the sanctuary outside of the camp [(as one would say: Remove the body from before the bride so as not to spoil the occasion.)]"
+              "hebrew": "וַיֹּ֣אמֶר אֲלֵהֶ֗ם קִ֞֠רְב֞֠וּ שְׂא֤וּ אֶת־אֲחֵיכֶם֙ מֵאֵ֣ת פְּנֵי־הַקֹּ֔דֶשׁ",
+              "english": "And he said to them: Draw near; carry your brothers from before the sanctuary"
+            },
+            {
+              "hebrew": "אֶל־מִח֖וּץ לַֽמַּחֲנֶֽה׃",
+              "english": "outside of the camp [(as one would say: Remove the body from before the bride so as not to spoil the occasion.)]"
             }
           ],
           "model": "Instinct"
@@ -45197,8 +45237,12 @@
               "english": "The shok of the lifting and the breast of the waving, upon the fire-offerings of the fats shall they bring [(the fats being below at the time of waving)], to wave a wave-offering before the L-rd."
             },
             {
-              "hebrew": "וְהָיָ֨ה לְךָ֜ וּלְבָנֶ֤יךָ אִתְּךָ֙ לְחׇק־עוֹלָ֔ם כַּאֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה׃",
-              "english": "And it shall be for you and for your sons with you as a statute forever, as the L-rd has commanded."
+              "hebrew": "וְהָיָ֨ה לְךָ֜ וּלְבָנֶ֤יךָ אִתְּךָ֙ לְחׇק־עוֹלָ֔ם",
+              "english": "And it shall be for you and for your sons with you as a statute forever,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה׃",
+              "english": "as the L-rd has commanded."
             }
           ],
           "model": "Instinct"
@@ -45410,8 +45454,12 @@
               "english": "And all that do not have fins and scales in the seas and in the rivers,"
             },
             {
-              "hebrew": "מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃",
-              "english": "of every sheretz of the waters [(sheretz) a low creature that creeps and moves along the ground], and of every living creature that is in the waters — they are detestable to you."
+              "hebrew": "מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם",
+              "english": "of every sheretz of the waters [(sheretz) a low creature that creeps and moves along the ground], and of every living creature that is in the waters —"
+            },
+            {
+              "hebrew": "שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃",
+              "english": "they are detestable to you."
             }
           ],
           "model": "Instinct"
@@ -45846,8 +45894,12 @@
               "english": "All [(including worms and the like)] that go upon the belly [i.e., snakes] and all that go upon four [i.e., scorpions], until all [including beetles and the like] that are many-footed [i.e., centipedes],"
             },
             {
-              "hebrew": "לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
-              "english": "of all creeping things that creep upon the earth, you shall not eat them, for they are detestable."
+              "hebrew": "לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ",
+              "english": "of all creeping things that creep upon the earth,"
+            },
+            {
+              "hebrew": "לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
+              "english": "you shall not eat them, for they are detestable."
             }
           ],
           "model": "Instinct"
@@ -45973,8 +46025,12 @@
               "english": "And thirty days and three days she shall abide in the blood of cleanliness. [(Even though she sees blood, she is clean.)]"
             },
             {
-              "hebrew": "בְּכׇל־קֹ֣דֶשׁ לֹֽא־תִגָּ֗ע וְאֶל־הַמִּקְדָּשׁ֙ לֹ֣א תָבֹ֔א עַד־מְלֹ֖את יְמֵ֥י טׇהֳרָֽהּ׃",
-              "english": "All that is holy [including terumah] she shall not touch [(an exhortation against eating terumah)] [for her immersion (vis-à-vis kodshim) does not \"take\" until sunset of the fortieth day, on the morrow of which she brings her atonement offering], and into the sanctuary she shall not come until the fulfillment of the days of her purification."
+              "hebrew": "בְּכׇל־קֹ֣דֶשׁ לֹֽא־תִגָּ֗ע",
+              "english": "All that is holy [including terumah] she shall not touch [(an exhortation against eating terumah)] [for her immersion (vis-à-vis kodshim) does not \"take\" until sunset of the fortieth day, on the morrow of which she brings her atonement offering],"
+            },
+            {
+              "hebrew": "וְאֶל־הַמִּקְדָּשׁ֙ לֹ֣א תָבֹ֔א עַד־מְלֹ֖את יְמֵ֥י טׇהֳרָֽהּ׃",
+              "english": "and into the sanctuary she shall not come until the fulfillment of the days of her purification."
             }
           ],
           "model": "Instinct"
@@ -46057,8 +46113,12 @@
         "2": {
           "pairs": [
             {
-              "hebrew": "אָדָ֗ם כִּֽי־יִהְיֶ֤ה בְעוֹר־בְּשָׂרוֹ֙ שְׂאֵ֤ת אֽוֹ־סַפַּ֙חַת֙ א֣וֹ בַהֶ֔רֶת וְהָיָ֥ה בְעוֹר־בְּשָׂר֖וֹ לְנֶ֣גַע צָרָ֑עַת",
-              "english": "A man, if there be in the skin of his flesh se'eth (a rising) or sapachath or bahereth (a bright spot) [types of plague-spots, one brighter than the other], and it become in the skin of his flesh a plague-spot of leprosy,"
+              "hebrew": "אָדָ֗ם כִּֽי־יִהְיֶ֤ה בְעוֹר־בְּשָׂרוֹ֙ שְׂאֵ֤ת אֽוֹ־סַפַּ֙חַת֙ א֣וֹ בַהֶ֔רֶת",
+              "english": "A man, if there be in the skin of his flesh se'eth (a rising) or sapachath or bahereth (a bright spot) [types of plague-spots, one brighter than the other],"
+            },
+            {
+              "hebrew": "וְהָיָ֥ה בְעוֹר־בְּשָׂר֖וֹ לְנֶ֣גַע צָרָ֑עַת",
+              "english": "and it become in the skin of his flesh a plague-spot of leprosy,"
             },
             {
               "hebrew": "וְהוּבָא֙ אֶל־אַהֲרֹ֣ן הַכֹּהֵ֔ן א֛וֹ אֶל־אַחַ֥ד מִבָּנָ֖יו הַכֹּהֲנִֽים׃",
@@ -46087,8 +46147,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "וְאִם־בַּהֶ֩רֶת֩ לְבָנָ֨ה הִ֜וא בְּע֣וֹר בְּשָׂר֗וֹ וְעָמֹק֙ אֵין־מַרְאֶ֣הָ מִן־הָע֔וֹר וּשְׂעָרָ֖הֿ לֹא־הָפַ֣ךְ לָבָ֑ן",
-              "english": "And if it is a white bahereth in the skin of his flesh, and its appearance is not deeper than the skin, and its hair had not turned white,"
+              "hebrew": "וְאִם־בַּהֶ֩רֶת֩ לְבָנָ֨ה הִ֜וא בְּע֣וֹר בְּשָׂר֗וֹ וְעָמֹק֙ אֵין־מַרְאֶ֣הָ מִן־הָע֔וֹר",
+              "english": "And if it is a white bahereth in the skin of his flesh, and its appearance is not deeper than the skin,"
+            },
+            {
+              "hebrew": "וּשְׂעָרָ֖הֿ לֹא־הָפַ֣ךְ לָבָ֑ן",
+              "english": "and its hair had not turned white,"
             },
             {
               "hebrew": "וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃",
@@ -46307,8 +46371,12 @@
               "english": "And the Cohein shall see, and, behold, its appearance is lower than the skin, and its hair has turned white,"
             },
             {
-              "hebrew": "וְטִמְּא֧וֹ הַכֹּהֵ֛ן נֶֽגַע־צָרַ֥עַת הִ֖וא בַּשְּׁחִ֥ין פָּרָֽחָה׃",
-              "english": "then the Cohein shall declare him unclean. It is a plague-spot of leprosy; it has blossomed in the boil."
+              "hebrew": "וְטִמְּא֧וֹ הַכֹּהֵ֛ן",
+              "english": "then the Cohein shall declare him unclean."
+            },
+            {
+              "hebrew": "נֶֽגַע־צָרַ֥עַת הִ֖וא בַּשְּׁחִ֥ין פָּרָֽחָה׃",
+              "english": "It is a plague-spot of leprosy; it has blossomed in the boil."
             }
           ],
           "model": "Instinct"
@@ -46316,8 +46384,12 @@
         "21": {
           "pairs": [
             {
-              "hebrew": "וְאִ֣ם&thinsp;׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בָּהּ֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣יא כֵהָ֑ה",
-              "english": "And if the Cohein see it, and, behold, there is no white hair in it, and it is not lower than the skin, and it is dim,"
+              "hebrew": "וְאִ֣ם&thinsp;׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בָּהּ֙ שֵׂעָ֣ר לָבָ֔ן",
+              "english": "And if the Cohein see it, and, behold, there is no white hair in it,"
+            },
+            {
+              "hebrew": "וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣יא כֵהָ֑ה",
+              "english": "and it is not lower than the skin, and it is dim,"
             },
             {
               "hebrew": "וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃",
@@ -46385,8 +46457,12 @@
         "26": {
           "pairs": [
             {
-              "hebrew": "וְאִ֣ם&thinsp;׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בַּבַּהֶ֙רֶת֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣וא כֵהָ֑ה",
-              "english": "And if the Cohein see it, and, behold, there is not in the bahereth a white hair, and it is not lower than the skin, and it is dim,"
+              "hebrew": "וְאִ֣ם&thinsp;׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בַּבַּהֶ֙רֶת֙ שֵׂעָ֣ר לָבָ֔ן",
+              "english": "And if the Cohein see it, and, behold, there is not in the bahereth a white hair,"
+            },
+            {
+              "hebrew": "וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣וא כֵהָ֑ה",
+              "english": "and it is not lower than the skin, and it is dim,"
             },
             {
               "hebrew": "וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃",
@@ -46415,8 +46491,12 @@
               "english": "And if the bahereth remains in its place, not having spread in the skin, and it is dim,"
             },
             {
-              "hebrew": "שְׂאֵ֥ת הַמִּכְוָ֖ה הִ֑וא וְטִֽהֲרוֹ֙ הַכֹּהֵ֔ן כִּֽי־צָרֶ֥בֶת הַמִּכְוָ֖ה הִֽוא׃&nbsp;{פ}",
-              "english": "then it is the rising of the burn. And the Cohein shall declare him clean, for it is the scar of the burn."
+              "hebrew": "שְׂאֵ֥ת הַמִּכְוָ֖ה הִ֑וא",
+              "english": "then it is the rising of the burn."
+            },
+            {
+              "hebrew": "וְטִֽהֲרוֹ֙ הַכֹּהֵ֔ן כִּֽי־צָרֶ֥בֶת הַמִּכְוָ֖ה הִֽוא׃&nbsp;{פ}",
+              "english": "And the Cohein shall declare him clean, for it is the scar of the burn."
             }
           ],
           "model": "Instinct"
@@ -46441,8 +46521,12 @@
               "english": "Then the Cohein shall see the plague-spot; and if its appearance is deeper than the skin and there is in it thin yellow hair, [the black hair in it having turned to yellow],"
             },
             {
-              "hebrew": "וְטִמֵּ֨א אֹת֤וֹ הַכֹּהֵן֙ נֶ֣תֶק ה֔וּא צָרַ֧עַת הָרֹ֛אשׁ א֥וֹ הַזָּקָ֖ן הֽוּא׃",
-              "english": "then the Cohein shall declare him unclean. It is a nethek (a scall); it is leprosy of the head or of the beard."
+              "hebrew": "וְטִמֵּ֨א אֹת֤וֹ הַכֹּהֵן֙",
+              "english": "then the Cohein shall declare him unclean."
+            },
+            {
+              "hebrew": "נֶ֣תֶק ה֔וּא צָרַ֧עַת הָרֹ֛אשׁ א֥וֹ הַזָּקָ֖ן הֽוּא׃",
+              "english": "It is a nethek (a scall); it is leprosy of the head or of the beard."
             }
           ],
           "model": "Instinct"
