@@ -46208,9 +46208,1031 @@
             }
           ],
           "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם֙ מִפְּאַ֣ת פָּנָ֔יו יִמָּרֵ֖ט רֹאשׁ֑וֹ",
+              "english": "And if from the front of his face [from the slope of his head towards the face, including the temples (gabachath)], his hair fall out,"
+            },
+            {
+              "hebrew": "גִּבֵּ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃",
+              "english": "he is gibeach (bald); he is clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יִהְיֶ֤ה בַקָּרַ֙חַת֙ א֣וֹ בַגַּבַּ֔חַת נֶ֖גַע לָבָ֣ן אֲדַמְדָּ֑ם",
+              "english": "And if there be on the karachath or on the gabachath a reddish-white plague-spot,"
+            },
+            {
+              "hebrew": "צָרַ֤עַת פֹּרַ֙חַת֙ הִ֔וא בְּקָרַחְתּ֖וֹ א֥וֹ בְגַבַּחְתּֽוֹ׃",
+              "english": "it is blossoming leprosy on his karachath or on his gabachath."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֨ה אֹת֜וֹ הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־הַנֶּ֙גַע֙ לְבָנָ֣ה אֲדַמְדֶּ֔מֶת בְּקָרַחְתּ֖וֹ א֣וֹ בְגַבַּחְתּ֑וֹ",
+              "english": "And the Cohein shall see him, and, behold, a rising of the plague-spot, reddish-white, is in his karachath or in his gabachath,"
+            },
+            {
+              "hebrew": "כְּמַרְאֵ֥ה צָרַ֖עַת ע֥וֹר בָּשָֽׂר׃",
+              "english": "as the appearance of the leprosy of the skin of the flesh, [all the laws of this type of leprosy applying here (as opposed to those of boil leprosy and burn leprosy)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "אִישׁ־צָר֥וּעַ ה֖וּא טָמֵ֣א ה֑וּא",
+              "english": "He is a leprous man; he is unclean."
+            },
+            {
+              "hebrew": "טַמֵּ֧א יְטַמְּאֶ֛נּוּ הַכֹּהֵ֖ן בְּרֹאשׁ֥וֹ נִגְעֽוֹ׃",
+              "english": "The Cohein shall declare him unclean, unclean [i.e., all lepers (and not only one with head-related leprosy) is included in what follows (45, etc.)]; in his head is his plague [viz., nethek leprosy]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "וְהַצָּר֜וּעַ אֲשֶׁר־בּ֣וֹ הַנֶּ֗גַע בְּגָדָ֞יו יִהְי֤וּ פְרֻמִים֙ וְרֹאשׁוֹ֙ יִהְיֶ֣ה פָר֔וּעַ",
+              "english": "And the leper in whom the plague-spot is found, his clothes shall be rent and his hair shall grow long,"
+            },
+            {
+              "hebrew": "וְעַל־שָׂפָ֖ם יַעְטֶ֑ה וְטָמֵ֥א&thinsp;׀&thinsp;טָמֵ֖א יִקְרָֽא׃",
+              "english": "and the hair of his lips shall he cover, [like a mourner], and \"Unclean! Unclean!\" shall he cry, [so that people keep away from him]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־יְמֵ֞י אֲשֶׁ֨ר הַנֶּ֥גַע בּ֛וֹ יִטְמָ֖א טָמֵ֣א ה֑וּא",
+              "english": "All the days that the plague-spot is in him he shall be unclean. He is unclean."
+            },
+            {
+              "hebrew": "בָּדָ֣ד יֵשֵׁ֔ב מִח֥וּץ לַֽמַּחֲנֶ֖ה מוֹשָׁבֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Solitary shall he sit [Other unclean ones shall not sit with him. Because he, through his slander (for which leprosy is the punishment,) \"separated\" a husband from his wife and a man from his neighbor, he, too, shall be separated (from his fellow men)]; outside the camp [the three camps] is his dwelling."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "וְהַבֶּ֕גֶד כִּֽי־יִהְיֶ֥ה ב֖וֹ נֶ֣גַע צָרָ֑עַת",
+              "english": "And the garment, if there be in it a plague-spot of leprosy,"
+            },
+            {
+              "hebrew": "בְּבֶ֣גֶד צֶ֔מֶר א֖וֹ בְּבֶ֥גֶד פִּשְׁתִּֽים׃",
+              "english": "in a garment of wool or in a garment of linen,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "א֤וֹ בִֽשְׁתִי֙ א֣וֹ בְעֵ֔רֶב לַפִּשְׁתִּ֖ים וְלַצָּ֑מֶר",
+              "english": "Or in the warp or in the woof, of linen or of wool,"
+            },
+            {
+              "hebrew": "א֣וֹ בְע֔וֹר א֖וֹ בְּכׇל־מְלֶ֥אכֶת עֽוֹר׃",
+              "english": "or in [unworked] skin or in all worked skin,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֨ה הַנֶּ֜גַע יְרַקְרַ֣ק&thinsp;׀ א֣וֹ אֲדַמְדָּ֗ם בַּבֶּ֩גֶד֩ א֨וֹ בָע֜וֹר אֽוֹ־בַשְּׁתִ֤י אוֹ־בָעֵ֙רֶב֙ א֣וֹ בְכׇל־כְּלִי־ע֔וֹר",
+              "english": "And it shall be, if the plague-spot is deep green or deep red in the garment or in the skin, or in the warp or in the woof, or in any article of skin,"
+            },
+            {
+              "hebrew": "נֶ֥גַע צָרַ֖עַת ה֑וּא וְהׇרְאָ֖ה אֶת־הַכֹּהֵֽן׃",
+              "english": "it is a plague-spot of leprosy, and it shall be shown to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "50": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֥ה הַכֹּהֵ֖ן אֶת־הַנָּ֑גַע",
+              "english": "And the Cohein shall see the plague-spot,"
+            },
+            {
+              "hebrew": "וְהִסְגִּ֥יר אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "and he shall quarantine the plague-spot for seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "51": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֨ה אֶת־הַנֶּ֜גַע בַּיּ֣וֹם הַשְּׁבִיעִ֗י",
+              "english": "And he shall see the plague-spot on the seventh day."
+            },
+            {
+              "hebrew": "כִּֽי־פָשָׂ֤ה הַנֶּ֙גַע֙ בַּ֠בֶּ֠גֶד אֽוֹ־בַשְּׁתִ֤י אֽוֹ־בָעֵ֙רֶב֙ א֣וֹ בָע֔וֹר לְכֹ֛ל אֲשֶׁר־יֵעָשֶׂ֥ה הָע֖וֹר לִמְלָאכָ֑ה",
+              "english": "If the plague-spot has spread in the garment, or in the warp, or in the woof, or in the skin, (whatever work the skin is made for),"
+            },
+            {
+              "hebrew": "צָרַ֧עַת מַמְאֶ֛רֶת הַנֶּ֖גַע טָמֵ֥א הֽוּא׃",
+              "english": "the plague-spot is \"pricking\" leprosy; it is unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "52": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׂרַ֨ף אֶת־הַבֶּ֜גֶד א֥וֹ אֶֽת־הַשְּׁתִ֣י&thinsp;׀ א֣וֹ אֶת־הָעֵ֗רֶב בַּצֶּ֙מֶר֙ א֣וֹ בַפִּשְׁתִּ֔ים א֚וֹ אֶת־כׇּל־כְּלִ֣י הָע֔וֹר אֲשֶׁר־יִהְיֶ֥ה ב֖וֹ הַנָּ֑גַע",
+              "english": "And he shall burn the garment, or the warp, or the woof, of wool or of linen, or any article of skin in which the plague-spot will be;"
+            },
+            {
+              "hebrew": "כִּֽי־צָרַ֤עַת מַמְאֶ֙רֶת֙ הִ֔וא בָּאֵ֖שׁ תִּשָּׂרֵֽף׃",
+              "english": "for it is \"pricking\" leprosy — it shall be burned in fire."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "53": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם֮ יִרְאֶ֣ה הַכֹּהֵן֒ וְהִנֵּה֙ לֹא־פָשָׂ֣ה הַנֶּ֔גַע בַּבֶּ֕גֶד",
+              "english": "And if the Cohein shall see, and, behold, the plague-spot has not spread in the garment,"
+            },
+            {
+              "hebrew": "א֥וֹ בַשְּׁתִ֖י א֣וֹ בָעֵ֑רֶב א֖וֹ בְּכׇל־כְּלִי־עֽוֹר׃",
+              "english": "or in the warp, or in the woof, or in any article of skin,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "54": {
+          "pairs": [
+            {
+              "hebrew": "וְצִוָּה֙ הַכֹּהֵ֔ן וְכִ֨בְּס֔וּ אֵ֥ת אֲשֶׁר־בּ֖וֹ הַנָּ֑גַע",
+              "english": "Then the Cohein shall command, and they shall wash what contains the plague-spot [i.e., the plague spot along with some of the surrounding material],"
+            },
+            {
+              "hebrew": "וְהִסְגִּיר֥וֹ שִׁבְעַת־יָמִ֖ים שֵׁנִֽית׃",
+              "english": "and he shall quarantine it a second seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "55": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֨ה הַכֹּהֵ֜ן אַחֲרֵ֣י&thinsp;׀ הֻכַּבֵּ֣ס אֶת־הַנֶּ֗גַע וְ֠הִנֵּ֠ה לֹֽא־הָפַ֨ךְ הַנֶּ֤גַע אֶת־עֵינוֹ֙ וְהַנֶּ֣גַע לֹֽא־פָשָׂ֔ה",
+              "english": "And the Cohein shall see, after the plague-spot has been washed, and, behold, the plague-spot has not changed its appearance [i.e., it has not dimmed] and the plague-spot has not spread,"
+            },
+            {
+              "hebrew": "טָמֵ֣א ה֔וּא בָּאֵ֖שׁ תִּשְׂרְפֶ֑נּוּ",
+              "english": "it is unclean. [(It goes without saying that it is unclean if it did not change its appearance and did spread)]. In fire shall you burn it;"
+            },
+            {
+              "hebrew": "פְּחֶ֣תֶת הִ֔וא בְּקָרַחְתּ֖וֹ א֥וֹ בְגַבַּחְתּֽוֹ׃",
+              "english": "it is p'cheteth [a \"low-lying\" plague-spot] in its oldness or in its newness."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "56": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם֮ רָאָ֣ה הַכֹּהֵן֒ וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע אַחֲרֵ֖י הֻכַּבֵּ֣ס אֹת֑וֹ",
+              "english": "And if the Cohein saw, and, behold, the plague-spot became dim after it was washed,"
+            },
+            {
+              "hebrew": "וְקָרַ֣ע אֹת֗וֹ מִן־הַבֶּ֙גֶד֙ א֣וֹ מִן־הָע֔וֹר א֥וֹ מִן־הַשְּׁתִ֖י א֥וֹ מִן־הָעֵֽרֶב׃",
+              "english": "then he shall tear it [the plague-spot site] from the garment, or from the skin, or from the warp, or from the woof, [and he shall burn it.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "57": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־תֵּרָאֶ֨ה ע֜וֹד בַּ֠בֶּ֠גֶד אֽוֹ־בַשְּׁתִ֤י אֽוֹ־בָעֵ֙רֶב֙ א֣וֹ בְכׇל־כְּלִי־ע֔וֹר פֹּרַ֖חַת הִ֑וא",
+              "english": "And if it be seen again in the garment, or in the warp, or in the woof, or in any article of skin, it is porachath [something whose \"blossoming\" recurs]."
+            },
+            {
+              "hebrew": "בָּאֵ֣שׁ תִּשְׂרְפֶ֔נּוּ אֵ֥ת אֲשֶׁר־בּ֖וֹ הַנָּֽגַע׃",
+              "english": "In fire shall you burn it [(the entire garment)], what contains the plague-spot."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "58": {
+          "pairs": [
+            {
+              "hebrew": "וְהַבֶּ֡גֶד אֽוֹ־הַשְּׁתִ֨י אוֹ־הָעֵ֜רֶב אֽוֹ־כׇל־כְּלִ֤י הָעוֹר֙ אֲשֶׁ֣ר תְּכַבֵּ֔ס וְסָ֥ר מֵהֶ֖ם הַנָּ֑גַע",
+              "english": "And the garment, or the warp, or the woof, or any article of skin which you shall wash [by directive of the Cohein], and the plague-spot depart [entirely] from them,"
+            },
+            {
+              "hebrew": "וְכֻבַּ֥ס שֵׁנִ֖ית וְטָהֵֽר׃",
+              "english": "then it shall be cleansed [i.e., immersed] a second time, and it shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "59": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֠את תּוֹרַ֨ת נֶֽגַע־צָרַ֜עַת בֶּ֥גֶד הַצֶּ֣מֶר&thinsp;׀ א֣וֹ הַפִּשְׁתִּ֗ים א֤וֹ הַשְּׁתִי֙ א֣וֹ הָעֵ֔רֶב א֖וֹ כׇּל־כְּלִי־ע֑וֹר",
+              "english": "This is the law of the plague-spot of leprosy, in a garment of wool or linen, or in the warp, or in the woof, or in any article of skin,"
+            },
+            {
+              "hebrew": "לְטַהֲר֖וֹ א֥וֹ לְטַמְּאֽוֹ׃&nbsp;{פ}",
+              "english": "to declare it clean or to declare it unclean."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "14": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֤את תִּֽהְיֶה֙ תּוֹרַ֣ת הַמְּצֹרָ֔ע בְּי֖וֹם טׇהֳרָת֑וֹ",
+              "english": "This shall be the law of the leper on the day of his cleansing [(whence it is derived that he is not cleansed at night)];"
+            },
+            {
+              "hebrew": "וְהוּבָ֖א אֶל־הַכֹּהֵֽן׃",
+              "english": "he shall be brought to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְיָצָא֙ הַכֹּהֵ֔ן אֶל־מִח֖וּץ לַֽמַּחֲנֶ֑ה",
+              "english": "And the Cohein shall go outside the camp [(outside the three camps, where the leper was sent in the days of his confirmed leprosy)],"
+            },
+            {
+              "hebrew": "וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נִרְפָּ֥א נֶֽגַע־הַצָּרַ֖עַת מִן־הַצָּרֽוּעַ׃",
+              "english": "and the Cohein shall see, and, behold, if the plague-spot of leprosy is healed from the leper,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְצִוָּה֙ הַכֹּהֵ֔ן וְלָקַ֧ח לַמִּטַּהֵ֛ר שְׁתֵּֽי־צִפֳּרִ֥ים חַיּ֖וֹת טְהֹר֑וֹת",
+              "english": "Then the Cohein shall command that there be taken for the one to be cleansed two clean, living [(excluding treifah)] birds. ([Leprosy, coming upon one because of slander, birds (\"chirpers\") are brought)],"
+            },
+            {
+              "hebrew": "וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃",
+              "english": "and cedar-wood [(leprosy coming upon one (also) because of pride)], and [a tongue of] wool (dyed) scarlet (sh'ni tola'ath), and hyssop. [What is his \"remedy\"? Let him \"lower\" himself, like a worm (tola'ath) and like hyssop.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְצִוָּה֙ הַכֹּהֵ֔ן וְשָׁחַ֖ט אֶת־הַצִּפּ֣וֹר הָאֶחָ֑ת",
+              "english": "And the Cohein shall command and he shall slaughter one bird"
+            },
+            {
+              "hebrew": "אֶל־כְּלִי־חֶ֖רֶשׂ עַל־מַ֥יִם חַיִּֽים׃",
+              "english": "into an earthen vessel over living water [He places the water (a quarter of a log) in the vessel first so that the blood of the bird be discernible in it.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־הַצִּפֹּ֤ר הַֽחַיָּה֙ יִקַּ֣ח אֹתָ֔הּ וְאֶת־עֵ֥ץ הָאֶ֛רֶז וְאֶת־שְׁנִ֥י הַתּוֹלַ֖עַת וְאֶת־הָאֵזֹ֑ב",
+              "english": "The living bird, he shall take it [by itself] and the cedar-wood, and the scarlet wool, and the hyssop [(all three bound together)],"
+            },
+            {
+              "hebrew": "וְטָבַ֨ל אוֹתָ֜ם וְאֵ֣ת&thinsp;׀ הַצִּפֹּ֣ר הַֽחַיָּ֗ה בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחֻטָ֔ה עַ֖ל הַמַּ֥יִם הַֽחַיִּֽים׃",
+              "english": "and he shall dip them and the living bird [together] in the blood of the slaughtered bird over the living water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְהִזָּ֗ה עַ֧ל הַמִּטַּהֵ֛ר מִן־הַצָּרַ֖עַת שֶׁ֣בַע פְּעָמִ֑ים וְטִ֣הֲר֔וֹ",
+              "english": "And he shall sprinkle upon the one to be cleansed from the leprosy seven times, and he shall cleanse him,"
+            },
+            {
+              "hebrew": "וְשִׁלַּ֛ח אֶת־הַצִּפֹּ֥ר הַֽחַיָּ֖ה עַל־פְּנֵ֥י הַשָּׂדֶֽה׃",
+              "english": "and he shall send the living bird over the face of the field."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְכִבֶּס֩ הַמִּטַּהֵ֨ר אֶת־בְּגָדָ֜יו וְגִלַּ֣ח אֶת־כׇּל־שְׂעָר֗וֹ וְרָחַ֤ץ בַּמַּ֙יִם֙ וְטָהֵ֔ר",
+              "english": "And the one to be cleansed shall wash his clothes, and he shall shave all of his hair, and he shall bathe in water, and he shall be clean;"
+            },
+            {
+              "hebrew": "וְאַחַ֖ר יָב֣וֹא אֶל־הַֽמַּחֲנֶ֑ה וְיָשַׁ֛ב מִח֥וּץ לְאׇהֳל֖וֹ שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "and he shall come into the camp. And he shall sit outside his tent [(i.e., he shall abstain from marital relations)] for seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָה֩ בַיּ֨וֹם הַשְּׁבִיעִ֜י יְגַלַּ֣ח אֶת־כׇּל־שְׂעָר֗וֹ אֶת־רֹאשׁ֤וֹ וְאֶת־זְקָנוֹ֙ וְאֵת֙ גַּבֹּ֣ת עֵינָ֔יו וְאֶת־כׇּל־שְׂעָר֖וֹ יְגַלֵּ֑חַ",
+              "english": "And it shall be on the seventh day that he shall shave all of his hair. His head, his beard, and the brows of his eyes — all of his [visible, \"gathered\"] hair shall he shave."
+            },
+            {
+              "hebrew": "וְכִבֶּ֣ס אֶת־בְּגָדָ֗יו וְרָחַ֧ץ אֶת־בְּשָׂר֛וֹ בַּמַּ֖יִם וְטָהֵֽר׃",
+              "english": "And he shall wash his clothes, and he shall bathe his flesh in water, and he shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יִקַּ֤ח שְׁנֵֽי־כְבָשִׂים֙ תְּמִימִ֔ם וְכַבְשָׂ֥ה אַחַ֛ת בַּת־שְׁנָתָ֖הּ תְּמִימָ֑ה",
+              "english": "And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb of the first year, without blemish [for a sin-offering],"
+            },
+            {
+              "hebrew": "וּשְׁלֹשָׁ֣ה עֶשְׂרֹנִ֗ים סֹ֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן וְלֹ֥ג אֶחָ֖ד שָֽׁמֶן׃",
+              "english": "and three tenth parts of (an ephah of) fine flour for a meal-offering, mixed with oil, [for the libations of these three lambs], and one log of oil [for the seven sprinklings and the applications on ear and thumbs]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְהֶעֱמִ֞יד הַכֹּהֵ֣ן הַֽמְטַהֵ֗ר אֵ֛ת הָאִ֥ישׁ הַמִּטַּהֵ֖ר וְאֹתָ֑ם",
+              "english": "And the Cohein that cleanses shall stand the man who is to be cleansed and those (things)"
+            },
+            {
+              "hebrew": "לִפְנֵ֣י יְהֹוָ֔ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "before the L-rd [(at the gate of Nikanor, not in the azarah itself, for he lacks atonement)], at the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־הַכֶּ֣בֶשׂ הָאֶחָ֗ד וְהִקְרִ֥יב אֹת֛וֹ לְאָשָׁ֖ם וְאֶת־לֹ֣ג הַשָּׁ֑מֶן",
+              "english": "And the Cohein shall take one of the he-lambs, and he shall bring it near [into the azarah] as a guilt-offering [to be waved (live)], and the log of oil,"
+            },
+            {
+              "hebrew": "וְהֵנִ֥יף אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "and he shall wave them [the guilt-offering and the log] before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁחַ֣ט אֶת־הַכֶּ֗בֶשׂ בִּ֠מְק֠וֹם אֲשֶׁ֨ר יִשְׁחַ֧ט אֶת־הַֽחַטָּ֛את וְאֶת־הָעֹלָ֖ה בִּמְק֣וֹם הַקֹּ֑דֶשׁ",
+              "english": "And he shall slaughter the lamb in the place where he slaughters the sin-offering and the burnt-offering [(on the side of the altar in the north)], in the holy place."
+            },
+            {
+              "hebrew": "כִּ֡י כַּ֠חַטָּ֠את הָאָשָׁ֥ם הוּא֙ לַכֹּהֵ֔ן קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
+              "english": "For as the sin-offering [i.e., as all sin-offerings], the guilt-offering [i.e., this guilt-offering] is the Cohein's [i.e., it is subject to all of the Cohein's services for a sin-offering. But (unlike a sin-offering, its blood is not applied on the altar above (but it is dashed roundabout the altar below, for)] it is holy of holies. [see 7:2]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֣ח הַכֹּהֵן֮ מִדַּ֣ם הָאָשָׁם֒",
+              "english": "And the Cohein shall take from the blood of the guilt-offering,"
+            },
+            {
+              "hebrew": "וְנָתַן֙ הַכֹּהֵ֔ן עַל־תְּנ֛וּךְ אֹ֥זֶן הַמִּטַּהֵ֖ר הַיְמָנִ֑ית",
+              "english": "and the Cohein shall place it on the tnuch [the middle wall] of the right ear of the one to be cleansed,"
+            },
+            {
+              "hebrew": "וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
+              "english": "and on the thumb of his right hand, and on the big toe of his right foot."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֥ח הַכֹּהֵ֖ן מִלֹּ֣ג הַשָּׁ֑מֶן",
+              "english": "And the Cohein shall take from the log of oil,"
+            },
+            {
+              "hebrew": "וְיָצַ֛ק עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
+              "english": "and he shall pour onto the Cohein's left palm."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְטָבַ֤ל הַכֹּהֵן֙ אֶת־אֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית",
+              "english": "And the Cohein shall dip his right finger from the oil on his left palm,"
+            },
+            {
+              "hebrew": "וְהִזָּ֨ה מִן־הַשֶּׁ֧מֶן בְּאֶצְבָּע֛וֹ שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "and he shall sprinkle from the oil with his finger seven times before the L-rd [i.e., opposite the holy of holies]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וּמִיֶּ֨תֶר הַשֶּׁ֜מֶן אֲשֶׁ֣ר עַל־כַּפּ֗וֹ יִתֵּ֤ן הַכֹּהֵן֙ עַל־תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית",
+              "english": "And from the rest of the oil which is on his palm, the Cohein shall place on the tnuch of the right ear of the one to be cleansed,"
+            },
+            {
+              "hebrew": "וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית",
+              "english": "and on the thumb of his right hand, and on the big toe of his right foot,"
+            },
+            {
+              "hebrew": "עַ֖ל דַּ֥ם הָאָשָֽׁם׃",
+              "english": "upon the blood of the guilt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנּוֹתָ֗ר בַּשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־רֹ֣אשׁ הַמִּטַּהֵ֑ר",
+              "english": "And what is left over of the oil which is on the palm of the Cohein, he shall place on the head of the one who is to be cleansed,"
+            },
+            {
+              "hebrew": "וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "and the Cohein shall atone for him before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשָׂ֤ה הַכֹּהֵן֙ אֶת־הַ֣חַטָּ֔את וְכִפֶּ֕ר עַל־הַמִּטַּהֵ֖ר מִטֻּמְאָת֑וֹ",
+              "english": "And the Cohein shall offer up the sin-offering, and he shall atone for the one to be cleansed from his uncleanliness,"
+            },
+            {
+              "hebrew": "וְאַחַ֖ר יִשְׁחַ֥ט אֶת־הָעֹלָֽה׃",
+              "english": "and then he shall slaughter the burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְהֶעֱלָ֧ה הַכֹּהֵ֛ן אֶת־הָעֹלָ֥ה וְאֶת־הַמִּנְחָ֖ה הַמִּזְבֵּ֑חָה",
+              "english": "And the Cohein shall offer up on the altar the burnt-offering and the [libation] meal-offering [which accompanies an animal sacrifice],"
+            },
+            {
+              "hebrew": "וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן וְטָהֵֽר׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and the Cohein shall make atonement for him, and he shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂ֒גֶת֒",
+              "english": "And if he is poor and his means do not suffice,"
+            },
+            {
+              "hebrew": "וְ֠לָקַ֠ח כֶּ֣בֶשׂ אֶחָ֥ד אָשָׁ֛ם לִתְנוּפָ֖ה לְכַפֵּ֣ר עָלָ֑יו",
+              "english": "then he shall take one he-lamb as a guilt-offering to be waved to make atonement for him,"
+            },
+            {
+              "hebrew": "וְעִשָּׂר֨וֹן סֹ֜לֶת אֶחָ֨ד בָּל֥וּל בַּשֶּׁ֛מֶן לְמִנְחָ֖ה וְלֹ֥ג שָֽׁמֶן׃",
+              "english": "and one tenth-part of fine flour mixed with oil as a meal-offering, and a log of oil [for application on the thumbs]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁתֵּ֣י תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֲשֶׁ֥ר תַּשִּׂ֖יג יָד֑וֹ",
+              "english": "And two turtle-doves or two young pigeons, such as his means suffice for;"
+            },
+            {
+              "hebrew": "וְהָיָ֤ה אֶחָד֙ חַטָּ֔את וְהָאֶחָ֖ד עֹלָֽה׃",
+              "english": "and one shall be a sin-offering, and the other, a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵבִ֨יא אֹתָ֜ם בַּיּ֧וֹם הַשְּׁמִינִ֛י לְטׇהֳרָת֖וֹ אֶל־הַכֹּהֵ֑ן",
+              "english": "And he shall bring them to the Cohein on the eighth day of his cleansing [i.e., the eighth day after the bringing of the birds and the sprinkling from the (dipping of the) cedar-wood, the hyssop, and the scarlet]"
+            },
+            {
+              "hebrew": "אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "to the door of the tent of meeting before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֧ח הַכֹּהֵ֛ן אֶת־כֶּ֥בֶשׂ הָאָשָׁ֖ם וְאֶת־לֹ֣ג הַשָּׁ֑מֶן",
+              "english": "And the Cohein shall take the lamb of the guilt-offering, and the log of oil,"
+            },
+            {
+              "hebrew": "וְהֵנִ֨יף אֹתָ֧ם הַכֹּהֵ֛ן תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "and the Cohein shall wave them, a wave-offering before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁחַט֮ אֶת־כֶּ֣בֶשׂ הָֽאָשָׁם֒ וְלָקַ֤ח הַכֹּהֵן֙ מִדַּ֣ם הָֽאָשָׁ֔ם",
+              "english": "And he shall slaughter the lamb of the guilt-offering, and the Cohein shall take from the blood of the guilt-offering"
+            },
+            {
+              "hebrew": "וְנָתַ֛ן עַל־תְּנ֥וּךְ אֹֽזֶן־הַמִּטַּהֵ֖ר הַיְמָנִ֑ית",
+              "english": "and place it on the tnuch of the right ear of the one to be cleansed,"
+            },
+            {
+              "hebrew": "וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
+              "english": "and on the thumb of his right hand, and on the big toe of his right foot."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וּמִן־הַשֶּׁ֖מֶן יִצֹ֣ק הַכֹּהֵ֑ן",
+              "english": "And of the oil, the Cohein shall pour"
+            },
+            {
+              "hebrew": "עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
+              "english": "onto the Cohein's left palm."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְהִזָּ֤ה הַכֹּהֵן֙ בְּאֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית",
+              "english": "And the Cohein shall sprinkle with his right finger from the oil that is on his left palm,"
+            },
+            {
+              "hebrew": "שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "seven times before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַ֨ן הַכֹּהֵ֜ן מִן־הַשֶּׁ֣מֶן&thinsp;׀ אֲשֶׁ֣ר עַל־כַּפּ֗וֹ עַל־תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית",
+              "english": "And the Cohein shall place from the oil that is on his palm upon the tnuch of the right ear of the one to be cleansed,"
+            },
+            {
+              "hebrew": "וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית",
+              "english": "and on the thumb of his right hand, and on the big toe of his right foot,"
+            },
+            {
+              "hebrew": "עַל־מְק֖וֹם דַּ֥ם הָאָשָֽׁם׃",
+              "english": "upon the place of the blood of the guilt-offering [(even if the blood has been wiped off, the \"place\" being the crucial factor)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנּוֹתָ֗ר מִן־הַשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־רֹ֣אשׁ הַמִּטַּהֵ֑ר",
+              "english": "And what is left over of the oil which is on the palm of the Cohein, he shall place on the head of the one to be cleansed,"
+            },
+            {
+              "hebrew": "לְכַפֵּ֥ר עָלָ֖יו לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "to make atonement for him before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשָׂ֤ה אֶת־הָֽאֶחָד֙ מִן־הַתֹּרִ֔ים א֖וֹ מִן־בְּנֵ֣י הַיּוֹנָ֑ה",
+              "english": "And he shall offer one of the turtle-doves or of the young pigeons,"
+            },
+            {
+              "hebrew": "מֵאֲשֶׁ֥ר תַּשִּׂ֖יג יָדֽוֹ׃",
+              "english": "from what his means suffice for."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣ת אֲשֶׁר־תַּשִּׂ֞יג יָד֗וֹ אֶת־הָאֶחָ֥ד חַטָּ֛את וְאֶת־הָאֶחָ֥ד עֹלָ֖ה עַל־הַמִּנְחָ֑ה",
+              "english": "What his means suffice for, one for a sin-offering; the other, for a burnt-offering, with the meal-offering."
+            },
+            {
+              "hebrew": "וְכִפֶּ֧ר הַכֹּהֵ֛ן עַ֥ל הַמִּטַּהֵ֖ר לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "And the Cohein shall make atonement for the one to be cleansed before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את תּוֹרַ֔ת אֲשֶׁר־בּ֖וֹ נֶ֣גַע צָרָ֑עַת",
+              "english": "This is the law for him with a plague-spot of leprosy"
+            },
+            {
+              "hebrew": "אֲשֶׁ֛ר לֹֽא־תַשִּׂ֥יג יָד֖וֹ בְּטׇהֳרָתֽוֹ׃&nbsp;{פ}",
+              "english": "whose means do not suffice in his cleansing."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֔ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֤י תָבֹ֙אוּ֙ אֶל־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֥ר אֲנִ֛י נֹתֵ֥ן לָכֶ֖ם לַאֲחֻזָּ֑ה",
+              "english": "When you come to the land of Canaan, which I give to you for a possession,"
+            },
+            {
+              "hebrew": "וְנָתַתִּי֙ נֶ֣גַע צָרַ֔עַת בְּבֵ֖ית אֶ֥רֶץ אֲחֻזַּתְכֶֽם׃",
+              "english": "and I put a plague-spot of leprosy in a house of the land of your possession [(a \"glad tiding.\" All forty years that Israel was in the desert the Amorites stored treasure in the walls of their houses. The L-rd here apprises them that He will send plague upon these houses. When they raze the house (as per the halachah) they will find it.)] —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וּבָא֙ אֲשֶׁר־ל֣וֹ הַבַּ֔יִת וְהִגִּ֥יד לַכֹּהֵ֖ן לֵאמֹ֑ר",
+              "english": "Then he whose house it is shall come, and he shall tell the Cohein, saying:"
+            },
+            {
+              "hebrew": "כְּנֶ֕גַע נִרְאָ֥ה לִ֖י בַּבָּֽיִת׃",
+              "english": "As a plague-spot [(Even if he is a sage, and knows it to be a plague-spot, he should say only \"As a plague spot\")] there has appeared to me in the house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וְצִוָּ֨ה הַכֹּהֵ֜ן וּפִנּ֣וּ אֶת־הַבַּ֗יִת בְּטֶ֨רֶם יָבֹ֤א הַכֹּהֵן֙ לִרְא֣וֹת אֶת־הַנֶּ֔גַע",
+              "english": "And the Cohein shall command, and they shall empty out the house before the Cohein comes in to see the plague-spot,"
+            },
+            {
+              "hebrew": "וְלֹ֥א יִטְמָ֖א כׇּל־אֲשֶׁ֣ר בַּבָּ֑יִת וְאַ֥חַר כֵּ֛ן יָבֹ֥א הַכֹּהֵ֖ן לִרְא֥וֹת אֶת־הַבָּֽיִת׃",
+              "english": "so that there not be made unclean all that is in the house [(Scripture being solicitous even of earthen vessels, which if unclean, cannot be cleansed in a mikveh (but must be broken)]; and then the Cohein shall come to see the house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה אֶת־הַנֶּ֗גַע וְהִנֵּ֤ה הַנֶּ֙גַע֙ בְּקִירֹ֣ת הַבַּ֔יִת שְׁקַֽעֲרוּרֹת֙ יְרַקְרַקֹּ֔ת א֖וֹ אֲדַמְדַּמֹּ֑ת",
+              "english": "And he shall see the plague-spot, and, behold, if the plague-spot is in the walls of the house, embedded, deep green or deep red,"
+            },
+            {
+              "hebrew": "וּמַרְאֵיהֶ֥ן שָׁפָ֖ל מִן־הַקִּֽיר׃",
+              "english": "and their appearance is lower than the (level of the) wall,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וְיָצָ֧א הַכֹּהֵ֛ן מִן־הַבַּ֖יִת אֶל־פֶּ֣תַח הַבָּ֑יִת",
+              "english": "Then the Cohein shall go out of the house to the door of the house,"
+            },
+            {
+              "hebrew": "וְהִסְגִּ֥יר אֶת־הַבַּ֖יִת שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "and he shall shut up the house for seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁ֥ב הַכֹּהֵ֖ן בַּיּ֣וֹם הַשְּׁבִיעִ֑י",
+              "english": "And the Cohein shall return on the seventh day"
+            },
+            {
+              "hebrew": "וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בְּקִירֹ֥ת הַבָּֽיִת׃",
+              "english": "and he shall see: If the plague-spot is spread in the walls of the house,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וְצִוָּה֙ הַכֹּהֵ֔ן וְחִלְּצוּ֙ אֶת־הָ֣אֲבָנִ֔ים אֲשֶׁ֥ר בָּהֵ֖ן הַנָּ֑גַע",
+              "english": "Then the Cohein shall command, and they shall remove the stones containing the plague-spot,"
+            },
+            {
+              "hebrew": "וְהִשְׁלִ֤יכוּ אֶתְהֶן֙ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
+              "english": "and they shall cast them outside the city into an unclean place [i.e., a place not used for (ritually) clean things (Scripture apprising us that these stones render their place unclean while they are in it)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־הַבַּ֛יִת יַקְצִ֥עַ מִבַּ֖יִת סָבִ֑יב",
+              "english": "And the house he shall scrape from inside roundabout [the plague-spot (i.e., he shall scrape the plaster around the plague-spot stones)],"
+            },
+            {
+              "hebrew": "וְשָׁפְכ֗וּ אֶת־הֶֽעָפָר֙ אֲשֶׁ֣ר הִקְצ֔וּ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
+              "english": "and they shall spill the mortar scrapings outside the city into an unclean place."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקְחוּ֙ אֲבָנִ֣ים אֲחֵר֔וֹת וְהֵבִ֖יאוּ אֶל־תַּ֣חַת הָאֲבָנִ֑ים",
+              "english": "And they shall take other stones, and they shall bring them in place of the stones;"
+            },
+            {
+              "hebrew": "וְעָפָ֥ר אַחֵ֛ר יִקַּ֖ח וְטָ֥ח אֶת־הַבָּֽיִת׃",
+              "english": "and he shall take other mortar and plaster the house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־יָשׁ֤וּב הַנֶּ֙גַע֙ וּפָרַ֣ח בַּבַּ֔יִת אַחַ֖ר חִלֵּ֣ץ אֶת־הָאֲבָנִ֑ים",
+              "english": "And if the plague-spot returns and blossoms in the house [at the end of a week] after he removed the stones"
+            },
+            {
+              "hebrew": "וְאַחֲרֵ֛י הִקְצ֥וֹת אֶת־הַבַּ֖יִת וְאַחֲרֵ֥י הִטּֽוֹחַ׃",
+              "english": "and after the house has been scraped and after it has been plastered, [This verse continues (45): \"Then he shall break down the house,\" until (47): \"and he shall wash his clothes.\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "וּבָא֙ הַכֹּהֵ֔ן וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בַּבָּ֑יִת",
+              "english": "[This verse is to be understood as following (verse 47)] And if the Cohein shall come and see [at the end of the second week (if it remained the same at the end of the first week)] and, behold, the plague-spot has spread in the house,"
+            },
+            {
+              "hebrew": "צָרַ֨עַת מַמְאֶ֥רֶת הִ֛וא בַּבַּ֖יִת טָמֵ֥א הֽוּא׃",
+              "english": "it is \"pricking\" leprosy in the house; it is unclean [and he \"removes, scrapes, plasters\" and shuts it up another week. If it returns, he razes it; if it does not return, it requires birds (for cleansing — see 49). Verse 48 is to be understood as following at this point.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַ֣ץ אֶת־הַבַּ֗יִת אֶת־אֲבָנָיו֙ וְאֶת־עֵצָ֔יו וְאֵ֖ת כׇּל־עֲפַ֣ר הַבָּ֑יִת",
+              "english": "[See 43] Then he shall break down the house — its stones, its wood, and all the mortar of the house;"
+            },
+            {
+              "hebrew": "וְהוֹצִיא֙ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
+              "english": "and he shall take them outside the city to an unclean place."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "וְהַבָּא֙ אֶל־הַבַּ֔יִת כׇּל־יְמֵ֖י הִסְגִּ֣יר אֹת֑וֹ",
+              "english": "And he who comes into the house all the days [(in a \"confirmed\" house, even after scraping)] that he has shut it up [(but not while it is undergoing scraping)]"
+            },
+            {
+              "hebrew": "יִטְמָ֖א עַד־הָעָֽרֶב׃",
+              "english": "shall be unclean until the evening. [The clothes of one who merely \"enters,\" however, are not rendered unclean.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "וְהַשֹּׁכֵ֣ב בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָ֑יו",
+              "english": "And he who lies in the house shall wash his clothes,"
+            },
+            {
+              "hebrew": "וְהָאֹכֵ֣ל בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָֽיו׃",
+              "english": "and he who eats in the house shall wash his clothes [i.e., one who remains in the house the amount of time it takes to eat a p'ras (a half-loaf) shall wash his clothes]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־בֹּ֨א יָבֹ֜א הַכֹּהֵ֗ן וְרָאָה֙ וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙גַע֙ בַּבַּ֔יִת אַחֲרֵ֖י הִטֹּ֣חַ אֶת־הַבָּ֑יִת",
+              "english": "[See 44] And if the Cohein comes [at the end of the second week], and he sees, and, behold, the plague-spot has not spread in the house, [he removes, scrapes, and plasters], and after plastering the house, the"
+            },
+            {
+              "hebrew": "וְטִהַ֤ר הַכֹּהֵן֙ אֶת־הַבַּ֔יִת כִּ֥י נִרְפָּ֖א הַנָּֽגַע׃",
+              "english": "Cohein shall declare the house clean [if the plague-spot has not reappeared at the end of the week], for the plague spot has been healed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֛ח לְחַטֵּ֥א אֶת־הַבַּ֖יִת שְׁתֵּ֣י צִפֳּרִ֑ים",
+              "english": "And he shall take to cleanse the house two birds,"
+            },
+            {
+              "hebrew": "וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃",
+              "english": "and cedar-wood, and scarlet, and hyssop."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "50": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁחַ֖ט אֶת־הַצִּפֹּ֣ר הָאֶחָ֑ת",
+              "english": "And he shall slaughter one bird"
+            },
+            {
+              "hebrew": "אֶל־כְּלִי־חֶ֖רֶשׂ עַל־מַ֥יִם חַיִּֽים׃",
+              "english": "into a vessel over living water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "51": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֣ח אֶת־עֵֽץ־הָ֠אֶ֠רֶז וְאֶת־הָ֨אֵזֹ֜ב וְאֵ֣ת&thinsp;׀ שְׁנִ֣י הַתּוֹלַ֗עַת וְאֵת֮ הַצִּפֹּ֣ר הַֽחַיָּה֒",
+              "english": "And he shall take the cedar-wood, and the hyssop, and the scarlet, and the living bird,"
+            },
+            {
+              "hebrew": "וְטָבַ֣ל אֹתָ֗ם בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחוּטָ֔ה וּבַמַּ֖יִם הַֽחַיִּ֑ים",
+              "english": "and he shall dip them in the blood of the slaughtered bird and in the living water,"
+            },
+            {
+              "hebrew": "וְהִזָּ֥ה אֶל־הַבַּ֖יִת שֶׁ֥בַע פְּעָמִֽים׃",
+              "english": "and he shall sprinkle upon the house seven times."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "52": {
+          "pairs": [
+            {
+              "hebrew": "וְחִטֵּ֣א אֶת־הַבַּ֔יִת בְּדַם֙ הַצִּפּ֔וֹר וּבַמַּ֖יִם הַֽחַיִּ֑ים",
+              "english": "And he shall cleanse the house with the blood of the bird and with the living water,"
+            },
+            {
+              "hebrew": "וּבַצִּפֹּ֣ר הַחַיָּ֗ה וּבְעֵ֥ץ הָאֶ֛רֶז וּבָאֵזֹ֖ב וּבִשְׁנִ֥י הַתּוֹלָֽעַת׃",
+              "english": "and with the living bird, and with the cedar-wood, and with the hyssop, and with the scarlet."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "53": {
+          "pairs": [
+            {
+              "hebrew": "וְשִׁלַּ֞ח אֶת־הַצִּפֹּ֧ר הַֽחַיָּ֛ה אֶל־מִח֥וּץ לָעִ֖יר אֶל־פְּנֵ֣י הַשָּׂדֶ֑ה",
+              "english": "And he shall send the living bird outside the city over the face of the field,"
+            },
+            {
+              "hebrew": "וְכִפֶּ֥ר עַל־הַבַּ֖יִת וְטָהֵֽר׃",
+              "english": "and he shall make atonement for the house, and it shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "54": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֖את הַתּוֹרָ֑ה",
+              "english": "This is the law"
+            },
+            {
+              "hebrew": "לְכׇל־נֶ֥גַע הַצָּרַ֖עַת וְלַנָּֽתֶק׃",
+              "english": "for all plague-spots of leprosy and for a nethek."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "55": {
+          "pairs": [
+            {
+              "hebrew": "וּלְצָרַ֥עַת הַבֶּ֖גֶד",
+              "english": "And for the leprosy of a garment"
+            },
+            {
+              "hebrew": "וְלַבָּֽיִת׃",
+              "english": "and of a house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "56": {
+          "pairs": [
+            {
+              "hebrew": "וְלַשְׂאֵ֥ת וְלַסַּפַּ֖חַת",
+              "english": "And for a se'eth and for a sapachath"
+            },
+            {
+              "hebrew": "וְלַבֶּהָֽרֶת׃",
+              "english": "and for a bahereth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "57": {
+          "pairs": [
+            {
+              "hebrew": "לְהוֹרֹ֕ת בְּי֥וֹם הַטָּמֵ֖א וּבְי֣וֹם הַטָּהֹ֑ר",
+              "english": "To teach concerning the day it is declared unclean and the day it is declared clean."
+            },
+            {
+              "hebrew": "זֹ֥את תּוֹרַ֖ת הַצָּרָֽעַת׃&nbsp;{פ}",
+              "english": "This is the law of leprosy."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:56:12.218Z"
+  "updatedAt": "2026-10-26T18:57:34.335Z"
 }
