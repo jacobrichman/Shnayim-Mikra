@@ -55588,9 +55588,855 @@
             }
           ],
           "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "נָשֹׂ֗א אֶת־רֹ֛אשׁ בְּנֵ֥י גֵרְשׁ֖וֹן גַּם־הֵ֑ם",
+              "english": "Take the count of the sons of Gershon, they too, [as I commanded you in respect to the sons of Kehath, to see how many of them qualify for service],"
+            },
+            {
+              "hebrew": "לְבֵ֥ית אֲבֹתָ֖ם לְמִשְׁפְּחֹתָֽם׃",
+              "english": "by their fathers' houses, by their families."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה עַ֛ד בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקֹ֣ד אוֹתָ֑ם",
+              "english": "From thirty years and up until fifty years,"
+            },
+            {
+              "hebrew": "כׇּל־הַבָּא֙ לִצְבֹ֣א צָבָ֔א לַעֲבֹ֥ד עֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who enter into service, to serve in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את עֲבֹדַ֔ת מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י",
+              "english": "This is the service of the families of the Gershuni"
+            },
+            {
+              "hebrew": "לַעֲבֹ֖ד וּלְמַשָּֽׂא׃",
+              "english": "for service and for burden."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְנָ֨שְׂא֜וּ אֶת־יְרִיעֹ֤ת הַמִּשְׁכָּן֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד",
+              "english": "They shall bear the curtains of the mishkan [the ten lower ones] and of the tent of meeting [the goats' hair curtains which tented it],"
+            },
+            {
+              "hebrew": "מִכְסֵ֕הוּ וּמִכְסֵ֛ה הַתַּ֥חַשׁ אֲשֶׁר־עָלָ֖יו מִלְמָ֑עְלָה",
+              "english": "its covering [the rams' skins dyed red] and the tachash covering that is on it from above,"
+            },
+            {
+              "hebrew": "וְאֶ֨ת־מָסַ֔ךְ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and the partition for the door of the tent of meeting [i.e., the eastern curtain]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֩ קַלְעֵ֨י הֶֽחָצֵ֜ר וְאֶת־מָסַ֣ךְ&thinsp;׀ פֶּ֣תַח&thinsp;׀ שַׁ֣עַר הֶחָצֵ֗ר אֲשֶׁ֨ר עַל־הַמִּשְׁכָּ֤ן וְעַל־הַמִּזְבֵּ֙חַ֙ סָבִ֔יב",
+              "english": "And the curtains of the court, and the partition for the door of the gate of the court which shield the mishkan and the [copper] altar roundabout,"
+            },
+            {
+              "hebrew": "וְאֵת֙ מֵֽיתְרֵיהֶ֔ם וְאֶֽת־כׇּל־כְּלֵ֖י עֲבֹדָתָ֑ם",
+              "english": "and their cords, and all their service implements,"
+            },
+            {
+              "hebrew": "וְאֵ֨ת כׇּל־אֲשֶׁ֧ר יֵעָשֶׂ֛ה לָהֶ֖ם וְעָבָֽדוּ׃",
+              "english": "and all that is relegated to them [the sons of Gershon] that they may serve."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "עַל־פִּי֩ אַהֲרֹ֨ן וּבָנָ֜יו תִּהְיֶ֗ה כׇּל־עֲבֹדַת֙ בְּנֵ֣י הַגֵּרְשֻׁנִּ֔י לְכׇ֨ל־מַשָּׂאָ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם",
+              "english": "By word of Aaron and his sons shall be all the service of the sons of the Gershuni for all of their burdens and for all of their service."
+            },
+            {
+              "hebrew": "וּפְקַדְתֶּ֤ם עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כׇּל־מַשָּׂאָֽם׃",
+              "english": "And you shall designate unto them the charge of all their burdens."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹ֛ת בְּנֵ֥י הַגֵּרְשֻׁנִּ֖י בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "This is the service of the families of the sons of the Gershuni in the tent of meeting."
+            },
+            {
+              "hebrew": "וּמִ֨שְׁמַרְתָּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And their charge shall be by the hand of Ithamar the son of Aaron the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "בְּנֵ֖י מְרָרִ֑י",
+              "english": "The sons of Merari —"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחֹתָ֥ם לְבֵית־אֲבֹתָ֖ם תִּפְקֹ֥ד אֹתָֽם׃",
+              "english": "by their families, by their fathers' house shall you number them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה וְעַ֛ד בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקְדֵ֑ם",
+              "english": "From thirty years and up until fifty years shall you number them,"
+            },
+            {
+              "hebrew": "כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who enter into service, to perform the service of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹאת֙ מִשְׁמֶ֣רֶת מַשָּׂאָ֔ם לְכׇל־עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And this is the charge of their burden for all of their service in the tent of meeting:"
+            },
+            {
+              "hebrew": "קַרְשֵׁי֙ הַמִּשְׁכָּ֔ן וּבְרִיחָ֖יו וְעַמּוּדָ֥יו וַאֲדָנָֽיו׃",
+              "english": "the beams of the mishkan and its bars, and its pillars and its sockets."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְעַמּוּדֵי֩ הֶחָצֵ֨ר סָבִ֜יב וְאַדְנֵיהֶ֗ם וִיתֵֽדֹתָם֙ וּמֵ֣יתְרֵיהֶ֔ם לְכׇ֨ל־כְּלֵיהֶ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם",
+              "english": "And the pillars of the court roundabout, and their [the pillars'] pins and cords [for hanging of the curtains on the pillars], with all of their implements for all of their service."
+            },
+            {
+              "hebrew": "וּבְשֵׁמֹ֣ת תִּפְקְד֔וּ אֶת־כְּלֵ֖י מִשְׁמֶ֥רֶת מַשָּׂאָֽם׃",
+              "english": "And by name shall you reckon the implements of the charge of their bearing."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹת֙ בְּנֵ֣י מְרָרִ֔י לְכׇל־עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "This is the service of the families of the sons of Merari for all of their service in the tent of meeting"
+            },
+            {
+              "hebrew": "בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+              "english": "by the hand of Ithamar the son of Aaron the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְקֹ֨ד מֹשֶׁ֧ה וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י הָעֵדָ֖ה אֶת־בְּנֵ֣י הַקְּהָתִ֑י",
+              "english": "And Moses and Aaron and the chiefs of the congregation numbered the sons of the Kehathi"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃",
+              "english": "by their families and by their fathers' house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה",
+              "english": "From thirty years and up until fifty years,"
+            },
+            {
+              "hebrew": "כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who entered the service for service in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם",
+              "english": "And their numbered ones by their families were"
+            },
+            {
+              "hebrew": "אַלְפַּ֕יִם שְׁבַ֥ע מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+              "english": "two thousand and seven hundred and fifty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֤לֶּה פְקוּדֵי֙ מִשְׁפְּחֹ֣ת הַקְּהָתִ֔י כׇּל־הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "These are the numbered of the families of the Kehathi, all who serve in the tent of meeting,"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "whom Moses and Aaron numbered by word of the L-rd by the hand of Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וּפְקוּדֵ֖י בְּנֵ֣י גֵרְשׁ֑וֹן",
+              "english": "And the numbered ones of the sons of Gershon"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחוֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃",
+              "english": "by their families and by their fathers' house,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה",
+              "english": "From thirty years and up until fifty years,"
+            },
+            {
+              "hebrew": "כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who entered the service, for service in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽהְיוּ֙ פְּקֻ֣דֵיהֶ֔ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Their numbered ones by their families by their fathers' house were"
+            },
+            {
+              "hebrew": "אַלְפַּ֕יִם וְשֵׁ֥שׁ מֵא֖וֹת וּשְׁלֹשִֽׁים׃",
+              "english": "two thousand and six hundred and thirty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣לֶּה פְקוּדֵ֗י מִשְׁפְּחֹת֙ בְּנֵ֣י גֵרְשׁ֔וֹן כׇּל־הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "These are the numbered of the families of the sons of Gershon, all who serve in the tent of meeting,"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר פָּקַ֥ד מֹשֶׁ֛ה וְאַהֲרֹ֖ן עַל־פִּ֥י יְהֹוָֽה׃",
+              "english": "whom Moses and Aaron numbered by word of the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "וּפְקוּדֵ֕י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י",
+              "english": "And the numbered of the families of the sons of Merari,"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחֹתָ֖ם לְבֵ֥ית אֲבֹתָֽם׃",
+              "english": "by their families by their fathers' house,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה",
+              "english": "From thirty years and up until fifty years,"
+            },
+            {
+              "hebrew": "כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who entered the service, for service in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם",
+              "english": "Their numbered ones by their families were"
+            },
+            {
+              "hebrew": "שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃",
+              "english": "three thousand and two hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣לֶּה פְקוּדֵ֔י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י",
+              "english": "These are the numbered of the families of the sons of Merari,"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃",
+              "english": "whom Moses and Aaron numbered by word of the L-rd by the hand of Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "כׇּֽל־הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֧ה וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י יִשְׂרָאֵ֖ל אֶת־הַלְוִיִּ֑ם",
+              "english": "All the numbered ones, whom Moses and Aaron and all the chiefs of Israel numbered of the Levites"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃",
+              "english": "by their families and by their fathers' house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה",
+              "english": "From thirty years and up until fifty years,"
+            },
+            {
+              "hebrew": "כׇּל־הַבָּ֗א לַעֲבֹ֨ד עֲבֹדַ֧ת עֲבֹדָ֛ה וַעֲבֹדַ֥ת מַשָּׂ֖א בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who entered to serve — the service [of song, with cymbals and lutes,] of [i.e., on behalf of] service [the sacrificial service] and the service of bearing in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּהְי֖וּ פְּקֻדֵיהֶ֑ם",
+              "english": "Their numbered ones were"
+            },
+            {
+              "hebrew": "שְׁמֹנַ֣ת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וּשְׁמֹנִֽים׃",
+              "english": "eight thousand and five hundred and eighty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "עַל־פִּ֨י יְהֹוָ֜ה פָּקַ֤ד אוֹתָם֙ בְּיַד־מֹשֶׁ֔ה",
+              "english": "By word of the L-rd did he count them, by the hand of Moses,"
+            },
+            {
+              "hebrew": "אִ֥ישׁ אִ֛ישׁ עַל־עֲבֹדָת֖וֹ וְעַל־מַשָּׂא֑וֹ",
+              "english": "each for his service and for his burden."
+            },
+            {
+              "hebrew": "וּפְקֻדָ֕יו אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "And their numbered ones were as the L-rd had commanded Moses [i.e., from thirty years and up until fifty]."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "5": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "צַ֚ו אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל וִֽישַׁלְּחוּ֙ מִן־הַֽמַּחֲנֶ֔ה",
+              "english": "Command the children of Israel [(This section was stated on the day that the mishkan was erected)] that they send out of the camp [(There were three camps: the camp of the Shechinah — within the curtains (of the mishkan); the camp of the Levites — the encampment of the Levites roundabout (the mishkan); the camp of Israel — from the camp of the Levites until the end of the encampment of the standards on all four sides)]"
+            },
+            {
+              "hebrew": "כׇּל־צָר֖וּעַ וְכׇל־זָ֑ב וְכֹ֖ל טָמֵ֥א לָנָֽפֶשׁ׃",
+              "english": "every leper, [to be sent out of all three camps)], every zav [to be sent out of the first two camps (see Leviticus 15:2)] and everyone who has become unclean by a dead body [to be sent out only from the first camp]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "מִזָּכָ֤ר עַד־נְקֵבָה֙ תְּשַׁלֵּ֔חוּ אֶל־מִח֥וּץ לַֽמַּחֲנֶ֖ה תְּשַׁלְּח֑וּם",
+              "english": "From male until female shall you send them out. Outside of the camp shall you send them;"
+            },
+            {
+              "hebrew": "וְלֹ֤א יְטַמְּאוּ֙ אֶת־מַ֣חֲנֵיהֶ֔ם אֲשֶׁ֥ר אֲנִ֖י שֹׁכֵ֥ן בְּתוֹכָֽם׃",
+              "english": "and they shall not make unclean their camps in whose midst I dwell."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּֽעֲשׂוּ־כֵן֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיְשַׁלְּח֣וּ אוֹתָ֔ם אֶל־מִח֖וּץ לַֽמַּחֲנֶ֑ה",
+              "english": "And the children of Israel did so, and they sent them outside the camp."
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֨ר דִּבֶּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;{פ}",
+              "english": "As the L-rd spoke to Moses, so did the children of Israel do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּר֮ אֶל־בְּנֵ֣י יִשְׂרָאֵל֒",
+              "english": "Speak to the children of Israel:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכׇּל־חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהֹוָ֑ה",
+              "english": "A man or a woman, if they do of all the sins of man to commit a profanation against the L-rd [and swear falsely in denial of a claim],"
+            },
+            {
+              "hebrew": "וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃",
+              "english": "and that soul be guilty, [(Although this has already been stated (Leviticus 5:21), it is repeated here for two new teachings: First (7) that one is not liable for the fifth and the guilt-offering by the testimony of witnesses, but only by his own confession; second (8) that the stolen property of a proselyte (without heirs) is given to the Cohanim)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ אֲשֶׁ֣ר עָשׂוּ֒",
+              "english": "And they confess their sins which they have done,"
+            },
+            {
+              "hebrew": "וְהֵשִׁ֤יב אֶת־אֲשָׁמוֹ֙ בְּרֹאשׁ֔וֹ וַחֲמִישִׁת֖וֹ יֹסֵ֣ף עָלָ֑יו",
+              "english": "then he shall make restitution for his guilt by (restoration of) its (the theft's) principal, and its fifth shall he add to it,"
+            },
+            {
+              "hebrew": "וְנָתַ֕ן לַאֲשֶׁ֖ר אָשַׁ֥ם לֽוֹ׃",
+              "english": "and he shall give it to the one to whom he is liable [for payment]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־אֵ֨ין לָאִ֜ישׁ גֹּאֵ֗ל לְהָשִׁ֤יב הָאָשָׁם֙ אֵלָ֔יו",
+              "english": "And if the man does not have a redeemer to whom to return the debt, [the claimant, a proselyte, having died and left no heirs],"
+            },
+            {
+              "hebrew": "הָאָשָׁ֛ם הַמּוּשָׁ֥ב לַיהֹוָ֖ה לַכֹּהֵ֑ן",
+              "english": "the debt [the principal], which is returned [i.e., \"and the fifth\"] is the L-rd's [i.e., He has acquired it, and He has given it] to the Cohein [of the officiating watch],"
+            },
+            {
+              "hebrew": "מִלְּבַ֗ד אֵ֚יל הַכִּפֻּרִ֔ים אֲשֶׁ֥ר יְכַפֶּר־בּ֖וֹ עָלָֽיו׃",
+              "english": "aside from the ram of atonement whereby atonement shall be made for him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־תְּרוּמָ֞ה לְכׇל־קׇדְשֵׁ֧י בְנֵי־יִשְׂרָאֵ֛ל אֲשֶׁר־יַקְרִ֥יבוּ לַכֹּהֵ֖ן",
+              "english": "And every terumah of all the holy things of the children of Israel which they present to the Cohein [i.e., bikkurim (first-fruits)],"
+            },
+            {
+              "hebrew": "ל֥וֹ יִהְיֶֽה׃",
+              "english": "to him shall it be."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֥ישׁ אֶת־קֳדָשָׁ֖יו ל֣וֹ יִהְי֑וּ",
+              "english": "And every man, his holy things, to him shall they be [i.e., he has the privilege of giving them to whichever Cohein he wishes.]"
+            },
+            {
+              "hebrew": "אִ֛ישׁ אֲשֶׁר־יִתֵּ֥ן לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃&nbsp;{פ}",
+              "english": "Whatever [designated gifts] a man gives to the Cohein, to him shall it be [i.e., it shall redound to the giver's wealth.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם",
+              "english": "Speak to the children of Israel and say to them:"
+            },
+            {
+              "hebrew": "אִ֥ישׁ אִישׁ֙ כִּֽי־תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃",
+              "english": "A man, if his wife go astray, and she be faithless to him,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת־זֶ֒רַע֒",
+              "english": "And [(the faithlessness being that)] a man [(excluding a minor or an animal)] lie with her a lying of seed,"
+            },
+            {
+              "hebrew": "וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה",
+              "english": "and it be hid [(but if he saw and made himself \"unseeing,\" the waters do not probe her)] from the eyes [(excluding a blind man)] of her husband, and she had secreted herself [with him long enough for intercourse], and she be defiled,"
+            },
+            {
+              "hebrew": "וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה׃",
+              "english": "and there be no witness to it [to the act of intercourse (for if there were even one witness to the act, the draught is not administered to her), but there be witnesses to her having secreted herself with him], and she had not been seized [i.e., forced],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְעָבַ֨ר עָלָ֧יו רֽוּחַ־קִנְאָ֛ה וְקִנֵּ֥א אֶת־אִשְׁתּ֖וֹ וְהִ֣וא נִטְמָ֑אָה",
+              "english": "And [before she had secreted herself] there had passed over him a spirit of rancor and he had warned his wife [not to secrete herself with that man], and she were defiled [i.e., she might have been defiled] —"
+            },
+            {
+              "hebrew": "אוֹ־עָבַ֨ר עָלָ֤יו רֽוּחַ־קִנְאָה֙ וְקִנֵּ֣א אֶת־אִשְׁתּ֔וֹ וְהִ֖יא לֹ֥א נִטְמָֽאָה׃",
+              "english": "Or, there had passed over him a spirit of rancor and he had warned his wife [and she had transgressed his warning (and secreted herself)] and she were not defiled [i.e., it is not known whether she were or were not defiled],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵבִ֨יא הָאִ֣ישׁ אֶת־אִשְׁתּוֹ֮ אֶל־הַכֹּהֵן֒",
+              "english": "Then the man shall bring his wife to the Cohein,"
+            },
+            {
+              "hebrew": "וְהֵבִ֤יא אֶת־קׇרְבָּנָהּ֙ עָלֶ֔יהָ עֲשִׂירִ֥ת הָאֵיפָ֖ה קֶ֣מַח שְׂעֹרִ֑ים",
+              "english": "and he shall bring her offering for her, the tenth of an ephah of meal [(not fine flour)] of barley [(not wheat, the offering for a \"beastly\" act being the food of a beast)]."
+            },
+            {
+              "hebrew": "לֹֽא־יִצֹ֨ק עָלָ֜יו שֶׁ֗מֶן וְלֹֽא־יִתֵּ֤ן עָלָיו֙ לְבֹנָ֔ה",
+              "english": "He shall not pour oil upon it, [so that her offering not be beautified], and he shall not place frankincense upon it,"
+            },
+            {
+              "hebrew": "כִּֽי־מִנְחַ֤ת קְנָאֹת֙ ה֔וּא מִנְחַ֥ת זִכָּר֖וֹן מַזְכֶּ֥רֶת עָוֺֽן׃",
+              "english": "for it is a meal-offering of rancors [the L-rd's and her husband's], a meal-offering of memorial, a reminder of sin."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֥יב אֹתָ֖הּ הַכֹּהֵ֑ן",
+              "english": "And the Cohein shall draw her near"
+            },
+            {
+              "hebrew": "וְהֶֽעֱמִדָ֖הּ לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "and stand her before the L-rd [at the gate of Nikanor, the eastern gate, where all entered.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֧ח הַכֹּהֵ֛ן מַ֥יִם קְדֹשִׁ֖ים בִּכְלִי־חָ֑רֶשׂ",
+              "english": "And the Cohein shall take water consecrated [in the laver] in an earthen vessel."
+            },
+            {
+              "hebrew": "וּמִן־הֶֽעָפָ֗ר אֲשֶׁ֤ר יִהְיֶה֙ בְּקַרְקַ֣ע הַמִּשְׁכָּ֔ן יִקַּ֥ח הַכֹּהֵ֖ן וְנָתַ֥ן אֶל־הַמָּֽיִם׃",
+              "english": "And of the dust that is on the floor of the mishkan shall the Cohein take and place it in the water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְהֶעֱמִ֨יד הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ לִפְנֵ֣י יְהֹוָה֒",
+              "english": "And the Cohein shall stand the woman before the L-rd [again (see 16). (They would walk her from place to place to \"weary\" her into confession)];"
+            },
+            {
+              "hebrew": "וּפָרַע֙ אֶת־רֹ֣אשׁ הָֽאִשָּׁ֔ה",
+              "english": "and he shall dishevel the hair of the woman [in order to shame her],"
+            },
+            {
+              "hebrew": "וְנָתַ֣ן עַל־כַּפֶּ֗יהָ אֵ֚ת מִנְחַ֣ת הַזִּכָּר֔וֹן מִנְחַ֥ת קְנָאֹ֖ת הִ֑וא",
+              "english": "and he shall place in her hands the meal-offering of memorial, [to \"weary\" her into confession so that the Tetragrammaton not be erased in the waters] — it is a meal-offering of rancors —"
+            },
+            {
+              "hebrew": "וּבְיַ֤ד הַכֹּהֵן֙ יִהְי֔וּ מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִֽים׃",
+              "english": "and in the hand of the Cohein will be the bitter [(causing her a \"bitter\" end)] blighting waters [(\"blighting\" her from the world)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל־הָֽאִשָּׁה֙",
+              "english": "And the Cohein shall beswear her and he shall say to the woman:"
+            },
+            {
+              "hebrew": "אִם־לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם־לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ",
+              "english": "If no man has lain with you, and you have not strayed uncleanly from your husband,"
+            },
+            {
+              "hebrew": "הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרְרִ֖ים הָאֵֽלֶּה׃",
+              "english": "then be clean (hinaki) of these bitter, blighting waters."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְאַ֗תְּ כִּ֥י שָׂטִ֛ית תַּ֥חַת אִישֵׁ֖ךְ וְכִ֣י נִטְמֵ֑את",
+              "english": "And you, if you have gone astray from your husband, and if you have become unclean,"
+            },
+            {
+              "hebrew": "וַיִּתֵּ֨ן אִ֥ישׁ בָּךְ֙ אֶת־שְׁכׇבְתּ֔וֹ מִֽבַּלְעֲדֵ֖י אִישֵֽׁךְ׃",
+              "english": "and a man has put his lying in you aside from your husband, [then chinaki (\"be strangled\")]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה",
+              "english": "Then the Cohein shall beswear the woman with the oath of the curse, and the Cohein shall say to the woman:"
+            },
+            {
+              "hebrew": "יִתֵּ֨ן יְהֹוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ",
+              "english": "May the L-rd render you a curse [(that all curse by you, viz.: \"May it happen to you as happened to that woman, etc.\")] and an oath [(that all swear by you, viz.: \"If I have not spoken truly may it happen to me, etc.\")] in the midst of your people"
+            },
+            {
+              "hebrew": "בְּתֵ֨ת יְהֹוָ֤ה אֶת־יְרֵכֵךְ֙ נֹפֶ֔לֶת וְאֶת־בִּטְנֵ֖ךְ צָבָֽה׃",
+              "english": "by the L-rd's causing your thigh to fall and your belly to swell [(\"thigh\" precedes \"belly\" in the curse as it did in the act)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּ֠בָ֠אוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֙לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ",
+              "english": "And these blighting waters shall enter your innards to swell the belly and to make fall the thigh [of the adulterer (as well)],"
+            },
+            {
+              "hebrew": "וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן&thinsp;׀&thinsp;אָמֵֽן׃",
+              "english": "and the woman shall say: Amen, Amen [(Amen to the curse, Amen to the oath; Amen, in respect to this man, Amen in respect to any other man; Amen, that I did not go astray while betrothed, married, awaiting levirate marriage, or having been taken in levirate marriage.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְ֠כָתַ֠ב אֶת־הָאָלֹ֥ת הָאֵ֛לֶּה הַכֹּהֵ֖ן בַּסֵּ֑פֶר",
+              "english": "Then the Cohein shall write these curses into a scroll"
+            },
+            {
+              "hebrew": "וּמָחָ֖ה אֶל־מֵ֥י הַמָּרִֽים׃",
+              "english": "and erase into the bitter waters."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְהִשְׁקָה֙ אֶת־הָ֣אִשָּׁ֔ה אֶת־מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִ֑ים",
+              "english": "And when he makes the woman drink the bitter, blighting waters,"
+            },
+            {
+              "hebrew": "וּבָ֥אוּ בָ֛הּ הַמַּ֥יִם הַֽמְאָרְרִ֖ים לְמָרִֽים׃",
+              "english": "then the blighting waters shall enter into [all of] her, [(and not only into \"thigh and belly,\" those being singled out because they \"initiated\" the transgression)] for bitterness [i.e., to be sore and bitter to her]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֤ח הַכֹּהֵן֙ מִיַּ֣ד הָֽאִשָּׁ֔ה אֵ֖ת מִנְחַ֣ת הַקְּנָאֹ֑ת",
+              "english": "And the Cohein shall take from the hand of the woman the meal-offering of rancors,"
+            },
+            {
+              "hebrew": "וְהֵנִ֤יף אֶת־הַמִּנְחָה֙ לִפְנֵ֣י יְהֹוָ֔ה",
+              "english": "and he shall wave the meal-offering before the L-rd [back and forth and up and down. And she waves it with him, her hand above that of the Cohein],"
+            },
+            {
+              "hebrew": "וְהִקְרִ֥יב אֹתָ֖הּ אֶל־הַמִּזְבֵּֽחַ׃",
+              "english": "and he shall present it at the [south-west corner of the] altar [before taking the fistful, as with the other meal-offerings]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְקָמַ֨ץ הַכֹּהֵ֤ן מִן־הַמִּנְחָה֙ אֶת־אַזְכָּ֣רָתָ֔הּ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה",
+              "english": "And the Cohein shall take a fistful from the meal-offering as its \"remembrance\" [see Leviticus 2:2], and he shall smoke it on the altar,"
+            },
+            {
+              "hebrew": "וְאַחַ֛ר יַשְׁקֶ֥ה אֶת־הָאִשָּׁ֖ה אֶת־הַמָּֽיִם׃",
+              "english": "and then he shall make the woman drink the water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְהִשְׁקָ֣הּ אֶת־הַמַּ֗יִם וְהָיְתָ֣ה אִֽם־נִטְמְאָה֮ וַתִּמְעֹ֣ל מַ֣עַל בְּאִישָׁהּ֒",
+              "english": "And he shall make her drink the water [(to include an instance where she refused to drink after the scroll was blotted out; in which instance she is forcibly made to drink it — unless she admitted having been adulterous.)] And it shall be, if she had been defiled and had been faithless to her husband,"
+            },
+            {
+              "hebrew": "וּבָ֨אוּ בָ֜הּ הַמַּ֤יִם הַמְאָֽרְרִים֙ לְמָרִ֔ים וְצָבְתָ֣ה בִטְנָ֔הּ וְנָפְלָ֖ה יְרֵכָ֑הּ",
+              "english": "then the blighting waters will enter her for bitterness, and her belly will swell and her thigh will fall. [Though in the curses (21) \"thigh\" precedes \"belly,\" in operation, the waters first enter the belly and then the thigh.]"
+            },
+            {
+              "hebrew": "וְהָיְתָ֧ה הָאִשָּׁ֛ה לְאָלָ֖ה בְּקֶ֥רֶב עַמָּֽהּ׃",
+              "english": "And the woman will be a curse in the midst of her people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־לֹ֤א נִטְמְאָה֙ הָֽאִשָּׁ֔ה וּטְהֹרָ֖ה הִ֑וא",
+              "english": "And if the woman had not been defiled [in this concealment] and she be clean [of any other act],"
+            },
+            {
+              "hebrew": "וְנִקְּתָ֖ה וְנִזְרְעָ֥ה זָֽרַע׃",
+              "english": "then she shall be absolved [of the blighting waters] and [what is more,] she will sow seed. [If she had difficult labors, she will have easy ones; if she had borne swarthy children, she will bear fair ones.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֥את תּוֹרַ֖ת הַקְּנָאֹ֑ת",
+              "english": "This is the law of the rancors"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְנִטְמָֽאָה׃",
+              "english": "for a woman who goes astray under her husband and is defiled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "א֣וֹ אִ֗ישׁ אֲשֶׁ֨ר תַּעֲבֹ֥ר עָלָ֛יו ר֥וּחַ קִנְאָ֖ה וְקִנֵּ֣א אֶת־אִשְׁתּ֑וֹ",
+              "english": "If there pass over a man a spirit of rancor, then he shall warn his wife,"
+            },
+            {
+              "hebrew": "וְהֶעֱמִ֤יד אֶת־הָֽאִשָּׁה֙ לִפְנֵ֣י יְהֹוָ֔ה",
+              "english": "and he shall stand his wife before the L-rd"
+            },
+            {
+              "hebrew": "וְעָ֤שָׂה לָהּ֙ הַכֹּהֵ֔ן אֵ֥ת כׇּל־הַתּוֹרָ֖ה הַזֹּֽאת׃",
+              "english": "and the Cohein shall do with her all of this law."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְנִקָּ֥ה הָאִ֖ישׁ מֵעָוֺ֑ן",
+              "english": "And the man will be free of sin [i.e., of liability for her death by the waters],"
+            },
+            {
+              "hebrew": "וְהָאִשָּׁ֣ה הַהִ֔וא תִּשָּׂ֖א אֶת־עֲוֺנָֽהּ׃&nbsp;{פ}",
+              "english": "and that woman shall bear her sin."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:07:36.838Z"
+  "updatedAt": "2026-10-26T19:08:59.267Z"
 }
