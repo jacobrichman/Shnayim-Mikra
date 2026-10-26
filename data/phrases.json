@@ -24967,9 +24967,1209 @@
             }
           ],
           "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "אַתֶּ֗ם לְכ֨וּ קְח֤וּ לָכֶם֙ תֶּ֔בֶן מֵאֲשֶׁ֖ר תִּמְצָ֑אוּ",
+              "english": "You, go [quickly]; take for yourselves stubble wherever you find it."
+            },
+            {
+              "hebrew": "כִּ֣י אֵ֥ין נִגְרָ֛ע מֵעֲבֹדַתְכֶ֖ם דָּבָֽר׃",
+              "english": "For nothing must be diminished from your work [quota]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֥פֶץ הָעָ֖ם בְּכׇל־אֶ֣רֶץ מִצְרָ֑יִם",
+              "english": "And the people spread out throughout the land of Egypt"
+            },
+            {
+              "hebrew": "לְקֹשֵׁ֥שׁ קַ֖שׁ לַתֶּֽבֶן׃",
+              "english": "to gather straw for the stubble."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנֹּגְשִׂ֖ים אָצִ֣ים לֵאמֹ֑ר",
+              "english": "And the taskmasters pressed [upon them], saying:"
+            },
+            {
+              "hebrew": "כַּלּ֤וּ מַעֲשֵׂיכֶם֙ דְּבַר־י֣וֹם בְּיוֹמ֔וֹ כַּאֲשֶׁ֖ר בִּהְי֥וֹת הַתֶּֽבֶן׃",
+              "english": "Finish your work, the [entire] day's quota in its day, as it was when the stubble was [supplied to you]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיֻּכּ֗וּ שֹֽׁטְרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־שָׂ֣מוּ עֲלֵהֶ֔ם נֹגְשֵׂ֥י פַרְעֹ֖ה לֵאמֹ֑ר",
+              "english": "And the officers of the children of Israel, whom the taskmasters of Pharaoh placed over them, were smitten, (the taskmasters) saying:"
+            },
+            {
+              "hebrew": "מַדּ֡וּעַ לֹא֩ כִלִּיתֶ֨ם חׇקְכֶ֤ם לִלְבֹּן֙ כִּתְמ֣וֹל שִׁלְשֹׁ֔ם גַּם־תְּמ֖וֹל גַּם־הַיּֽוֹם׃",
+              "english": "Why did you not finish your brick-making quota as of three days ago, both yesterday and today?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֗אוּ שֹֽׁטְרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיִּצְעֲק֥וּ אֶל־פַּרְעֹ֖ה לֵאמֹ֑ר",
+              "english": "And the officers of the children of Israel came and they cried out to Pharaoh, saying:"
+            },
+            {
+              "hebrew": "לָ֧מָּה תַעֲשֶׂ֦ה כֹ֖ה לַעֲבָדֶֽיךָ׃",
+              "english": "Why should you do thus to your servants!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "תֶּ֗בֶן אֵ֤ין נִתָּן֙ לַעֲבָדֶ֔יךָ",
+              "english": "Stubble is not given to your servants,"
+            },
+            {
+              "hebrew": "וּלְבֵנִ֛ים אֹמְרִ֥ים לָ֖נוּ עֲשׂ֑וּ",
+              "english": "and bricks they say to us: Make!"
+            },
+            {
+              "hebrew": "וְהִנֵּ֧ה עֲבָדֶ֛יךָ מֻכִּ֖ים וְחָטָ֥את עַמֶּֽךָ׃",
+              "english": "And, behold, your servants are smitten, and [this thing brings] sin upon your people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֛אמֶר נִרְפִּ֥ים אַתֶּ֖ם נִרְפִּ֑ים",
+              "english": "And he said: You are idlers, idlers!"
+            },
+            {
+              "hebrew": "עַל־כֵּן֙ אַתֶּ֣ם אֹֽמְרִ֔ים נֵלְכָ֖ה נִזְבְּחָ֥ה לַֽיהֹוָֽה׃",
+              "english": "That is why you say: Let us go and sacrifice to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּה֙ לְכ֣וּ עִבְד֔וּ",
+              "english": "And now, go and work."
+            },
+            {
+              "hebrew": "וְתֶ֖בֶן לֹא־יִנָּתֵ֣ן לָכֶ֑ם",
+              "english": "And stubble will not be given to you,"
+            },
+            {
+              "hebrew": "וְתֹ֥כֶן לְבֵנִ֖ים תִּתֵּֽנוּ׃",
+              "english": "and produce the quota of bricks!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּרְא֞וּ שֹֽׁטְרֵ֧י בְנֵֽי־יִשְׂרָאֵ֛ל אֹתָ֖ם בְּרָ֣ע לֵאמֹ֑ר",
+              "english": "And the officers of the children of Israel saw them [their fellow Jews who were under them] in misfortune, [the officers being constrained] to say:"
+            },
+            {
+              "hebrew": "לֹא־תִגְרְע֥וּ מִלִּבְנֵיכֶ֖ם דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃",
+              "english": "Do not diminish from your bricks the quota of each day in its day."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיִּפְגְּעוּ֙ אֶת־מֹשֶׁ֣ה וְאֶֽת־אַהֲרֹ֔ן נִצָּבִ֖ים לִקְרָאתָ֑ם",
+              "english": "And they [(men of Israel)] met Moses and Aaron standing opposite them"
+            },
+            {
+              "hebrew": "בְּצֵאתָ֖ם מֵאֵ֥ת פַּרְעֹֽה׃",
+              "english": "when they left Pharaoh."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּאמְר֣וּ אֲלֵהֶ֔ם יֵ֧רֶא יְהֹוָ֛ה עֲלֵיכֶ֖ם וְיִשְׁפֹּ֑ט",
+              "english": "And they said to them: May the L-rd reveal Himself to you and judge"
+            },
+            {
+              "hebrew": "אֲשֶׁ֧ר הִבְאַשְׁתֶּ֣ם אֶת־רֵיחֵ֗נוּ בְּעֵינֵ֤י פַרְעֹה֙ וּבְעֵינֵ֣י עֲבָדָ֔יו",
+              "english": "how you have made us contemptible in the eyes of Pharaoh and in the eyes of his servants"
+            },
+            {
+              "hebrew": "לָֽתֶת־חֶ֥רֶב בְּיָדָ֖ם לְהׇרְגֵֽנוּ׃",
+              "english": "to put a sword in their hands to kill us!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֧שׇׁב מֹשֶׁ֛ה אֶל־יְהֹוָ֖ה וַיֹּאמַ֑ר",
+              "english": "And Moses returned to the L-rd and he said:"
+            },
+            {
+              "hebrew": "אֲדֹנָ֗י לָמָ֤ה הֲרֵעֹ֙תָה֙ לָעָ֣ם הַזֶּ֔ה",
+              "english": "O L-rd, why have You done evil to this people [and]"
+            },
+            {
+              "hebrew": "לָ֥מָּה זֶּ֖ה שְׁלַחְתָּֽנִי׃",
+              "english": "why have You sent me!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וּמֵאָ֞ז בָּ֤אתִי אֶל־פַּרְעֹה֙ לְדַבֵּ֣ר בִּשְׁמֶ֔ךָ",
+              "english": "And from the time I came to Pharaoh to speak in Your name,"
+            },
+            {
+              "hebrew": "הֵרַ֖ע לָעָ֣ם הַזֶּ֑ה",
+              "english": "he has done [increasingly greater] evil to this people,"
+            },
+            {
+              "hebrew": "וְהַצֵּ֥ל לֹא־הִצַּ֖לְתָּ אֶת־עַמֶּֽךָ׃",
+              "english": "and You have not saved Your people."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "6": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה עַתָּ֣ה תִרְאֶ֔ה אֲשֶׁ֥ר אֶֽעֱשֶׂ֖ה לְפַרְעֹ֑ה",
+              "english": "And the L-rd said to Moses: [Because you questioned My providence,] now you shall see — what I shall do to Pharaoh, [but not what shall be done to the seven nations when I bring Israel into Eretz Yisrael]."
+            },
+            {
+              "hebrew": "כִּ֣י בְיָ֤ד חֲזָקָה֙ יְשַׁלְּחֵ֔ם",
+              "english": "For with a strong hand [that I shall wield against him] he shall send them out,"
+            },
+            {
+              "hebrew": "וּבְיָ֣ד חֲזָקָ֔ה יְגָרְשֵׁ֖ם מֵאַרְצֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and with a strong hand he shall drive them out of his land [against their will (the Jews not having time to prepare their food)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־מֹשֶׁ֑ה",
+              "english": "And G-d spoke [\"strong words\"] to Moses [for his presumptuousness (5:22)]"
+            },
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֵלָ֖יו אֲנִ֥י יְהֹוָֽה׃",
+              "english": "and He said to him: I am the L-rd [Yod-Keh-Vav-Keh (connoting \"trusted for recompense,\" for which reason I sent you)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וָאֵרָ֗א אֶל־אַבְרָהָ֛ם אֶל־יִצְחָ֥ק וְאֶֽל־יַעֲקֹ֖ב בְּאֵ֣ל שַׁדָּ֑י",
+              "english": "And I appeared to Abraham, to Isaac, and to Jacob as Kel shakkai (\"the All-Sufficient G-d\");"
+            },
+            {
+              "hebrew": "וּשְׁמִ֣י יְהֹוָ֔ה לֹ֥א נוֹדַ֖עְתִּי לָהֶֽם׃",
+              "english": "but [by] My name Yod-Keh-Vav-Keh I was not realized for them, [for I promised them but did not fulfill]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְגַ֨ם הֲקִמֹ֤תִי אֶת־בְּרִיתִי֙ אִתָּ֔ם",
+              "english": "And also [when I appeared to them as Kel Shakkai], I set up My covenant with them"
+            },
+            {
+              "hebrew": "לָתֵ֥ת לָהֶ֖ם אֶת־אֶ֣רֶץ כְּנָ֑עַן אֵ֛ת אֶ֥רֶץ מְגֻרֵיהֶ֖ם אֲשֶׁר־גָּ֥רוּ בָֽהּ׃",
+              "english": "to give them the land of Canaan [(see Genesis 17:1 and 8, 26:3, 35:9, 11, 12)], the land of their sojournings, where they dwelt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְגַ֣ם&thinsp;׀ אֲנִ֣י שָׁמַ֗עְתִּי אֶֽת־נַאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם מַעֲבִדִ֣ים אֹתָ֑ם",
+              "english": "And also, [having set up the covenant and being obliged to fulfill it], I have heard the groaning of the children of Israel under the Egyptian servitude,"
+            },
+            {
+              "hebrew": "וָאֶזְכֹּ֖ר אֶת־בְּרִיתִֽי׃",
+              "english": "and I have remembered My covenant [(Genesis 15:14) wherein I promised to punish the enslaving nation]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "לָכֵ֞ן אֱמֹ֥ר לִבְנֵֽי־יִשְׂרָאֵל֮ אֲנִ֣י יְהֹוָה֒",
+              "english": "Therefore, [by that oath] tell the children of Israel that I am the L-rd [trusted to fulfill],"
+            },
+            {
+              "hebrew": "וְהוֹצֵאתִ֣י אֶתְכֶ֗ם מִתַּ֙חַת֙ סִבְלֹ֣ת מִצְרַ֔יִם",
+              "english": "and I shall take you out from under the toils of Egypt [for thus did I promise (Genesis 15:14)],"
+            },
+            {
+              "hebrew": "וְהִצַּלְתִּ֥י אֶתְכֶ֖ם מֵעֲבֹדָתָ֑ם",
+              "english": "and I will deliver you from their labors,"
+            },
+            {
+              "hebrew": "וְגָאַלְתִּ֤י אֶתְכֶם֙ בִּזְר֣וֹעַ נְטוּיָ֔ה וּבִשְׁפָטִ֖ים גְּדֹלִֽים׃",
+              "english": "and I will redeem you with an outstretched arm and with great judgments."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַחְתִּ֨י אֶתְכֶ֥ם לִי֙ לְעָ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים",
+              "english": "And I will take you to Me as a people, and I will be to you as a G-d;"
+            },
+            {
+              "hebrew": "וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם׃",
+              "english": "and you will know that I am the L-rd your G-d who took you out from under the toils of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵבֵאתִ֤י אֶתְכֶם֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־יָדִ֔י לָתֵ֣ת אֹתָ֔הּ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב",
+              "english": "And I shall bring you to the land which I lifted My hand [i.e., which I swore by My throne] to give to Abraham, Isaac, and Jacob."
+            },
+            {
+              "hebrew": "וְנָתַתִּ֨י אֹתָ֥הּ לָכֶ֛ם מוֹרָשָׁ֖ה",
+              "english": "And I shall give it to you as an inheritance."
+            },
+            {
+              "hebrew": "אֲנִ֥י יְהֹוָֽה׃",
+              "english": "I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר מֹשֶׁ֛ה כֵּ֖ן אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And Moses spoke thus to the children of Israel"
+            },
+            {
+              "hebrew": "וְלֹ֤א שָֽׁמְעוּ֙ אֶל־מֹשֶׁ֔ה מִקֹּ֣צֶר ר֔וּחַ וּמֵעֲבֹדָ֖ה קָשָֽׁה׃&nbsp;{פ}",
+              "english": "and they did not hearken to Moses [i.e., they were not comforted by him], for shortness of breath [in anguish] and soreness of toil."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "בֹּ֣א דַבֵּ֔ר אֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם",
+              "english": "Come and speak to Pharaoh, king of Egypt,"
+            },
+            {
+              "hebrew": "וִֽישַׁלַּ֥ח אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃",
+              "english": "that he send the children of Israel out of his land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר מֹשֶׁ֔ה לִפְנֵ֥י יְהֹוָ֖ה לֵאמֹ֑ר הֵ֤ן בְּנֵֽי־יִשְׂרָאֵל֙ לֹֽא־שָׁמְע֣וּ אֵלַ֔י",
+              "english": "And Moses spoke before the L-rd, saying: If the children of Israel did not heed me,"
+            },
+            {
+              "hebrew": "וְאֵיךְ֙ יִשְׁמָעֵ֣נִי פַרְעֹ֔ה",
+              "english": "how should Pharaoh heed me!"
+            },
+            {
+              "hebrew": "וַאֲנִ֖י עֲרַ֥ל שְׂפָתָֽיִם׃&nbsp;{פ}",
+              "english": "And I am of uncircumcised [i.e., occluded] lips."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒",
+              "english": "And the L-rd spoke to Moses and to Aaron [who, because of Moses' demurral (above) was made his spokesman],"
+            },
+            {
+              "hebrew": "וַיְצַוֵּם֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם",
+              "english": "and He charged them concerning the children of Israel and concerning [their embassy to] Pharaoh, king of Egypt [(the charge continuing, Ibid. 29)]"
+            },
+            {
+              "hebrew": "לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "to take the children of Israel out of the land of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֖לֶּה רָאשֵׁ֣י בֵית־אֲבֹתָ֑ם",
+              "english": "These are the heads of their fathers' houses:"
+            },
+            {
+              "hebrew": "בְּנֵ֨י רְאוּבֵ֜ן בְּכֹ֣ר יִשְׂרָאֵ֗ל חֲנ֤וֹךְ וּפַלּוּא֙ חֶצְרֹ֣ן וְכַרְמִ֔י",
+              "english": "the sons of Reuven, the first-born of Israel [(The genealogy of Moses and Aaron is traced from its beginning in the line of Jacob)]: Chanoch and Falu, Chetzron and Carmi."
+            },
+            {
+              "hebrew": "אֵ֖לֶּה מִשְׁפְּחֹ֥ת רְאוּבֵֽן׃",
+              "english": "These are the families of Reuven."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֣י שִׁמְע֗וֹן יְמוּאֵ֨ל וְיָמִ֤ין וְאֹ֙הַד֙ וְיָכִ֣ין וְצֹ֔חַר וְשָׁא֖וּל בֶּן־הַֽכְּנַעֲנִ֑ית",
+              "english": "And the sons of Shimon: Yemuel and Yamin and Ohad and Yachin and Tzochar and Shaul the son of the Canaanitess."
+            },
+            {
+              "hebrew": "אֵ֖לֶּה מִשְׁפְּחֹ֥ת שִׁמְעֽוֹן׃",
+              "english": "These are the families of Shimon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֨לֶּה שְׁמ֤וֹת בְּנֵֽי־לֵוִי֙ לְתֹ֣לְדֹתָ֔ם גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִ֑י",
+              "english": "And these are the names of the sons of Levi according to their births: Gershon and Kehoth and Merari."
+            },
+            {
+              "hebrew": "וּשְׁנֵי֙ חַיֵּ֣י לֵוִ֔י שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+              "english": "And the years of the life of Levi were one hundred and thirty-seven years [(Levi's years being mentioned to apprise us of the years of the bondage, there being no bondage while any of Jacob's sons lived, and Levi being the longest-lived of them)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "בְּנֵ֥י גֵרְשׁ֛וֹן",
+              "english": "The sons of Gershon:"
+            },
+            {
+              "hebrew": "לִבְנִ֥י וְשִׁמְעִ֖י לְמִשְׁפְּחֹתָֽם׃",
+              "english": "Livni and Shimi, according to their families."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֣י קְהָ֔ת עַמְרָ֣ם וְיִצְהָ֔ר וְחֶבְר֖וֹן וְעֻזִּיאֵ֑ל",
+              "english": "And the sons of Kehoth: Amram and Yitzhar and Chevron and Uziel."
+            },
+            {
+              "hebrew": "וּשְׁנֵי֙ חַיֵּ֣י קְהָ֔ת שָׁלֹ֧שׁ וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+              "english": "And the years of the life of Kehoth were one hundred and thirty-three years [(whence it is derived that the four hundred years of Israel's servitude (Genesis 15:13) date from the birth of Isaac)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֥י מְרָרִ֖י מַחְלִ֣י וּמוּשִׁ֑י",
+              "english": "And the sons of Merari: Machli and Mushi."
+            },
+            {
+              "hebrew": "אֵ֛לֶּה מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְתֹלְדֹתָֽם׃",
+              "english": "These are the families of Levi according to their births."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֨ח עַמְרָ֜ם אֶת־יוֹכֶ֤בֶד דֹּֽדָתוֹ֙ ל֣וֹ לְאִשָּׁ֔ה",
+              "english": "And Amram took Yocheved his aunt [his father's sister; the daughter of Levi, the sister of Kehoth] to himself as a wife."
+            },
+            {
+              "hebrew": "וַתֵּ֣לֶד ל֔וֹ אֶֽת־אַהֲרֹ֖ן וְאֶת־מֹשֶׁ֑ה",
+              "english": "And she bore to him Aaron and Moses."
+            },
+            {
+              "hebrew": "וּשְׁנֵי֙ חַיֵּ֣י עַמְרָ֔ם שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃",
+              "english": "And the years of the life of Amram were one hundred and thirty-seven years."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֖י יִצְהָ֑ר",
+              "english": "And the sons of Yitzhar:"
+            },
+            {
+              "hebrew": "קֹ֥רַח וָנֶ֖פֶג וְזִכְרִֽי׃",
+              "english": "Korach and Nefeg and Zichri."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֖י עֻזִּיאֵ֑ל",
+              "english": "And the sons of Uziel:"
+            },
+            {
+              "hebrew": "מִֽישָׁאֵ֥ל וְאֶלְצָפָ֖ן וְסִתְרִֽי׃",
+              "english": "Mishael and Eltzafan and Zichri."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֨ח אַהֲרֹ֜ן אֶת־אֱלִישֶׁ֧בַע בַּת־עַמִּינָדָ֛ב אֲח֥וֹת נַחְשׁ֖וֹן ל֣וֹ לְאִשָּׁ֑ה",
+              "english": "And Aaron took Elisheva the daughter of Aminadav, the sister of Nachshon, to himself as a wife [(whence it is derived that in taking a wife one should inquire about her brothers)],"
+            },
+            {
+              "hebrew": "וַתֵּ֣לֶד ל֗וֹ אֶת־נָדָב֙ וְאֶת־אֲבִיה֔וּא אֶת־אֶלְעָזָ֖ר וְאֶת־אִֽיתָמָֽר׃",
+              "english": "and she bore to him Nadav and Avihu and Elazar and Ithamar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֣י קֹ֔רַח אַסִּ֥יר וְאֶלְקָנָ֖ה וַאֲבִיאָסָ֑ף",
+              "english": "And the sons of Korach: Assir and Elkanah and Aviasaf."
+            },
+            {
+              "hebrew": "אֵ֖לֶּה מִשְׁפְּחֹ֥ת הַקׇּרְחִֽי׃",
+              "english": "These are the families of the Korchi."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶלְעָזָ֨ר בֶּֽן־אַהֲרֹ֜ן לָקַֽח־ל֨וֹ מִבְּנ֤וֹת פּֽוּטִיאֵל֙ ל֣וֹ לְאִשָּׁ֔ה",
+              "english": "And Elazar the son of Aaron took one of the daughters of Putiel [(of the seed of Yithro, who fattened (pitem) calves for idolatry, and of the seed of Joseph, who made light of (pitpet) his evil inclination (in resisting Potiphar's wife)] to himself as a wife,"
+            },
+            {
+              "hebrew": "וַתֵּ֥לֶד ל֖וֹ אֶת־פִּֽינְחָ֑ס",
+              "english": "and she bore Pinchas unto him."
+            },
+            {
+              "hebrew": "אֵ֗לֶּה רָאשֵׁ֛י אֲב֥וֹת הַלְוִיִּ֖ם לְמִשְׁפְּחֹתָֽם׃",
+              "english": "These are the heads of the fathers of the Levites according to their families."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "ה֥וּא אַהֲרֹ֖ן וּמֹשֶׁ֑ה אֲשֶׁ֨ר אָמַ֤ר יְהֹוָה֙ לָהֶ֔ם",
+              "english": "It [i.e., the afore-mentioned] are [the] Aaron and Moses whom the L-rd told:"
+            },
+            {
+              "hebrew": "הוֹצִ֜יאוּ אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל מֵאֶ֥רֶץ מִצְרַ֖יִם עַל־צִבְאֹתָֽם׃",
+              "english": "Take the children of Israel out of the land of Egypt with their hosts [(all of their hosts according to their tribes)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "הֵ֗ם הַֽמְדַבְּרִים֙ אֶל־פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרַ֔יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מִמִּצְרָ֑יִם",
+              "english": "They were the ones who spoke to Pharaoh, king of Egypt, to take the children of Israel out of Egypt. [Those who were commanded — those are the ones who fulfilled.]"
+            },
+            {
+              "hebrew": "ה֥וּא מֹשֶׁ֖ה וְאַהֲרֹֽן׃",
+              "english": "It was [the same] Moses and Aaron [(single-minded) in their mission and in their righteousness]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֗י בְּי֨וֹם דִּבֶּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה",
+              "english": "And it was on the day that the L-rd spoke to Moses"
+            },
+            {
+              "hebrew": "בְּאֶ֥רֶץ מִצְרָֽיִם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "in the land of Egypt"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה לֵּאמֹ֖ר אֲנִ֣י יְהֹוָ֑ה",
+              "english": "that the L-rd spoke to Moses saying [(a reversion to (11) after the genealogical hiatus)]: I am the L-rd [trusted to send you and to fulfill My embassy]."
+            },
+            {
+              "hebrew": "דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם אֵ֛ת כׇּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃",
+              "english": "Speak to Pharaoh, king of Egypt, all that I speak to you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר מֹשֶׁ֖ה לִפְנֵ֣י יְהֹוָ֑ה הֵ֤ן אֲנִי֙ עֲרַ֣ל שְׂפָתַ֔יִם",
+              "english": "And Moses said before the L-rd: I am uncircumcised [i.e., occluded] of lips."
+            },
+            {
+              "hebrew": "וְאֵ֕יךְ יִשְׁמַ֥ע אֵלַ֖י פַּרְעֹֽה׃&nbsp;{פ}",
+              "english": "How, then, will Pharaoh heed me! [(a reversion to (12)]."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "7": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה",
+              "english": "And the L-rd said to Moses: See, I have made you an overlord to Pharaoh,"
+            },
+            {
+              "hebrew": "וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה נְבִיאֶֽךָ׃",
+              "english": "and Aaron your brother shall be your spokesman."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כׇּל־אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ",
+              "english": "You speak [(once, for each embassy)] all that I shall command you,"
+            },
+            {
+              "hebrew": "וְאַהֲרֹ֤ן אָחִ֙יךָ֙ יְדַבֵּ֣ר אֶל־פַּרְעֹ֔ה",
+              "english": "and Aaron your brother shall speak to Pharaoh, [elaborating on what you have said],"
+            },
+            {
+              "hebrew": "וְשִׁלַּ֥ח אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃",
+              "english": "that he send the children of Israel from his land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲנִ֥י אַקְשֶׁ֖ה אֶת־לֵ֣ב פַּרְעֹ֑ה",
+              "english": "And I shall harden the heart of Pharaoh [since he has inveighed against Me and since I know that he is not inclined to repent wholeheartedly],"
+            },
+            {
+              "hebrew": "וְהִרְבֵּיתִ֧י אֶת־אֹתֹתַ֛י וְאֶת־מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+              "english": "and I shall [in consequence] increase My signs and My wonders in the land of Egypt [for the \"edification\" of Israel]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹֽא־יִשְׁמַ֤ע אֲלֵכֶם֙ פַּרְעֹ֔ה",
+              "english": "And Pharaoh will not pay heed to you"
+            },
+            {
+              "hebrew": "וְנָתַתִּ֥י אֶת־יָדִ֖י בְּמִצְרָ֑יִם",
+              "english": "and I shall place My hand against Egypt [to smite them],"
+            },
+            {
+              "hebrew": "וְהוֹצֵאתִ֨י אֶת־צִבְאֹתַ֜י אֶת־עַמִּ֤י בְנֵֽי־יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בִּשְׁפָטִ֖ים גְּדֹלִֽים׃",
+              "english": "and I shall bring forth My hosts, My people, the children of Israel, from the land of Egypt with great judgments."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְיָדְע֤וּ מִצְרַ֙יִם֙ כִּֽי־אֲנִ֣י יְהֹוָ֔ה",
+              "english": "And Egypt will know that I am the L-rd"
+            },
+            {
+              "hebrew": "בִּנְטֹתִ֥י אֶת־יָדִ֖י עַל־מִצְרָ֑יִם",
+              "english": "when I stretch forth My hand against Egypt;"
+            },
+            {
+              "hebrew": "וְהוֹצֵאתִ֥י אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מִתּוֹכָֽם׃",
+              "english": "and I shall take out the children of Israel from their midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ מֹשֶׁ֖ה וְאַהֲרֹ֑ן כַּאֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֹתָ֖ם",
+              "english": "And Moses and Aaron did as the L-rd commanded them;"
+            },
+            {
+              "hebrew": "כֵּ֥ן עָשֽׂוּ׃",
+              "english": "so did they do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וּמֹשֶׁה֙ בֶּן־שְׁמֹנִ֣ים שָׁנָ֔ה",
+              "english": "And Moses was eighty years old"
+            },
+            {
+              "hebrew": "וְאַֽהֲרֹ֔ן בֶּן־שָׁלֹ֥שׁ וּשְׁמֹנִ֖ים שָׁנָ֑ה",
+              "english": "and Aaron was eighty-three years old"
+            },
+            {
+              "hebrew": "בְּדַבְּרָ֖ם אֶל־פַּרְעֹֽה׃&nbsp;{פ}",
+              "english": "when they spoke to Pharaoh."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר יְהֹוָ֔ה",
+              "english": "And the L-rd said"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת",
+              "english": "When Pharaoh speaks to you, saying: Give us a wonder [i.e., a sign proving the potency of your sender],"
+            },
+            {
+              "hebrew": "וְאָמַרְתָּ֣ אֶֽל־אַהֲרֹ֗ן קַ֧ח אֶֽת־מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי־פַרְעֹ֖ה",
+              "english": "then say to Aaron: Take your staff and cast it before Pharaoh;"
+            },
+            {
+              "hebrew": "יְהִ֥י לְתַנִּֽין׃",
+              "english": "it shall be a serpent."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל־פַּרְעֹ֔ה וַיַּ֣עֲשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהֹוָ֑ה",
+              "english": "And Moses and Aaron came to Pharaoh and they did thus, as the L-rd had commanded."
+            },
+            {
+              "hebrew": "וַיַּשְׁלֵ֨ךְ אַהֲרֹ֜ן אֶת־מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו",
+              "english": "And Aaron cast his staff before Pharaoh and before his servants"
+            },
+            {
+              "hebrew": "וַיְהִ֥י לְתַנִּֽין׃",
+              "english": "and it became a serpent."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָא֙ גַּם־פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים",
+              "english": "And Pharaoh, too, called to the wise men and the magicians;"
+            },
+            {
+              "hebrew": "וַיַּֽעֲשׂ֨וּ גַם־הֵ֜ם חַרְטֻמֵּ֥י מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן׃",
+              "english": "and the necromancers of Egypt did likewise through their charms."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּשְׁלִ֙יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם",
+              "english": "And each cast down his staff and they became serpents,"
+            },
+            {
+              "hebrew": "וַיִּבְלַ֥ע מַטֵּֽה־אַהֲרֹ֖ן אֶת־מַטֹּתָֽם׃",
+              "english": "and the staff of Aaron [(i.e., after the serpent had reverted to a staff)] swallowed their staffs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּֽחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם",
+              "english": "And Pharaoh's heart became strong and he did not pay heed to them,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהֹוָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had spoken."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כָּבֵ֖ד לֵ֣ב פַּרְעֹ֑ה",
+              "english": "And the L-rd said to Moses: The heart of Pharaoh is hard."
+            },
+            {
+              "hebrew": "מֵאֵ֖ן לְשַׁלַּ֥ח הָעָֽם׃",
+              "english": "He refuses to send the people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "לֵ֣ךְ אֶל־פַּרְעֹ֞ה בַּבֹּ֗קֶר הִנֵּה֙ יֹצֵ֣א הַמַּ֔יְמָה",
+              "english": "Go to Pharaoh in the morning. Behold, he goes out to the water in the morning [to ease himself by the Nile (in secret, so that his people not be disabused of his godhood)]."
+            },
+            {
+              "hebrew": "וְנִצַּבְתָּ֥ לִקְרָאת֖וֹ עַל־שְׂפַ֣ת הַיְאֹ֑ר",
+              "english": "And stand opposite him on the bank of the Nile;"
+            },
+            {
+              "hebrew": "וְהַמַּטֶּ֛ה אֲשֶׁר־נֶהְפַּ֥ךְ לְנָחָ֖שׁ תִּקַּ֥ח בְּיָדֶֽךָ׃",
+              "english": "and the staff which turned into a serpent take in your hand."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאָמַרְתָּ֣ אֵלָ֗יו יְהֹוָ֞ה אֱלֹהֵ֤י הָעִבְרִים֙ שְׁלָחַ֤נִי אֵלֶ֙יךָ֙ לֵאמֹ֔ר",
+              "english": "And you shall say to him: The L-rd, the G-d of the Hebrews, has sent me to you, saying:"
+            },
+            {
+              "hebrew": "שַׁלַּח֙ אֶת־עַמִּ֔י וְיַֽעַבְדֻ֖נִי בַּמִּדְבָּ֑ר",
+              "english": "Send out My people that they may serve Me in the desert;"
+            },
+            {
+              "hebrew": "וְהִנֵּ֥ה לֹא־שָׁמַ֖עְתָּ עַד־כֹּֽה׃",
+              "english": "and you have not heeded (this) until now."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה בְּזֹ֣את תֵּדַ֔ע כִּ֖י אֲנִ֣י יְהֹוָ֑ה",
+              "english": "Thus says the L-rd: By this you will know that I am the L-rd."
+            },
+            {
+              "hebrew": "הִנֵּ֨ה אָנֹכִ֜י מַכֶּ֣ה&thinsp;׀ בַּמַּטֶּ֣ה אֲשֶׁר־בְּיָדִ֗י עַל־הַמַּ֛יִם אֲשֶׁ֥ר בַּיְאֹ֖ר",
+              "english": "Behold, I will strike with the staff in my hand the waters of the Nile"
+            },
+            {
+              "hebrew": "וְנֶהֶפְכ֥וּ לְדָֽם׃",
+              "english": "and they shall turn to blood, [G-d first smiting their god, the Nile (their water source in the absence of rain), and then, they themselves.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְהַדָּגָ֧ה אֲשֶׁר־בַּיְאֹ֛ר תָּמ֖וּת וּבָאַ֣שׁ הַיְאֹ֑ר",
+              "english": "And the fish in the Nile shall die, and the Nile shall reek,"
+            },
+            {
+              "hebrew": "וְנִלְא֣וּ מִצְרַ֔יִם לִשְׁתּ֥וֹת מַ֖יִם מִן־הַיְאֹֽר׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and the Egyptians shall weary themselves [in quest of a \"cure\"] to drink water from the Nile."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה אֱמֹ֣ר אֶֽל־אַהֲרֹ֡ן קַ֣ח מַטְּךָ֣ וּנְטֵֽה־יָדְךָ֩ עַל־מֵימֵ֨י מִצְרַ֜יִם",
+              "english": "And the L-rd said to Moses: Say to Aaron: Take your staff and stretch out your hand over the waters of Egypt [(Because the Nile \"protected\" Moses when he was cast into it (as an infant), it was not smitten through him, but through Aaron for the plagues of blood and frogs)],"
+            },
+            {
+              "hebrew": "עַֽל־נַהֲרֹתָ֣ם&thinsp;׀ עַל־יְאֹרֵיהֶ֣ם וְעַל־אַגְמֵיהֶ֗ם וְעַ֛ל כׇּל־מִקְוֵ֥ה מֵימֵיהֶ֖ם וְיִֽהְיוּ־דָ֑ם",
+              "english": "over their rivers, over their canals, over their standing waters, and over all their gatherings of water, and they shall be blood."
+            },
+            {
+              "hebrew": "וְהָ֤יָה דָם֙ בְּכׇל־אֶ֣רֶץ מִצְרַ֔יִם וּבָעֵצִ֖ים וּבָאֲבָנִֽים׃",
+              "english": "And there will be blood in all the land of Egypt [even in the bath-houses and house-tubs] and in [water in] wood and stone [vessels]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּֽעֲשׂוּ־כֵן֩ מֹשֶׁ֨ה וְאַהֲרֹ֜ן כַּאֲשֶׁ֣ר&thinsp;׀ צִוָּ֣ה יְהֹוָ֗ה",
+              "english": "And Moses and Aaron did thus, as the L-rd had commanded."
+            },
+            {
+              "hebrew": "וַיָּ֤רֶם בַּמַּטֶּה֙ וַיַּ֤ךְ אֶת־הַמַּ֙יִם֙ אֲשֶׁ֣ר בַּיְאֹ֔ר לְעֵינֵ֣י פַרְעֹ֔ה וּלְעֵינֵ֖י עֲבָדָ֑יו",
+              "english": "And he raised the staff and he smote the waters in the Nile before the eyes of Pharaoh and before the eyes of his servants."
+            },
+            {
+              "hebrew": "וַיֵּהָ֥פְכ֛וּ כׇּל־הַמַּ֥יִם אֲשֶׁר־בַּיְאֹ֖ר לְדָֽם׃",
+              "english": "And all the water in the Nile turned to blood."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְהַדָּגָ֨ה אֲשֶׁר־בַּיְאֹ֥ר מֵ֙תָה֙ וַיִּבְאַ֣שׁ הַיְאֹ֔ר",
+              "english": "And the fish in the Nile died, and the Nile reeked,"
+            },
+            {
+              "hebrew": "וְלֹא־יָכְל֣וּ מִצְרַ֔יִם לִשְׁתּ֥וֹת מַ֖יִם מִן־הַיְאֹ֑ר",
+              "english": "and the Egyptians could not drink water from the Nile."
+            },
+            {
+              "hebrew": "וַיְהִ֥י הַדָּ֖ם בְּכׇל־אֶ֥רֶץ מִצְרָֽיִם׃",
+              "english": "And the blood was throughout the land of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּֽעֲשׂוּ־כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם",
+              "english": "And the necromancers of Egypt did likewise through their charms."
+            },
+            {
+              "hebrew": "וַיֶּחֱזַ֤ק לֵב־פַּרְעֹה֙ וְלֹא־שָׁמַ֣ע אֲלֵהֶ֔ם",
+              "english": "And Pharaoh's heart was strengthened and he did not pay heed to them,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהֹוָֽה׃",
+              "english": "as the L-rd had spoken."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּ֣פֶן פַּרְעֹ֔ה וַיָּבֹ֖א אֶל־בֵּית֑וֹ",
+              "english": "And Pharaoh turned and came to his house,"
+            },
+            {
+              "hebrew": "וְלֹא־שָׁ֥ת לִבּ֖וֹ גַּם־לָזֹֽאת׃",
+              "english": "and he did not set his heart to this [the plague of blood], too, [as well as (not) to the staff's turning into a serpent]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּחְפְּר֧וּ כׇל־מִצְרַ֛יִם סְבִיבֹ֥ת הַיְאֹ֖ר מַ֣יִם לִשְׁתּ֑וֹת",
+              "english": "And all of Egypt dug around the Nile for water to drink,"
+            },
+            {
+              "hebrew": "כִּ֣י לֹ֤א יָֽכְלוּ֙ לִשְׁתֹּ֔ת מִמֵּימֵ֖י הַיְאֹֽר׃",
+              "english": "for they could not drink from the waters of the Nile."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּמָּלֵ֖א שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "And seven days [of plague] were completed"
+            },
+            {
+              "hebrew": "אַחֲרֵ֥י הַכּוֹת־יְהֹוָ֖ה אֶת־הַיְאֹֽר׃&nbsp;{פ}",
+              "english": "after the L-rd had smitten the Nile [before it returned to its original state, each plague obtaining for a quarter of a month, and three-quarters for warning.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו",
+              "english": "And the L-rd said to Moses: Come to Pharaoh and say to him:"
+            },
+            {
+              "hebrew": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי׃",
+              "english": "Thus said the L-rd: Send out My people and let them serve Me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־מָאֵ֥ן אַתָּ֖ה לְשַׁלֵּ֑חַ",
+              "english": "And if you are a refuser, (not) to send out,"
+            },
+            {
+              "hebrew": "הִנֵּ֣ה אָנֹכִ֗י נֹגֵ֛ף אֶת־כׇּל־גְּבוּלְךָ֖ בַּֽצְפַרְדְּעִֽים׃",
+              "english": "behold, I shall smite all of your border with frogs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁרַ֣ץ הַיְאֹר֮ צְפַרְדְּעִים֒",
+              "english": "And the Nile shall swarm frogs,"
+            },
+            {
+              "hebrew": "וְעָלוּ֙ וּבָ֣אוּ בְּבֵיתֶ֔ךָ וּבַחֲדַ֥ר מִשְׁכָּבְךָ֖ וְעַל־מִטָּתֶ֑ךָ",
+              "english": "and they shall go up [from the Nile] and come [first] into your house, [Pharaoh having counseled first against the Jews (1:9)], and into your bed chamber and upon your bed, and"
+            },
+            {
+              "hebrew": "וּבְבֵ֤ית עֲבָדֶ֙יךָ֙ וּבְעַמֶּ֔ךָ וּבְתַנּוּרֶ֖יךָ וּבְמִשְׁאֲרוֹתֶֽיךָ׃",
+              "english": "[then] into the house of your servants, and into your people, and into your ovens and into your kneading troughs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וּבְכָ֥ה וּֽבְעַמְּךָ֖ וּבְכׇל־עֲבָדֶ֑יךָ",
+              "english": "And in you [i.e., in your innards] and in your people and in all of your servants"
+            },
+            {
+              "hebrew": "יַעֲל֖וּ הַֽצְפַרְדְּעִֽים׃",
+              "english": "shall the frogs go up."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "8": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁה֒ אֱמֹ֣ר אֶֽל־אַהֲרֹ֗ן",
+              "english": "And the L-rd said to Moses: Say to Aaron:"
+            },
+            {
+              "hebrew": "נְטֵ֤ה אֶת־יָדְךָ֙ בְּמַטֶּ֔ךָ עַ֨ל־הַנְּהָרֹ֔ת עַל־הַיְאֹרִ֖ים וְעַל־הָאֲגַמִּ֑ים",
+              "english": "Stretch your hand with the staff over the rivers, over the water courses, and over the ponds,"
+            },
+            {
+              "hebrew": "וְהַ֥עַל אֶת־הַֽצְפַרְדְּעִ֖ים עַל־אֶ֥רֶץ מִצְרָֽיִם׃",
+              "english": "and bring up the frogs upon the land of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֤ט אַהֲרֹן֙ אֶת־יָד֔וֹ עַ֖ל מֵימֵ֣י מִצְרָ֑יִם",
+              "english": "And Aaron stretched forth his hand over the waters of Egypt,"
+            },
+            {
+              "hebrew": "וַתַּ֙עַל֙ הַצְּפַרְדֵּ֔עַ וַתְּכַ֖ס אֶת־אֶ֥רֶץ מִצְרָֽיִם׃",
+              "english": "and the frog [swarm] came up and covered the land of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּֽעֲשׂוּ־כֵ֥ן הַֽחַרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם",
+              "english": "And the necromancers did likewise through their charms,"
+            },
+            {
+              "hebrew": "וַיַּעֲל֥וּ אֶת־הַֽצְפַרְדְּעִ֖ים עַל־אֶ֥רֶץ מִצְרָֽיִם׃",
+              "english": "and the frogs came up upon the land of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָ֨א פַרְעֹ֜ה לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֗ן וַיֹּ֙אמֶר֙",
+              "english": "And Pharaoh called to Moses and to Aaron and he said:"
+            },
+            {
+              "hebrew": "הַעְתִּ֣ירוּ אֶל־יְהֹוָ֔ה וְיָסֵר֙ הַֽצְפַרְדְּעִ֔ים מִמֶּ֖נִּי וּמֵֽעַמִּ֑י",
+              "english": "Entreat the L-rd that he remove the frogs from me and from my people,"
+            },
+            {
+              "hebrew": "וַאֲשַׁלְּחָה֙ אֶת־הָעָ֔ם וְיִזְבְּח֖וּ לַיהֹוָֽה׃",
+              "english": "and I will send out the people and they will sacrifice to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֣ה לְפַרְעֹה֮ הִתְפָּאֵ֣ר עָלַי֒ לְמָתַ֣י&thinsp;׀ אַעְתִּ֣יר לְךָ֗ וְלַעֲבָדֶ֙יךָ֙ וּֽלְעַמְּךָ֔",
+              "english": "And Moses said to Pharaoh: \"Presume\" over me as to when I should entreat for you and for your servants and for your people"
+            },
+            {
+              "hebrew": "לְהַכְרִית֙ הַֽצְפַרְדְּעִ֔ים מִמְּךָ֖ וּמִבָּתֶּ֑יךָ",
+              "english": "to cut off the frogs from you and from your houses."
+            },
+            {
+              "hebrew": "רַ֥ק בַּיְאֹ֖ר תִּשָּׁאַֽרְנָה׃",
+              "english": "Only in the Nile shall they remain."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֖אמֶר לְמָחָ֑ר",
+              "english": "And he said: [Entreat today] for tomorrow [i.e., that they be cut off tomorrow]."
+            },
+            {
+              "hebrew": "וַיֹּ֙אמֶר֙ כִּדְבָ֣רְךָ֔",
+              "english": "And he said: As you say."
+            },
+            {
+              "hebrew": "לְמַ֣עַן תֵּדַ֔ע כִּי־אֵ֖ין כַּיהֹוָ֥ה אֱלֹהֵֽינוּ׃",
+              "english": "So that you know that there is none like the L-rd our G-d."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְסָר֣וּ הַֽצְפַרְדְּעִ֗ים מִמְּךָ֙ וּמִבָּ֣תֶּ֔יךָ וּמֵעֲבָדֶ֖יךָ וּמֵעַמֶּ֑ךָ",
+              "english": "And the frogs will depart from you and from your houses and from your servants and from your people;"
+            },
+            {
+              "hebrew": "רַ֥ק בַּיְאֹ֖ר תִּשָּׁאַֽרְנָה׃",
+              "english": "only in the Nile shall they remain."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּצֵ֥א מֹשֶׁ֛ה וְאַהֲרֹ֖ן מֵעִ֣ם פַּרְעֹ֑ה",
+              "english": "And Moses and Aaron went out from Pharaoh"
+            },
+            {
+              "hebrew": "וַיִּצְעַ֤ק מֹשֶׁה֙ אֶל־יְהֹוָ֔ה עַל־דְּבַ֥ר הַֽצְפַרְדְּעִ֖ים אֲשֶׁר־שָׂ֥ם לְפַרְעֹֽה׃",
+              "english": "and Moses cried out to the L-rd over the frogs which He had brought upon Pharaoh."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ יְהֹוָ֖ה כִּדְבַ֣ר מֹשֶׁ֑ה",
+              "english": "And the L-rd did according to the word of Moses"
+            },
+            {
+              "hebrew": "וַיָּמֻ֙תוּ֙ הַֽצְפַרְדְּעִ֔ים מִן־הַבָּתִּ֥ים מִן־הַחֲצֵרֹ֖ת וּמִן־הַשָּׂדֹֽת׃",
+              "english": "and the frogs died out of the houses, out of the courtyards, and out of the fields."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּצְבְּר֥וּ אֹתָ֖ם חֳמָרִ֣ם חֳמָרִ֑ם",
+              "english": "And they piled them up in heaps,"
+            },
+            {
+              "hebrew": "וַתִּבְאַ֖שׁ הָאָֽרֶץ׃",
+              "english": "and the land reeked."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:27:08.791Z"
+  "updatedAt": "2026-10-26T18:28:34.910Z"
 }
