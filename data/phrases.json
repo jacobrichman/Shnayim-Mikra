@@ -56435,8 +56435,1226 @@
           ],
           "model": "Instinct"
         }
+      },
+      "6": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם",
+              "english": "Speak to the children of Israel and say to them:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַפְלִא֙ לִנְדֹּר֙ נֶ֣דֶר נָזִ֔יר לְהַזִּ֖יר לַֽיהֹוָֽה׃",
+              "english": "A man or a woman, if he utter a vow, the vow of a Nazirite [lit., \"one who separates himself\"] to separate himself [from wine] unto the L-rd [i.e., for the sake of Heaven], [(The rationale of the juxtaposition of verses — \"All who witness a sotah (a woman suspected of infidelity) in her undoing should separate themselves from wine,\" wine inciting to licentiousness)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר",
+              "english": "From [new] wine and shechar [old (lit., \"intoxicating\") wine] he shall separate himself."
+            },
+            {
+              "hebrew": "חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה",
+              "english": "Vinegar of wine and vinegar of shechar he shall not drink;"
+            },
+            {
+              "hebrew": "וְכׇל־מִשְׁרַ֤ת עֲנָבִים֙ לֹ֣א יִשְׁתֶּ֔ה",
+              "english": "and any steeping of grapes he shall not drink,"
+            },
+            {
+              "hebrew": "וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל׃",
+              "english": "and grapes, wet or dry, he shall not eat."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "כֹּ֖ל יְמֵ֣י נִזְר֑וֹ",
+              "english": "All the days of his Naziritism,"
+            },
+            {
+              "hebrew": "מִכֹּל֩ אֲשֶׁ֨ר יֵעָשֶׂ֜ה מִגֶּ֣פֶן הַיַּ֗יִן מֵחַרְצַנִּ֛ים וְעַד־זָ֖ג לֹ֥א יֹאכֵֽל׃",
+              "english": "of all that is made from the grapevine, from the kernels to the husk, he shall not eat."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־יְמֵי֙ נֶ֣דֶר נִזְר֔וֹ תַּ֖עַר לֹא־יַעֲבֹ֣ר עַל־רֹאשׁ֑וֹ",
+              "english": "All the days of the vow of his Naziritism a blade shall not pass over his head."
+            },
+            {
+              "hebrew": "עַד־מְלֹ֨את הַיָּמִ֜ם אֲשֶׁר־יַזִּ֤יר לַיהֹוָה֙ קָדֹ֣שׁ יִהְיֶ֔ה גַּדֵּ֥ל פֶּ֖רַע שְׂעַ֥ר רֹאשֽׁוֹ׃",
+              "english": "Until the fulfillment of the days of his Naziritism to the L-rd, holy shall it [his hair] be [by his] letting grow long the growth [pera (\"pera\" is not less than thirty days)] of the hair of his head."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־יְמֵ֥י הַזִּיר֖וֹ לַיהֹוָ֑ה",
+              "english": "All the days of his Naziritism to the L-rd,"
+            },
+            {
+              "hebrew": "עַל־נֶ֥פֶשׁ מֵ֖ת לֹ֥א יָבֹֽא׃",
+              "english": "by a dead body he shall not come."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "לְאָבִ֣יו וּלְאִמּ֗וֹ לְאָחִיו֙ וּלְאַ֣חֹת֔וֹ לֹא־יִטַּמָּ֥א לָהֶ֖ם בְּמֹתָ֑ם",
+              "english": "For his father and for his mother, for his brother and for his sister, he shall not make himself unclean for them in their death,"
+            },
+            {
+              "hebrew": "כִּ֛י נֵ֥זֶר אֱלֹהָ֖יו עַל־רֹאשֽׁוֹ׃",
+              "english": "for the crown of his G-d is on his head."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "כֹּ֖ל יְמֵ֣י נִזְר֑וֹ",
+              "english": "All the days of his Naziritism,"
+            },
+            {
+              "hebrew": "קָדֹ֥שׁ ה֖וּא לַֽיהֹוָֽה׃",
+              "english": "holy is he to the L-rd [(\"holiness\" of body — not making himself unclean for the dead)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יָמ֨וּת מֵ֤ת עָלָיו֙ בְּפֶ֣תַע פִּתְאֹ֔ם וְטִמֵּ֖א רֹ֣אשׁ נִזְר֑וֹ",
+              "english": "And if any man die on him [in the tent where he finds himself], of an instant, unexpectedly, and he make unclean the head of his Naziritism,"
+            },
+            {
+              "hebrew": "וְגִלַּ֤ח רֹאשׁוֹ֙ בְּי֣וֹם טׇהֳרָת֔וֹ בַּיּ֥וֹם הַשְּׁבִיעִ֖י יְגַלְּחֶֽנּוּ׃",
+              "english": "then he shall shave his head on the day of his cleansing [i.e., sprinkling (of the waters of the red heifer, 19:17)]; on the seventh day shall he shave it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יָבִא֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה",
+              "english": "And on the eighth day [i.e., from the eighth day on], he shall bring two turtle-doves or two young pigeons"
+            },
+            {
+              "hebrew": "אֶ֨ל־הַכֹּהֵ֔ן אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "to the Cohein, to the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה",
+              "english": "And the Cohein shall offer one as a sin-offering and one as a burnt-offering,"
+            },
+            {
+              "hebrew": "וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־הַנָּ֑פֶשׁ",
+              "english": "and he shall atone for him for having sinned through the (dead) body,"
+            },
+            {
+              "hebrew": "וְקִדַּ֥שׁ אֶת־רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+              "english": "and he shall hallow his head on that day [i.e., He shall begin again the count of his Naziritism]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ",
+              "english": "And he shall consecrate [anew] to the L-rd the days of his Naziritism,"
+            },
+            {
+              "hebrew": "וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם",
+              "english": "and he shall bring a lamb of the first year as a guilt-offering,"
+            },
+            {
+              "hebrew": "וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+              "english": "and the first days shall fall off [from the count] because he made unclean his Naziritism."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר",
+              "english": "And this is the law of the Nazirite."
+            },
+            {
+              "hebrew": "בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "On the day of the fulfillment of the days of his Naziritism, he shall bring himself to the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֣יב אֶת־קׇרְבָּנ֣וֹ לַיהֹוָ֡ה כֶּ֩בֶשׂ֩ בֶּן־שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה",
+              "english": "And he shall offer up his sacrifice to the L-rd: one lamb of the first year without blemish as a burnt-offering,"
+            },
+            {
+              "hebrew": "וְכַבְשָׂ֨ה אַחַ֧ת בַּת־שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את",
+              "english": "and one ewe-lamb of the first year without blemish as a sin-offering,"
+            },
+            {
+              "hebrew": "וְאַֽיִל־אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃",
+              "english": "and one ram without blemish as a peace-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְסַ֣ל מַצּ֗וֹת סֹ֤לֶת חַלֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן",
+              "english": "And a basket of unleavened bread of fine flour, [ten] cakes [of unleavened bread] mixed with oil,"
+            },
+            {
+              "hebrew": "וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן",
+              "english": "and [ten] wafers of unleavened bread smeared with oil,"
+            },
+            {
+              "hebrew": "וּמִנְחָתָ֖ם וְנִסְכֵּיהֶֽם׃",
+              "english": "and their [the burnt-offering's and the peace-offering's] meal-offering and their drink-offerings."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֥יב הַכֹּהֵ֖ן לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "And the Cohein shall present (them) before the L-rd,"
+            },
+            {
+              "hebrew": "וְעָשָׂ֥ה אֶת־חַטָּאת֖וֹ וְאֶת־עֹלָתֽוֹ׃",
+              "english": "and he shall offer his sin-offering and his burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־הָאַ֜יִל יַעֲשֶׂ֨ה זֶ֤בַח שְׁלָמִים֙ לַֽיהֹוָ֔ה עַ֖ל סַ֣ל הַמַּצּ֑וֹת",
+              "english": "And the ram shall he offer as a sacrifice of peace-offerings to the L-rd for the basket of unleavened bread [i.e., he shall slaughter the peace-offerings with the intent of consecrating the bread],"
+            },
+            {
+              "hebrew": "וְעָשָׂה֙ הַכֹּהֵ֔ן אֶת־מִנְחָת֖וֹ וְאֶת־נִסְכּֽוֹ׃",
+              "english": "and the Cohein shall offer its [the ram's] meal-offering and its drink-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶת־רֹ֣אשׁ נִזְר֑וֹ",
+              "english": "And the Nazirite shall shave — [outside the azarah, after the slaughtering of the peace-offerings, which took place] at the door of the tent of meeting — the head of his Naziritism."
+            },
+            {
+              "hebrew": "וְלָקַ֗ח אֶת־שְׂעַר֙ רֹ֣אשׁ נִזְר֔וֹ וְנָתַן֙ עַל־הָאֵ֔שׁ אֲשֶׁר־תַּ֖חַת זֶ֥בַח הַשְּׁלָמִֽים׃",
+              "english": "And he shall take the hair of the head of his Naziritism, and he shall place it on the fire under the sacrifice of the peace-offerings [i.e., under the cauldron (in the azarah) in which they are cooked (the Cohein being required to take the shoulder after it has been cooked and wave it before the L-rd)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־הַזְּרֹ֣עַ בְּשֵׁלָה֮ מִן־הָאַ֒יִל֒ וְֽחַלַּ֨ת מַצָּ֤ה אַחַת֙ מִן־הַסַּ֔ל וּרְקִ֥יק מַצָּ֖ה אֶחָ֑ד",
+              "english": "And the Cohein shall take the cooked shoulder of the ram, and one unleavened cake from the basket, and one unleavened wafer,"
+            },
+            {
+              "hebrew": "וְנָתַן֙ עַל־כַּפֵּ֣י הַנָּזִ֔יר אַחַ֖ר הִֽתְגַּלְּח֥וֹ אֶת־נִזְרֽוֹ׃",
+              "english": "and he shall place them on the palms of the Nazirite after his shaving of (the head of) his Naziritism."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵנִיף֩ אוֹתָ֨ם הַכֹּהֵ֥ן&thinsp;׀&thinsp;תְּנוּפָה֮ לִפְנֵ֣י יְהֹוָה֒",
+              "english": "And the Cohein shall wave them, a waving before the L-rd."
+            },
+            {
+              "hebrew": "קֹ֤דֶשׁ הוּא֙ לַכֹּהֵ֔ן עַ֚ל חֲזֵ֣ה הַתְּנוּפָ֔ה וְעַ֖ל שׁ֣וֹק הַתְּרוּמָ֑ה",
+              "english": "It [(the cake, the wafer, and the shoulder)] is holy [i.e., terumah] to the Cohein, in addition to the breast of waving and the thigh of lifting, [which revert to the Cohein from all peace-offerings],"
+            },
+            {
+              "hebrew": "וְאַחַ֛ר יִשְׁתֶּ֥ה הַנָּזִ֖יר יָֽיִן׃",
+              "english": "and thereafter the Nazirite may drink wine."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את תּוֹרַ֣ת הַנָּזִיר֮ אֲשֶׁ֣ר יִדֹּר֒ קׇרְבָּנ֤וֹ לַֽיהֹוָה֙ עַל־נִזְר֔וֹ מִלְּבַ֖ד אֲשֶׁר־תַּשִּׂ֣יג יָד֑וֹ",
+              "english": "This is the law of the Nazirite who shall vow his offering to the L-rd for his Naziritism, aside from what his hand attains [i.e., if he vows more than the prescribed number of offerings, he must bring them.]"
+            },
+            {
+              "hebrew": "כְּפִ֤י נִדְרוֹ֙ אֲשֶׁ֣ר יִדֹּ֔ר כֵּ֣ן יַעֲשֶׂ֔ה עַ֖ל תּוֹרַ֥ת נִזְרֽוֹ׃&nbsp;{פ}",
+              "english": "According to the vow that he vows, thus shall he do above [(but not below)] the law of his Naziriteship [i.e., the prescribed number of offerings]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֤ר אֶֽל־אַהֲרֹן֙ וְאֶל־בָּנָ֣יו לֵאמֹ֔ר",
+              "english": "Speak to Aaron and to his sons, saying:"
+            },
+            {
+              "hebrew": "כֹּ֥ה תְבָרְכ֖וּ אֶת־בְּנֵ֣י יִשְׂרָאֵ֑ל אָמ֖וֹר לָהֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Thus shall you bless the children of Israel, saying [with full intent and with a whole heart] unto them, [so that they all hear]:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "יְבָרֶכְךָ֥ יְהֹוָ֖ה",
+              "english": "The L-rd bless you [that your possessions increase]"
+            },
+            {
+              "hebrew": "וְיִשְׁמְרֶֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and keep you [that you not be despoiled of your possessions]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "יָאֵ֨ר יְהֹוָ֧ה&thinsp;׀&thinsp;פָּנָ֛יו אֵלֶ֖יךָ",
+              "english": "The L-rd cause His countenance to shine upon you"
+            },
+            {
+              "hebrew": "וִֽיחֻנֶּֽךָּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and grant you favor."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "יִשָּׂ֨א יְהֹוָ֤ה&thinsp;׀&thinsp;פָּנָיו֙ אֵלֶ֔יךָ",
+              "english": "The L-rd lift His countenance [i.e., quell His anger] unto you"
+            },
+            {
+              "hebrew": "וְיָשֵׂ֥ם לְךָ֖ שָׁלֽוֹם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and grant you peace."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׂמ֥וּ אֶת־שְׁמִ֖י עַל־בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And they shall place My name [the Tetragrammaton] on the children of Israel,"
+            },
+            {
+              "hebrew": "וַאֲנִ֖י אֲבָרְכֵֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and I will bless them [i.e., I will \"concur\" in their blessing.]"
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "7": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים אֶת־הַמִּשְׁכָּ֗ן",
+              "english": "And it was, on the day that Moses had finished (kalloth) setting up the mishkan"
+            },
+            {
+              "hebrew": "וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְקַדֵּ֤שׁ אֹתוֹ֙ וְאֶת־כׇּל־כֵּלָ֔יו וְאֶת־הַמִּזְבֵּ֖חַ וְאֶת־כׇּל־כֵּלָ֑יו וַיִּמְשָׁחֵ֖ם וַיְקַדֵּ֥שׁ אֹתָֽם׃",
+              "english": "and had anointed it and consecrated it and all of its vessels, and (he had set up) the altar and all of its vessels, and had anointed them and consecrated them, [(kalloth): On the day of the setting up of the mishkan, Israel was like a bride (kallah) entering the bridal canopy. (\"that Moses had finished\"): Although Betzalel and other craftsmen had made the mishkan, it is attributed to Moses for having given heart and soul to see to it that the last detail was executed exactly as the L-rd had revealed it to him on Mount Sinai. (\"on the day that Moses had finished setting up\"): All of the seven days of the investiture, Moses would assemble and dismantle the mishkan, and it was on the eighth day that he assembled it and did not dismantle it. (\"On the day that Moses had finished setting up the mishkan\"): It was Rosh Chodesh Nissan. On the second (of Nissan) the red heifer was burned; on the third, the first sprinkling (of the cleansing waters) took place, and on the seventh day (the Levites) shaved (see 8:6)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְרִ֙יבוּ֙ נְשִׂיאֵ֣י יִשְׂרָאֵ֔ל רָאשֵׁ֖י בֵּ֣ית אֲבֹתָ֑ם",
+              "english": "That the chiefs of Israel, the heads of their fathers' house,"
+            },
+            {
+              "hebrew": "הֵ֚ם נְשִׂיאֵ֣י הַמַּטֹּ֔ת הֵ֥ם הָעֹמְדִ֖ים עַל־הַפְּקֻדִֽים׃",
+              "english": "the chiefs of the tribes, [who were their overseers in Egypt, and who were smitten because of them (Exodus 5:14)], they who stood [with Moses and Aaron] over the ones who were numbered [(1:4)], presented (their offerings)."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבִ֨יאוּ אֶת־קׇרְבָּנָ֜ם לִפְנֵ֣י יְהֹוָ֗ה",
+              "english": "And they brought their offerings before the L-rd,"
+            },
+            {
+              "hebrew": "שֵׁשׁ־עֶגְלֹ֥ת צָב֙ וּשְׁנֵ֣י עָשָׂ֣ר בָּקָ֔ר עֲגָלָ֛ה עַל־שְׁנֵ֥י הַנְּשִׂאִ֖ים וְשׁ֣וֹר לְאֶחָ֑ד",
+              "english": "six covered wagons and twelve oxen, a wagon for every two chiefs, and an ox for each,"
+            },
+            {
+              "hebrew": "וַיַּקְרִ֥יבוּ אוֹתָ֖ם לִפְנֵ֥י הַמִּשְׁכָּֽן׃",
+              "english": "and they presented them before the mishkan [(Moses did not take it from their hands until the L-rd told him to do so)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר יְהֹוָ֖ה",
+              "english": "And the L-rd said"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "קַ֚ח מֵֽאִתָּ֔ם וְהָי֕וּ לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד",
+              "english": "Take it from them, and they shall be for the service of the tent of meeting,"
+            },
+            {
+              "hebrew": "וְנָתַתָּ֤ה אוֹתָם֙ אֶל־הַלְוִיִּ֔ם אִ֖ישׁ כְּפִ֥י עֲבֹדָתֽוֹ׃",
+              "english": "and give them to the Levites, each according to his service."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֣ח מֹשֶׁ֔ה אֶת־הָעֲגָלֹ֖ת וְאֶת־הַבָּקָ֑ר",
+              "english": "And Moses took the wagons and the oxen"
+            },
+            {
+              "hebrew": "וַיִּתֵּ֥ן אוֹתָ֖ם אֶל־הַלְוִיִּֽם׃",
+              "english": "and he gave them to the Levites."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣ת&thinsp;׀ שְׁתֵּ֣י הָעֲגָל֗וֹת וְאֵת֙ אַרְבַּ֣עַת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י גֵרְשׁ֑וֹן",
+              "english": "Two wagons and four oxen he gave to the sons of Gershon,"
+            },
+            {
+              "hebrew": "כְּפִ֖י עֲבֹדָתָֽם׃",
+              "english": "according to their service, [which was lighter than that of Merari, who carried the beams, and the pillars, and the sockets]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֣ת&thinsp;׀ אַרְבַּ֣ע הָעֲגָלֹ֗ת וְאֵת֙ שְׁמֹנַ֣ת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י מְרָרִ֑י",
+              "english": "And four wagons and eight oxen he gave to the sons of Merari,"
+            },
+            {
+              "hebrew": "כְּפִי֙ עֲבֹ֣דָתָ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+              "english": "according to their service, by the hand of Ithamar, the son of Aaron the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְלִבְנֵ֥י קְהָ֖ת לֹ֣א נָתָ֑ן",
+              "english": "And to the sons of Kehath he gave none,"
+            },
+            {
+              "hebrew": "כִּֽי־עֲבֹדַ֤ת הַקֹּ֙דֶשׁ֙ עֲלֵהֶ֔ם בַּכָּתֵ֖ף יִשָּֽׂאוּ׃",
+              "english": "for the burden of the holy things [the ark, the table, etc.] was theirs, [wherefore] they were to be borne upon the shoulder."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְרִ֣יבוּ הַנְּשִׂאִ֗ים אֵ֚ת חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ בְּי֖וֹם הִמָּשַׁ֣ח אֹת֑וֹ",
+              "english": "And the chiefs presented the inauguration (offerings) of the altar on the day it was anointed [(After they had donated the wagons and the oxen for bearing the wagons, their hearts moved them to donate offerings for the inauguration of the altar)],"
+            },
+            {
+              "hebrew": "וַיַּקְרִ֧יבוּ הַנְּשִׂיאִ֛ם אֶת־קׇרְבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃",
+              "english": "and the chiefs presented their offerings before the altar. [Moses did not take them from their hands until the L-rd told him to do so.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה",
+              "english": "And the L-rd said to Moses:"
+            },
+            {
+              "hebrew": "נָשִׂ֨יא אֶחָ֜ד לַיּ֗וֹם נָשִׂ֤יא אֶחָד֙ לַיּ֔וֹם יַקְרִ֙יבוּ֙ אֶת־קׇרְבָּנָ֔ם לַחֲנֻכַּ֖ת הַמִּזְבֵּֽחַ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Each chief on his day, each chief on his day, shall present his offerings for the inauguration of the altar. [And Moses did not know whether to follow the order of birth or the order of traveling (see section 2), until the L-rd told him to follow the order of traveling.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֗י הַמַּקְרִ֛יב בַּיּ֥וֹם הָרִאשׁ֖וֹן אֶת־קׇרְבָּנ֑וֹ",
+              "english": "And the one who presented his offering on the first day was"
+            },
+            {
+              "hebrew": "נַחְשׁ֥וֹן בֶּן־עַמִּינָדָ֖ב לְמַטֵּ֥ה יְהוּדָֽה׃",
+              "english": "Nachshon ben Aminadav of the tribe of Judah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְקׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "And his offering was one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a [donative] meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense [This is the only instance of incense offered by an individual, and on the outer altar — a \"one-time ruling\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock [\"the choice of the herd\"], one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering [to atone for (possible) defilement by a \"grave in the depths\" and for suspicion of uncleanliness]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתּוּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃&nbsp;{פ}",
+              "english": "this is the [(personal, not tribal)] offering of Nachshon ben Aminadav."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הַשֵּׁנִ֔י",
+              "english": "On the second day,"
+            },
+            {
+              "hebrew": "הִקְרִ֖יב נְתַנְאֵ֣ל בֶּן־צוּעָ֑ר נְשִׂ֖יא יִשָּׂשכָֽר׃",
+              "english": "Nethanel ben Tzuar, the chief of Yissachar, presented."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "הִקְרִ֨ב אֶת־קׇרְבָּנ֜וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "He presented his offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃&nbsp;{פ}",
+              "english": "this is the offering of Nethanel ben Tzuar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הַשְּׁלִישִׁ֔י",
+              "english": "On the third day,"
+            },
+            {
+              "hebrew": "נָשִׂ֖יא לִבְנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+              "english": "the chief of the children of Zevulun, Eliyav ben Cheilon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "His offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃&nbsp;{פ}",
+              "english": "this is the offering of Eliyav ben Cheilon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הָרְבִיעִ֔י",
+              "english": "On the fourth day,"
+            },
+            {
+              "hebrew": "נָשִׂ֖יא לִבְנֵ֣י רְאוּבֵ֑ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+              "english": "the chief of the children of Reuven, Elitzur ben Shedeur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "His offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃&nbsp;{פ}",
+              "english": "this is the offering of Elitzur ben Shedeur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הַחֲמִישִׁ֔י",
+              "english": "On the fifth day,"
+            },
+            {
+              "hebrew": "נָשִׂ֖יא לִבְנֵ֣י שִׁמְע֑וֹן שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+              "english": "the chief of the children of Shimon, Shelumiel ben Tzurishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "His offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן שְׁלֻמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃&nbsp;{פ}",
+              "english": "this is the offering of Shelumiel ben Tzurishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הַשִּׁשִּׁ֔י",
+              "english": "On the sixth day,"
+            },
+            {
+              "hebrew": "נָשִׂ֖יא לִבְנֵ֣י גָ֑ד אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+              "english": "the chief of the children of Gad, Elyasaf ben De'uel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "His offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃&nbsp;{פ}",
+              "english": "this is the offering of Elyasaf ben De'uel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הַשְּׁבִיעִ֔י",
+              "english": "On the seventh day,"
+            },
+            {
+              "hebrew": "נָשִׂ֖יא לִבְנֵ֣י אֶפְרָ֑יִם אֱלִֽישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃",
+              "english": "the chief of the children of Ephraim, Elishama ben Amihud."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "His offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "50": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "51": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "52": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "53": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃&nbsp;{פ}",
+              "english": "this is the offering of Elishama ben Amihud."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "54": {
+          "pairs": [
+            {
+              "hebrew": "בַּיּוֹם֙ הַשְּׁמִינִ֔י",
+              "english": "On the eighth day,"
+            },
+            {
+              "hebrew": "נָשִׂ֖יא לִבְנֵ֣י מְנַשֶּׁ֑ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+              "english": "the chief of the children of Menasheh, Gamliel ben Pedatzur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "55": {
+          "pairs": [
+            {
+              "hebrew": "קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒",
+              "english": "His offering: one silver dish weighing one hundred and thirty shekels,"
+            },
+            {
+              "hebrew": "מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "one silver bowl of seventy shekels in the shekel of the sanctuary,"
+            },
+            {
+              "hebrew": "שְׁנֵיהֶ֣ם&thinsp;׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃",
+              "english": "both of them full of fine flour mixed with oil for a meal-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "56": {
+          "pairs": [
+            {
+              "hebrew": "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב",
+              "english": "One spoon, [weighing] ten gold [shekels],"
+            },
+            {
+              "hebrew": "מְלֵאָ֥ה קְטֹֽרֶת׃",
+              "english": "full of incense."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "57": {
+          "pairs": [
+            {
+              "hebrew": "פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד",
+              "english": "One young bullock, one ram,"
+            },
+            {
+              "hebrew": "כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃",
+              "english": "one lamb of the first year for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "58": {
+          "pairs": [
+            {
+              "hebrew": "שְׂעִיר־עִזִּ֥ים אֶחָ֖ד",
+              "english": "One he-goat"
+            },
+            {
+              "hebrew": "לְחַטָּֽאת׃",
+              "english": "for a sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "59": {
+          "pairs": [
+            {
+              "hebrew": "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒",
+              "english": "And for the sacrifice of the peace-offerings: two oxen,"
+            },
+            {
+              "hebrew": "אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה",
+              "english": "five rams, five he-goats, five lambs of the first year —"
+            },
+            {
+              "hebrew": "זֶ֛ה קׇרְבַּ֥ן גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃&nbsp;{פ}",
+              "english": "this is the offering of Gamliel ben Pedatzur."
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:08:59.267Z"
+  "updatedAt": "2026-10-26T19:10:20.745Z"
 }
