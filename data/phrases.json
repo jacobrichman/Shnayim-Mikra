@@ -49267,8 +49267,988 @@
           ],
           "model": "Instinct"
         }
+      },
+      "20": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶל־בְּנֵ֣י יִשְׂרָאֵל֮ תֹּאמַר֒",
+              "english": "And to the children of Israel shall you say [(the punishments attaching to the exhortations)]:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל וּמִן־הַגֵּ֣ר&thinsp;׀ הַגָּ֣ר בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יִתֵּ֧ן מִזַּרְע֛וֹ לַמֹּ֖לֶךְ מ֣וֹת יוּמָ֑ת",
+              "english": "A man of the children of Israel and of the stranger who sojourns in Israel, who gives of his seed to the Molech shall be put to death [by beth-din, and if beth-din lack the power],"
+            },
+            {
+              "hebrew": "עַ֥ם הָאָ֖רֶץ יִרְגְּמֻ֥הוּ בָאָֽבֶן׃",
+              "english": "the people of the land shall [assist them and] stone him with stones. [(\"the people of the land\":) the people for whom the land was created, the people who are destined to inherit the land through these mitzvoth]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲנִ֞י אֶתֵּ֤ן אֶת־פָּנַי֙ בָּאִ֣ישׁ הַה֔וּא וְהִכְרַתִּ֥י אֹת֖וֹ מִקֶּ֣רֶב עַמּ֑וֹ",
+              "english": "And I shall direct My regard to that man, and I will cut him off, [(but not an entire congregation who serve the Molech)] from the midst of his people,"
+            },
+            {
+              "hebrew": "כִּ֤י מִזַּרְעוֹ֙ נָתַ֣ן לַמֹּ֔לֶךְ לְמַ֗עַן טַמֵּא֙ אֶת־מִקְדָּשִׁ֔י וּלְחַלֵּ֖ל אֶת־שֵׁ֥ם קׇדְשִֽׁי׃",
+              "english": "for of his seed [(\"of\") including his grandson, etc.] he has given to the Molech to defile My holy ones [the congregation of Israel] and to profane My holy name."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֡ם הַעְלֵ֣ם יַעְלִ֩ימֽוּ֩ עַ֨ם הָאָ֜רֶץ אֶת־עֵֽינֵיהֶם֙ מִן־הָאִ֣ישׁ הַה֔וּא",
+              "english": "And if the people of the land avert, avert their eyes from that man [(If they avert their eyes in one thing, they are destined to avert them in many things; if the lesser sanhedrin averts its eyes, the Great Sanhedrin is destined to avert its eyes)]"
+            },
+            {
+              "hebrew": "בְּתִתּ֥וֹ מִזַּרְע֖וֹ לַמֹּ֑לֶךְ לְבִלְתִּ֖י הָמִ֥ית אֹתֽוֹ׃",
+              "english": "when he gives of his seed to the Molech, not to put him to death,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׂמְתִּ֨י אֲנִ֧י אֶת־פָּנַ֛י בָּאִ֥ישׁ הַה֖וּא וּבְמִשְׁפַּחְתּ֑וֹ",
+              "english": "Then I shall direct My regard to that man and to his family, [who \"cover up\" for him],"
+            },
+            {
+              "hebrew": "וְהִכְרַתִּ֨י אֹת֜וֹ וְאֵ֣ת&thinsp;׀ כׇּל־הַזֹּנִ֣ים אַחֲרָ֗יו לִזְנ֛וֹת אַחֲרֵ֥י הַמֹּ֖לֶךְ מִקֶּ֥רֶב עַמָּֽם׃",
+              "english": "and I will cut him off, [him with kareth; his family, with afflictions], and all who go astray after him to stray after the Molech [(Subsumed in this are other idols served in the manner of Molech though that not be their normal mode of worship)] (I will cut off) from the midst of their people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנֶּ֗פֶשׁ אֲשֶׁ֨ר תִּפְנֶ֤ה אֶל־הָֽאֹבֹת֙ וְאֶל־הַיִּדְּעֹנִ֔ים לִזְנֹ֖ת אַחֲרֵיהֶ֑ם",
+              "english": "And the soul that turns to the ovoth and to the yidonim to stray after them —"
+            },
+            {
+              "hebrew": "וְנָתַתִּ֤י אֶת־פָּנַי֙ בַּנֶּ֣פֶשׁ הַהִ֔וא וְהִכְרַתִּ֥י אֹת֖וֹ מִקֶּ֥רֶב עַמּֽוֹ׃",
+              "english": "I shall set My face against that soul, and I shall cut him off from the midst of his people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְהִ֨תְקַדִּשְׁתֶּ֔ם וִהְיִיתֶ֖ם קְדֹשִׁ֑ים",
+              "english": "And you shall sanctify yourselves [by separating from idolatry] and you shall be holy,"
+            },
+            {
+              "hebrew": "כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+              "english": "for I am the L-rd your G-d."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁמַרְתֶּם֙ אֶת־חֻקֹּתַ֔י וַעֲשִׂיתֶ֖ם אֹתָ֑ם",
+              "english": "And you shall heed My statutes and do them;"
+            },
+            {
+              "hebrew": "אֲנִ֥י יְהֹוָ֖ה מְקַדִּשְׁכֶֽם׃",
+              "english": "I am the L-rd who makes you holy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־אִ֣ישׁ אִ֗ישׁ אֲשֶׁ֨ר יְקַלֵּ֧ל אֶת־אָבִ֛יו וְאֶת־אִמּ֖וֹ מ֣וֹת יוּמָ֑ת",
+              "english": "For a man who curses his father and his mother shall be put to death."
+            },
+            {
+              "hebrew": "אָבִ֧יו וְאִמּ֛וֹ קִלֵּ֖ל דָּמָ֥יו בּֽוֹ׃",
+              "english": "His father and his mother has he cursed [(He is liable even if he curses them after their death)]; his blood is in him [i.e., on his own head]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֤ר יִנְאַף֙ אֶת־אֵ֣שֶׁת אִ֔ישׁ אֲשֶׁ֥ר יִנְאַ֖ף אֶת־אֵ֣שֶׁת רֵעֵ֑הוּ",
+              "english": "And a man, [and not a minor], who lives with the wife of a man, [and not with the wife of a minor], who lives with the wife of his neighbor, [and not with the wife of a gentile] —"
+            },
+            {
+              "hebrew": "מֽוֹת־יוּמַ֥ת הַנֹּאֵ֖ף וְהַנֹּאָֽפֶת׃",
+              "english": "the adulterer and the adulteress shall be put to death [(by strangulation)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֤ר יִשְׁכַּב֙ אֶת־אֵ֣שֶׁת אָבִ֔יו עֶרְוַ֥ת אָבִ֖יו גִּלָּ֑ה",
+              "english": "And a man who lies with his father's wife, he has revealed the nakedness of his father."
+            },
+            {
+              "hebrew": "מֽוֹת־יוּמְת֥וּ שְׁנֵיהֶ֖ם דְּמֵיהֶ֥ם בָּֽם׃",
+              "english": "Both of them shall be put to death; their blood is in them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֤ר יִשְׁכַּב֙ אֶת־כַּלָּת֔וֹ מ֥וֹת יוּמְת֖וּ שְׁנֵיהֶ֑ם",
+              "english": "And if a man lies with his daughter-in-law, both of them shall be put to death."
+            },
+            {
+              "hebrew": "תֶּ֥בֶל עָשׂ֖וּ דְּמֵיהֶ֥ם בָּֽם׃",
+              "english": "They have wrought shamefully; their blood is in them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֨ר יִשְׁכַּ֤ב אֶת־זָכָר֙ מִשְׁכְּבֵ֣י אִשָּׁ֔ה תּוֹעֵבָ֥ה עָשׂ֖וּ שְׁנֵיהֶ֑ם",
+              "english": "And if a man lies with a male the lyings of a woman [\"as the reed is inserted into the tube\"], an abomination has been wrought by both of them."
+            },
+            {
+              "hebrew": "מ֥וֹת יוּמָ֖תוּ דְּמֵיהֶ֥ם בָּֽם׃",
+              "english": "They shall be put to death; their blood is in them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֨ר יִקַּ֧ח אֶת־אִשָּׁ֛ה וְאֶת־אִמָּ֖הּ זִמָּ֣ה הִ֑וא",
+              "english": "And if a man takes a woman [his mother-in-law] and her mother, it is lewdness."
+            },
+            {
+              "hebrew": "בָּאֵ֞שׁ יִשְׂרְפ֤וּ אֹתוֹ֙ וְאֶתְהֶ֔ן וְלֹא־תִהְיֶ֥ה זִמָּ֖ה בְּתוֹכְכֶֽם׃",
+              "english": "In fire shall they be burned, he and they, and there shall not be lewdness in your midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֨ר יִתֵּ֧ן שְׁכׇבְתּ֛וֹ בִּבְהֵמָ֖ה מ֣וֹת יוּמָ֑ת",
+              "english": "And if a man gives his lying to a beast, he shall be put to death,"
+            },
+            {
+              "hebrew": "וְאֶת־הַבְּהֵמָ֖ה תַּהֲרֹֽגוּ׃",
+              "english": "and the beast shall you kill [(because the man went astray through it)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאִשָּׁ֗ה אֲשֶׁ֨ר תִּקְרַ֤ב אֶל־כׇּל־בְּהֵמָה֙ לְרִבְעָ֣הֿ אֹתָ֔הּ",
+              "english": "And if a woman draws close to any beast so that it mount her,"
+            },
+            {
+              "hebrew": "וְהָרַגְתָּ֥ אֶת־הָאִשָּׁ֖ה וְאֶת־הַבְּהֵמָ֑ה מ֥וֹת יוּמָ֖תוּ דְּמֵיהֶ֥ם בָּֽם׃",
+              "english": "you shall kill the woman and the beast. They shall be put to death; their blood is in them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֣ישׁ אֲשֶׁר־יִקַּ֣ח אֶת־אֲחֹת֡וֹ בַּת־אָבִ֣יו א֣וֹ בַת־אִ֠מּ֠וֹ וְרָאָ֨ה אֶת־עֶרְוָתָ֜הּ וְהִֽיא־תִרְאֶ֤ה אֶת־עֶרְוָתוֹ֙ חֶ֣סֶד ה֔וּא",
+              "english": "And if a man takes his sister, the daughter of his father or the daughter of his mother, and sees her nakedness, and she sees his nakedness, it is shameful."
+            },
+            {
+              "hebrew": "וְנִ֨כְרְת֔וּ לְעֵינֵ֖י בְּנֵ֣י עַמָּ֑ם",
+              "english": "And they shall be cut off before the eyes of the children of their people."
+            },
+            {
+              "hebrew": "עֶרְוַ֧ת אֲחֹת֛וֹ גִּלָּ֖ה עֲוֺנ֥וֹ יִשָּֽׂא׃",
+              "english": "The nakedness of his sister he has revealed; he shall bear his sin."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְ֠אִ֠ישׁ אֲשֶׁר־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת־עֶרְוָתָהּ֙ אֶת־מְקֹרָ֣הּ הֶֽעֱרָ֔ה וְהִ֕וא גִּלְּתָ֖ה אֶת־מְק֣וֹר דָּמֶ֑יהָ",
+              "english": "And if a man lies with a woman in her flow and reveals her nakedness — her fount has he bared [(peripheral intercourse is hereby connoted)], and she has revealed the fount of her blood,"
+            },
+            {
+              "hebrew": "וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃",
+              "english": "and both of them shall be cut off from the midst of their people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְעֶרְוַ֨ת אֲח֧וֹת אִמְּךָ֛ וַאֲח֥וֹת אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה",
+              "english": "And the nakedness of your mother's sister [whether from her father or her mother] or your father's sister [whether from his father or his mother], you shall not reveal."
+            },
+            {
+              "hebrew": "כִּ֧י אֶת־שְׁאֵר֛וֹ הֶעֱרָ֖ה עֲוֺנָ֥ם יִשָּֽׂאוּ׃",
+              "english": "Because he has bared his (close) flesh, they shall bear their sin."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֤ר יִשְׁכַּב֙ אֶת־דֹּ֣דָת֔וֹ עֶרְוַ֥ת דֹּד֖וֹ גִּלָּ֑ה",
+              "english": "And a man who lies with the wife of his uncle [his father's brother from his father], the nakedness of his uncle has he revealed."
+            },
+            {
+              "hebrew": "חֶטְאָ֥ם יִשָּׂ֖אוּ עֲרִירִ֥ים יָמֻֽתוּ׃",
+              "english": "They shall bear their sin; childless shall they die. [If they have children, they will die in their lifetimes. (\"Cutting off,\" then, (kareth), in 18:29, refers to going childless)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ אֲשֶׁ֥ר יִקַּ֛ח אֶת־אֵ֥שֶׁת אָחִ֖יו נִדָּ֣ה הִ֑וא",
+              "english": "And if a man takes the wife of his brother, it [this cohabitation] is niddah [\"rejected,\" \"repulsive\"],"
+            },
+            {
+              "hebrew": "עֶרְוַ֥ת אָחִ֛יו גִּלָּ֖ה עֲרִירִ֥ים יִהְיֽוּ׃",
+              "english": "the nakedness of his brother has he revealed; childless shall they be [(i.e., remain) if they have no children.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁמַרְתֶּ֤ם אֶת־כׇּל־חֻקֹּתַי֙ וְאֶת־כׇּל־מִשְׁפָּטַ֔י וַעֲשִׂיתֶ֖ם אֹתָ֑ם",
+              "english": "And you shall heed all of My statutes and all of My judgments, and you shall do them,"
+            },
+            {
+              "hebrew": "וְלֹא־תָקִ֤יא אֶתְכֶם֙ הָאָ֔רֶץ אֲשֶׁ֨ר אֲנִ֜י מֵבִ֥יא אֶתְכֶ֛ם שָׁ֖מָּה לָשֶׁ֥בֶת בָּֽהּ׃",
+              "english": "so that the land not vomit you out, whither I bring you to dwell in it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֤א תֵֽלְכוּ֙ בְּחֻקֹּ֣ת הַגּ֔וֹי אֲשֶׁר־אֲנִ֥י מְשַׁלֵּ֖חַ מִפְּנֵיכֶ֑ם",
+              "english": "And you shall not walk in the statutes of the nation which I am sending away before you."
+            },
+            {
+              "hebrew": "כִּ֤י אֶת־כׇּל־אֵ֙לֶּה֙ עָשׂ֔וּ וָאָקֻ֖ץ בָּֽם׃",
+              "english": "For all of these (abominations) they did, and I despised them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וָאֹמַ֣ר לָכֶ֗ם אַתֶּם֮ תִּֽירְשׁ֣וּ אֶת־אַדְמָתָם֒ וַאֲנִ֞י אֶתְּנֶ֤נָּה לָכֶם֙ לָרֶ֣שֶׁת אֹתָ֔הּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ",
+              "english": "And I said to you: You shall inherit their land, and I will give it to you to inherit, a land flowing with milk and honey."
+            },
+            {
+              "hebrew": "אֲנִי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁר־הִבְדַּ֥לְתִּי אֶתְכֶ֖ם מִן־הָֽעַמִּֽים׃",
+              "english": "I am the L-rd your G-d who separated you from the peoples."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְהִבְדַּלְתֶּ֞ם בֵּֽין־הַבְּהֵמָ֤ה הַטְּהֹרָה֙ לַטְּמֵאָ֔ה וּבֵין־הָע֥וֹף הַטָּמֵ֖א לַטָּהֹ֑ר",
+              "english": "And you shall separate between the clean beast and the unclean [i.e., between that which is clean for you and that which is unclean, between the severing of the majority of the shechitah sign (in which instance the animal is kasher) and the severing of half (in which instance it is treifah)], and between the unclean fowl and the clean;"
+            },
+            {
+              "hebrew": "וְלֹֽא־תְשַׁקְּצ֨וּ אֶת־נַפְשֹֽׁתֵיכֶ֜ם בַּבְּהֵמָ֣ה וּבָע֗וֹף וּבְכֹל֙ אֲשֶׁ֣ר תִּרְמֹ֣שׂ הָֽאֲדָמָ֔ה אֲשֶׁר־הִבְדַּ֥לְתִּי לָכֶ֖ם לְטַמֵּֽא׃",
+              "english": "and you shall not make yourselves despicable through the beast or the fowl, or through anything with which the ground swarms, which I have separated for you as unclean [i.e., as forbidden]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וִהְיִ֤יתֶם לִי֙ קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אֲנִ֣י יְהֹוָ֑ה",
+              "english": "And you shall be holy unto Me, for I, the L-rd, am holy;"
+            },
+            {
+              "hebrew": "וָאַבְדִּ֥ל אֶתְכֶ֛ם מִן־הָֽעַמִּ֖ים לִהְי֥וֹת לִֽי׃",
+              "english": "and I have set you apart from the peoples to be Mine [If you are separate from them, you are Mine; if not, you are \"Nevuchadnezzar's.\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּי־יִהְיֶ֨ה בָהֶ֥ם א֛וֹב א֥וֹ יִדְּעֹנִ֖י מ֣וֹת יוּמָ֑תוּ",
+              "english": "And a man or a woman if there be in them an ov or yidoni, they shall be put to death."
+            },
+            {
+              "hebrew": "בָּאֶ֛בֶן יִרְגְּמ֥וּ אֹתָ֖ם דְּמֵיהֶ֥ם בָּֽם׃&nbsp;{פ}",
+              "english": "With stones shall they stone them; their blood is in them. [Where there are witnesses and warning — stoning; wittingness, without warning — kareth; unwittingness — a sin-offering. The same applies to all transgressions punishable by death where \"kareth\" is stated.]"
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "21": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה אֱמֹ֥ר אֶל־הַכֹּהֲנִ֖ים בְּנֵ֣י אַהֲרֹ֑ן וְאָמַרְתָּ֣ אֲלֵהֶ֔ם",
+              "english": "And the L-rd said to Moses: Speak to the Cohanim, [(excluding chalalim, those unfit to minister)], the sons of Aaron, [(even those with blemishes) (and not the daughters of Aaron)], and say to them [(adults being exhorted in respect to minors)]:"
+            },
+            {
+              "hebrew": "לְנֶ֥פֶשׁ לֹֽא־יִטַּמָּ֖א בְּעַמָּֽיו׃",
+              "english": "For a dead body he (a Cohein) shall not become unclean among his people [i.e., when the dead one is \"among his people,\" excluding a meth mitzvah (one who has no one else to bury him)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֚י אִם־לִשְׁאֵר֔וֹ הַקָּרֹ֖ב אֵלָ֑יו",
+              "english": "Only for his flesh [his wife] that is near to him,"
+            },
+            {
+              "hebrew": "לְאִמּ֣וֹ וּלְאָבִ֔יו וְלִבְנ֥וֹ וּלְבִתּ֖וֹ וּלְאָחִֽיו׃",
+              "english": "his mother and his father, his son and his daughter and his brother."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְלַאֲחֹת֤וֹ הַבְּתוּלָה֙ הַקְּרוֹבָ֣ה אֵלָ֔יו אֲשֶׁ֥ר לֹֽא־הָיְתָ֖ה לְאִ֑ישׁ",
+              "english": "And for his sister, the virgin, who is near to him [(including one who is betrothed)], who was not wed to a man [for cohabitation] —"
+            },
+            {
+              "hebrew": "לָ֖הּ יִטַּמָּֽא׃",
+              "english": "for her shall he make himself unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֥א יִטַּמָּ֖א בַּ֣עַל בְּעַמָּ֑יו",
+              "english": "A husband (who is a Cohein) shall not defile himself [for his wife when she is] in [the midst of] his people [i.e., when there are others to bury her (in which instance she is not a meth mitzvah). (And the wife spoken of here is one)]"
+            },
+            {
+              "hebrew": "לְהֵ֖חַלּֽוֹ׃",
+              "english": "through whom he is profaned [(made a chalal) by living with her]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־[יִקְרְח֤וּ] (יקרחה) קׇרְחָה֙ בְּרֹאשָׁ֔ם",
+              "english": "They shall not make a baldness upon their head [for one who dies],"
+            },
+            {
+              "hebrew": "וּפְאַ֥ת זְקָנָ֖ם לֹ֣א יְגַלֵּ֑חוּ",
+              "english": "and the corner of their beard they shall not shave off [with a razor],"
+            },
+            {
+              "hebrew": "וּבִ֨בְשָׂרָ֔ם לֹ֥א יִשְׂרְט֖וּ שָׂרָֽטֶת׃",
+              "english": "and in their flesh they shall not make any cutting [(There is liability for each cutting.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "קְדֹשִׁ֤ים יִהְיוּ֙ לֵאלֹ֣הֵיהֶ֔ם וְלֹ֣א יְחַלְּל֔וּ שֵׁ֖ם אֱלֹהֵיהֶ֑ם",
+              "english": "Holy shall they be, [perforce. Beth-din compels them to remain holy (i.e., not to make themselves unclean)] to their G-d, and they shall not profane the name of their G-d;"
+            },
+            {
+              "hebrew": "כִּי֩ אֶת־אִשֵּׁ֨י יְהֹוָ֜ה לֶ֧חֶם אֱלֹהֵיהֶ֛ם הֵ֥ם מַקְרִיבִ֖ם וְהָ֥יוּ קֹֽדֶשׁ׃",
+              "english": "for the fire-offerings of the L-rd, the bread of their G-d, they offer up — and they shall be holy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "אִשָּׁ֨ה זֹנָ֤ה וַחֲלָלָה֙ לֹ֣א יִקָּ֔חוּ וְאִשָּׁ֛ה גְּרוּשָׁ֥ה מֵאִישָׁ֖הּ לֹ֣א יִקָּ֑חוּ",
+              "english": "A woman who is a harlot or profaned (chalalah) [a woman born of those unfit for the priesthood, e.g., the daughter of a widow by a high-priest, or of a divorced woman by an ordinary priest, or a woman who cohabited with one unfit for the priesthood] they shall not take;"
+            },
+            {
+              "hebrew": "כִּֽי־קָדֹ֥שׁ ה֖וּא לֵאלֹהָֽיו׃",
+              "english": "for he is holy to his G-d."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְקִ֨דַּשְׁתּ֔וֹ כִּֽי־אֶת־לֶ֥חֶם אֱלֹהֶ֖יךָ ה֣וּא מַקְרִ֑יב",
+              "english": "And you shall make him holy, [perforce. (If he refuses to divorce her, lash him and afflict him until he does so)], for he offers up the bread of your G-d;"
+            },
+            {
+              "hebrew": "קָדֹשׁ֙ יִֽהְיֶה־לָּ֔ךְ כִּ֣י קָד֔וֹשׁ אֲנִ֥י יְהֹוָ֖ה מְקַדִּשְׁכֶֽם׃",
+              "english": "holy shall he be unto you [(Relate to him with holiness, having him initiate all things and giving him precedence in blessing at the meal)], for holy am I the L-rd, who sanctifies you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וּבַת֙ אִ֣ישׁ כֹּהֵ֔ן כִּ֥י תֵחֵ֖ל לִזְנ֑וֹת אֶת־אָבִ֙יהָ֙ הִ֣יא מְחַלֶּ֔לֶת",
+              "english": "And the [betrothed or married] daughter of a man who is a Cohein, if she profane herself through fornication, she profanes her father [(They say about him: \"Cursed be he who begot such as she! Cursed be he who raised such as she!\")];"
+            },
+            {
+              "hebrew": "בָּאֵ֖שׁ תִּשָּׂרֵֽף׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "in fire shall she be burned."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְהַכֹּהֵן֩ הַגָּד֨וֹל מֵאֶחָ֜יו אֲֽשֶׁר־יוּצַ֥ק עַל־רֹאשׁ֣וֹ&thinsp;׀ שֶׁ֤מֶן הַמִּשְׁחָה֙ וּמִלֵּ֣א אֶת־יָד֔וֹ לִלְבֹּ֖שׁ אֶת־הַבְּגָדִ֑ים",
+              "english": "And the Cohein who is greater than his brothers (i.e., the high-priest), upon whose head the oil of anointment has been poured, and who has been invested to wear the garments —"
+            },
+            {
+              "hebrew": "אֶת־רֹאשׁוֹ֙ לֹ֣א יִפְרָ֔ע וּבְגָדָ֖יו לֹ֥א יִפְרֹֽם׃",
+              "english": "his hair he shall not grow long [for more than thirty days (in mourning)] and his clothes he shall not rend."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֛ל כׇּל־נַפְשֹׁ֥ת מֵ֖ת לֹ֣א יָבֹ֑א",
+              "english": "And to any (kol) dead body [(kol) including a revi'ith of blood of a dead person, which causes uncleanliness in a tent)] he shall not come [(into the tent of the dead)]."
+            },
+            {
+              "hebrew": "לְאָבִ֥יו וּלְאִמּ֖וֹ לֹ֥א יִטַּמָּֽא׃",
+              "english": "For his father and for his mother he shall not become unclean, [but he may become unclean for a meth mitzvah]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וּמִן־הַמִּקְדָּשׁ֙ לֹ֣א יֵצֵ֔א וְלֹ֣א יְחַלֵּ֔ל אֵ֖ת מִקְדַּ֣שׁ אֱלֹהָ֑יו",
+              "english": "And from the sanctuary he shall not go out [He does not follow the litter, and he sacrifices even when he is an onein (before the burial)], and he does not profane the sanctuary of his G-d [thereby (But an ordinary Cohein who serves when he is an onein does)],"
+            },
+            {
+              "hebrew": "כִּ֡י נֵ֠זֶר שֶׁ֣מֶן מִשְׁחַ֧ת אֱלֹהָ֛יו עָלָ֖יו אֲנִ֥י יְהֹוָֽה׃",
+              "english": "for the crown of the anointing oil of his G-d is upon him; I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְה֕וּא",
+              "english": "And he,"
+            },
+            {
+              "hebrew": "אִשָּׁ֥ה בִבְתוּלֶ֖יהָ יִקָּֽח׃",
+              "english": "a woman in her virginity he shall take."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "אַלְמָנָ֤ה וּגְרוּשָׁה֙ וַחֲלָלָ֣ה זֹנָ֔ה אֶת־אֵ֖לֶּה לֹ֣א יִקָּ֑ח",
+              "english": "A widow, and a divorced woman, and a chalalah [a woman born of those unfit for the priesthood], (and) a harlot — these he shall not take;"
+            },
+            {
+              "hebrew": "כִּ֛י אִם־בְּתוּלָ֥ה מֵעַמָּ֖יו יִקַּ֥ח אִשָּֽׁה׃",
+              "english": "but only a virgin from his people shall he take as a wife."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹֽא־יְחַלֵּ֥ל זַרְע֖וֹ בְּעַמָּ֑יו",
+              "english": "And he shall not profane his seed among his people [(If he does take one of them, his child is a chalal)];"
+            },
+            {
+              "hebrew": "כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשֽׁוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "for I am the L-rd who makes him holy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֥ר אֶֽל־אַהֲרֹ֖ן לֵאמֹ֑ר",
+              "english": "Speak to Aaron, saying:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ מִֽזַּרְעֲךָ֞ לְדֹרֹתָ֗ם אֲשֶׁ֨ר יִהְיֶ֥ה בוֹ֙ מ֔וּם לֹ֣א יִקְרַ֔ב לְהַקְרִ֖יב לֶ֥חֶם אֱלֹהָֽיו׃",
+              "english": "A man of your seed, through their generations, who will have in him a blemish, shall not come near to offer up the bread [i.e., \"the food\"] of his G-d."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֥י כׇל־אִ֛ישׁ אֲשֶׁר־בּ֥וֹ מ֖וּם לֹ֣א יִקְרָ֑ב",
+              "english": "For any man who has in him a blemish, [by right] should not come near [to do so]:"
+            },
+            {
+              "hebrew": "אִ֤ישׁ עִוֵּר֙ א֣וֹ פִסֵּ֔חַ א֥וֹ חָרֻ֖ם א֥וֹ שָׂרֽוּעַ׃",
+              "english": "a man who is blind, or lame, or sunken-nosed, or asymmetrical [of limb or organ]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "א֣וֹ אִ֔ישׁ אֲשֶׁר־יִהְיֶ֥ה ב֖וֹ שֶׁ֣בֶר רָ֑גֶל",
+              "english": "Or a man who is broken-footed"
+            },
+            {
+              "hebrew": "א֖וֹ שֶׁ֥בֶר יָֽד׃",
+              "english": "or broken-handed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "אֽוֹ־גִבֵּ֣ן אוֹ־דַ֔ק א֖וֹ תְּבַלֻּ֣ל בְּעֵינ֑וֹ",
+              "english": "Or gibein [having long, flattened eye-brows] or dak [having a membrane over the eyes] or tevalul [having a disorientation of the black-white arrangement] of his eye,"
+            },
+            {
+              "hebrew": "א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת א֖וֹ מְר֥וֹחַ אָֽשֶׁךְ׃",
+              "english": "or [having] garav or yalefeth [types of skin conditions] or meroach ashech [having crushed testicles]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־אִ֞ישׁ אֲשֶׁר־בּ֣וֹ מ֗וּם מִזֶּ֙רַע֙ אַהֲרֹ֣ן הַכֹּהֵ֔ן לֹ֣א יִגַּ֔שׁ לְהַקְרִ֖יב אֶת־אִשֵּׁ֣י יְהֹוָ֑ה",
+              "english": "Every man who has a blemish [(Other blemishes are hereby included)] in him [(While it is in him he is pasul; if it leaves, he is kasher)] of the seed of Aaron the Cohein, shall not come near to offer up the fire-offerings of the L-rd."
+            },
+            {
+              "hebrew": "מ֣וּם בּ֔וֹ אֵ֚ת לֶ֣חֶם אֱלֹהָ֔יו לֹ֥א יִגַּ֖שׁ לְהַקְרִֽיב׃",
+              "english": "There is a blemish in him; the bread of his G-d he shall not come near to offer up."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "לֶ֣חֶם אֱלֹהָ֔יו מִקׇּדְשֵׁ֖י הַקֳּדָשִׁ֑ים",
+              "english": "The bread of his G-d, of the holy of holies [(higher-order sanctities)],"
+            },
+            {
+              "hebrew": "וּמִן־הַקֳּדָשִׁ֖ים יֹאכֵֽל׃",
+              "english": "and of the holies [(lower-order sanctities)], he may eat."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "אַ֣ךְ אֶל־הַפָּרֹ֜כֶת לֹ֣א יָבֹ֗א וְאֶל־הַמִּזְבֵּ֛חַ לֹ֥א יִגַּ֖שׁ כִּֽי־מ֣וּם בּ֑וֹ",
+              "english": "But to the parocheth [to sprinkle the seven sprinklings] and to the [outer] altar he shall not come near, for a blemish is in him;"
+            },
+            {
+              "hebrew": "וְלֹ֤א יְחַלֵּל֙ אֶת־מִקְדָּשַׁ֔י כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשָֽׁם׃",
+              "english": "and he shall not profane My holy places [(If he does serve, the service is profaned and is pasul)]; for I am the L-rd who sanctifies them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶֽל־אַהֲרֹ֖ן וְאֶל־בָּנָ֑יו",
+              "english": "And Moses spoke [(He related) this mitzvah] to Aaron and his sons"
+            },
+            {
+              "hebrew": "וְאֶֽל־כׇּל־בְּנֵ֖י יִשְׂרָאֵֽל׃&nbsp;{פ}",
+              "english": "and to all the children of Israel [(exhorting beth-din vis-à-vis the Cohanim)]."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "22": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו",
+              "english": "Speak to Aaron and to his sons"
+            },
+            {
+              "hebrew": "וְיִנָּֽזְרוּ֙ מִקׇּדְשֵׁ֣י בְנֵֽי־יִשְׂרָאֵ֔ל וְלֹ֥א יְחַלְּל֖וּ אֶת־שֵׁ֣ם קׇדְשִׁ֑י אֲשֶׁ֨ר הֵ֧ם מַקְדִּשִׁ֛ים לִ֖י אֲנִ֥י יְהֹוָֽה׃",
+              "english": "that they separate themselves [in the days of their uncleanliness] from the holy things of the children of Israel which they [(including the Cohanim themselves)] make holy unto Me, that they not profane My holy name; I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "אֱמֹ֣ר אֲלֵהֶ֗ם לְדֹרֹ֨תֵיכֶ֜ם כׇּל־אִ֣ישׁ&thinsp;׀ אֲשֶׁר־יִקְרַ֣ב מִכׇּל־זַרְעֲכֶ֗ם אֶל־הַקֳּדָשִׁים֙ אֲשֶׁ֨ר יַקְדִּ֤ישׁוּ בְנֵֽי־יִשְׂרָאֵל֙ לַֽיהֹוָ֔ה וְטֻמְאָת֖וֹ עָלָ֑יו",
+              "english": "Say to them: Throughout your generations, every man who draws near of all of your seed to [eat] the holy things that the children of Israel make holy unto the L-rd, with his uncleanliness upon him,"
+            },
+            {
+              "hebrew": "וְנִכְרְתָ֞ה הַנֶּ֧פֶשׁ הַהִ֛וא מִלְּפָנַ֖י אֲנִ֥י יְהֹוָֽה׃",
+              "english": "that soul will be cut off from before Me; I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "אִ֣ישׁ אִ֞ישׁ מִזֶּ֣רַע אַהֲרֹ֗ן וְה֤וּא צָר֙וּעַ֙ א֣וֹ זָ֔ב בַּקֳּדָשִׁים֙ לֹ֣א יֹאכַ֔ל עַ֖ד אֲשֶׁ֣ר יִטְהָ֑ר",
+              "english": "A man of the seed of Aaron, if he is a leper or a zav, of the holy things he shall not eat until he is clean."
+            },
+            {
+              "hebrew": "וְהַנֹּגֵ֙עַ֙ בְּכׇל־טְמֵא־נֶ֔פֶשׁ א֣וֹ אִ֔ישׁ אֲשֶׁר־תֵּצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת־זָֽרַע׃",
+              "english": "And one who touches anyone who is unclean through the dead; or a man from whom semen issues,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "אוֹ־אִישׁ֙ אֲשֶׁ֣ר יִגַּ֔ע בְּכׇל־שֶׁ֖רֶץ אֲשֶׁ֣ר יִטְמָא־ל֑וֹ",
+              "english": "Or a man who touches any creeping thing (sheretz) [the (minimum) amount (a lentil-size)] which renders him unclean,"
+            },
+            {
+              "hebrew": "א֤וֹ בְאָדָם֙ אֲשֶׁ֣ר יִטְמָא־ל֔וֹ לְכֹ֖ל טֻמְאָתֽוֹ׃",
+              "english": "or a [dead] man [the (minimum) amount (an olive-size)] which renders him unclean — whatever his uncleanliness [(including touching a zav, a zavah, a niddah, or a yoledeth (a woman who has just given birth)] —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "נֶ֚פֶשׁ אֲשֶׁ֣ר תִּגַּע־בּ֔וֹ וְטָמְאָ֖ה עַד־הָעָ֑רֶב",
+              "english": "The soul who touches it [one of the above] shall be unclean until the evening;"
+            },
+            {
+              "hebrew": "וְלֹ֤א יֹאכַל֙ מִן־הַקֳּדָשִׁ֔ים כִּ֛י אִם־רָחַ֥ץ בְּשָׂר֖וֹ בַּמָּֽיִם׃",
+              "english": "and he shall not eat of the holy things until he bathes his flesh in water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וּבָ֥א הַשֶּׁ֖מֶשׁ וְטָהֵ֑ר",
+              "english": "And when the sun sets he shall be clean,"
+            },
+            {
+              "hebrew": "וְאַחַר֙ יֹאכַ֣ל מִן־הַקֳּדָשִׁ֔ים כִּ֥י לַחְמ֖וֹ הֽוּא׃",
+              "english": "and then he may eat of the holy things [terumah], for it is his bread."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "נְבֵלָ֧ה וּטְרֵפָ֛ה לֹ֥א יֹאכַ֖ל לְטׇמְאָה־בָ֑הּ",
+              "english": "Neveilah or treifah he shall not eat [see 17:15] to defile himself therewith [(If he does eat it, he is forbidden to eat kodshim)];"
+            },
+            {
+              "hebrew": "אֲנִ֖י יְהֹוָֽה׃",
+              "english": "I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁמְר֣וּ אֶת־מִשְׁמַרְתִּ֗י וְלֹֽא־יִשְׂא֤וּ עָלָיו֙ חֵ֔טְא וּמֵ֥תוּ ב֖וֹ כִּ֣י יְחַלְּלֻ֑הוּ",
+              "english": "And they shall keep My charge [not to eat terumah in a state of bodily uncleanliness], that they not bear sin because of it. And they will die for it [(death by the hands of Heaven)] if they profane it;"
+            },
+            {
+              "hebrew": "אֲנִ֥י יְהֹוָ֖ה מְקַדְּשָֽׁם׃",
+              "english": "I am the L-rd who sanctifies them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־זָ֖ר לֹא־יֹ֣אכַל קֹ֑דֶשׁ",
+              "english": "And every non-priest (zar) shall not eat the holy thing [terumah]."
+            },
+            {
+              "hebrew": "תּוֹשַׁ֥ב כֹּהֵ֛ן וְשָׂכִ֖יר לֹא־יֹ֥אכַל קֹֽדֶשׁ׃",
+              "english": "A Cohein's toshav [a servant whose ear is bored, who serves until the Jubilee year] and (his) sachir [a hired servant, who leaves after six years] shall not eat the holy thing, [the Cohein not owning his body]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְכֹהֵ֗ן כִּֽי־יִקְנֶ֥ה נֶ֙פֶשׁ֙ קִנְיַ֣ן כַּסְפּ֔וֹ ה֖וּא יֹ֣אכַל בּ֑וֹ",
+              "english": "And a Cohein, if he acquire a soul [a Canaanite bondsman, whose body he owns], the acquisition of his money [(the Cohein's wife is hereby included)], he may eat of it,"
+            },
+            {
+              "hebrew": "וִילִ֣יד בֵּית֔וֹ הֵ֖ם יֹאכְל֥וּ בְלַחְמֽוֹ׃",
+              "english": "and one that is born in his house [(the children of the bondswomen)] — they may eat of his bread."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וּבַ֨ת־כֹּהֵ֔ן כִּ֥י תִהְיֶ֖ה לְאִ֣ישׁ זָ֑ר",
+              "english": "And the daughter of a Cohein, if she be wed to a man who is a zar [i.e., a Levite or an Israelite],"
+            },
+            {
+              "hebrew": "הִ֕וא בִּתְרוּמַ֥ת הַקֳּדָשִׁ֖ים לֹ֥א תֹאכֵֽל׃",
+              "english": "she, of the terumah of the holy things shall not eat."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וּבַת־כֹּהֵן֩ כִּ֨י תִהְיֶ֜ה אַלְמָנָ֣ה וּגְרוּשָׁ֗ה וְזֶ֘רַע֮ אֵ֣ין לָהּ֒ וְשָׁבָ֞ה אֶל־בֵּ֤ית אָבִ֙יהָ֙ כִּנְעוּרֶ֔יהָ מִלֶּ֥חֶם אָבִ֖יהָ תֹּאכֵ֑ל",
+              "english": "And the daughter of a Cohein, if she be widowed or divorced [from the zar], and she have no seed [from him], then she may return to the house of her father as in her maidenhood (and) from the bread of her father may she eat."
+            },
+            {
+              "hebrew": "וְכׇל־זָ֖ר לֹא־יֹ֥אכַל בּֽוֹ׃",
+              "english": "And no zar may eat of it, [but a Cohein who is an onein (a mourner) may]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֕ישׁ כִּֽי־יֹאכַ֥ל קֹ֖דֶשׁ בִּשְׁגָגָ֑ה",
+              "english": "And a man, if he eat the holy thing [terumah] unwittingly,"
+            },
+            {
+              "hebrew": "וְיָסַ֤ף חֲמִֽשִׁיתוֹ֙ עָלָ֔יו וְנָתַ֥ן לַכֹּהֵ֖ן אֶת־הַקֹּֽדֶשׁ׃",
+              "english": "then he shall add its fifth part upon it and give the Cohein the holy thing [i.e., what can become holy. He does not give him money, but produce of chullin (non-terumah), which becomes terumah]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֣א יְחַלְּל֔וּ אֶת־קׇדְשֵׁ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And they shall not profane the holy things of the children of Israel [by feeding it to zarim],"
+            },
+            {
+              "hebrew": "אֵ֥ת אֲשֶׁר־יָרִ֖ימוּ לַיהֹוָֽה׃",
+              "english": "what they lift to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְהִשִּׂ֤יאוּ אוֹתָם֙ עֲוֺ֣ן אַשְׁמָ֔ה בְּאׇכְלָ֖ם אֶת־קׇדְשֵׁיהֶ֑ם",
+              "english": "And they (the Cohanim) will bear upon themselves the sin of guilt when they (the zarim) eat their holy things [things set aside to be terumah];"
+            },
+            {
+              "hebrew": "כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשָֽׁם׃&nbsp;{פ}",
+              "english": "for I am the L-rd who sanctifies them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו וְאֶל֙ כׇּל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם",
+              "english": "Speak to Aaron and to his sons and to all the children of Israel, and say to them:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אִישׁ֩ מִבֵּ֨ית יִשְׂרָאֵ֜ל וּמִן־הַגֵּ֣ר בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יַקְרִ֤יב קׇרְבָּנוֹ֙ לְכׇל־נִדְרֵיהֶם֙ וּלְכׇל־נִדְבוֹתָ֔ם אֲשֶׁר־יַקְרִ֥יבוּ לַיהֹוָ֖ה לְעֹלָֽה׃",
+              "english": "A man of the house of Israel and of the stranger in Israel, who brings his offering, of all of their vows [\"I take it upon myself to bring, etc.\"] and of all of their gift offerings [\"This (animal) shall be, etc.\"], which they will present to the L-rd as a burnt-offering —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "לִֽרְצֹנְכֶ֑ם",
+              "english": "So that you find favor with it [(in My eyes) shall you bring it. And with what will you find favor?]"
+            },
+            {
+              "hebrew": "תָּמִ֣ים זָכָ֔ר בַּבָּקָ֕ר בַּכְּשָׂבִ֖ים וּבָֽעִזִּֽים׃",
+              "english": "A male without blemish in the cattle, in the sheep, and in the goats [(but a bird burnt-offering need not be male and unblemished. It becomes pasul only if it lacks a limb.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "כֹּ֛ל אֲשֶׁר־בּ֥וֹ מ֖וּם לֹ֣א תַקְרִ֑יבוּ",
+              "english": "Whatever has a blemish in it you shall not present,"
+            },
+            {
+              "hebrew": "כִּי־לֹ֥א לְרָצ֖וֹן יִהְיֶ֥ה לָכֶֽם׃",
+              "english": "for it will not be acceptable for you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֗ישׁ כִּֽי־יַקְרִ֤יב זֶֽבַח־שְׁלָמִים֙ לַיהֹוָ֔ה לְפַלֵּא־נֶ֙דֶר֙ א֣וֹ לִנְדָבָ֔ה בַּבָּקָ֖ר א֣וֹ בַצֹּ֑אן",
+              "english": "And if a man present a sacrifice of peace-offerings to the L-rd for an expressed vow or as a gift-offering, of the cattle or of the flock,"
+            },
+            {
+              "hebrew": "תָּמִ֤ים יִֽהְיֶה֙ לְרָצ֔וֹן כׇּל־מ֖וּם לֹ֥א יִהְיֶה־בּֽוֹ׃",
+              "english": "perfect shall it be for acceptance; no blemish shall be in it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "עַוֶּ֩רֶת֩ א֨וֹ שָׁב֜וּר אוֹ־חָר֣וּץ אֽוֹ־יַבֶּ֗לֶת א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת לֹא־תַקְרִ֥יבוּ אֵ֖לֶּה לַיהֹוָ֑ה",
+              "english": "[It shall not be] blind or broken or charutz [having an eyelid or a lip that was split or injured], or having a wart or [having] garav or yalefeth [types of skin conditions]. You shall not present these to the L-rd. [(\"You shall not present\") — three times (here, 24, 25): to exhort against their being dedicated, slaughtered, and their blood being sprinkled)]"
+            },
+            {
+              "hebrew": "וְאִשֶּׁ֗ה לֹא־תִתְּנ֥וּ מֵהֶ֛ם עַל־הַמִּזְבֵּ֖חַ לַיהֹוָֽה׃",
+              "english": "And a fire-offering you shall not make of them on the altar to the L-rd [(an exhortation against their being smoked)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְשׁ֥וֹר וָשֶׂ֖ה שָׂר֣וּעַ וְקָל֑וּט נְדָבָה֙ תַּעֲשֶׂ֣ה אֹת֔וֹ",
+              "english": "And an ox or a lamb, asymmetrical [of limb] or \"closed\" [of hoof], a gift [for Temple maintenance] you may make it,"
+            },
+            {
+              "hebrew": "וּלְנֵ֖דֶר לֹ֥א יֵרָצֶֽה׃",
+              "english": "but as a vow [for the altar] it shall not be acceptable."
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:00:16.616Z"
+  "updatedAt": "2026-10-26T19:01:38.903Z"
 }
