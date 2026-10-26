@@ -22,3 +22,9 @@ These are source-level concerns, not new translation choices:
 - Deuteronomy 26:17: English reverses the subject of singling out the L-rd.
 
 Longer phrase spans are used where source word order or explanatory brackets prevent a clean smaller one-to-one alignment. These exceptions do not establish that every remaining semantic boundary has been independently reviewed.
+
+## Targeted boundary review
+
+All 690 newly aligned two-pair verses with at least 14 Hebrew space-delimited words were reviewed. Natural smaller clause spans were added where both languages support them. Many repeated lists, genealogies, and commentary-heavy verses retain two pairs. New material currently averages 2.37 pairs per verse, below the requested sample's 2.6. This targeted pass and exact-text validation are not a certification of every translation's correctness or every alignment's semantics.
+
+Reader integration tests cover both approved Koren references, rejected unapproved editions and references, unavailable fallback requests, warning/license failures, unavailable saved data, and safe source-only fallback for damaged spacing-entity phrases. A damaged entity-boundary verse may fall back to its complete original verse rather than recover a single pair.
