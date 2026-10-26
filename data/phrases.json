@@ -39168,9 +39168,1458 @@
             }
           ],
           "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ בְּרִיחֵ֖י עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made bars of acacia wood,"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הָאֶחָֽת׃",
+              "english": "five for the beams of one side of the mishkan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית",
+              "english": "And five bars for the beams of the second side of the mishkan,"
+            },
+            {
+              "hebrew": "וַחֲמִשָּׁ֤ה בְרִיחִם֙ לְקַרְשֵׁ֣י הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
+              "english": "and five bars for the beams of the mishkan at the western ends."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֖עַשׂ אֶת־הַבְּרִ֣יחַ הַתִּיכֹ֑ן",
+              "english": "And he made the middle bar"
+            },
+            {
+              "hebrew": "לִבְרֹ֙חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃",
+              "english": "to extend in the midst of the beams from end to end."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְֽאֶת־הַקְּרָשִׁ֞ים צִפָּ֣ה זָהָ֗ב",
+              "english": "And the beams he covered with gold,"
+            },
+            {
+              "hebrew": "וְאֶת־טַבְּעֹתָם֙ עָשָׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם",
+              "english": "and their rings he made of gold [to serve as] housings for the bars;"
+            },
+            {
+              "hebrew": "וַיְצַ֥ף אֶת־הַבְּרִיחִ֖ם זָהָֽב׃",
+              "english": "and he covered the bars with gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֙עַשׂ֙ אֶת־הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר",
+              "english": "And he made the parocheth of blue wool and purple wool and scarlet wool and twisted linen."
+            },
+            {
+              "hebrew": "מַעֲשֵׂ֥ה חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
+              "english": "Artistic work he made it, cherubs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים",
+              "english": "And he made for it four pillars of acacia wood"
+            },
+            {
+              "hebrew": "וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב",
+              "english": "and he covered them with gold, their hooks of gold."
+            },
+            {
+              "hebrew": "וַיִּצֹ֣ק לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי־כָֽסֶף׃",
+              "english": "And he cast for them four silver sockets."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל",
+              "english": "And he made a screen for the entrance of the tent,"
+            },
+            {
+              "hebrew": "תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
+              "english": "of blue wool, purple wool, scarlet wool, and twisted linen, the work of an embroiderer."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת־וָ֣וֵיהֶ֔ם",
+              "english": "And its pillars five, and their hooks,"
+            },
+            {
+              "hebrew": "וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב",
+              "english": "and he covered their tops and their belts with gold;"
+            },
+            {
+              "hebrew": "וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת׃&nbsp;{פ}",
+              "english": "and their sockets five, of copper."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "37": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת־הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And Betzalel made the ark [(its making being ascribed to him rather than to the other artisans because of his total dedication to the work)], of acacia wood:"
+            },
+            {
+              "hebrew": "אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ",
+              "english": "two and a half cubits, its length;"
+            },
+            {
+              "hebrew": "וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+              "english": "one and a half cubits, its breadth; and one and a half cubits, its height."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיְצַפֵּ֛הוּ זָהָ֥ב טָה֖וֹר מִבַּ֣יִת וּמִח֑וּץ",
+              "english": "And he covered it with pure gold from inside and from outside."
+            },
+            {
+              "hebrew": "וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+              "english": "And he made for it a rim of gold roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּצֹ֣ק ל֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו",
+              "english": "And he cast for it four golden rings for its four corners;"
+            },
+            {
+              "hebrew": "וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+              "english": "two rings on one side and two rings on the other side."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made staves of acacia wood"
+            },
+            {
+              "hebrew": "וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃",
+              "english": "and he covered them with gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֵ֤א אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן",
+              "english": "And he inserted the staves in the rings on the sides of the ark"
+            },
+            {
+              "hebrew": "לָשֵׂ֖את אֶת־הָאָרֹֽן׃",
+              "english": "to carry the ark therewith."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ כַּפֹּ֖רֶת זָהָ֣ב טָה֑וֹר",
+              "english": "And he made a kaporeth of pure gold:"
+            },
+            {
+              "hebrew": "אַמָּתַ֤יִם וָחֵ֙צִי֙ אׇרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רׇחְבָּֽהּ׃",
+              "english": "two and a half cubits its length and a cubit and a half its width."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֛עַשׂ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב",
+              "english": "And he made two golden cherubs."
+            },
+            {
+              "hebrew": "מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
+              "english": "Of beaten work he made them, at the two ends of the kaporeth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "כְּרוּב־אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה",
+              "english": "One cherub at one end and one cherub at the other end."
+            },
+            {
+              "hebrew": "מִן־הַכַּפֹּ֛רֶת עָשָׂ֥ה אֶת־הַכְּרֻבִ֖ים מִשְּׁנֵ֥י (קצוותו) [קְצוֹתָֽיו]׃",
+              "english": "From the kaporeth [itself] he made the cherubs, from its two ends."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּהְי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹֽכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־הַכַּפֹּ֔רֶת",
+              "english": "And the cherubs had their wings spread on high, covering the kaporeth with their wings from above."
+            },
+            {
+              "hebrew": "וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו",
+              "english": "And their faces were towards each other."
+            },
+            {
+              "hebrew": "אֶ֨ל־הַכַּפֹּ֔רֶת הָי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃&nbsp;{פ}",
+              "english": "Towards the kaporeth were the faces of the cherubs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ אֶת־הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made the table of acacia wood:"
+            },
+            {
+              "hebrew": "אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ",
+              "english": "two cubits, its length; one cubit, its breadth;"
+            },
+            {
+              "hebrew": "וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+              "english": "and a cubit and a half, its height."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר",
+              "english": "And he covered it with pure gold,"
+            },
+            {
+              "hebrew": "וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+              "english": "and he made for it a rim of gold roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב",
+              "english": "And he made a frame for it, a handbreadth roundabout."
+            },
+            {
+              "hebrew": "וַיַּ֧עַשׂ זֵר־זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
+              "english": "And he made a golden rim for its frame roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב",
+              "english": "And he cast for it four golden rings."
+            },
+            {
+              "hebrew": "וַיִּתֵּן֙ אֶת־הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
+              "english": "And he placed the rings on the four corners of its four legs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת",
+              "english": "Opposite the [corners of the] frame were the rings,"
+            },
+            {
+              "hebrew": "בָּתִּים֙ לַבַּדִּ֔ים לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+              "english": "housings for the staves for the carrying of the table."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤עַשׂ אֶת־הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים",
+              "english": "And he made the staves of acacia wood,"
+            },
+            {
+              "hebrew": "וַיְצַ֥ף אֹתָ֖ם זָהָ֑ב",
+              "english": "and he covered them with gold,"
+            },
+            {
+              "hebrew": "לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+              "english": "to carry the table therewith."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֜עַשׂ אֶֽת־הַכֵּלִ֣ים&thinsp;׀ אֲשֶׁ֣ר עַל־הַשֻּׁלְחָ֗ן",
+              "english": "And he made the implements which were on the table:"
+            },
+            {
+              "hebrew": "אֶת־קְעָרֹתָ֤יו וְאֶת־כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶ֨ת־הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֖ב טָהֽוֹר׃&nbsp;{פ}",
+              "english": "its [bread-] moulds, its censers, its canes, and its staves, by which [canes] it [the show-bread] was covered — pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ אֶת־הַמְּנֹרָ֖ה זָהָ֣ב טָה֑וֹר",
+              "english": "And he made the menorah of pure gold."
+            },
+            {
+              "hebrew": "מִקְשָׁ֞ה עָשָׂ֤ה אֶת־הַמְּנֹרָה֙",
+              "english": "Of beaten work did he make the menorah."
+            },
+            {
+              "hebrew": "יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה הָיֽוּ׃",
+              "english": "Its base, its [central] shaft, its bowls, its bulbs, and its flowers were (fashioned) from it [the one piece of gold]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ",
+              "english": "And six branches emerged from its sides,"
+            },
+            {
+              "hebrew": "שְׁלֹשָׁ֣ה&thinsp;׀ קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָֽאֶחָ֔ד",
+              "english": "three branches of the menorah from one side,"
+            },
+            {
+              "hebrew": "וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
+              "english": "and three branches of the menorah from the other side."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "שְׁלֹשָׁ֣ה גְ֠בִעִ֠ים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶ֒רַח֒",
+              "english": "Three chased bowls on one branch, with bulb and flower;"
+            },
+            {
+              "hebrew": "וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בְּקָנֶ֥ה אֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח",
+              "english": "and three chased bowls on the other branch, with bulb and flower."
+            },
+            {
+              "hebrew": "כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+              "english": "So, with (all) six branches that project from the menorah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים",
+              "english": "And on the [central shaft of the] menorah were four bowls,"
+            },
+            {
+              "hebrew": "מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
+              "english": "chased, its bulbs and its flowers."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְכַפְתֹּ֡ר תַּ֩חַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה",
+              "english": "And a bulb under the two branches from it [the one piece of gold],"
+            },
+            {
+              "hebrew": "וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה",
+              "english": "and a bulb under the (next) two branches from it,"
+            },
+            {
+              "hebrew": "וְכַפְתֹּ֕ר תַּֽחַת־שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִמֶּֽנָּה׃",
+              "english": "and a bulb under the next two branches from it, (thus) for (all) the six branches that project from it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה הָי֑וּ",
+              "english": "Their bulbs and their branches from it were (fashioned),"
+            },
+            {
+              "hebrew": "כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+              "english": "all one (piece of) beaten work of pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ אֶת־נֵרֹתֶ֖יהָ שִׁבְעָ֑ה",
+              "english": "And he made its lamps, seven,"
+            },
+            {
+              "hebrew": "וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃",
+              "english": "and its tongs and its snuff-dishes, pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר עָשָׂ֣ה אֹתָ֑הּ",
+              "english": "(Of) a talent of pure gold he made it"
+            },
+            {
+              "hebrew": "וְאֵ֖ת כׇּל־כֵּלֶֽיהָ׃&nbsp;{פ}",
+              "english": "[together] with all of its vessels."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הַקְּטֹ֖רֶת עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made the incense altar of acacia wood,"
+            },
+            {
+              "hebrew": "אַמָּ֣ה אׇרְכּוֹ֩ וְאַמָּ֨ה רׇחְבּ֜וֹ רָב֗וּעַ וְאַמָּתַ֙יִם֙ קֹֽמָת֔וֹ",
+              "english": "a cubit its length and a cubit its width — square — and two cubits its height."
+            },
+            {
+              "hebrew": "מִמֶּ֖נּוּ הָי֥וּ קַרְנֹתָֽיו׃",
+              "english": "From it were its horns (made)."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיְצַ֨ף אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־גַּגּ֧וֹ וְאֶת־קִירֹתָ֛יו סָבִ֖יב וְאֶת־קַרְנֹתָ֑יו",
+              "english": "And he covered it with pure gold, its roof and its walls roundabout and its horns."
+            },
+            {
+              "hebrew": "וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+              "english": "And he made for it a rim of gold roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב עָֽשָׂה־ל֣וֹ&thinsp;׀",
+              "english": "And he made for it two golden rings,"
+            },
+            {
+              "hebrew": "מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו עַ֖ל שְׁנֵ֣י צִדָּ֑יו",
+              "english": "beneath its rim at its two corners, on its two sides,"
+            },
+            {
+              "hebrew": "לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֶֽם׃",
+              "english": "for housings for the staves to carry it thereby."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made the staves of acacia wood"
+            },
+            {
+              "hebrew": "וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃",
+              "english": "and he covered them with gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֜עַשׂ אֶת־שֶׁ֤מֶן הַמִּשְׁחָה֙ קֹ֔דֶשׁ",
+              "english": "And he made the oil of sacred anointment"
+            },
+            {
+              "hebrew": "וְאֶת־קְטֹ֥רֶת הַסַּמִּ֖ים טָה֑וֹר מַעֲשֵׂ֖ה רֹקֵֽחַ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and the pure incense spices, the work of a spice blender."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "38": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made the burnt-offering altar of acacia wood,"
+            },
+            {
+              "hebrew": "חָמֵשׁ֩ אַמּ֨וֹת אׇרְכּ֜וֹ וְחָֽמֵשׁ־אַמּ֤וֹת רׇחְבּוֹ֙ רָב֔וּעַ",
+              "english": "five cubits its length and five cubits its width — square —"
+            },
+            {
+              "hebrew": "וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃",
+              "english": "and three cubits its height."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַשׂ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו",
+              "english": "And he made its horns on its four corners."
+            },
+            {
+              "hebrew": "מִמֶּ֖נּוּ הָי֣וּ קַרְנֹתָ֑יו",
+              "english": "From it [the altar itself] were its horns (made)."
+            },
+            {
+              "hebrew": "וַיְצַ֥ף אֹת֖וֹ נְחֹֽשֶׁת׃",
+              "english": "And he covered it with copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֜עַשׂ אֶֽת־כׇּל־כְּלֵ֣י הַמִּזְבֵּ֗חַ אֶת־הַסִּירֹ֤ת וְאֶת־הַיָּעִים֙ וְאֶת־הַמִּזְרָקֹ֔ת אֶת־הַמִּזְלָגֹ֖ת וְאֶת־הַמַּחְתֹּ֑ת",
+              "english": "And he made all the implements of the altar: the pots, and the shovels, and the sprinkling basins, and the spits, and the fire-pans."
+            },
+            {
+              "hebrew": "כׇּל־כֵּלָ֖יו עָשָׂ֥ה נְחֹֽשֶׁת׃",
+              "english": "All of its implements he made of copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤עַשׂ לַמִּזְבֵּ֙חַ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת",
+              "english": "And he made for the altar a copper lattice, netting work,"
+            },
+            {
+              "hebrew": "תַּ֧חַת כַּרְכֻּבּ֛וֹ מִלְּמַ֖טָּה עַד־חֶצְיֽוֹ׃",
+              "english": "under its karkov [an encircling decorative band] below, (and the netting extended) until its (the altar's) mid-point."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּצֹ֞ק אַרְבַּ֧ע טַבָּעֹ֛ת בְּאַרְבַּ֥ע הַקְּצָוֺ֖ת לְמִכְבַּ֣ר הַנְּחֹ֑שֶׁת",
+              "english": "And he cast four rings on the four edges of the copper lattice,"
+            },
+            {
+              "hebrew": "בָּתִּ֖ים לַבַּדִּֽים׃",
+              "english": "housings for the staves."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַשׂ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And he made the staves of acacia wood,"
+            },
+            {
+              "hebrew": "וַיְצַ֥ף אֹתָ֖ם נְחֹֽשֶׁת׃",
+              "english": "and he covered them with copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֵ֨א אֶת־הַבַּדִּ֜ים בַּטַּבָּעֹ֗ת עַ֚ל צַלְעֹ֣ת הַמִּזְבֵּ֔חַ לָשֵׂ֥את אֹת֖וֹ בָּהֶ֑ם",
+              "english": "And he inserted the staves into the rings on the sides of the altar to carry it therewith."
+            },
+            {
+              "hebrew": "נְב֥וּב לֻחֹ֖ת עָשָׂ֥ה אֹתֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "A hollow of boards did he make it [the altar]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֗עַשׂ אֵ֚ת הַכִּיּ֣וֹר נְחֹ֔שֶׁת וְאֵ֖ת כַּנּ֣וֹ נְחֹ֑שֶׁת",
+              "english": "And he made the kiyyor (the laver) of copper and its pedestal of copper"
+            },
+            {
+              "hebrew": "בְּמַרְאֹת֙ הַצֹּ֣בְאֹ֔ת אֲשֶׁ֣ר צָֽבְא֔וּ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "with [the copper of] the mirrors of the congregating women, who congregated [to bring their contributions] at the entrance of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֖עַשׂ אֶת־הֶחָצֵ֑ר",
+              "english": "And he made the court (of the mishkan),"
+            },
+            {
+              "hebrew": "לִפְאַ֣ת&thinsp;׀ נֶ֣גֶב תֵּימָ֗נָה קַלְעֵ֤י הֶֽחָצֵר֙ שֵׁ֣שׁ מׇשְׁזָ֔ר מֵאָ֖ה בָּאַמָּֽה׃",
+              "english": "on the southern side, the curtains of the court of twisted linen, a hundred cubits (long on one side)."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת",
+              "english": "Their pillars twenty and their sockets twenty, of copper;"
+            },
+            {
+              "hebrew": "וָוֵ֧י הָעַמּוּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+              "english": "the hooks of the pillars and their belts, of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְלִפְאַ֤ת צָפוֹן֙ מֵאָ֣ה בָֽאַמָּ֔ה",
+              "english": "And on the northern side, a hundred cubits,"
+            },
+            {
+              "hebrew": "עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת",
+              "english": "their pillars twenty and their sockets twenty, of copper;"
+            },
+            {
+              "hebrew": "וָוֵ֧י הָֽעַמּוּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+              "english": "the hooks of the pillars and their belts, of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְלִפְאַת־יָ֗ם קְלָעִים֙ חֲמִשִּׁ֣ים בָּֽאַמָּ֔ה",
+              "english": "And on the western side, curtains, fifty cubits,"
+            },
+            {
+              "hebrew": "עַמּוּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָ֑ה",
+              "english": "their pillars ten, and their sockets, ten;"
+            },
+            {
+              "hebrew": "וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשׁוּקֵיהֶ֖ם כָּֽסֶף׃",
+              "english": "the hooks of the pillars and their belts, of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְלִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה",
+              "english": "And on the front side, to the east,"
+            },
+            {
+              "hebrew": "חֲמִשִּׁ֥ים אַמָּֽה׃",
+              "english": "fifty cubits."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "קְלָעִ֛ים חֲמֵשׁ־עֶשְׂרֵ֥ה אַמָּ֖ה אֶל־הַכָּתֵ֑ף",
+              "english": "Curtains, fifteen cubits, on the shoulder,"
+            },
+            {
+              "hebrew": "עַמּוּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+              "english": "their pillars three and their sockets three."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְלַכָּתֵ֣ף הַשֵּׁנִ֗ית מִזֶּ֤ה וּמִזֶּה֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר קְלָעִ֕ים חֲמֵ֥שׁ עֶשְׂרֵ֖ה אַמָּ֑ה",
+              "english": "And on the second shoulder, (one) on either side of the gate of the court, curtains, fifteen cubits,"
+            },
+            {
+              "hebrew": "עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+              "english": "their pillars three and their sockets three."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־קַלְעֵ֧י הֶחָצֵ֛ר סָבִ֖יב",
+              "english": "All the curtains of the court roundabout,"
+            },
+            {
+              "hebrew": "שֵׁ֥שׁ מׇשְׁזָֽר׃",
+              "english": "of twisted linen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְהָאֲדָנִ֣ים לָֽעַמֻּדִים֮ נְחֹ֒שֶׁת֒ וָוֵ֨י הָֽעַמּוּדִ֜ים וַחֲשׁוּקֵיהֶם֙ כֶּ֔סֶף",
+              "english": "And the sockets for the pillars, of copper, the hooks of the pillars and their belts, of silver,"
+            },
+            {
+              "hebrew": "וְצִפּ֥וּי רָאשֵׁיהֶ֖ם כָּ֑סֶף",
+              "english": "and the covering of their tops, of silver."
+            },
+            {
+              "hebrew": "וְהֵם֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף כֹּ֖ל עַמֻּדֵ֥י הֶחָצֵֽר׃",
+              "english": "And they were belted with silver, all the pillars of the court."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וּמָסַ֞ךְ שַׁ֤עַר הֶחָצֵר֙ מַעֲשֵׂ֣ה רֹקֵ֔ם תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר",
+              "english": "And the screen of the gate of the court, the work of an embroiderer, blue wool, and purple wool, and scarlet wool, and twisted linen;"
+            },
+            {
+              "hebrew": "וְעֶשְׂרִ֤ים אַמָּה֙ אֹ֔רֶךְ",
+              "english": "and (it was) twenty cubits long,"
+            },
+            {
+              "hebrew": "וְקוֹמָ֤ה בְרֹ֙חַב֙ חָמֵ֣שׁ אַמּ֔וֹת לְעֻמַּ֖ת קַלְעֵ֥י הֶחָצֵֽר׃",
+              "english": "and high in (its) width five cubits, as the size [five cubits] of the curtains of the court."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְעַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֥ם אַרְבָּעָ֖ה נְחֹ֑שֶׁת",
+              "english": "And their pillars four and their sockets four, of copper;"
+            },
+            {
+              "hebrew": "וָוֵיהֶ֣ם כֶּ֔סֶף וְצִפּ֧וּי רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+              "english": "their hooks, of silver, and the covering of their tops and their belt, of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְֽכׇל־הַיְתֵדֹ֞ת לַמִּשְׁכָּ֧ן וְלֶחָצֵ֛ר סָבִ֖יב",
+              "english": "And all the pegs of the mishkan and of the court roundabout,"
+            },
+            {
+              "hebrew": "נְחֹֽשֶׁת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "of copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣לֶּה פְקוּדֵ֤י הַמִּשְׁכָּן֙ מִשְׁכַּ֣ן הָעֵדֻ֔ת אֲשֶׁ֥ר פֻּקַּ֖ד עַל־פִּ֣י מֹשֶׁ֑ה",
+              "english": "These are the accountings of the [donations for and the appurtenances of] the mishkan, the mishkan of testimony [testimony to G d's having \"bypassed\" the sin of the golden calf, having reposed His shechinah there. (The doubling of \"mishkan\" alludes to the Temple's twice having been taken as \"collateral\" (mashkon) for the sins of Israel)], (the accountings made) by word of Moses"
+            },
+            {
+              "hebrew": "עֲבֹדַת֙ הַלְוִיִּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+              "english": "[of the articles of] the service of the Levites, [the Levites carrying them, setting them up, and taking them down] as designated by Ithamar the son of Aaron the Cohein, [Ithamar assigning to each Levitical \"father's house\" its specific service.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּבְצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֣ה יְהוּדָ֑ה",
+              "english": "And Betzalel the son of Uri the son of Chur of the tribe of Judah"
+            },
+            {
+              "hebrew": "עָשָׂ֕ה אֵ֛ת כׇּל־אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+              "english": "did all that the L-rd had commanded Moses, [even things which Moses had not \"relayed\" to Betzalel. Moses first charged Betzalel to make the appurtenances and then the mishkan, and Betzalel, in practice, reversed the order, this, (\"making the house first and then the furnishing\"), indeed, according with what the L-rd had commanded Moses.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְאִתּ֗וֹ אׇהֳלִיאָ֞ב בֶּן־אֲחִיסָמָ֛ךְ לְמַטֵּה־דָ֖ן",
+              "english": "And with him, Ahaliav the son of Achisamach of the tribe of Dan,"
+            },
+            {
+              "hebrew": "חָרָ֣שׁ וְחֹשֵׁ֑ב וְרֹקֵ֗ם בַּתְּכֵ֙לֶת֙ וּבָֽאַרְגָּמָ֔ן וּבְתוֹלַ֥עַת הַשָּׁנִ֖י וּבַשֵּֽׁשׁ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "craftsman, artist, and embroiderer, in blue wool, purple wool, scarlet wool, and linen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־הַזָּהָ֗ב הֶֽעָשׂוּי֙ לַמְּלָאכָ֔ה בְּכֹ֖ל מְלֶ֣אכֶת הַקֹּ֑דֶשׁ",
+              "english": "All the gold that was used for the work, in all the work of the sanctuary —"
+            },
+            {
+              "hebrew": "וַיְהִ֣י&thinsp;׀ זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+              "english": "the gold of the offering was twenty-nine kikar [(one kikar = three thousand shekels)] and seven hundred and thirty shekels in the shekel of the sanctuary."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְכֶ֛סֶף פְּקוּדֵ֥י הָעֵדָ֖ה מְאַ֣ת כִּכָּ֑ר",
+              "english": "And the silver of the accountings of the assembly: a hundred kikar [(accounting for six hundred thousand people, each giving a half shekel)],"
+            },
+            {
+              "hebrew": "וְאֶ֩לֶף֩ וּשְׁבַ֨ע מֵא֜וֹת וַחֲמִשָּׁ֧ה וְשִׁבְעִ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+              "english": "and one thousand and seven hundred and seventy-five shekels in the shekel of the sanctuary."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "בֶּ֚קַע לַגֻּלְגֹּ֔לֶת מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ",
+              "english": "A beka [a half shekel] for every head, a half shekel in the shekel of the sanctuary"
+            },
+            {
+              "hebrew": "לְכֹ֨ל הָעֹבֵ֜ר עַל־הַפְּקֻדִ֗ים מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה",
+              "english": "for all who passed to be counted, from the age of twenty years and above,"
+            },
+            {
+              "hebrew": "לְשֵׁשׁ־מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹ֣שֶׁת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+              "english": "for six hundred and three thousand and five hundred and fifty (men)."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֗י מְאַת֙ כִּכַּ֣ר הַכֶּ֔סֶף לָצֶ֗קֶת אֵ֚ת אַדְנֵ֣י הַקֹּ֔דֶשׁ וְאֵ֖ת אַדְנֵ֣י הַפָּרֹ֑כֶת",
+              "english": "And the hundred kikar of silver were for casting the sockets of the [beams of the] sanctuary [the mishkan (ninety-six sockets for forty-eight beams)] and the sockets of the parocheth [(four sockets for four pillars)]."
+            },
+            {
+              "hebrew": "מְאַ֧ת אֲדָנִ֛ים לִמְאַ֥ת הַכִּכָּ֖ר כִּכָּ֥ר לָאָֽדֶן׃",
+              "english": "A hundred sockets for a hundred kikar, a kikar per socket."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־הָאֶ֜לֶף וּשְׁבַ֤ע הַמֵּאוֹת֙ וַחֲמִשָּׁ֣ה וְשִׁבְעִ֔ים עָשָׂ֥ה וָוִ֖ים לָעַמּוּדִ֑ים",
+              "english": "And from the one thousand and seven hundred and seventy-five, he made hooks for the pillars"
+            },
+            {
+              "hebrew": "וְצִפָּ֥ה רָאשֵׁיהֶ֖ם וְחִשַּׁ֥ק אֹתָֽם׃",
+              "english": "and covered their [the pillars'] tops and belted them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וּנְחֹ֥שֶׁת הַתְּנוּפָ֖ה שִׁבְעִ֣ים כִּכָּ֑ר",
+              "english": "And the copper of the offering was seventy kikar"
+            },
+            {
+              "hebrew": "וְאַלְפַּ֥יִם וְאַרְבַּע־מֵא֖וֹת שָֽׁקֶל׃",
+              "english": "and two thousand and four hundred shekels."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַשׂ בָּ֗הּ אֶת־אַדְנֵי֙ פֶּ֚תַח אֹ֣הֶל מוֹעֵ֔ד",
+              "english": "And he made of it the sockets of the entrance of the tent of meeting,"
+            },
+            {
+              "hebrew": "וְאֵת֙ מִזְבַּ֣ח הַנְּחֹ֔שֶׁת וְאֶת־מִכְבַּ֥ר הַנְּחֹ֖שֶׁת אֲשֶׁר־ל֑וֹ וְאֵ֖ת כׇּל־כְּלֵ֥י הַמִּזְבֵּֽחַ׃",
+              "english": "and the copper altar, and its copper lattice, and all the implements of the altar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־אַדְנֵ֤י הֶֽחָצֵר֙ סָבִ֔יב וְאֶת־אַדְנֵ֖י שַׁ֣עַר הֶחָצֵ֑ר",
+              "english": "And the sockets of the court roundabout, and the sockets of the gate of the court,"
+            },
+            {
+              "hebrew": "וְאֵ֨ת כׇּל־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־כׇּל־יִתְדֹ֥ת הֶחָצֵ֖ר סָבִֽיב׃",
+              "english": "and all the pegs of the mishkan, and all the pegs of the court roundabout."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "39": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וּמִן־הַתְּכֵ֤לֶת וְהָֽאַרְגָּמָן֙ וְתוֹלַ֣עַת הַשָּׁנִ֔י עָשׂ֥וּ בִגְדֵי־שְׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ",
+              "english": "And from the purple wool and the blue wool they made mesh vestments for covering the holy (appurtenances) [see 35:19]"
+            },
+            {
+              "hebrew": "וַֽיַּעֲשׂ֞וּ אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן",
+              "english": "and they made the consecrated garments of Aaron,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֖עַשׂ אֶת־הָאֵפֹ֑ד",
+              "english": "And he made the ephod"
+            },
+            {
+              "hebrew": "זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+              "english": "of gold, blue wool, purple wool, scarlet wool, and twisted linen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיְרַקְּע֞וּ אֶת־פַּחֵ֣י הַזָּהָב֮ וְקִצֵּ֣ץ פְּתִילִם֒",
+              "english": "And they beat the plates of gold and cut [from the thin plate] strands"
+            },
+            {
+              "hebrew": "לַעֲשׂ֗וֹת בְּת֤וֹךְ הַתְּכֵ֙לֶת֙ וּבְת֣וֹךְ הָֽאַרְגָּמָ֔ן וּבְת֛וֹךְ תּוֹלַ֥עַת הַשָּׁנִ֖י וּבְת֣וֹךְ הַשֵּׁ֑שׁ מַעֲשֵׂ֖ה חֹשֵֽׁב׃",
+              "english": "to work into the blue wool [(i.e., one thread of gold intertwined with six of blue wool, etc.)]. And into the purple wool, and into the scarlet wool, and into the linen, the work of an artist."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "כְּתֵפֹ֥ת עָֽשׂוּ־ל֖וֹ חֹבְרֹ֑ת",
+              "english": "Shoulder straps did they make for it, attached —"
+            },
+            {
+              "hebrew": "עַל־שְׁנֵ֥י (קצוותו) [קְצוֹתָ֖יו] חֻבָּֽר׃",
+              "english": "attached at its two ends."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְחֵ֨שֶׁב אֲפֻדָּת֜וֹ אֲשֶׁ֣ר עָלָ֗יו מִמֶּ֣נּוּ הוּא֮ כְּמַעֲשֵׂ֒הוּ֒",
+              "english": "And the cheishev [the belt] of his adornment which is above it, was of it, after its manner [see 28:8],"
+            },
+            {
+              "hebrew": "זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר",
+              "english": "gold, blue wool, purple wool, scarlet wool, and twisted linen,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂוּ֙ אֶת־אַבְנֵ֣י הַשֹּׁ֔הַם מֻֽסַבֹּ֖ת מִשְׁבְּצֹ֣ת זָהָ֑ב",
+              "english": "And they made the shoham stones surrounded by golden settings,"
+            },
+            {
+              "hebrew": "מְפֻתָּחֹת֙ פִּתּוּחֵ֣י חוֹתָ֔ם עַל־שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "engraved as the engraving of a signet with the names of the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣שֶׂם אֹתָ֗ם עַ֚ל כִּתְפֹ֣ת הָאֵפֹ֔ד",
+              "english": "And he placed them on the shoulder straps of the ephod,"
+            },
+            {
+              "hebrew": "אַבְנֵ֥י זִכָּר֖וֹן לִבְנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "stones of remembrance for the children of Israel,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֧עַשׂ אֶת־הַחֹ֛שֶׁן מַעֲשֵׂ֥ה חֹשֵׁ֖ב כְּמַעֲשֵׂ֣ה אֵפֹ֑ד",
+              "english": "And he made the choshen, artistic work, like the work of the ephod:"
+            },
+            {
+              "hebrew": "זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+              "english": "gold, blue wool, purple wool, scarlet wool, and twisted linen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "רָב֧וּעַ הָיָ֛ה כָּפ֖וּל עָשׂ֣וּ אֶת־הַחֹ֑שֶׁן",
+              "english": "It was square; folded did they make the choshen,"
+            },
+            {
+              "hebrew": "זֶ֧רֶת אׇרְכּ֛וֹ וְזֶ֥רֶת רׇחְבּ֖וֹ כָּפֽוּל׃",
+              "english": "a zereth its length and a zereth its width, folded."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיְמַ֨לְאוּ־ב֔וֹ אַרְבָּעָ֖ה ט֣וּרֵי אָ֑בֶן",
+              "english": "And they filled it with four rows of stone."
+            },
+            {
+              "hebrew": "ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃",
+              "english": "A row of odem, pitedah and bareketh, the one row."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְהַטּ֖וּר הַשֵּׁנִ֑י",
+              "english": "The second row —"
+            },
+            {
+              "hebrew": "נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃",
+              "english": "nofech, sapir, and yahalom."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְהַטּ֖וּר הַשְּׁלִישִׁ֑י",
+              "english": "The third row —"
+            },
+            {
+              "hebrew": "לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃",
+              "english": "leshem, shevo, and achlamah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהַטּוּר֙ הָֽרְבִיעִ֔י תַּרְשִׁ֥ישׁ שֹׁ֖הַם וְיָשְׁפֵ֑ה",
+              "english": "And the fourth row — tarshish, shoham, and yashfeh."
+            },
+            {
+              "hebrew": "מֽוּסַבֹּ֛ת מִשְׁבְּצֹ֥ת זָהָ֖ב בְּמִלֻּאֹתָֽם׃",
+              "english": "They were surrounded by golden settings with their fillings [see 28:20]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְ֠הָאֲבָנִ֠ים עַל־שְׁמֹ֨ת בְּנֵי־יִשְׂרָאֵ֥ל הֵ֛נָּה שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־שְׁמֹתָ֑ם",
+              "english": "And the stones were according to the names of the children of Israel, twelve according to their names,"
+            },
+            {
+              "hebrew": "פִּתּוּחֵ֤י חֹתָם֙ אִ֣ישׁ עַל־שְׁמ֔וֹ לִשְׁנֵ֥ים עָשָׂ֖ר שָֽׁבֶט׃",
+              "english": "like the engraving of a signet, each by his name for the twelve tribes."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּעֲשׂ֧וּ עַל־הַחֹ֛שֶׁן שַׁרְשְׁרֹ֥ת גַּבְלֻ֖ת",
+              "english": "And they made for the choshen chains at the edge,"
+            },
+            {
+              "hebrew": "מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃",
+              "english": "braidwork of pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂ֗וּ שְׁתֵּי֙ מִשְׁבְּצֹ֣ת זָהָ֔ב וּשְׁתֵּ֖י טַבְּעֹ֣ת זָהָ֑ב",
+              "english": "And they made two golden settings and two golden rings,"
+            },
+            {
+              "hebrew": "וַֽיִּתְּנ֗וּ אֶת־שְׁתֵּי֙ הַטַּבָּעֹ֔ת עַל־שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃",
+              "english": "and they placed the two rings on the two settings of the choshen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיִּתְּנ֗וּ שְׁתֵּי֙ הָעֲבֹתֹ֣ת הַזָּהָ֔ב עַל־שְׁתֵּ֖י הַטַּבָּעֹ֑ת",
+              "english": "And they placed the two golden braids on the two rings"
+            },
+            {
+              "hebrew": "עַל־קְצ֖וֹת הַחֹֽשֶׁן׃",
+              "english": "at the ends of the choshen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָֽעֲבֹתֹ֔ת נָתְנ֖וּ עַל־שְׁתֵּ֣י הַֽמִּשְׁבְּצֹ֑ת",
+              "english": "And the two ends of the two braids they placed on the two settings"
+            },
+            {
+              "hebrew": "וַֽיִּתְּנֻ֛ם עַל־כִּתְפֹ֥ת הָאֵפֹ֖ד אֶל־מ֥וּל פָּנָֽיו׃",
+              "english": "and they placed them on the shoulder straps of the ephod on its face."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂ֗וּ שְׁתֵּי֙ טַבְּעֹ֣ת זָהָ֔ב",
+              "english": "And they made two golden rings,"
+            },
+            {
+              "hebrew": "וַיָּשִׂ֕ימוּ עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
+              "english": "and they placed them on the two ends of the choshen on its edge which faces the ephod, inwards."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂוּ֮ שְׁתֵּ֣י טַבְּעֹ֣ת זָהָב֒",
+              "english": "And they made two golden rings,"
+            },
+            {
+              "hebrew": "וַֽיִּתְּנֻ֡ם עַל־שְׁתֵּי֩ כִתְפֹ֨ת הָאֵפֹ֤ד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ",
+              "english": "and they placed them on the (origin of the) two shoulder straps of the ephod below, on its face, opposite [i.e., near] where it is attached,"
+            },
+            {
+              "hebrew": "מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֹֽד׃",
+              "english": "above the cheishev of the ephod."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּרְכְּס֣וּ אֶת־הַחֹ֡שֶׁן מִטַּבְּעֹתָיו֩ אֶל־טַבְּעֹ֨ת הָאֵפֹ֜ד בִּפְתִ֣יל תְּכֵ֗לֶת לִֽהְיֹת֙ עַל־חֵ֣שֶׁב הָאֵפֹ֔ד",
+              "english": "And they bound the choshen from its rings to the rings of the ephod with a string of blue wool to be on the cheishev of the ephod."
+            },
+            {
+              "hebrew": "וְלֹֽא־יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֹ֑ד",
+              "english": "And the choshen shall not be detached from the ephod,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "as the L-rd commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֛עַשׂ אֶת־מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג",
+              "english": "And he made the me'il of the ephod, the work of a weaver,"
+            },
+            {
+              "hebrew": "כְּלִ֖יל תְּכֵֽלֶת׃",
+              "english": "entirely of blue wool."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וּפִֽי־הַמְּעִ֥יל בְּתוֹכ֖וֹ כְּפִ֣י תַחְרָ֑א",
+              "english": "And the head-opening of the me'il was (folded over) within it, as the opening of a suit of armor."
+            },
+            {
+              "hebrew": "שָׂפָ֥ה לְפִ֛יו סָבִ֖יב לֹ֥א יִקָּרֵֽעַ׃",
+              "english": "Its opening had a border roundabout, so that it not be torn."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂוּ֙ עַל־שׁוּלֵ֣י הַמְּעִ֔יל",
+              "english": "And they made on the (lower) hem of the me'il"
+            },
+            {
+              "hebrew": "רִמּוֹנֵ֕י תְּכֵ֥לֶת וְאַרְגָּמָ֖ן וְתוֹלַ֣עַת שָׁנִ֑י מׇשְׁזָֽר׃",
+              "english": "pomegranates of blue wool, and purple wool, and scarlet wool, twisted."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּעֲשׂ֥וּ פַעֲמֹנֵ֖י זָהָ֣ב טָה֑וֹר",
+              "english": "And they made bells of pure gold,"
+            },
+            {
+              "hebrew": "וַיִּתְּנ֨וּ אֶת־הַפַּֽעֲמֹנִ֜ים בְּת֣וֹךְ הָרִמֹּנִ֗ים עַל־שׁוּלֵ֤י הַמְּעִיל֙ סָבִ֔יב בְּת֖וֹךְ הָרִמֹּנִֽים׃",
+              "english": "and they placed the bells in the midst of the pomegranates, on the hem of the me'il roundabout in the midst of the pomegranates."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "פַּעֲמֹ֤ן וְרִמֹּן֙ פַּעֲמֹ֣ן וְרִמֹּ֔ן עַל־שׁוּלֵ֥י הַמְּעִ֖יל סָבִ֑יב לְשָׁרֵ֕ת",
+              "english": "A bell and a pomegranate, a bell and a pomegranate, on the hem of the me'il roundabout, to minister,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂ֛וּ אֶת־הַכׇּתְנֹ֥ת שֵׁ֖שׁ מַעֲשֵׂ֣ה אֹרֵ֑ג",
+              "english": "And they made the kathnoth of linen, the work of a weaver,"
+            },
+            {
+              "hebrew": "לְאַהֲרֹ֖ן וּלְבָנָֽיו׃",
+              "english": "for Aaron and his sons."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֙ הַמִּצְנֶ֣פֶת שֵׁ֔שׁ וְאֶת־פַּאֲרֵ֥י הַמִּגְבָּעֹ֖ת שֵׁ֑שׁ",
+              "english": "And the mitznefeth of linen, and the splendrous migbaoth of linen"
+            },
+            {
+              "hebrew": "וְאֶת־מִכְנְסֵ֥י הַבָּ֖ד שֵׁ֥שׁ מׇשְׁזָֽר׃",
+              "english": "and the linen michnasayim of twisted linen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְֽאֶת־הָאַבְנֵ֞ט שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י מַעֲשֵׂ֣ה רֹקֵ֑ם",
+              "english": "And the avneit of twisted linen and blue wool, purple wool, and scarlet wool, the work of an embroiderer,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂ֛וּ אֶת־צִ֥יץ נֵֽזֶר־הַקֹּ֖דֶשׁ זָהָ֣ב טָה֑וֹר",
+              "english": "And they made the tzitz, the holy crown of pure gold."
+            },
+            {
+              "hebrew": "וַיִּכְתְּב֣וּ עָלָ֗יו מִכְתַּב֙ פִּתּוּחֵ֣י חוֹתָ֔ם",
+              "english": "And they inscribed it as the engraving of a signet:"
+            },
+            {
+              "hebrew": "קֹ֖דֶשׁ לַיהֹוָֽה׃",
+              "english": "\"Holy to the L-rd.\""
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתְּנ֤וּ עָלָיו֙ פְּתִ֣יל תְּכֵ֔לֶת לָתֵ֥ת עַל־הַמִּצְנֶ֖פֶת מִלְמָ֑עְלָה",
+              "english": "And they placed on it a string of blue wool to place on the mitznefeth from above,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֕כֶל כׇּל־עֲבֹדַ֕ת מִשְׁכַּ֖ן אֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And all the work of the mishkan of the tent of meeting was completed."
+            },
+            {
+              "hebrew": "וַֽיַּעֲשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;{פ}",
+              "english": "And the children of Israel did [the work]. As all that the L-rd had commanded Moses; thus did they do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבִ֤יאוּ אֶת־הַמִּשְׁכָּן֙ אֶל־מֹשֶׁ֔ה אֶת־הָאֹ֖הֶל וְאֶת־כׇּל־כֵּלָ֑יו",
+              "english": "And they brought the mishkan to Moses [to set up (lacking the strength to do it themselves)], the tent and all its implements:"
+            },
+            {
+              "hebrew": "קְרָסָ֣יו קְרָשָׁ֔יו בְּרִיחָ֖ו וְעַמֻּדָ֥יו וַאֲדָנָֽיו׃",
+              "english": "its hooks, its beams, its bars, its pillars, and its sockets."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־מִכְסֵ֞ה עוֹרֹ֤ת הָֽאֵילִם֙ הַמְאׇדָּמִ֔ים וְאֶת־מִכְסֵ֖ה עֹרֹ֣ת הַתְּחָשִׁ֑ים",
+              "english": "And the cover of rams' skins dyed red, and the cover of tachash skins,"
+            },
+            {
+              "hebrew": "וְאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃",
+              "english": "and the parocheth partition."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־אֲר֥וֹן הָעֵדֻ֖ת וְאֶת־בַּדָּ֑יו",
+              "english": "The ark of testimony and its staves"
+            },
+            {
+              "hebrew": "וְאֵ֖ת הַכַּפֹּֽרֶת׃",
+              "english": "and the kaporeth."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:46:23.344Z"
+  "updatedAt": "2026-10-26T18:47:55.424Z"
 }
