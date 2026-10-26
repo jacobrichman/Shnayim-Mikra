@@ -53313,7 +53313,1265 @@
           "model": "Instinct"
         }
       }
+    },
+    "Numbers": {
+      "1": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֨ר יְהֹוָ֧ה אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And the L-rd said to Moses in the desert of Sinai in the tent of meeting"
+            },
+            {
+              "hebrew": "בְּאֶחָד֩ לַחֹ֨דֶשׁ הַשֵּׁנִ֜י בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית לְצֵאתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
+              "english": "on the first day of the second month (Iyyar) in the second year after their going out from the land of Egypt, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "שְׂא֗וּ אֶת־רֹאשׁ֙ כׇּל־עֲדַ֣ת בְּנֵֽי־יִשְׂרָאֵ֔ל",
+              "english": "Take the count of the entire congregation of the children of Israel"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "by their families [to know the number of each tribe], by their fathers' house [(one whose father is of one tribe and his mother of a different tribe being reckoned by the tribe of his father)],"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמ֔וֹת כׇּל־זָכָ֖ר לְגֻלְגְּלֹתָֽם׃",
+              "english": "according to the number of names, every male by their heads [a beka (half a shekel) for a head (Exodus 38:26)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כׇּל־יֹצֵ֥א צָבָ֖א בְּיִשְׂרָאֵ֑ל",
+              "english": "From twenty years and up, all who go to war in Israel, [twenty being the minimum age],"
+            },
+            {
+              "hebrew": "תִּפְקְד֥וּ אֹתָ֛ם לְצִבְאֹתָ֖ם אַתָּ֥ה וְאַהֲרֹֽן׃",
+              "english": "number them by their hosts, you and Aaron."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאִתְּכֶ֣ם יִהְי֔וּ אִ֥ישׁ אִ֖ישׁ לַמַּטֶּ֑ה",
+              "english": "And with you shall be [when you count them] one man of every tribe,"
+            },
+            {
+              "hebrew": "אִ֛ישׁ רֹ֥אשׁ לְבֵית־אֲבֹתָ֖יו הֽוּא׃",
+              "english": "each the chief of his fathers' house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֙לֶּה֙ שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר יַֽעַמְד֖וּ אִתְּכֶ֑ם",
+              "english": "And these are the names of the men who will stand with you:"
+            },
+            {
+              "hebrew": "לִרְאוּבֵ֕ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+              "english": "Of Reuven — Elitzur ben Shedeur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "לְשִׁמְע֕וֹן",
+              "english": "Of Shimon —"
+            },
+            {
+              "hebrew": "שְׁלֻמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+              "english": "Shelumiel ben Tzurishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "לִֽיהוּדָ֕ה",
+              "english": "Of Yehudah —"
+            },
+            {
+              "hebrew": "נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃",
+              "english": "Nachshon ben Aminadav."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "לְיִ֨שָּׂשכָ֔ר",
+              "english": "Of Yissachar —"
+            },
+            {
+              "hebrew": "נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃",
+              "english": "Nethanel ben Tzuar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "לִזְבוּלֻ֕ן",
+              "english": "Of Zevulun —"
+            },
+            {
+              "hebrew": "אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+              "english": "Eliyav ben Cheilon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י יוֹסֵ֔ף",
+              "english": "Of the sons of Joseph:"
+            },
+            {
+              "hebrew": "לְאֶפְרַ֕יִם אֱלִישָׁמָ֖ע בֶּן־עַמִּיה֑וּד",
+              "english": "Of Ephraim — Elishama ben Amihud;"
+            },
+            {
+              "hebrew": "לִמְנַשֶּׁ֕ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+              "english": "of Menasheh — Gamliel ben Pedatzur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "לְבִ֨נְיָמִ֔ן",
+              "english": "Of Binyamin —"
+            },
+            {
+              "hebrew": "אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃",
+              "english": "Avidan ben Gidoni."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "לְדָ֕ן",
+              "english": "Of Dan —"
+            },
+            {
+              "hebrew": "אֲחִיעֶ֖זֶר בֶּן־עַמִּֽישַׁדָּֽי׃",
+              "english": "Achiezer ben Amishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "לְאָשֵׁ֕ר",
+              "english": "Of Asher —"
+            },
+            {
+              "hebrew": "פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+              "english": "Pagiel ben Achran."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "לְגָ֕ד",
+              "english": "Of Gad —"
+            },
+            {
+              "hebrew": "אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+              "english": "Elyasaf ben De'uel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "לְנַ֨פְתָּלִ֔י",
+              "english": "Of Naftali —"
+            },
+            {
+              "hebrew": "אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+              "english": "Achira ben Einan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֚לֶּה (קריאי) [קְרוּאֵ֣י] הָעֵדָ֔ה",
+              "english": "These are the \"called\" of the congregation, [so called because they were called upon for every matter of importance affecting the congregation],"
+            },
+            {
+              "hebrew": "נְשִׂיאֵ֖י מַטּ֣וֹת אֲבוֹתָ֑ם",
+              "english": "the chiefs of the tribes of their fathers."
+            },
+            {
+              "hebrew": "רָאשֵׁ֛י אַלְפֵ֥י יִשְׂרָאֵ֖ל הֵֽם׃",
+              "english": "The heads of the thousands of Israel (were) they."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֥ח מֹשֶׁ֖ה וְאַהֲרֹ֑ן אֵ֚ת הָאֲנָשִׁ֣ים הָאֵ֔לֶּה",
+              "english": "And Moses and Aaron took these men"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר נִקְּב֖וּ בְּשֵׁמֹֽת׃",
+              "english": "that were designated [here to Moses] by name."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֨ת כׇּל־הָעֵדָ֜ה הִקְהִ֗ילוּ בְּאֶחָד֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י",
+              "english": "And they assembled the entire congregation on the first (day) of the second month,"
+            },
+            {
+              "hebrew": "וַיִּתְיַֽלְד֥וּ עַל־מִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "and they confirmed their birth (claims) [with deeds and witnesses] after their families, by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמ֗וֹת מִבֶּ֨ן עֶשְׂרִ֥ים שָׁנָ֛ה וָמַ֖עְלָה לְגֻלְגְּלֹתָֽם׃",
+              "english": "according to the number of names, (every male) from twenty years and up, by their heads [see 1]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶׁ֑ה",
+              "english": "As the L-rd commanded Moses —"
+            },
+            {
+              "hebrew": "וַֽיִּפְקְדֵ֖ם בְּמִדְבַּ֥ר סִינָֽי׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and he numbered them in the desert of Sinai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּהְי֤וּ בְנֵֽי־רְאוּבֵן֙ בְּכֹ֣ר יִשְׂרָאֵ֔ל",
+              "english": "And the children of Reuven, the first-born of Israel, were —"
+            },
+            {
+              "hebrew": "תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "their births, by their families, by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֤ר שֵׁמוֹת֙ לְגֻלְגְּלֹתָ֔ם",
+              "english": "according to the number of names, by their heads,"
+            },
+            {
+              "hebrew": "כׇּל־זָכָ֗ר מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "every male from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה רְאוּבֵ֑ן",
+              "english": "Their number of the tribe of Reuven —"
+            },
+            {
+              "hebrew": "שִׁשָּׁ֧ה וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "forty-six thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י שִׁמְע֔וֹן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Shimon, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "פְּקֻדָ֗יו בְּמִסְפַּ֤ר שֵׁמוֹת֙ לְגֻלְגְּלֹתָ֔ם",
+              "english": "their number according to the number of names, by their heads,"
+            },
+            {
+              "hebrew": "כׇּל־זָכָ֗ר מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "every male from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה שִׁמְע֑וֹן",
+              "english": "Their number of the tribe of Shimon —"
+            },
+            {
+              "hebrew": "תִּשְׁעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וּשְׁלֹ֥שׁ מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "fifty-nine thousand and three hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י גָ֔ד תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Gad, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמ֗וֹת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה גָ֑ד",
+              "english": "Their number of the tribe of Gad —"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֤ה וְאַרְבָּעִים֙ אֶ֔לֶף וְשֵׁ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃&nbsp;{פ}",
+              "english": "forty-five thousand and six hundred and fifty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י יְהוּדָ֔ה תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Yehudah, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה יְהוּדָ֑ה",
+              "english": "Their number of the tribe of Yehudah —"
+            },
+            {
+              "hebrew": "אַרְבָּעָ֧ה וְשִׁבְעִ֛ים אֶ֖לֶף וְשֵׁ֥שׁ מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "seventy-four thousand and six hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י יִשָּׂשכָ֔ר תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Yissachar, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה יִשָּׂשכָ֑ר",
+              "english": "Their number of the tribe of Yissachar —"
+            },
+            {
+              "hebrew": "אַרְבָּעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "fifty-four thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י זְבוּלֻ֔ן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Zevulun, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה זְבוּלֻ֑ן",
+              "english": "Their number of the tribe of Zevulun —"
+            },
+            {
+              "hebrew": "שִׁבְעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "fifty-seven thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֤י יוֹסֵף֙ לִבְנֵ֣י אֶפְרַ֔יִם תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Joseph: Of the children of Ephraim, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה אֶפְרָ֑יִם",
+              "english": "Their number of the tribe of Ephraim —"
+            },
+            {
+              "hebrew": "אַרְבָּעִ֥ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "forty thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י מְנַשֶּׁ֔ה תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Menasheh, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמ֗וֹת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה מְנַשֶּׁ֑ה",
+              "english": "Their number of the tribe of Menasheh —"
+            },
+            {
+              "hebrew": "שְׁנַ֧יִם וּשְׁלֹשִׁ֛ים אֶ֖לֶף וּמָאתָֽיִם׃&nbsp;{פ}",
+              "english": "thirty-two thousand and two hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י בִנְיָמִ֔ן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Binyamin, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה בִנְיָמִ֑ן",
+              "english": "Their number of the tribe of Binyamin —"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֧ה וּשְׁלֹשִׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "thirty-five thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י דָ֔ן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Dan, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה דָ֑ן",
+              "english": "Their number of the tribe of Dan —"
+            },
+            {
+              "hebrew": "שְׁנַ֧יִם וְשִׁשִּׁ֛ים אֶ֖לֶף וּשְׁבַ֥ע מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "sixty-two thousand and seven hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "לִבְנֵ֣י אָשֵׁ֔ר תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "Of the children of Asher, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה אָשֵׁ֑ר",
+              "english": "Their number of the tribe of Asher —"
+            },
+            {
+              "hebrew": "אֶחָ֧ד וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "forty-one thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "בְּנֵ֣י נַפְתָּלִ֔י תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "The children of Naftali, their births by their families by their fathers' house,"
+            },
+            {
+              "hebrew": "בְּמִסְפַּ֣ר שֵׁמֹ֗ת",
+              "english": "according to the number of names,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+              "english": "from twenty years and up, all who go to war —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה נַפְתָּלִ֑י",
+              "english": "Their number of the tribe of Naftali —"
+            },
+            {
+              "hebrew": "שְׁלֹשָׁ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;{פ}",
+              "english": "fifty-three thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣לֶּה הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֤ה וְאַהֲרֹן֙ וּנְשִׂיאֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "These are the numbered, who were numbered by Moses and Aaron and the chiefs of Israel,"
+            },
+            {
+              "hebrew": "שְׁנֵ֥ים עָשָׂ֖ר אִ֑ישׁ אִישׁ־אֶחָ֥ד לְבֵית־אֲבֹתָ֖יו הָיֽוּ׃",
+              "english": "twelve men; one man for his fathers' house were they."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽהְי֛וּ כׇּל־פְּקוּדֵ֥י בְנֵֽי־יִשְׂרָאֵ֖ל לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "And they were — all that were numbered of the children of Israel by their fathers' house,"
+            },
+            {
+              "hebrew": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כׇּל־יֹצֵ֥א צָבָ֖א בְּיִשְׂרָאֵֽל׃",
+              "english": "from twenty years and up, all who go to war in Israel —"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽהְיוּ֙ כׇּל־הַפְּקֻדִ֔ים",
+              "english": "All those numbered were"
+            },
+            {
+              "hebrew": "שֵׁשׁ־מֵא֥וֹת אֶ֖לֶף וּשְׁלֹ֣שֶׁת אֲלָפִ֑ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+              "english": "six hundred and three thousand and five hundred and fifty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "וְהַלְוִיִּ֖ם לְמַטֵּ֣ה אֲבֹתָ֑ם",
+              "english": "But the Levites, after the tribe of their fathers,"
+            },
+            {
+              "hebrew": "לֹ֥א הׇתְפָּקְד֖וּ בְּתוֹכָֽם׃&nbsp;{פ}",
+              "english": "were not numbered among them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd said"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "אַ֣ךְ אֶת־מַטֵּ֤ה לֵוִי֙ לֹ֣א תִפְקֹ֔ד",
+              "english": "Only the tribe of Levi do not number,"
+            },
+            {
+              "hebrew": "וְאֶת־רֹאשָׁ֖ם לֹ֣א תִשָּׂ֑א בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and do not take their count in the midst of the children of Israel [The \"King's legion\" merits an independent count.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "50": {
+          "pairs": [
+            {
+              "hebrew": "וְאַתָּ֡ה הַפְקֵ֣ד אֶת־הַלְוִיִּם֩ עַל־מִשְׁכַּ֨ן הָעֵדֻ֜ת וְעַ֣ל כׇּל־כֵּלָיו֮ וְעַ֣ל כׇּל־אֲשֶׁר־לוֹ֒",
+              "english": "And you, appoint the Levites over the mishkan of the Testimony, and over all of its vessels, and over all that pertains to it."
+            },
+            {
+              "hebrew": "הֵ֜מָּה יִשְׂא֤וּ אֶת־הַמִּשְׁכָּן֙ וְאֶת־כׇּל־כֵּלָ֔יו וְהֵ֖ם יְשָׁרְתֻ֑הוּ",
+              "english": "They shall bear the mishkan and all of its vessels, and they shall minister to it,"
+            },
+            {
+              "hebrew": "וְסָבִ֥יב לַמִּשְׁכָּ֖ן יַחֲנֽוּ׃",
+              "english": "and roundabout the mishkan shall they camp."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "51": {
+          "pairs": [
+            {
+              "hebrew": "וּבִנְסֹ֣עַ הַמִּשְׁכָּ֗ן יוֹרִ֤ידוּ אֹתוֹ֙ הַלְוִיִּ֔ם",
+              "english": "And when the mishkan travels, the Levites shall dismantle it [and carry it to the place where the cloud (preceding them) comes to rest],"
+            },
+            {
+              "hebrew": "וּבַחֲנֹת֙ הַמִּשְׁכָּ֔ן יָקִ֥ימוּ אֹת֖וֹ הַלְוִיִּ֑ם",
+              "english": "and when the mishkan rests, the Levites shall raise it."
+            },
+            {
+              "hebrew": "וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃",
+              "english": "And the stranger that draws near [to this service of the Levites] shall be put to death [at the hands of Heaven]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "52": {
+          "pairs": [
+            {
+              "hebrew": "וְחָנ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And the children of Israel shall encamp,"
+            },
+            {
+              "hebrew": "אִ֧ישׁ עַֽל־מַחֲנֵ֛הוּ וְאִ֥ישׁ עַל־דִּגְל֖וֹ לְצִבְאֹתָֽם׃",
+              "english": "every man in his own camp and every man by his standard, [as per the arrangement of the standards (below), three tribes to each standard], according to their hosts."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "53": {
+          "pairs": [
+            {
+              "hebrew": "וְהַלְוִיִּ֞ם יַחֲנ֤וּ סָבִיב֙ לְמִשְׁכַּ֣ן הָעֵדֻ֔ת",
+              "english": "And the Levites shall encamp around the mishkan of the Testimony"
+            },
+            {
+              "hebrew": "וְלֹֽא־יִהְיֶ֣ה קֶ֔צֶף עַל־עֲדַ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "and there shall be no wrath upon the congregation of the children of Israel [if you follow these directives; but if not — if strangers appropriate this service, then there will be wrath (as in the instance of Korach, 17:11)],"
+            },
+            {
+              "hebrew": "וְשָׁמְרוּ֙ הַלְוִיִּ֔ם אֶת־מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן הָעֵדֽוּת׃",
+              "english": "and the Levites shall keep the charge of the mishkan of the Testimony."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "54": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And the children of Israel did"
+            },
+            {
+              "hebrew": "כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;{פ}",
+              "english": "according to all that the L-rd commanded Moses; thus did they do."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "2": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֔ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "אִ֣ישׁ עַל־דִּגְל֤וֹ בְאֹתֹת֙ לְבֵ֣ית אֲבֹתָ֔ם יַחֲנ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "Every man by his standard, with signs according to their fathers' house shall the children of Israel camp. [(On each standard there were colored cloths corresponding to the respective colors of the stones of the tribes on the choshen, by which every man could identify his standard)]."
+            },
+            {
+              "hebrew": "מִנֶּ֕גֶד סָבִ֥יב לְאֹֽהֶל־מוֹעֵ֖ד יַחֲנֽוּ׃",
+              "english": "Opposite, [the distance of a mil (two thousand cubits, the permitted Sabbath distance — see Joshua 3:4), so that they could come (there) on Sabbath, Moses, Aaron and his sons, and the Levites encamping nearby], roundabout the tent of meeting shall they camp."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְהַחֹנִים֙ קֵ֣דְמָה מִזְרָ֔חָה דֶּ֛גֶל מַחֲנֵ֥ה יְהוּדָ֖ה לְצִבְאֹתָ֑ם",
+              "english": "And those who encamped in front, in the east — the standard of the camp of Yehudah according to their hosts."
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י יְהוּדָ֔ה נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃",
+              "english": "And the chief of the children of Yehudah, Nachshon ben Aminadav."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "אַרְבָּעָ֧ה וְשִׁבְעִ֛ים אֶ֖לֶף וְשֵׁ֥שׁ מֵאֽוֹת׃",
+              "english": "seventy-four thousand and six hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְהַחֹנִ֥ים עָלָ֖יו מַטֵּ֣ה יִשָּׂשכָ֑ר",
+              "english": "And encamped next to him, the tribe of Yissachar;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י יִשָּׂשכָ֔ר נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃",
+              "english": "and the chief of the children of Yissachar, Nethanel ben Tzuar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדָ֑יו",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "אַרְבָּעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃",
+              "english": "fifty-four thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "מַטֵּ֖ה זְבוּלֻ֑ן",
+              "english": "The tribe of Zevulun;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י זְבוּלֻ֔ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+              "english": "and the chief of the children of Zevulun, Eliyav ben Cheilon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדָ֑יו",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "שִׁבְעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃",
+              "english": "fifty-seven thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כׇּֽל־הַפְּקֻדִ֞ים לְמַחֲנֵ֣ה יְהוּדָ֗ה",
+              "english": "All of the numbered of the camp of Yehudah —"
+            },
+            {
+              "hebrew": "מְאַ֨ת אֶ֜לֶף וּשְׁמֹנִ֥ים אֶ֛לֶף וְשֵֽׁשֶׁת־אֲלָפִ֥ים וְאַרְבַּע־מֵא֖וֹת לְצִבְאֹתָ֑ם",
+              "english": "one hundred and eighty-six thousand and four hundred, according to their hosts;"
+            },
+            {
+              "hebrew": "רִאשֹׁנָ֖ה יִסָּֽעוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "first shall they travel. [When they saw the cloud departing, the Cohanim sounded the trumpets, and the camp of Yehudah traveled first. (And they traveled in the order of their encampment: the Levites and the wagons in the center, the standard of Yehudah on the east; that of Reuven, on the south; that of Ephraim, on the west; that of Dan, on the north.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "דֶּ֣גֶל מַחֲנֵ֧ה רְאוּבֵ֛ן תֵּימָ֖נָה לְצִבְאֹתָ֑ם",
+              "english": "The standard of the camp of Reuven, on the south, according to their hosts;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י רְאוּבֵ֔ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+              "english": "and the chief of the children of Reuven, Elitzur ben Shedeur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדָ֑יו",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "שִׁשָּׁ֧ה וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+              "english": "forty-six thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְהַחוֹנִ֥ם עָלָ֖יו מַטֵּ֣ה שִׁמְע֑וֹן",
+              "english": "And encamped next to him, the tribe of Shimon;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י שִׁמְע֔וֹן שְׁלֻמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+              "english": "and the chief of the children of Shimon, Shlumiel ben Tzurishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "תִּשְׁעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וּשְׁלֹ֥שׁ מֵאֽוֹת׃",
+              "english": "fifty-nine thousand and three hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וּמַטֵּ֖ה גָּ֑ד",
+              "english": "And the tribe of Gad;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י גָ֔ד אֶלְיָסָ֖ף בֶּן־רְעוּאֵֽל׃",
+              "english": "and the chief of the children of Gad, Elyasaf ben Re'uel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֤ה וְאַרְבָּעִים֙ אֶ֔לֶף וְשֵׁ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+              "english": "forty-five thousand and six hundred and fifty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "כׇּֽל־הַפְּקֻדִ֞ים לְמַחֲנֵ֣ה רְאוּבֵ֗ן",
+              "english": "All of the numbered of the camp of Reuven,"
+            },
+            {
+              "hebrew": "מְאַ֨ת אֶ֜לֶף וְאֶחָ֨ד וַחֲמִשִּׁ֥ים אֶ֛לֶף וְאַרְבַּע־מֵא֥וֹת וַחֲמִשִּׁ֖ים לְצִבְאֹתָ֑ם",
+              "english": "one hundred and fifty-one thousand and four hundred and fifty, according to their hosts;"
+            },
+            {
+              "hebrew": "וּשְׁנִיִּ֖ם יִסָּֽעוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and they shall travel second."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְנָסַ֧ע אֹֽהֶל־מוֹעֵ֛ד מַחֲנֵ֥ה הַלְוִיִּ֖ם בְּת֣וֹךְ הַֽמַּחֲנֹ֑ת",
+              "english": "And the tent of meeting shall travel [after these two standards] with the camp of the Levites in the midst of the camps."
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֤ר יַחֲנוּ֙ כֵּ֣ן יִסָּ֔עוּ",
+              "english": "As they encamp [i.e., in the same directions in which they are positioned], so do they travel [see 2:9],"
+            },
+            {
+              "hebrew": "אִ֥ישׁ עַל־יָד֖וֹ לְדִגְלֵיהֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "each man in his place, by their standards."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "דֶּ֣גֶל מַחֲנֵ֥ה אֶפְרַ֛יִם לְצִבְאֹתָ֖ם יָ֑מָּה",
+              "english": "The standard of the camp of Ephraim, according to their hosts, on the west;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י אֶפְרַ֔יִם אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃",
+              "english": "and the chief of the children of Ephraim, Elishama ben Amihud."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "אַרְבָּעִ֥ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+              "english": "forty thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְעָלָ֖יו מַטֵּ֣ה מְנַשֶּׁ֑ה",
+              "english": "And next to him, the tribe of Menasheh;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י מְנַשֶּׁ֔ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+              "english": "and the chief of the children of Menasheh, Gamliel ben Pedatzur."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "שְׁנַ֧יִם וּשְׁלֹשִׁ֛ים אֶ֖לֶף וּמָאתָֽיִם׃",
+              "english": "thirty-two thousand and two hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּמַטֵּ֖ה בִּנְיָמִ֑ן",
+              "english": "And the tribe of Binyamin;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י בִנְיָמִ֔ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃",
+              "english": "and the chief of the children of Binyamin, Avidan ben Gidoni."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֧ה וּשְׁלֹשִׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃",
+              "english": "thirty-five thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "כׇּֽל־הַפְּקֻדִ֞ים לְמַחֲנֵ֣ה אֶפְרַ֗יִם",
+              "english": "All of the numbered of the camp of Ephraim,"
+            },
+            {
+              "hebrew": "מְאַ֥ת אֶ֛לֶף וּשְׁמֹֽנַת־אֲלָפִ֥ים וּמֵאָ֖ה לְצִבְאֹתָ֑ם",
+              "english": "one hundred and eight thousand and one hundred, according to their hosts;"
+            },
+            {
+              "hebrew": "וּשְׁלִשִׁ֖ים יִסָּֽעוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and they shall travel third."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "דֶּ֣גֶל מַחֲנֵ֥ה דָ֛ן צָפֹ֖נָה לְצִבְאֹתָ֑ם",
+              "english": "The standard of the camp of Dan, on the north, according to their hosts;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י דָ֔ן אֲחִיעֶ֖זֶר בֶּן־עַמִּֽישַׁדָּֽי׃",
+              "english": "and the chief of the children of Dan, Achiezer ben Amishadai."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "שְׁנַ֧יִם וְשִׁשִּׁ֛ים אֶ֖לֶף וּשְׁבַ֥ע מֵאֽוֹת׃",
+              "english": "sixty-two thousand and seven hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְהַחֹנִ֥ים עָלָ֖יו מַטֵּ֣ה אָשֵׁ֑ר",
+              "english": "And encamped next to him, the tribe of Asher;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י אָשֵׁ֔ר פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+              "english": "and the chief of the children of Asher, Pagiel ben Achran."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "אֶחָ֧ד וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+              "english": "forty-one thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וּמַטֵּ֖ה נַפְתָּלִ֑י",
+              "english": "And the tribe of Naftali;"
+            },
+            {
+              "hebrew": "וְנָשִׂיא֙ לִבְנֵ֣י נַפְתָּלִ֔י אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+              "english": "and the chief of the children of Naftali, Achira ben Einan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם",
+              "english": "And his host and their numbered ones,"
+            },
+            {
+              "hebrew": "שְׁלֹשָׁ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃",
+              "english": "fifty-three thousand and four hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־הַפְּקֻדִים֙ לְמַ֣חֲנֵה דָ֔ן",
+              "english": "All of the numbered of the camp of Dan,"
+            },
+            {
+              "hebrew": "מְאַ֣ת אֶ֗לֶף וְשִׁבְעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְשֵׁ֣שׁ מֵא֑וֹת",
+              "english": "one hundred and fifty-seven thousand and six hundred;"
+            },
+            {
+              "hebrew": "לָאַחֲרֹנָ֥ה יִסְע֖וּ לְדִגְלֵיהֶֽם׃&nbsp;{פ}",
+              "english": "last shall they travel, by their standards."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֛לֶּה פְּקוּדֵ֥י בְנֵֽי־יִשְׂרָאֵ֖ל לְבֵ֣ית אֲבֹתָ֑ם",
+              "english": "These are the numbered of the children of Israel by their fathers' house,"
+            },
+            {
+              "hebrew": "כׇּל־פְּקוּדֵ֤י הַֽמַּחֲנֹת֙ לְצִבְאֹתָ֔ם",
+              "english": "all the numbered of the camps according to their hosts —"
+            },
+            {
+              "hebrew": "שֵׁשׁ־מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹ֣שֶׁת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+              "english": "six hundred and three thousand and five hundred and fifty."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְהַ֨לְוִיִּ֔ם לֹ֣א הׇתְפָּקְד֔וּ בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And the Levites were not counted in the midst of the children of Israel,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּעֲשׂ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל כְּ֠כֹ֠ל אֲשֶׁר־צִוָּ֨ה יְהֹוָ֜ה אֶת־מֹשֶׁ֗ה",
+              "english": "And the children of Israel did according to all that the L-rd had commanded Moses."
+            },
+            {
+              "hebrew": "כֵּֽן־חָנ֤וּ לְדִגְלֵיהֶם֙ וְכֵ֣ן נָסָ֔עוּ",
+              "english": "Thus did they encamp by their standards, and thus did they travel,"
+            },
+            {
+              "hebrew": "אִ֥ישׁ לְמִשְׁפְּחֹתָ֖יו עַל־בֵּ֥ית אֲבֹתָֽיו׃&nbsp;{פ}",
+              "english": "each according to his families, by his fathers' house."
+            }
+          ],
+          "model": "Instinct"
+        }
+      }
     }
   },
-  "updatedAt": "2026-10-26T19:04:41.026Z"
+  "updatedAt": "2026-10-26T19:06:13.912Z"
 }
