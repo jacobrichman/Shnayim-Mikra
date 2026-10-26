@@ -33555,9 +33555,806 @@
             }
           ],
           "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And you shall make a table of acacia wood:"
+            },
+            {
+              "hebrew": "אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ",
+              "english": "two cubits, its length; one cubit, its breadth;"
+            },
+            {
+              "hebrew": "וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+              "english": "and a cubit and a half, its height [the combined height of its legs and the thickness of the table]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר",
+              "english": "And you shall cover it with pure gold,"
+            },
+            {
+              "hebrew": "וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+              "english": "and you shall make for it a rim of gold roundabout, [symbolizing the \"crown of kingdom\"]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב",
+              "english": "And you shall make a frame for it, a hand-breadth roundabout,"
+            },
+            {
+              "hebrew": "וְעָשִׂ֧יתָ זֵר־זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
+              "english": "and you shall make a golden rim [the aforementioned (24)] for its frame, roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב",
+              "english": "And you shall make for it four golden rings,"
+            },
+            {
+              "hebrew": "וְנָתַתָּ֙ אֶת־הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
+              "english": "and you shall place the rings in the four corners of its four legs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת",
+              "english": "Opposite the [corners of the] frame shall the rings be,"
+            },
+            {
+              "hebrew": "לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+              "english": "as housings for the staves for the carrying of the table."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֤יתָ אֶת־הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים",
+              "english": "And you shall make the staves of acacia wood,"
+            },
+            {
+              "hebrew": "וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב",
+              "english": "and you shall cover them with gold,"
+            },
+            {
+              "hebrew": "וְנִשָּׂא־בָ֖ם אֶת־הַשֻּׁלְחָֽן׃",
+              "english": "and the table shall be carried with them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו",
+              "english": "And you shall make its [bread-] moulds [for the show-bread], its censers [for the frankincense], its (hollow) canes [canes split lengthwise on which the loaves were placed to separate one from another so that they not mold], and its staves, [the framework for the canes]"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן",
+              "english": "by which [canes] it [the show-bread] shall be covered."
+            },
+            {
+              "hebrew": "זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם׃",
+              "english": "Of pure gold shall you make them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֧ עַֽל־הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים",
+              "english": "And you shall place upon the table show-bread"
+            },
+            {
+              "hebrew": "לְפָנַ֥י תָּמִֽיד׃&nbsp;{פ}",
+              "english": "before Me always. [\"show-bread,\" lit., \"face-bread,\" so called because it had \"faces\" (i.e., surfaces) facing two (opposite) sides of the sanctuary]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר",
+              "english": "And you shall make a menorah [candelabrum] of pure gold;"
+            },
+            {
+              "hebrew": "מִקְשָׁ֞ה תֵּעָשֶׂ֤ה הַמְּנוֹרָה֙",
+              "english": "of beaten work shall the menorah be made, [\"of itself.\" Moses being \"stymied\" by the task, the Holy One Blessed be He said to him: \"Cast the talent into the fire and it shall be made of itself.\"]"
+            },
+            {
+              "hebrew": "יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃",
+              "english": "Its base, its [central] shaft [surmounted by the middle lamp, made in the form of a cup (for the oil and the wick)], its bowls [golden ornaments projecting from the branches], its bulbs [apple-shaped ornaments around the central branch], and its flowers [flower-shaped figures], from it [the one piece of gold] shall be [fashioned (without breaking anything off)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ",
+              "english": "And six branches projecting from its [the central shaft's] sides,"
+            },
+            {
+              "hebrew": "שְׁלֹשָׁ֣ה&thinsp;׀ קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָאֶחָ֔ד",
+              "english": "three branches of the menorah from one side,"
+            },
+            {
+              "hebrew": "וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
+              "english": "and three branches of the menorah from the other side [slantwise, one above the other, all rising to the height of the middle branch]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "שְׁלֹשָׁ֣ה גְ֠בִעִ֠ים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶ֒רַח֒",
+              "english": "Three chased bowls on one branch, with bulb and flower;"
+            },
+            {
+              "hebrew": "וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח",
+              "english": "and three chased bowls on the other branch, with bulb and flower."
+            },
+            {
+              "hebrew": "כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+              "english": "And so with (all) six branches that project from the menorah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים",
+              "english": "And on the [central shaft of the] menorah were four bowls [one projecting under the branches, and three (respectively) above the origin of the branches],"
+            },
+            {
+              "hebrew": "מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
+              "english": "chased, its bulbs and its flowers [(The phrase is ambiguous, i.e., either \"bowls chased, its bulbs and its flowers,\" or \"…bowls, its bulbs and its flowers chased\")]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וְכַפְתֹּ֡ר תַּ֩חַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה",
+              "english": "And a bulb under the two branches from it [the one piece of gold],"
+            },
+            {
+              "hebrew": "וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה",
+              "english": "and a bulb under the (next) two branches from it,"
+            },
+            {
+              "hebrew": "וְכַפְתֹּ֕ר תַּחַת־שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+              "english": "and a bulb under the (next) two branches from it, (thus) for (all) the six branches that project from the menorah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה יִהְי֑וּ",
+              "english": "Their bulbs and their branches from it shall be,"
+            },
+            {
+              "hebrew": "כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+              "english": "all one (piece of) beaten work of pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ אֶת־נֵרֹתֶ֖יהָ שִׁבְעָ֑ה",
+              "english": "And you shall make its lamps [small bowls into which oil and wicks were placed], seven,"
+            },
+            {
+              "hebrew": "וְהֶֽעֱלָה֙ אֶת־נֵ֣רֹתֶ֔יהָ וְהֵאִ֖יר עַל־עֵ֥בֶר פָּנֶֽיהָ׃",
+              "english": "and he (the artificer) shall fashion its lamps so that their light is directed at its face [the central shaft]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ",
+              "english": "And its tongs [for manipulating and positioning the wicks] and its snuff-dishes [small bowls into which the high-priest raked the ashes every morning],"
+            },
+            {
+              "hebrew": "זָהָ֥ב טָהֽוֹר׃",
+              "english": "pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר יַעֲשֶׂ֣ה אֹתָ֑הּ",
+              "english": "(Of) a talent of pure gold shall he make it"
+            },
+            {
+              "hebrew": "אֵ֥ת כׇּל־הַכֵּלִ֖ים הָאֵֽלֶּה׃",
+              "english": "[together] with all these vessels."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וּרְאֵ֖ה וַעֲשֵׂ֑ה",
+              "english": "And see, and make (them)"
+            },
+            {
+              "hebrew": "בְּתַ֨בְנִיתָ֔ם אֲשֶׁר־אַתָּ֥ה מׇרְאֶ֖ה בָּהָֽר׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "according to their design which you are shown [here] in the mountain."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "26": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־הַמִּשְׁכָּ֥ן תַּעֲשֶׂ֖ה עֶ֣שֶׂר יְרִיעֹ֑ת",
+              "english": "And the tabernacle (the mishkan) shall you make with ten curtains [to serve it as a roof and as partitions outside the boards, the curtains being hung behind them to cover them]:"
+            },
+            {
+              "hebrew": "שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתֹלַ֣עַת שָׁנִ֔י",
+              "english": "twisted linen (shesh) and blue (wool) and purple and scarlet, [four varieties in each thread, one of linen and three of wool and each thread twisted six (shesh) times, giving a twenty-four-fold thread],"
+            },
+            {
+              "hebrew": "כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃",
+              "english": "cherubs of artistic work [(figures interwoven on both sides)] shall you make them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "אֹ֣רֶךְ&thinsp;׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה",
+              "english": "The length of one curtain, twenty-eight cubits;"
+            },
+            {
+              "hebrew": "וְרֹ֙חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת",
+              "english": "and the width, four cubits for one curtain —"
+            },
+            {
+              "hebrew": "מִדָּ֥ה אַחַ֖ת לְכׇל־הַיְרִיעֹֽת׃",
+              "english": "one measure for all the curtains."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "חֲמֵ֣שׁ הַיְרִיעֹ֗ת תִּֽהְיֶ֙יןָ֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָ֑הּ",
+              "english": "Five curtains shall be attached [by sewing] one to the other,"
+            },
+            {
+              "hebrew": "וְחָמֵ֤שׁ יְרִיעֹת֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָֽהּ׃",
+              "english": "and five curtains, one to the other."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֜יתָ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָאֶחָ֔ת מִקָּצָ֖ה בַּחֹבָ֑רֶת",
+              "english": "And you shall make loops of purple wool at the edge of the end curtain of one (five-curtain) joining,"
+            },
+            {
+              "hebrew": "וְכֵ֤ן תַּעֲשֶׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃",
+              "english": "and, likewise, at the edge of the end curtain of the other joining."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒",
+              "english": "Fifty loops shall you make in the one (end) curtain,"
+            },
+            {
+              "hebrew": "וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית",
+              "english": "and fifty loops shall you make at the edge of the (end) curtain in the second joining,"
+            },
+            {
+              "hebrew": "מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָֽהּ׃",
+              "english": "the loops [on the respective joinings] directly aligned one with the other."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב",
+              "english": "And you shall make fifty golden hooks,"
+            },
+            {
+              "hebrew": "וְחִבַּרְתָּ֨ אֶת־הַיְרִיעֹ֜ת אִשָּׁ֤ה אֶל־אֲחֹתָהּ֙ בַּקְּרָסִ֔ים",
+              "english": "and you shall join the curtains one to the other by the hooks, [inserting one end of the hook into one loop, and the other end, into its corresponding loop],"
+            },
+            {
+              "hebrew": "וְהָיָ֥ה הַמִּשְׁכָּ֖ן אֶחָֽד׃",
+              "english": "and the tabernacle shall be one."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֙יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־הַמִּשְׁכָּ֑ן",
+              "english": "And you shall make curtains of goats' hair to tent over the [lower curtains of the] tabernacle;"
+            },
+            {
+              "hebrew": "עַשְׁתֵּי־עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה אֹתָֽם׃",
+              "english": "eleven curtains shall you make them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "אֹ֣רֶךְ&thinsp;׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה",
+              "english": "The length of one curtain, thirty cubits;"
+            },
+            {
+              "hebrew": "וְרֹ֙חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת",
+              "english": "and the width, four cubits for one curtain —"
+            },
+            {
+              "hebrew": "מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃",
+              "english": "one measure for the eleven curtains."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְחִבַּרְתָּ֞ אֶת־חֲמֵ֤שׁ הַיְרִיעֹת֙ לְבָ֔ד וְאֶת־שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד",
+              "english": "And you shall join five curtains separately and six curtains separately,"
+            },
+            {
+              "hebrew": "וְכָפַלְתָּ֙ אֶת־הַיְרִיעָ֣ה הַשִּׁשִּׁ֔ית אֶל־מ֖וּל פְּנֵ֥י הָאֹֽהֶל׃",
+              "english": "and you shall double [two cubits of] the sixth curtain [the \"surplus\" vis-à-vis the lower curtains] over the face of the tent [the screen on the east (as a bride's face is veiled in modesty)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֜יתָ חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת הַקִּיצֹנָ֖ה בַּחֹבָ֑רֶת",
+              "english": "And you shall make fifty loops at the edge of the end curtain in (one) joining,"
+            },
+            {
+              "hebrew": "וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃",
+              "english": "and fifty loops at the edge of the curtain in the second joining."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֛יתָ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים",
+              "english": "And you shall make fifty copper hooks,"
+            },
+            {
+              "hebrew": "וְהֵבֵאתָ֤ אֶת־הַקְּרָסִים֙ בַּלֻּ֣לָאֹ֔ת",
+              "english": "and you shall insert the hooks into the loops,"
+            },
+            {
+              "hebrew": "וְחִבַּרְתָּ֥ אֶת־הָאֹ֖הֶל וְהָיָ֥ה אֶחָֽד׃",
+              "english": "and you shall join the tent [the goats' hair covering], and it shall be one."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְסֶ֙רַח֙ הָעֹדֵ֔ף בִּירִיעֹ֖ת הָאֹ֑הֶל חֲצִ֤י הַיְרִיעָה֙ הָעֹדֶ֔פֶת",
+              "english": "And the additional draping in the curtains of the tent, half of the additional curtain [i.e., two cubits],"
+            },
+            {
+              "hebrew": "תִּסְרַ֕ח עַ֖ל אֲחֹרֵ֥י הַמִּשְׁכָּֽן׃",
+              "english": "you shall hang over the back [the west] of the tabernacle [to cover the two cubits of exposed beams.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהָאַמָּ֨ה מִזֶּ֜ה וְהָאַמָּ֤ה מִזֶּה֙ בָּעֹדֵ֔ף בְּאֹ֖רֶךְ יְרִיעֹ֣ת הָאֹ֑הֶל",
+              "english": "And the cubit on one side and the cubit on the other side in excess [of the length of the lower curtains] in the length of the curtains of the tent,"
+            },
+            {
+              "hebrew": "יִהְיֶ֨ה סָר֜וּחַ עַל־צִדֵּ֧י הַמִּשְׁכָּ֛ן מִזֶּ֥ה וּמִזֶּ֖ה לְכַסֹּתֽוֹ׃",
+              "english": "shall be spread over both sides [north and south] of the tabernacle [curtains] to cover it [(for purposes of adornment)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאׇדָּמִ֑ים",
+              "english": "And you shall make a cover for the tent [(the goats' hair roof)] of rams' skins dyed red,"
+            },
+            {
+              "hebrew": "וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃&nbsp;{פ}",
+              "english": "and a cover of tachash skins above."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן",
+              "english": "And you shall make the beams of the tabernacle [those that have been designated for the purpose (Jacob, prophetically, having planted acacia trees to this end)]"
+            },
+            {
+              "hebrew": "עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃",
+              "english": "of standing acacia wood. [The beams of the tabernacle walls are to be stood up vertically, and not placed horizontally one atop the other.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "עֶ֥שֶׂר אַמּ֖וֹת אֹ֣רֶךְ הַקָּ֑רֶשׁ",
+              "english": "Ten cubits the length of the beam [(so that the height of the tabernacle was ten cubits)],"
+            },
+            {
+              "hebrew": "וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+              "english": "and a cubit and a half the breadth of each beam [(so that the length of the tabernacle was thirty cubits)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "שְׁתֵּ֣י יָד֗וֹת לַקֶּ֙רֶשׁ֙ הָאֶחָ֔ד מְשֻׁ֨לָּבֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָ֑הּ",
+              "english": "Two prongs (wooden projections) for each beam [(the beam being hollowed out at the bottom to form these prongs)], rung-like, one near the other [like the rungs of a ladder]."
+            },
+            {
+              "hebrew": "כֵּ֣ן תַּעֲשֶׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
+              "english": "So shall you do for all the beams of the tabernacle."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן",
+              "english": "And you shall make the beams for the tabernacle,"
+            },
+            {
+              "hebrew": "עֶשְׂרִ֣ים קֶ֔רֶשׁ לִפְאַ֖ת נֶ֥גְבָּה תֵימָֽנָה׃",
+              "english": "twenty beams for the southern side."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְאַרְבָּעִים֙ אַדְנֵי־כֶ֔סֶף תַּעֲשֶׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקָּ֑רֶשׁ",
+              "english": "And forty silver sockets shall you make under the twenty beams;"
+            },
+            {
+              "hebrew": "שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו",
+              "english": "two sockets under one beam for its two prongs,"
+            },
+            {
+              "hebrew": "וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃",
+              "english": "and two sockets under the next beam for its two prongs."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן",
+              "english": "And for the second side of the tabernacle, the northern side,"
+            },
+            {
+              "hebrew": "עֶשְׂרִ֖ים קָֽרֶשׁ׃",
+              "english": "twenty beams."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף",
+              "english": "And their forty silver sockets,"
+            },
+            {
+              "hebrew": "שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָֽאֶחָ֔ד",
+              "english": "two sockets under one beam"
+            },
+            {
+              "hebrew": "וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+              "english": "and two sockets under the next beam."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה",
+              "english": "And for the ends [i.e., the back] of the tabernacle on the west,"
+            },
+            {
+              "hebrew": "תַּעֲשֶׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃",
+              "english": "you shall make six beams, [accounting for nine cubits of width.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁנֵ֤י קְרָשִׁים֙ תַּעֲשֶׂ֔ה",
+              "english": "And two beams shall you make"
+            },
+            {
+              "hebrew": "לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃",
+              "english": "for the corners of the tabernacle at the ends, [(so that the interior width is ten cubits)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְיִֽהְי֣וּ תֹֽאֲמִם֮ מִלְּמַ֒טָּה֒",
+              "english": "And they (the beams) shall be fitted against each other at the bottom,"
+            },
+            {
+              "hebrew": "וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ עַל־רֹאשׁ֔וֹ אֶל־הַטַּבַּ֖עַת הָאֶחָ֑ת",
+              "english": "and together shall they be fitted at its top into one ring. [Two adjacent beams were fixed together by a ring placed in grooves along their breadth.]"
+            },
+            {
+              "hebrew": "כֵּ֚ן יִהְיֶ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֥י הַמִּקְצֹעֹ֖ת יִהְיֽוּ׃",
+              "english": "So shall it be for the two of them [for the two beams at the end, the beam at the northern end and the western beam, and so,] for the two corners shall they be."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים",
+              "english": "And [on the western side] there shall be eight beams and their silver sockets, sixteen sockets;"
+            },
+            {
+              "hebrew": "שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+              "english": "two sockets under one beam and two sockets under the next beam."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ בְרִיחִ֖ם עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And you shall make bars of acacia wood,"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הָאֶחָֽד׃",
+              "english": "five for the beams of one side of the tabernacle [These \"five\" are three, the upper and lower bars, respectively, consisting of two equal (fifteen cubit segments) running along the side wall, and one bar running the entire length through a hole bored in each beam.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית",
+              "english": "And five bars for the beams of the second side of the tabernacle,"
+            },
+            {
+              "hebrew": "וַחֲמִשָּׁ֣ה בְרִיחִ֗ם לְקַרְשֵׁי֙ צֶ֣לַע הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
+              "english": "and five bars for the beams of the side of the tabernacle at the western ends."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְהַבְּרִ֥יחַ הַתִּיכֹ֖ן בְּת֣וֹךְ הַקְּרָשִׁ֑ים",
+              "english": "And the middle bar in the midst of the beams"
+            },
+            {
+              "hebrew": "מַבְרִ֕חַ מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃",
+              "english": "shall extend from end to end."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְֽאֶת־הַקְּרָשִׁ֞ים תְּצַפֶּ֣ה זָהָ֗ב",
+              "english": "And the beams shall you cover with gold,"
+            },
+            {
+              "hebrew": "וְאֶת־טַבְּעֹֽתֵיהֶם֙ תַּעֲשֶׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם",
+              "english": "and their rings shall you make of gold [to serve as] housings for the bars,"
+            },
+            {
+              "hebrew": "וְצִפִּיתָ֥ אֶת־הַבְּרִיחִ֖ם זָהָֽב׃",
+              "english": "and you shall cover the bars with gold [i.e., They will be \"covered\" with gold when they are inserted into the golden rings flanked by the golden half-reeds on either side.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַהֲקֵמֹתָ֖ אֶת־הַמִּשְׁכָּ֑ן",
+              "english": "And you shall set up the tabernacle"
+            },
+            {
+              "hebrew": "כְּמִ֨שְׁפָּט֔וֹ אֲשֶׁ֥ר הׇרְאֵ֖יתָ בָּהָֽר׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "after the manner which will have been shown to you [by the L-rd] in the mountain."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר",
+              "english": "And you shall make a parocheth (partition) of blue wool and purple wool and scarlet wool and twisted linen."
+            },
+            {
+              "hebrew": "מַעֲשֵׂ֥ה חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
+              "english": "Artistic work shall he make it, cherubs. [See Rashi on verse 1]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֣ה אֹתָ֗הּ עַל־אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים מְצֻפִּ֣ים זָהָ֔ב",
+              "english": "And you shall place it on four pillars of acacia wood covered with gold,"
+            },
+            {
+              "hebrew": "וָוֵיהֶ֖ם זָהָ֑ב עַל־אַרְבָּעָ֖ה אַדְנֵי־כָֽסֶף׃",
+              "english": "their hooks of gold [(Hooks bent upwards were set in the pillars on which to place the pole on which the top of the parocheth was wrapped)] (the pillars standing) upon four sockets of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֣ה אֶת־הַפָּרֹ֘כֶת֮ תַּ֣חַת הַקְּרָסִים֒",
+              "english": "And you shall put the parocheth under the hooks,"
+            },
+            {
+              "hebrew": "וְהֵבֵאתָ֥ שָׁ֙מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲר֣וֹן הָעֵד֑וּת",
+              "english": "and you shall bring there, inside the parocheth, the ark of testimony;"
+            },
+            {
+              "hebrew": "וְהִבְדִּילָ֤ה הַפָּרֹ֙כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים׃",
+              "english": "and the parocheth shall separate for you between the holy and the holy of holies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֙ אֶת־הַכַּפֹּ֔רֶת עַ֖ל אֲר֣וֹן הָעֵדֻ֑ת",
+              "english": "And you shall put the kaporeth (the lid) upon the ark of testimony"
+            },
+            {
+              "hebrew": "בְּקֹ֖דֶשׁ הַקֳּדָשִֽׁים׃",
+              "english": "in the holy of holies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׂמְתָּ֤ אֶת־הַשֻּׁלְחָן֙ מִח֣וּץ לַפָּרֹ֔כֶת",
+              "english": "And you shall place the table outside the parocheth,"
+            },
+            {
+              "hebrew": "וְאֶת־הַמְּנֹרָה֙ נֹ֣כַח הַשֻּׁלְחָ֔ן עַ֛ל צֶ֥לַע הַמִּשְׁכָּ֖ן תֵּימָ֑נָה",
+              "english": "and the menorah opposite the table on the southern side of the tabernacle;"
+            },
+            {
+              "hebrew": "וְהַ֨שֻּׁלְחָ֔ן תִּתֵּ֖ן עַל־צֶ֥לַע צָפֽוֹן׃",
+              "english": "and the table shall you place on the northern side."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֤יתָ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל",
+              "english": "And you shall make a screen [a curtain] for the entrance of the tent,"
+            },
+            {
+              "hebrew": "תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
+              "english": "of blue wool, purple wool, scarlet wool, and twisted linen, the work of an embroiderer [needlework, the figures on one side being the same as those on the other.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֣יתָ לַמָּסָ֗ךְ חֲמִשָּׁה֙ עַמּוּדֵ֣י שִׁטִּ֔ים",
+              "english": "And you shall make for the screen five pillars of acacia wood,"
+            },
+            {
+              "hebrew": "וְצִפִּיתָ֤ אֹתָם֙ זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב",
+              "english": "and you shall cover them with gold, and their hooks (shall be) of gold;"
+            },
+            {
+              "hebrew": "וְיָצַקְתָּ֣ לָהֶ֔ם חֲמִשָּׁ֖ה אַדְנֵ֥י נְחֹֽשֶׁת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and you shall cast for them five copper sockets."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:39:09.780Z"
+  "updatedAt": "2026-10-26T18:40:29.396Z"
 }
