@@ -34353,8 +34353,699 @@
           ],
           "model": "Instinct"
         }
+      },
+      "27": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ אֶת־הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And you shall make the altar of acacia wood,"
+            },
+            {
+              "hebrew": "חָמֵשׁ֩ אַמּ֨וֹת אֹ֜רֶךְ וְחָמֵ֧שׁ אַמּ֣וֹת רֹ֗חַב",
+              "english": "five cubits long and five cubits wide."
+            },
+            {
+              "hebrew": "רָב֤וּעַ יִהְיֶה֙ הַמִּזְבֵּ֔חַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃",
+              "english": "The altar shall be square and three cubits high."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֣יתָ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ תִּהְיֶ֣יןָ קַרְנֹתָ֑יו",
+              "english": "And you shall make its horns on its four corners. From it [the altar itself] shall its horns be, [and not first made and then attached to it.]"
+            },
+            {
+              "hebrew": "וְצִפִּיתָ֥ אֹת֖וֹ נְחֹֽשֶׁת׃",
+              "english": "and you shall cover it with copper [to atone for brazenness (see Isaiah 48:4)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֤יתָ סִּֽירֹתָיו֙ לְדַשְּׁנ֔וֹ וְיָעָיו֙ וּמִזְרְקֹתָ֔יו וּמִזְלְגֹתָ֖יו וּמַחְתֹּתָ֑יו",
+              "english": "And you shall make its pots (into which) to empty its ashes, and its shovels [with which to remove its ashes], and its sprinkling basins [in which to receive the blood of the sacrifices], and its spits, and its fire-pans [for taking coals from the outer altar to the inner altar for the burning of the incense]."
+            },
+            {
+              "hebrew": "לְכׇל־כֵּלָ֖יו תַּעֲשֶׂ֥ה נְחֹֽשֶׁת׃",
+              "english": "All of its implements shall you make of copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֤יתָ לּוֹ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת",
+              "english": "And you shall make for it a copper lattice, netting work."
+            },
+            {
+              "hebrew": "וְעָשִׂ֣יתָ עַל־הָרֶ֗שֶׁת אַרְבַּע֙ טַבְּעֹ֣ת נְחֹ֔שֶׁת עַ֖ל אַרְבַּ֥ע קְצוֹתָֽיו׃",
+              "english": "And you shall make on the netting four copper rings at its four edges."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֣ה אֹתָ֗הּ תַּ֛חַת כַּרְכֹּ֥ב הַמִּזְבֵּ֖חַ מִלְּמָ֑טָּה",
+              "english": "And you shall place it under the karkov of the altar [an encircling, decorative band] below."
+            },
+            {
+              "hebrew": "וְהָיְתָ֣ה הָרֶ֔שֶׁת עַ֖ד חֲצִ֥י הַמִּזְבֵּֽחַ׃",
+              "english": "And the netting shall extend until the mid-point of the altar [for distinguishing between the (placing of the) \"upper blood\" and the \"lower blood\"]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֤יתָ בַדִּים֙ לַמִּזְבֵּ֔חַ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And you shall make staves for the altar of acacia wood,"
+            },
+            {
+              "hebrew": "וְצִפִּיתָ֥ אֹתָ֖ם נְחֹֽשֶׁת׃",
+              "english": "and you shall cover them with copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְהוּבָ֥א אֶת־בַּדָּ֖יו בַּטַּבָּעֹ֑ת",
+              "english": "And its staves shall be brought into the [four] rings [made in the lattice]."
+            },
+            {
+              "hebrew": "וְהָי֣וּ הַבַּדִּ֗ים עַל־שְׁתֵּ֛י צַלְעֹ֥ת הַמִּזְבֵּ֖חַ בִּשְׂאֵ֥ת אֹתֽוֹ׃",
+              "english": "And the staves shall be on the two sides of the altar when it is carried."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "נְב֥וּב לֻחֹ֖ת תַּעֲשֶׂ֣ה אֹת֑וֹ",
+              "english": "A hollow of boards shall you make it,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֨ר הֶרְאָ֥ה אֹתְךָ֛ בָּהָ֖ר כֵּ֥ן יַעֲשֽׂוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as He showed you on the mountain; so shall they do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן",
+              "english": "And you shall make the court of the tabernacle:"
+            },
+            {
+              "hebrew": "לִפְאַ֣ת נֶֽגֶב־תֵּ֠ימָ֠נָה קְלָעִ֨ים לֶחָצֵ֜ר שֵׁ֣שׁ מׇשְׁזָ֗ר",
+              "english": "On the south side, curtains for the court, of twisted linen,"
+            },
+            {
+              "hebrew": "מֵאָ֤ה בָֽאַמָּה֙ אֹ֔רֶךְ לַפֵּאָ֖ה הָאֶחָֽת׃",
+              "english": "a hundred cubits long on one side."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְעַמֻּדָ֣יו עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת",
+              "english": "And its pillars, twenty, [five cubits between the pillars], and their sockets twenty, of copper;"
+            },
+            {
+              "hebrew": "וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+              "english": "the hooks of the pillars and their belts [(threads by which the pillars were encircled)] of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְכֵ֨ן לִפְאַ֤ת צָפוֹן֙ בָּאֹ֔רֶךְ קְלָעִ֖ים מֵ֣אָה אֹ֑רֶךְ",
+              "english": "And so for the northern side in length. Curtains a hundred (cubits) long,"
+            },
+            {
+              "hebrew": "וְעַמֻּדָ֣ו עֶשְׂרִ֗ים וְאַדְנֵיהֶ֤ם עֶשְׂרִים֙ נְחֹ֔שֶׁת",
+              "english": "and its pillars, twenty, and their sockets twenty, of copper;"
+            },
+            {
+              "hebrew": "וָוֵ֧י הָֽעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+              "english": "the hooks of the pillars and their belts, of silver."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְרֹ֤חַב הֶֽחָצֵר֙ לִפְאַת־יָ֔ם קְלָעִ֖ים חֲמִשִּׁ֣ים אַמָּ֑ה",
+              "english": "And the width of the court on the west side: Curtains, fifty cubits (long),"
+            },
+            {
+              "hebrew": "עַמֻּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָֽה׃",
+              "english": "their pillars, ten, and their sockets, ten."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְרֹ֣חַב הֶֽחָצֵ֗ר לִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה",
+              "english": "And the width of the court on the front side, to the east,"
+            },
+            {
+              "hebrew": "חֲמִשִּׁ֥ים אַמָּֽה׃",
+              "english": "fifty cubits."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַחֲמֵ֨שׁ עֶשְׂרֵ֥ה אַמָּ֛ה קְלָעִ֖ים לַכָּתֵ֑ף",
+              "english": "And fifteen cubits of curtains on the shoulder [(on one side of the opening)],"
+            },
+            {
+              "hebrew": "עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+              "english": "their pillars three and their sockets three."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְלַכָּתֵף֙ הַשֵּׁנִ֔ית חֲמֵ֥שׁ עֶשְׂרֵ֖ה קְלָעִ֑ים",
+              "english": "And on the second shoulder, fifteen (cubits) of curtains,"
+            },
+            {
+              "hebrew": "עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+              "english": "their pillars three and their sockets three."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ&thinsp;׀ עֶשְׂרִ֣ים אַמָּ֗ה תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם",
+              "english": "And for the gate of the court, a screen [a curtain] of twenty cubits: blue wool, and purple wool, and scarlet wool, and twisted linen, the work of an embroiderer,"
+            },
+            {
+              "hebrew": "עַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֖ם אַרְבָּעָֽה׃",
+              "english": "their pillars four and their sockets four."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־עַמּוּדֵ֨י הֶֽחָצֵ֤ר סָבִיב֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף",
+              "english": "All the pillars of the court roundabout, belted with silver,"
+            },
+            {
+              "hebrew": "וָוֵיהֶ֖ם כָּ֑סֶף וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
+              "english": "their hooks of silver and their sockets of copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "אֹ֣רֶךְ הֶֽחָצֵר֩ מֵאָ֨ה בָֽאַמָּ֜ה וְרֹ֣חַב&thinsp;׀ חֲמִשִּׁ֣ים בַּחֲמִשִּׁ֗ים",
+              "english": "The length of the court, a hundred cubits, and the width, fifty by fifty,"
+            },
+            {
+              "hebrew": "וְקֹמָ֛ה חָמֵ֥שׁ אַמּ֖וֹת שֵׁ֣שׁ מׇשְׁזָ֑ר וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
+              "english": "and the height, five cubits of twisted linen, and their sockets [(including the sockets for the pillars of the screen)] of copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "לְכֹל֙ כְּלֵ֣י הַמִּשְׁכָּ֔ן בְּכֹ֖ל עֲבֹדָת֑וֹ",
+              "english": "All the implements of the tabernacle for all of its labor [for erecting and dismantling it],"
+            },
+            {
+              "hebrew": "וְכׇל־יְתֵדֹתָ֛יו וְכׇל־יִתְדֹ֥ת הֶחָצֵ֖ר נְחֹֽשֶׁת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and all of its pegs, and all the pegs of the courtyard, of copper."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְאַתָּ֞ה תְּצַוֶּ֣ה&thinsp;׀ אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל",
+              "english": "And you shall command the children of Israel"
+            },
+            {
+              "hebrew": "וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר",
+              "english": "that they take for you olive oil, clear [without lees], (the olives) crushed [(in a mortar and not ground in a mill, so that there be no lees)], for illumination [(but the olives may be ground in a mill for the (oil of the) meal-offering)],"
+            },
+            {
+              "hebrew": "לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃",
+              "english": "to raise a light [(the flame rising of itself)] continually [i.e., each night]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל־הָעֵדֻ֗ת",
+              "english": "In the tent of meeting outside the parocheth which is before the Testimony,"
+            },
+            {
+              "hebrew": "יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו מֵעֶ֥רֶב עַד־בֹּ֖קֶר לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "Aaron and his sons shall arrange it [so that it burn] from evening until morning before the L-rd,"
+            },
+            {
+              "hebrew": "חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "an eternal statute for their generations, from the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "28": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וְאַתָּ֡ה הַקְרֵ֣ב אֵלֶ֩יךָ֩ אֶת־אַהֲרֹ֨ן אָחִ֜יךָ וְאֶת־בָּנָ֣יו אִתּ֗וֹ מִתּ֛וֹךְ בְּנֵ֥י יִשְׂרָאֵ֖ל לְכַהֲנוֹ־לִ֑י",
+              "english": "And you, draw near to yourself [after completing the work of the tabernacle] Aaron your brother and his sons with him from the midst of the children of Israel to be a priest unto Me —"
+            },
+            {
+              "hebrew": "אַהֲרֹ֕ן נָדָ֧ב וַאֲבִיה֛וּא אֶלְעָזָ֥ר וְאִיתָמָ֖ר בְּנֵ֥י אַהֲרֹֽן׃",
+              "english": "Aaron, Nadav and Avihu, Elazar and Ithamar, the sons of Aaron."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ בִגְדֵי־קֹ֖דֶשׁ לְאַהֲרֹ֣ן אָחִ֑יךָ",
+              "english": "And you shall make consecrated garments for Aaron your brother,"
+            },
+            {
+              "hebrew": "לְכָב֖וֹד וּלְתִפְאָֽרֶת׃",
+              "english": "for honor and for glory."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְאַתָּ֗ה תְּדַבֵּר֙ אֶל־כׇּל־חַכְמֵי־לֵ֔ב אֲשֶׁ֥ר מִלֵּאתִ֖יו ר֣וּחַ חׇכְמָ֑ה",
+              "english": "And you shall speak to all the wise of heart whom I have filled with the spirit of wisdom,"
+            },
+            {
+              "hebrew": "וְעָשׂ֞וּ אֶת־בִּגְדֵ֧י אַהֲרֹ֛ן לְקַדְּשׁ֖וֹ לְכַהֲנוֹ־לִֽי׃",
+              "english": "that they make the vestments of Aaron to sanctify him, to make him a Cohein [a ministering priest] unto Me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט",
+              "english": "And these are the garments which they shall make: a choshen [an ornament worn on the heart], an ephod [a kind of apron], a me'il [an outer robe], a kethoneth [an inner robe worn on the skin] with checkered indentations, a mitznefeth [a dome-like hat], and an avnet [the belt over the kethoneth]."
+            },
+            {
+              "hebrew": "וְעָשׂ֨וּ בִגְדֵי־קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־לִֽי׃",
+              "english": "And they shall make garments of kodesh [i.e., from the contribution that has been consecrated (mekudesheth) for My name] for Aaron your brother and for his sons to make him a Cohein unto Me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵם֙ יִקְח֣וּ אֶת־הַזָּהָ֔ב",
+              "english": "And they [the wise of heart] shall take [from the donors] the gold,"
+            },
+            {
+              "hebrew": "וְאֶת־הַתְּכֵ֖לֶת וְאֶת־הָֽאַרְגָּמָ֑ן וְאֶת־תּוֹלַ֥עַת הַשָּׁנִ֖י וְאֶת־הַשֵּֽׁשׁ׃&nbsp;{פ}",
+              "english": "the blue wool, the purple wool, the scarlet wool, and the linen [whereof to make the garments]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשׂ֖וּ אֶת־הָאֵפֹ֑ד",
+              "english": "And they shall make the ephod"
+            },
+            {
+              "hebrew": "זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃",
+              "english": "of gold, blue wool, purple wool, scarlet wool, and twisted linen, artistic work. [See Rashi on 26:1.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "שְׁתֵּ֧י כְתֵפֹ֣ת חֹֽבְרֹ֗ת יִֽהְיֶה־לּ֛וֹ אֶל־שְׁנֵ֥י קְצוֹתָ֖יו",
+              "english": "Two shoulder straps, attached, shall it [the ephod] have to its two ends [(to the ends of the width of the ephod, which is the width of the Cohein's back)],"
+            },
+            {
+              "hebrew": "וְחֻבָּֽר׃",
+              "english": "and it [the ephod with the two shoulder straps] shall be connected [to the cheishev (8) (by needle, and not woven together with it)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְחֵ֤שֶׁב אֲפֻדָּתוֹ֙ אֲשֶׁ֣ר עָלָ֔יו כְּמַעֲשֵׂ֖הוּ מִמֶּ֣נּוּ יִהְיֶ֑ה",
+              "english": "And the cheishev [the belt] of his adornment which is above it [i.e., which is on the upper edge of the ephod], after its manner [i.e., artistic work, of the five varieties (of material)], of it [i.e., woven together with the ephod] shall it be:"
+            },
+            {
+              "hebrew": "זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+              "english": "gold, blue wool, purple wool, scarlet wool, and twisted linen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְלָ֣קַחְתָּ֔ אֶת־שְׁתֵּ֖י אַבְנֵי־שֹׁ֑הַם",
+              "english": "And you shall take the two shoham stones"
+            },
+            {
+              "hebrew": "וּפִתַּחְתָּ֣ עֲלֵיהֶ֔ם שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and engrave thereon the names of the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "שִׁשָּׁה֙ מִשְּׁמֹתָ֔ם עַ֖ל הָאֶ֣בֶן הָאֶחָ֑ת",
+              "english": "Six of their names on the one stone,"
+            },
+            {
+              "hebrew": "וְאֶת־שְׁמ֞וֹת הַשִּׁשָּׁ֧ה הַנּוֹתָרִ֛ים עַל־הָאֶ֥בֶן הַשֵּׁנִ֖ית כְּתוֹלְדֹתָֽם׃",
+              "english": "and the names of the remaining six on the second stone, in order of their birth [i.e., on the first stone: Reuven, Shimon, Levi, Yehudah, Dan, Naftali; on the second: Gad, Asher, Yissachar, Zevulun, Yosef, Binyamin]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "מַעֲשֵׂ֣ה חָרַשׁ֮ אֶ֒בֶן֒ פִּתּוּחֵ֣י חֹתָ֗ם תְּפַתַּח֙ אֶת־שְׁתֵּ֣י הָאֲבָנִ֔ים עַל־שְׁמֹ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "The work of a stone artisan (a lapidary), [with script as clear as] the engraving of a signet shall you engrave the two stones with the names of the children of Israel;"
+            },
+            {
+              "hebrew": "מֻסַבֹּ֛ת מִשְׁבְּצ֥וֹת זָהָ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃",
+              "english": "surrounded by golden settings shall you make them [(the settings then to be attached to the shoulder straps of the ephod)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׂמְתָּ֞ אֶת־שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And you shall place the two stones on the shoulder straps of the ephod, stones of remembrance for the children of Israel."
+            },
+            {
+              "hebrew": "וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־שְׁמוֹתָ֜ם לִפְנֵ֧י יְהֹוָ֛ה עַל־שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And Aaron shall carry their names before the L-rd on his two shoulders as a remembrance [i.e., so that the Holy One see the tribes inscribed before Him and remember their righteousness]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ",
+              "english": "And you shall make"
+            },
+            {
+              "hebrew": "מִשְׁבְּצֹ֖ת זָהָֽב׃",
+              "english": "[two] golden settings."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁתֵּ֤י שַׁרְשְׁרֹת֙ זָהָ֣ב טָה֔וֹר",
+              "english": "And (you shall make) two chains of pure gold."
+            },
+            {
+              "hebrew": "מִגְבָּלֹ֛ת תַּעֲשֶׂ֥ה אֹתָ֖ם מַעֲשֵׂ֣ה עֲבֹ֑ת וְנָתַתָּ֛ה אֶת־שַׁרְשְׁרֹ֥ת הָעֲבֹתֹ֖ת עַל־הַֽמִּשְׁבְּצֹֽת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "At the edge [of the choshen] shall you make them, braided chains on the settings [of the ephod]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ",
+              "english": "And you shall make a choshen of judgment [i.e., a choshen which atones for subversion of judgment]; artistic work, like the work of the ephod shall you make it:"
+            },
+            {
+              "hebrew": "זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר תַּעֲשֶׂ֥ה אֹתֽוֹ׃",
+              "english": "gold, blue wool, purple wool, scarlet wool, and twisted linen shall you make it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "רָב֥וּעַ יִֽהְיֶ֖ה כָּפ֑וּל",
+              "english": "Square shall it be, folded (into a square),"
+            },
+            {
+              "hebrew": "זֶ֥רֶת אׇרְכּ֖וֹ וְזֶ֥רֶת רׇחְבּֽוֹ׃",
+              "english": "a zereth (half a cubit) its length, and a zereth its width."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וּמִלֵּאתָ֥ בוֹ֙ מִלֻּ֣אַת אֶ֔בֶן אַרְבָּעָ֖ה טוּרִ֣ים אָ֑בֶן",
+              "english": "And you shall fill it [its indentations] with stone filling, four rows of stone."
+            },
+            {
+              "hebrew": "ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃",
+              "english": "A row of odem, pitedah, and bareketh — the one row."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְהַטּ֖וּר הַשֵּׁנִ֑י",
+              "english": "The second row —"
+            },
+            {
+              "hebrew": "נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃",
+              "english": "nofech, sapir, and yahalom."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהַטּ֖וּר הַשְּׁלִישִׁ֑י",
+              "english": "The third row —"
+            },
+            {
+              "hebrew": "לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃",
+              "english": "leshem, shevo, and achlamah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְהַטּוּר֙ הָרְבִיעִ֔י תַּרְשִׁ֥ישׁ וְשֹׁ֖הַם וְיָשְׁפֵ֑ה",
+              "english": "And the fourth row — tarshish, shoham, and yashfeh."
+            },
+            {
+              "hebrew": "מְשֻׁבָּצִ֥ים זָהָ֛ב יִהְי֖וּ בְּמִלּוּאֹתָֽם׃",
+              "english": "Set in gold shall they [the rows] be with their [exact] fillings [i.e., They shall be surrounded by golden settings of a depth to accommodate the exact thickness of the stone.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְ֠הָאֲבָנִ֠ים תִּֽהְיֶ֜יןָ עַל־שְׁמֹ֧ת בְּנֵֽי־יִשְׂרָאֵ֛ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־שְׁמֹתָ֑ם",
+              "english": "And the stones shall be according to the names of the children of Israel, twelve, according to their names,"
+            },
+            {
+              "hebrew": "פִּתּוּחֵ֤י חוֹתָם֙ אִ֣ישׁ עַל־שְׁמ֔וֹ תִּֽהְיֶ֕יןָ לִשְׁנֵ֥י עָשָׂ֖ר שָֽׁבֶט׃",
+              "english": "like the engraving of a signet, each by his name shall they be, for the twelve tribes [in order of their birth: odem for Reuven, pitedah for Shimon, etc.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֧יתָ עַל־הַחֹ֛שֶׁן שַֽׁרְשֹׁ֥ת גַּבְלֻ֖ת",
+              "english": "And you shall make for the choshen chains at the edge,"
+            },
+            {
+              "hebrew": "מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃",
+              "english": "braidwork of pure gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֙יתָ֙ עַל־הַחֹ֔שֶׁן שְׁתֵּ֖י טַבְּע֣וֹת זָהָ֑ב",
+              "english": "And you shall make for the choshen two rings of gold,"
+            },
+            {
+              "hebrew": "וְנָתַתָּ֗ אֶת־שְׁתֵּי֙ הַטַּבָּע֔וֹת עַל־שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃",
+              "english": "and you shall put the two rings on the two ends of the choshen [on the two corners opposite the neck.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֗ה אֶת־שְׁתֵּי֙ עֲבֹתֹ֣ת הַזָּהָ֔ב עַל־שְׁתֵּ֖י הַטַּבָּעֹ֑ת",
+              "english": "And you shall place the two golden braids on the two rings"
+            },
+            {
+              "hebrew": "אֶל־קְצ֖וֹת הַחֹֽשֶׁן׃",
+              "english": "at the ends of the choshen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָעֲבֹתֹ֔ת תִּתֵּ֖ן עַל־שְׁתֵּ֣י הַֽמִּשְׁבְּצ֑וֹת",
+              "english": "And the two ends of the two braids [i.e., the two heads of each braid] you shall place on the two settings (verses 12-13) [the right braid on the right setting, and the left braid on the left],"
+            },
+            {
+              "hebrew": "וְנָתַתָּ֛ה עַל־כִּתְפ֥וֹת הָאֵפֹ֖ד אֶל־מ֥וּל פָּנָֽיו׃",
+              "english": "and you shall place [the settings] on the shoulder straps of the ephod on its face [i.e., on the topside of the (shoulder strap of the) ephod.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב",
+              "english": "And you shall make two golden rings,"
+            },
+            {
+              "hebrew": "וְשַׂמְתָּ֣ אֹתָ֔ם עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
+              "english": "and you shall place them on the two ends of the choshen [the two lower corners] on its edge which faces the ephod [i.e., the lower, apron part], inwards [(whereas the rings on top of the choshen face outwards)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֘יתָ֮ שְׁתֵּ֣י טַבְּע֣וֹת זָהָב֒",
+              "english": "And you shall make two golden rings,"
+            },
+            {
+              "hebrew": "וְנָתַתָּ֣ה אֹתָ֡ם עַל־שְׁתֵּי֩ כִתְפ֨וֹת הָאֵפ֤וֹד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֽוֹד׃",
+              "english": "and you shall place them on the (origin of the) two shoulder straps of the ephod below, on its face [i.e., on the topside of the ephod], opposite [i.e., near] where it [the shoulder strap] is attached [to the ephod], above the cheishev of the ephod."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְיִרְכְּס֣וּ אֶת־הַ֠חֹ֠שֶׁן מִֽטַּבְּעֹתָ֞ו אֶל־טַבְּעֹ֤ת הָאֵפוֹד֙ בִּפְתִ֣יל תְּכֵ֔לֶת לִֽהְי֖וֹת עַל־חֵ֣שֶׁב הָאֵפ֑וֹד",
+              "english": "And they shall bind the choshen from its rings to the rings of the ephod with a string of blue wool to be on [i.e., fastened to] the cheishev of the ephod."
+            },
+            {
+              "hebrew": "וְלֹֽא־יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֽוֹד׃",
+              "english": "And the choshen shall not be detached from the ephod."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְנָשָׂ֣א אַ֠הֲרֹ֠ן אֶת־שְׁמ֨וֹת בְּנֵֽי־יִשְׂרָאֵ֜ל בְּחֹ֧שֶׁן הַמִּשְׁפָּ֛ט עַל־לִבּ֖וֹ בְּבֹא֣וֹ אֶל־הַקֹּ֑דֶשׁ",
+              "english": "And Aaron shall bear the names of the children of Israel on the choshen of judgment on his heart when he enters the sanctuary,"
+            },
+            {
+              "hebrew": "לְזִכָּרֹ֥ן לִפְנֵֽי־יְהֹוָ֖ה תָּמִֽיד׃",
+              "english": "as a remembrance before the L-rd, always."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֞ אֶל־חֹ֣שֶׁן הַמִּשְׁפָּ֗ט אֶת־הָאוּרִים֙ וְאֶת־הַתֻּמִּ֔ים",
+              "english": "And you shall place into the [fold of the] choshen of judgment, the urim and the tumim [the (written) Tetragrammaton, by means of which the choshen illuminates (meir) and brings to perfection (metamem) its words]."
+            },
+            {
+              "hebrew": "וְהָיוּ֙ עַל־לֵ֣ב אַהֲרֹ֔ן בְּבֹא֖וֹ לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "And they shall be on Aaron's heart when he comes before the L-rd."
+            },
+            {
+              "hebrew": "וְנָשָׂ֣א אַ֠הֲרֹ֠ן אֶת־מִשְׁפַּ֨ט בְּנֵי־יִשְׂרָאֵ֧ל עַל־לִבּ֛וֹ לִפְנֵ֥י יְהֹוָ֖ה תָּמִֽיד׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And Aaron shall bear the judgment of the children of Israel [(i.e., the choshen, which they consult for judgment and direction)] on his heart before the L-rd, always."
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:40:29.396Z"
+  "updatedAt": "2026-10-26T18:41:51.552Z"
 }
