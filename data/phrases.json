@@ -47231,8 +47231,1038 @@
           ],
           "model": "Instinct"
         }
+      },
+      "15": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֔ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "דַּבְּרוּ֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וַאֲמַרְתֶּ֖ם אֲלֵהֶ֑ם",
+              "english": "Speak to the children of Israel and say to them:"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אִ֗ישׁ כִּ֤י יִהְיֶה֙ זָ֣ב מִבְּשָׂר֔וֹ",
+              "english": "A man, if there be a flux (zov) from his flesh, [a genital discharge differing from semen in that semen is viscid, like the white of an egg, whereas zov is like barley-dough water, resembling the white of an addled egg],"
+            },
+            {
+              "hebrew": "זוֹב֖וֹ טָמֵ֥א הֽוּא׃",
+              "english": "his flux is unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹ֛את תִּהְיֶ֥ה טֻמְאָת֖וֹ בְּזוֹב֑וֹ",
+              "english": "And this shall be his uncleanliness in his flux."
+            },
+            {
+              "hebrew": "רָ֣ר בְּשָׂר֞וֹ אֶת־זוֹב֗וֹ אֽוֹ־הֶחְתִּ֤ים בְּשָׂרוֹ֙ מִזּוֹב֔וֹ טֻמְאָת֖וֹ הִֽוא׃",
+              "english": "Whether his flesh [i.e., his orifice] drip his zov, [the flux issuing clear], or his flesh be stopped up with his zov, [the flux issuing thick], it is his uncleanliness."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־הַמִּשְׁכָּ֗ב אֲשֶׁ֨ר יִשְׁכַּ֥ב עָלָ֛יו הַזָּ֖ב יִטְמָ֑א",
+              "english": "Every bed on which the zav lies down [i.e., a bed which is made for \"lying\" and not for any other function] shall be unclean,"
+            },
+            {
+              "hebrew": "וְכׇֽל־הַכְּלִ֛י אֲשֶׁר־יֵשֵׁ֥ב עָלָ֖יו יִטְמָֽא׃",
+              "english": "and every object which he sits upon [i.e., an object which is made for \"sitting\"] shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֕ישׁ אֲשֶׁ֥ר יִגַּ֖ע בְּמִשְׁכָּב֑וֹ",
+              "english": "And a man who touches what he (a zav) lay upon"
+            },
+            {
+              "hebrew": "יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall wash his clothes and bathe in water, [(the uncleanliness of what he lies upon (mishkav) being more stringent than the uncleanliness of what he touches, the first rendering a man unclean, who, in turn, renders his garments unclean; the second, rendering only food and drink unclean], and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְהַיֹּשֵׁב֙ עַֽל־הַכְּלִ֔י אֲשֶׁר־יֵשֵׁ֥ב עָלָ֖יו הַזָּ֑ב",
+              "english": "And one who sits upon an object which the zav sat upon, [even if ten objects intervened (The same applies to mishkav)]"
+            },
+            {
+              "hebrew": "יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנֹּגֵ֖עַ בִּבְשַׂ֣ר הַזָּ֑ב",
+              "english": "And one who touches the flesh of the zav"
+            },
+            {
+              "hebrew": "יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יָרֹ֥ק הַזָּ֖ב בַּטָּה֑וֹר",
+              "english": "And if the zav spit upon one who is clean, [and the spittle touched him or he carried it],"
+            },
+            {
+              "hebrew": "וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "he shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַמֶּרְכָּ֗ב אֲשֶׁ֨ר יִרְכַּ֥ב עָלָ֛יו הַזָּ֖ב",
+              "english": "And every saddle upon which a zav rides, [even a part of the saddle on which he does not sit]"
+            },
+            {
+              "hebrew": "יִטְמָֽא׃",
+              "english": "shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַנֹּגֵ֗עַ בְּכֹל֙ אֲשֶׁ֣ר יִהְיֶ֣ה תַחְתָּ֔יו יִטְמָ֖א עַד־הָעָ֑רֶב",
+              "english": "And whoever touches anything that was beneath him [the zav] shall be unclean until the evening [Scripture here apprises us that one who touches the saddle of a zav does not render his clothing unclean (as opposed to one who touches his mishkav)];"
+            },
+            {
+              "hebrew": "וְהַנּוֹשֵׂ֣א אוֹתָ֔ם יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "and one who carries them [(his zov, his spittle, his semen, his urine, his mishkav, or his saddle)] shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְכֹ֨ל אֲשֶׁ֤ר יִגַּע־בּוֹ֙ הַזָּ֔ב וְיָדָ֖יו לֹא־שָׁטַ֣ף בַּמָּ֑יִם",
+              "english": "And whoever the zav touches, if he (the zav) did not wash his hands [i.e., all of his visible body areas] with water [i.e., so long as he did not immerse, even after the flux ceased and he counted seven days] (\"whoever the zav touches\")"
+            },
+            {
+              "hebrew": "וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וּכְלִי־חֶ֛רֶשׂ אֲשֶׁר־יִגַּע־בּ֥וֹ הַזָּ֖ב יִשָּׁבֵ֑ר",
+              "english": "And an earthen vessel which a zav touches [or moves without touching (heset)] shall be broken,"
+            },
+            {
+              "hebrew": "וְכׇ֨ל־כְּלִי־עֵ֔ץ יִשָּׁטֵ֖ף בַּמָּֽיִם׃",
+              "english": "and every wooden vessel shall be rinsed in water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יִטְהַ֤ר הַזָּב֙ מִזּוֹב֔וֹ",
+              "english": "And when the zav is cleansed of his flux [i.e., when his flux ceases],"
+            },
+            {
+              "hebrew": "וְסָ֨פַר ל֜וֹ שִׁבְעַ֥ת יָמִ֛ים לְטׇהֳרָת֖וֹ",
+              "english": "then he shall count for himself seven [consecutive] days for his cleansing [i.e., not experiencing a flux],"
+            },
+            {
+              "hebrew": "וְכִבֶּ֣ס בְּגָדָ֑יו וְרָחַ֧ץ בְּשָׂר֛וֹ בְּמַ֥יִם חַיִּ֖ים וְטָהֵֽר׃",
+              "english": "and he shall wash his clothes and bathe his flesh in running water, and he shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יִֽקַּֽח־לוֹ֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה",
+              "english": "And on the eighth day, he shall take for himself two turtle-doves or two young pigeons,"
+            },
+            {
+              "hebrew": "וּבָ֣א&thinsp;׀ לִפְנֵ֣י יְהֹוָ֗ה אֶל־פֶּ֙תַח֙ אֹ֣הֶל מוֹעֵ֔ד וּנְתָנָ֖ם אֶל־הַכֹּהֵֽן׃",
+              "english": "and he shall come before the L-rd to the door of the tent of meeting, and he shall give them to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשָׂ֤ה אֹתָם֙ הַכֹּהֵ֔ן אֶחָ֣ד חַטָּ֔את וְהָאֶחָ֖ד עֹלָ֑ה",
+              "english": "And the Cohein shall offer them up, one as a sin-offering and the other as a burnt-offering;"
+            },
+            {
+              "hebrew": "וְכִפֶּ֨ר עָלָ֧יו הַכֹּהֵ֛ן לִפְנֵ֥י יְהֹוָ֖ה מִזּוֹבֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and the Cohein shall make atonement for him before the L-rd from his flux."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֕ישׁ כִּֽי־תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת־זָ֑רַע",
+              "english": "And a man, if there issue from him semen,"
+            },
+            {
+              "hebrew": "וְרָחַ֥ץ בַּמַּ֛יִם אֶת־כׇּל־בְּשָׂר֖וֹ וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "then he shall bathe all of his flesh in water and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־בֶּ֣גֶד וְכׇל־ע֔וֹר אֲשֶׁר־יִהְיֶ֥ה עָלָ֖יו שִׁכְבַת־זָ֑רַע",
+              "english": "And every garment and all skin upon which there shall be semen"
+            },
+            {
+              "hebrew": "וְכֻבַּ֥ס בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall be washed in water and it shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת־זָ֑רַע",
+              "english": "And a woman, if a man lie with her a lying of semen,"
+            },
+            {
+              "hebrew": "וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ עַד־הָעָֽרֶב׃&nbsp;{פ}",
+              "english": "then they shall bathe in water and they shall be unclean until the evening [(the woman being unclean by \"the King's decree\" (her semen contact being internal)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְאִשָּׁה֙ כִּֽי־תִהְיֶ֣ה זָבָ֔ה דָּ֛ם יִהְיֶ֥ה זֹבָ֖הּ בִּבְשָׂרָ֑הּ",
+              "english": "And a woman, if she has a flow, if blood shall be her flow in her flesh,"
+            },
+            {
+              "hebrew": "שִׁבְעַ֤ת יָמִים֙ תִּהְיֶ֣ה בְנִדָּתָ֔הּ",
+              "english": "seven days shall she be in her niddah [contact-forbidden] state [(even if she had only one \"sighting\")],"
+            },
+            {
+              "hebrew": "וְכׇל־הַנֹּגֵ֥עַ בָּ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "english": "and whoever touches her shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְכֹל֩ אֲשֶׁ֨ר תִּשְׁכַּ֥ב עָלָ֛יו בְּנִדָּתָ֖הּ יִטְמָ֑א",
+              "english": "And all that she lies upon in her niddah state shall be unclean,"
+            },
+            {
+              "hebrew": "וְכֹ֛ל אֲשֶׁר־תֵּשֵׁ֥ב עָלָ֖יו יִטְמָֽא׃",
+              "english": "and all that she sits upon shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַנֹּגֵ֖עַ בְּמִשְׁכָּבָ֑הּ",
+              "english": "And whoever touches what she lies upon"
+            },
+            {
+              "hebrew": "יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇ֨ל־הַנֹּגֵ֔עַ בְּכׇל־כְּלִ֖י אֲשֶׁר־תֵּשֵׁ֣ב עָלָ֑יו",
+              "english": "And whoever touches any object that she sits upon"
+            },
+            {
+              "hebrew": "יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֨ם עַֽל־הַמִּשְׁכָּ֜ב ה֗וּא",
+              "english": "And if [he lies or sits] on the (i.e., her) bed [or on her seat, even without directly touching it,] he, [too, requires washing of clothes]."
+            },
+            {
+              "hebrew": "א֧וֹ עַֽל־הַכְּלִ֛י אֲשֶׁר־הִ֥וא יֹשֶֽׁבֶת־עָלָ֖יו בְּנׇגְעוֹ־ב֑וֹ יִטְמָ֖א עַד־הָעָֽרֶב׃",
+              "english": "Or, [if he sits] upon an object [including a saddle] that she sits upon — When he touches it [the saddle], he shall be unclean until the evening [but he need not wash his clothes]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֡ם שָׁכֹב֩ יִשְׁכַּ֨ב אִ֜ישׁ אֹתָ֗הּ וּתְהִ֤י נִדָּתָהּ֙ עָלָ֔יו וְטָמֵ֖א שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "And if a man lie with her, then her niddah state shall be upon him [(Just as she renders men and earthenware vessels unclean, so does he)], and he shall be unclean seven days [(even though he may have lived with her only in the middle of her (seven-day) niddah state)],"
+            },
+            {
+              "hebrew": "וְכׇל־הַמִּשְׁכָּ֛ב אֲשֶׁר־יִשְׁכַּ֥ב עָלָ֖יו יִטְמָֽא׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and every bed on which he lies shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְאִשָּׁ֡ה כִּֽי־יָזוּב֩ ז֨וֹב דָּמָ֜הּ יָמִ֣ים רַבִּ֗ים בְּלֹא֙ עֶת־נִדָּתָ֔הּ א֥וֹ כִֽי־תָז֖וּב עַל־נִדָּתָ֑הּ",
+              "english": "And a woman, if the flow of her blood flows many [i.e., three] days, not in the time of her [seven-day] niddah state, [but right after those days], or if she flows [these three days] above her niddah state [i.e., with one day intervening between the new flow and her (preceding) niddah state],"
+            },
+            {
+              "hebrew": "כׇּל־יְמֵ֞י ז֣וֹב טֻמְאָתָ֗הּ כִּימֵ֧י נִדָּתָ֛הּ תִּהְיֶ֖ה טְמֵאָ֥ה הִֽוא׃",
+              "english": "then [she is a zavah, and] all the days of the flow of her uncleanliness, as the days of her niddah state shall she be; she is unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־הַמִּשְׁכָּ֞ב אֲשֶׁר־תִּשְׁכַּ֤ב עָלָיו֙ כׇּל־יְמֵ֣י זוֹבָ֔הּ כְּמִשְׁכַּ֥ב נִדָּתָ֖הּ יִֽהְיֶה־לָּ֑הּ",
+              "english": "Every bed that she lies upon all the days of her [zavah] flow, as the bed of her niddah state shall be to her;"
+            },
+            {
+              "hebrew": "וְכׇֽל־הַכְּלִי֙ אֲשֶׁ֣ר תֵּשֵׁ֣ב עָלָ֔יו טָמֵ֣א יִהְיֶ֔ה כְּטֻמְאַ֖ת נִדָּתָֽהּ׃",
+              "english": "and every object that she sits upon shall be unclean, as the uncleanliness of her niddah state."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַנּוֹגֵ֥עַ בָּ֖ם יִטְמָ֑א",
+              "english": "And whoever touches them shall be unclean."
+            },
+            {
+              "hebrew": "וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "And he shall wash his clothes and bathe in water, and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְאִֽם־טָהֲרָ֖ה מִזּוֹבָ֑הּ",
+              "english": "And if she is cleansed of her flow,"
+            },
+            {
+              "hebrew": "וְסָ֥פְרָה לָּ֛הּ שִׁבְעַ֥ת יָמִ֖ים וְאַחַ֥ר תִּטְהָֽר׃",
+              "english": "then she shall count for herself seven days, and then she shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י תִּֽקַּֽח־לָהּ֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה",
+              "english": "And on the eighth day, she shall take for herself two turtle-doves or two young pigeons,"
+            },
+            {
+              "hebrew": "וְהֵבִיאָ֤ה אוֹתָם֙ אֶל־הַכֹּהֵ֔ן אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and she shall bring them to the Cohein, to the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשָׂ֤ה הַכֹּהֵן֙ אֶת־הָאֶחָ֣ד חַטָּ֔את וְאֶת־הָאֶחָ֖ד עֹלָ֑ה",
+              "english": "And the Cohein shall offer up one as a sin-offering and the other as a burnt-offering,"
+            },
+            {
+              "hebrew": "וְכִפֶּ֨ר עָלֶ֤יהָ הַכֹּהֵן֙ לִפְנֵ֣י יְהֹוָ֔ה מִזּ֖וֹב טֻמְאָתָֽהּ׃",
+              "english": "and the Cohein shall make atonement for her before the L-rd from the flow of her uncleanliness."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְהִזַּרְתֶּ֥ם אֶת־בְּנֵי־יִשְׂרָאֵ֖ל מִטֻּמְאָתָ֑ם",
+              "english": "And you shall separate the children of Israel from their uncleanliness,"
+            },
+            {
+              "hebrew": "וְלֹ֤א יָמֻ֙תוּ֙ בְּטֻמְאָתָ֔ם בְּטַמְּאָ֥ם אֶת־מִשְׁכָּנִ֖י אֲשֶׁ֥ר בְּתוֹכָֽם׃",
+              "english": "that they not die in their uncleanliness by defiling My sanctuary which is in their midst [(whence it is derived that the kareth (\"cutting off\") for defiling the sanctuary is called \"death\")]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֥את תּוֹרַ֖ת הַזָּ֑ב",
+              "english": "This is the law of the zav [of only one \"sighting\"]"
+            },
+            {
+              "hebrew": "וַאֲשֶׁ֨ר תֵּצֵ֥א מִמֶּ֛נּוּ שִׁכְבַת־זֶ֖רַע לְטׇמְאָה־בָֽהּ׃",
+              "english": "and of one [i.e., he is like one] from whom semen issues forth to be made unclean thereby [i.e., he is unclean until the evening]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְהַדָּוָה֙ בְּנִדָּתָ֔הּ וְהַזָּב֙ אֶת־זוֹב֔וֹ לַזָּכָ֖ר וְלַנְּקֵבָ֑ה",
+              "english": "And (\"this is the law\") of her who flows in her niddah state, and of him who flows his flux [(two or three \"sightings\")], for male or female,"
+            },
+            {
+              "hebrew": "וּלְאִ֕ישׁ אֲשֶׁ֥ר יִשְׁכַּ֖ב עִם־טְמֵאָֽה׃&nbsp;{פ}",
+              "english": "and for a man who lies with a woman who is unclean."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "16": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה",
+              "english": "And the L-rd spoke to Moses"
+            },
+            {
+              "hebrew": "אַחֲרֵ֣י מ֔וֹת שְׁנֵ֖י בְּנֵ֣י אַהֲרֹ֑ן בְּקׇרְבָתָ֥ם לִפְנֵי־יְהֹוָ֖ה וַיָּמֻֽתוּ׃",
+              "english": "after the death of the two sons of Aaron when they drew near before the L-rd and they died [(their death serving as \"reinforcement\" for the injunction that follows)]:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה דַּבֵּר֮ אֶל־אַהֲרֹ֣ן אָחִ֒יךָ֒",
+              "english": "And the L-rd said to Moses: Speak to Aaron your brother,"
+            },
+            {
+              "hebrew": "וְאַל־יָבֹ֤א בְכׇל־עֵת֙ אֶל־הַקֹּ֔דֶשׁ מִבֵּ֖ית לַפָּרֹ֑כֶת אֶל־פְּנֵ֨י הַכַּפֹּ֜רֶת אֲשֶׁ֤ר עַל־הָאָרֹן֙ וְלֹ֣א יָמ֔וּת",
+              "english": "and let him not come at all times to the holy place within the parocheth before the kaporeth which is on the ark that he not die [(If he comes he will die)];"
+            },
+            {
+              "hebrew": "כִּ֚י בֶּֽעָנָ֔ן אֵרָאֶ֖ה עַל־הַכַּפֹּֽרֶת׃",
+              "english": "for with the cloud I [always] appear on the kaporeth [(And since My shechinah manifests itself there, let him take care not to come there indiscriminately)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "בְּזֹ֛את יָבֹ֥א אַהֲרֹ֖ן אֶל־הַקֹּ֑דֶשׁ",
+              "english": "With this, [(and only on Yom Kippur (29)] shall Aaron come to the holy place:"
+            },
+            {
+              "hebrew": "בְּפַ֧ר בֶּן־בָּקָ֛ר לְחַטָּ֖את וְאַ֥יִל לְעֹלָֽה׃",
+              "english": "with a young bullock for a sin-offering and a ram for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "כְּתֹֽנֶת־בַּ֨ד קֹ֜דֶשׁ יִלְבָּ֗שׁ וּמִֽכְנְסֵי־בַד֮ יִהְי֣וּ עַל־בְּשָׂרוֹ֒",
+              "english": "[The high-priest does not minister within, wearing the eight garments in which he normally officiates (for the latter have gold — and \"the accuser\" (the golden calf) cannot be the defender (on Yom Kippur), but he wears the four linen garments of the ordinary Cohein.] A linen kethoneth of kodesh [i.e., purchased with Temple funds] shall he wear, and linen michnasayim shall there be on his flesh,"
+            },
+            {
+              "hebrew": "וּבְאַבְנֵ֥ט בַּד֙ יַחְגֹּ֔ר וּבְמִצְנֶ֥פֶת בַּ֖ד יִצְנֹ֑ף בִּגְדֵי־קֹ֣דֶשׁ הֵ֔ם",
+              "english": "and with a linen avnet shall he gird himself, and a linen mitznefeth shall he place on his head; they are garments of kodesh."
+            },
+            {
+              "hebrew": "וְרָחַ֥ץ בַּמַּ֛יִם אֶת־בְּשָׂר֖וֹ וּלְבֵשָֽׁם׃",
+              "english": "And he shall bathe his flesh in water and put them on. [He required five immersions and ablutions of hands and feet on that day for five changings (between inner and outer services)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וּמֵאֵ֗ת עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל יִקַּ֛ח שְׁנֵֽי־שְׂעִירֵ֥י עִזִּ֖ים לְחַטָּ֑את",
+              "english": "And from the congregation of the children of Israel, he shall take two he-goats for a sin-offering"
+            },
+            {
+              "hebrew": "וְאַ֥יִל אֶחָ֖ד לְעֹלָֽה׃",
+              "english": "and one ram for a burnt-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֧יב אַהֲרֹ֛ן אֶת־פַּ֥ר הַחַטָּ֖את אֲשֶׁר־ל֑וֹ",
+              "english": "And Aaron shall present the bullock of the sin-offering, which is his [(It must come from his own funds and not from community funds)],"
+            },
+            {
+              "hebrew": "וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד בֵּיתֽוֹ׃",
+              "english": "and he shall make atonement for himself and for his household [(He confesses over it his sins and those of his household)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֖ח אֶת־שְׁנֵ֣י הַשְּׂעִירִ֑ם",
+              "english": "And he shall take the two he-goats"
+            },
+            {
+              "hebrew": "וְהֶעֱמִ֤יד אֹתָם֙ לִפְנֵ֣י יְהֹוָ֔ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and he shall stand them before the L-rd at the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַ֧ן אַהֲרֹ֛ן עַל־שְׁנֵ֥י הַשְּׂעִירִ֖ם גֹּרָל֑וֹת",
+              "english": "And Aaron shall place lots upon the two he-goats,"
+            },
+            {
+              "hebrew": "גּוֹרָ֤ל אֶחָד֙ לַיהֹוָ֔ה וְגוֹרָ֥ל אֶחָ֖ד לַעֲזָאזֵֽל׃",
+              "english": "one lot for the L-rd, and the other lot for Azazel [a flinty crag (from which the goat was precipitated). He would place the goats on either side of him and from an urn draw lots, on one of which was written \"for the L-rd\"; on the other, \"for Azazel\")]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֤יב אַהֲרֹן֙ אֶת־הַשָּׂעִ֔יר אֲשֶׁ֨ר עָלָ֥ה עָלָ֛יו הַגּוֹרָ֖ל לַיהֹוָ֑ה",
+              "english": "And Aaron shall present the he-goat on which the lot came up for the L-rd,"
+            },
+            {
+              "hebrew": "וְעָשָׂ֖הוּ חַטָּֽאת׃",
+              "english": "and he shall make it a sin-offering [(When he places the lot upon it he says: \"For the L-rd, a sin-offering.\")]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגּוֹרָל֙ לַעֲזָאזֵ֔ל",
+              "english": "And the he-goat on which the lot came up for Azazel"
+            },
+            {
+              "hebrew": "יׇֽעֳמַד־חַ֛י לִפְנֵ֥י יְהֹוָ֖ה לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹת֛וֹ לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה׃",
+              "english": "shall be stood living before the L-rd [(whence it is derived that it is sent away for death)] to make atonement over it [i.e., to confess, viz. 21] to send it to Azazel to the desert."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֨יב אַהֲרֹ֜ן אֶת־פַּ֤ר הַֽחַטָּאת֙ אֲשֶׁר־ל֔וֹ וְכִפֶּ֥ר בַּֽעֲד֖וֹ וּבְעַ֣ד בֵּית֑וֹ",
+              "english": "And Aaron shall present the bullock of the sin-offering which is his, and he shall make atonement over it for himself and for his household [(a second confession for himself and for his fellow Cohanim to atone for defiling of the sanctuary and of its holy objects, viz. 16)],"
+            },
+            {
+              "hebrew": "וְשָׁחַ֛ט אֶת־פַּ֥ר הַֽחַטָּ֖את אֲשֶׁר־לֽוֹ׃",
+              "english": "and he shall slaughter the bullock of the sin-offering which is his."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַ֣ח מְלֹֽא־הַ֠מַּחְתָּ֠ה גַּֽחֲלֵי־אֵ֞שׁ מֵעַ֤ל הַמִּזְבֵּ֙חַ֙ מִלִּפְנֵ֣י יְהֹוָ֔ה",
+              "english": "And he shall take a full coal-pan of coals of fire from off the [outer] altar before the L-rd [i.e., from the side which faces the door (of the mishkan), the west],"
+            },
+            {
+              "hebrew": "וּמְלֹ֣א חׇפְנָ֔יו קְטֹ֥רֶת סַמִּ֖ים דַּקָּ֑ה וְהֵבִ֖יא מִבֵּ֥ית לַפָּרֹֽכֶת׃",
+              "english": "and his full handfuls of incense of spices ground [especially] small, and he shall bring them within the parocheth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַ֧ן אֶֽת־הַקְּטֹ֛רֶת עַל־הָאֵ֖שׁ לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "And he shall put the incense upon the fire [in the coal-pan] before the L-rd"
+            },
+            {
+              "hebrew": "וְכִסָּ֣ה&thinsp;׀ עֲנַ֣ן הַקְּטֹ֗רֶת אֶת־הַכַּפֹּ֛רֶת אֲשֶׁ֥ר עַל־הָעֵד֖וּת וְלֹ֥א יָמֽוּת׃",
+              "english": "and the cloud of incense shall cover the kaporeth which is on the testimony, and he shall not die [(but, being remiss in this service, he is liable to death)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַח֙ מִדַּ֣ם הַפָּ֔ר וְהִזָּ֧ה בְאֶצְבָּע֛וֹ עַל־פְּנֵ֥י הַכַּפֹּ֖רֶת קֵ֑דְמָה",
+              "english": "And he shall take the blood of the bullock, and he shall sprinkle with his finger [one sprinkling] on the kaporeth, on the east,"
+            },
+            {
+              "hebrew": "וְלִפְנֵ֣י הַכַּפֹּ֗רֶת יַזֶּ֧ה שֶֽׁבַע־פְּעָמִ֛ים מִן־הַדָּ֖ם בְּאֶצְבָּעֽוֹ׃",
+              "english": "and before the kaporeth shall he sprinkle seven times of the blood with his finger. [Hence, \"one above and seven below\"]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁחַ֞ט אֶת־שְׂעִ֤יר הַֽחַטָּאת֙ אֲשֶׁ֣ר לָעָ֔ם וְהֵבִיא֙ אֶת־דָּמ֔וֹ אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת",
+              "english": "And he shall slaughter the he-goat of the sin-offering which is the people's [(What the bullock atones for for the Cohanim, the he-goat \"for the L-rd\" atones for, for Israel)], and he shall bring its blood inside the parocheth."
+            },
+            {
+              "hebrew": "וְעָשָׂ֣ה אֶת־דָּמ֗וֹ כַּאֲשֶׁ֤ר עָשָׂה֙ לְדַ֣ם הַפָּ֔ר וְהִזָּ֥ה אֹת֛וֹ עַל־הַכַּפֹּ֖רֶת וְלִפְנֵ֥י הַכַּפֹּֽרֶת׃",
+              "english": "And he shall do with its blood as he did with the blood of the bullock [i.e., \"one above and seven below\"]; he shall sprinkle it on the kaporeth and before the kaporeth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְכִפֶּ֣ר עַל־הַקֹּ֗דֶשׁ מִטֻּמְאֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וּמִפִּשְׁעֵיהֶ֖ם לְכׇל־חַטֹּאתָ֑ם",
+              "english": "And he shall make atonement for the holy place from the uncleanlinesses of the children of Israel [for entering the sanctuary in a state of uncleanliness] and for their offenses [(willful entry in a state of uncleanliness)] for all of their transgressions [(unwitting entry in a state of uncleanliness without subsequent knowledge thereof)]."
+            },
+            {
+              "hebrew": "וְכֵ֤ן יַעֲשֶׂה֙ לְאֹ֣הֶל מוֹעֵ֔ד הַשֹּׁכֵ֣ן אִתָּ֔ם בְּת֖וֹךְ טֻמְאֹתָֽם׃",
+              "english": "And so shall he do for the tent of meeting [(Just as he sprinkles of both within, one above and seven below, so he sprinkles of both on the parocheth outside, one above and seven below)], who dwells with them in the midst of their uncleanlinesses [(Though they be unclean, the Shechinah is with them)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־אָדָ֞ם לֹא־יִהְיֶ֣ה&thinsp;׀ בְּאֹ֣הֶל מוֹעֵ֗ד בְּבֹא֛וֹ לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ עַד־צֵאת֑וֹ",
+              "english": "And no man shall be in the tent of meeting when he comes to make atonement in the holy place until he goes out."
+            },
+            {
+              "hebrew": "וְכִפֶּ֤ר בַּעֲדוֹ֙ וּבְעַ֣ד בֵּית֔וֹ וּבְעַ֖ד כׇּל־קְהַ֥ל יִשְׂרָאֵֽל׃",
+              "english": "And he shall make atonement for himself, and for his household, and for the entire congregation of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְיָצָ֗א אֶל־הַמִּזְבֵּ֛חַ אֲשֶׁ֥ר לִפְנֵֽי־יְהֹוָ֖ה וְכִפֶּ֣ר עָלָ֑יו",
+              "english": "And he shall go out to the [golden] altar which is before the L-rd [after having stood inwards of the altar to sprinkle on the parocheth], and he shall make atonement on it —"
+            },
+            {
+              "hebrew": "וְלָקַ֞ח מִדַּ֤ם הַפָּר֙ וּמִדַּ֣ם הַשָּׂעִ֔יר וְנָתַ֛ן עַל־קַרְנ֥וֹת הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+              "english": "he shall take from the blood of the bullock and from the blood of the he-goat [intermixed] and he shall place it on the horns of the altar roundabout [beginning with the northeast corner]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהִזָּ֨ה עָלָ֧יו מִן־הַדָּ֛ם בְּאֶצְבָּע֖וֹ שֶׁ֣בַע פְּעָמִ֑ים",
+              "english": "And he shall sprinkle upon it [on its top] with his finger seven times,"
+            },
+            {
+              "hebrew": "וְטִהֲר֣וֹ וְקִדְּשׁ֔וֹ מִטֻּמְאֹ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and he shall cleanse it [from past uncleanlinesses], and he shall hallow it [for the future] from the uncleanlinesses of the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְכִלָּה֙ מִכַּפֵּ֣ר אֶת־הַקֹּ֔דֶשׁ וְאֶת־אֹ֥הֶל מוֹעֵ֖ד וְאֶת־הַמִּזְבֵּ֑חַ",
+              "english": "And when he has finished making atonement for the holy place, and the tent of meeting, and the altar,"
+            },
+            {
+              "hebrew": "וְהִקְרִ֖יב אֶת־הַשָּׂעִ֥יר הֶחָֽי׃",
+              "english": "then he shall draw near the living he-goat."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְסָמַ֨ךְ אַהֲרֹ֜ן אֶת־שְׁתֵּ֣י יָדָ֗ו עַ֣ל רֹ֣אשׁ הַשָּׂעִיר֮ הַחַי֒",
+              "english": "And Aaron shall place his two hands on the head of the living he-goat,"
+            },
+            {
+              "hebrew": "וְהִתְוַדָּ֣ה עָלָ֗יו אֶת־כׇּל־עֲוֺנֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶת־כׇּל־פִּשְׁעֵיהֶ֖ם לְכׇל־חַטֹּאתָ֑ם",
+              "english": "and he shall confess over it all the transgressions of the children of Israel, and all their offenses of all their sins,"
+            },
+            {
+              "hebrew": "וְנָתַ֤ן אֹתָם֙ עַל־רֹ֣אשׁ הַשָּׂעִ֔יר וְשִׁלַּ֛ח בְּיַד־אִ֥ישׁ עִתִּ֖י הַמִּדְבָּֽרָה׃",
+              "english": "and he shall place them on the head of the he-goat, and he shall send it by the hand of a readied man [readied from the day before] to the desert."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְנָשָׂ֨א הַשָּׂעִ֥יר עָלָ֛יו אֶת־כׇּל־עֲוֺנֹתָ֖ם אֶל־אֶ֣רֶץ גְּזֵרָ֑ה",
+              "english": "And the he-goat shall bear upon itself all of their transgressions to an uninhabited land,"
+            },
+            {
+              "hebrew": "וְשִׁלַּ֥ח אֶת־הַשָּׂעִ֖יר בַּמִּדְבָּֽר׃",
+              "english": "and he shall send out the he-goat in the desert. [Verse 24 is understood as following at this point.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וּבָ֤א אַהֲרֹן֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד",
+              "english": "[This verse is understood as following after verse 28.] And Aaron shall come into the tent of meeting [to take out from the holy of holies the spoon and the coal pan in which he offered the incense],"
+            },
+            {
+              "hebrew": "וּפָשַׁט֙ אֶת־בִּגְדֵ֣י הַבָּ֔ד אֲשֶׁ֥ר לָבַ֖שׁ בְּבֹא֣וֹ אֶל־הַקֹּ֑דֶשׁ וְהִנִּיחָ֖ם שָֽׁם׃",
+              "english": "and he shall take off the linen garments which he put on when he went into the holy place, and he shall leave them there [(They require genizah (secreting) and are not used on another Yom Kippur.) And then he dons the golden garments for the daily afternoon burnt-offering. (Now, verse 29)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְרָחַ֨ץ אֶת־בְּשָׂר֤וֹ בַמַּ֙יִם֙ בְּמָק֣וֹם קָד֔וֹשׁ וְלָבַ֖שׁ אֶת־בְּגָדָ֑יו",
+              "english": "[This verse is understood as following verse 22.] And he shall bathe his flesh in water in a holy place [(sanctified with the sanctity of the azarah. It, and the other four Yom Kippur immersions were on the roof of the beth haparvah. The first (daily immersion) was in an unsanctified area.)] And he shall put on his [eight regular] garments,"
+            },
+            {
+              "hebrew": "וְיָצָ֗א וְעָשָׂ֤ה אֶת־עֹֽלָתוֹ֙ וְאֶת־עֹלַ֣ת הָעָ֔ם וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד הָעָֽם׃",
+              "english": "and he shall go out [from the sanctuary to the court, where the burnt-offering altar was situated], and he shall offer up his burnt-offering [(3)] and the burnt-offering of the people [(5)], and he shall make atonement for himself and for the people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֛ת חֵ֥לֶב הַֽחַטָּ֖את",
+              "english": "And the fat of the sin-offering [the eimurim of the bullock and the goat]"
+            },
+            {
+              "hebrew": "יַקְטִ֥יר הַמִּזְבֵּֽחָה׃",
+              "english": "he shall smoke on the [outer] altar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְהַֽמְשַׁלֵּ֤חַ אֶת־הַשָּׂעִיר֙ לַֽעֲזָאזֵ֔ל יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־בְּשָׂר֖וֹ בַּמָּ֑יִם",
+              "english": "And he who sends the he-goat to Azazel shall wash his clothes and bathe his flesh in water,"
+            },
+            {
+              "hebrew": "וְאַחֲרֵי־כֵ֖ן יָב֥וֹא אֶל־הַֽמַּחֲנֶֽה׃",
+              "english": "and then he may come to the camp."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת&thinsp;׀ שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ יוֹצִ֖יא אֶל־מִח֣וּץ לַֽמַּחֲנֶ֑ה",
+              "english": "And the bullock of the sin-offering and the goat of the sin-offering, whose blood was brought [into the sanctuary and into the holy of holies] to make atonement in the holy place, he shall take outside the camp,"
+            },
+            {
+              "hebrew": "וְשָׂרְפ֣וּ בָאֵ֔שׁ אֶת־עֹרֹתָ֥ם וְאֶת־בְּשָׂרָ֖ם וְאֶת־פִּרְשָֽׁם׃",
+              "english": "and they shall burn in fire their skin, and their flesh, and their dung."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְהַשֹּׂרֵ֣ף אֹתָ֔ם יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־בְּשָׂר֖וֹ בַּמָּ֑יִם",
+              "english": "And he who burns them shall wash his clothes and he shall bathe his flesh in water,"
+            },
+            {
+              "hebrew": "וְאַחֲרֵי־כֵ֖ן יָב֥וֹא אֶל־הַֽמַּחֲנֶֽה׃",
+              "english": "and then he shall come to the camp. [Verse 23 is understood as following at this point.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיְתָ֥ה לָכֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם",
+              "english": "[After verse 23] And it shall be to you an everlasting statute:"
+            },
+            {
+              "hebrew": "בַּחֹ֣דֶשׁ הַ֠שְּׁבִיעִ֠י בֶּֽעָשׂ֨וֹר לַחֹ֜דֶשׁ תְּעַנּ֣וּ אֶת־נַפְשֹֽׁתֵיכֶ֗ם",
+              "english": "In the seventh month, on the tenth day of the month, you shall afflict your souls."
+            },
+            {
+              "hebrew": "וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם׃",
+              "english": "And all work you shall not do, the citizen and the stranger that sojourns in your midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־בַיּ֥וֹם הַזֶּ֛ה יְכַפֵּ֥ר עֲלֵיכֶ֖ם לְטַהֵ֣ר אֶתְכֶ֑ם",
+              "english": "For on this day He shall atone for you to cleanse you"
+            },
+            {
+              "hebrew": "מִכֹּל֙ חַטֹּ֣אתֵיכֶ֔ם לִפְנֵ֥י יְהֹוָ֖ה תִּטְהָֽרוּ׃",
+              "english": "of all of your sins; before the L-rd shall you be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "שַׁבַּ֨ת שַׁבָּת֥וֹן הִיא֙ לָכֶ֔ם",
+              "english": "It is a Sabbath of Sabbaths to you,"
+            },
+            {
+              "hebrew": "וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם חֻקַּ֖ת עוֹלָֽם׃",
+              "english": "and you shall afflict your soul; it is an everlasting statute."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְכִפֶּ֨ר הַכֹּהֵ֜ן אֲשֶׁר־יִמְשַׁ֣ח אֹת֗וֹ וַאֲשֶׁ֤ר יְמַלֵּא֙ אֶת־יָד֔וֹ לְכַהֵ֖ן תַּ֣חַת אָבִ֑יו",
+              "english": "And the Cohein [(i.e., not only Aaron)] shall make atonement, who shall be anointed, and [(even if he is not anointed, as with the high-priests from Yoshiyahu on, after the anointing oil had been secreted)], who shall be invested [with the vestments of the high priest] to minister [if he is qualified] in place of his father;"
+            },
+            {
+              "hebrew": "וְלָבַ֛שׁ אֶת־בִּגְדֵ֥י הַבָּ֖ד בִּגְדֵ֥י הַקֹּֽדֶשׁ׃",
+              "english": "and he shall put on the linen garments, the holy garments."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְכִפֶּר֙ אֶת־מִקְדַּ֣שׁ הַקֹּ֔דֶשׁ וְאֶת־אֹ֧הֶל מוֹעֵ֛ד וְאֶת־הַמִּזְבֵּ֖חַ יְכַפֵּ֑ר",
+              "english": "And he shall make atonement for the sanctity of the holy place. And for the tent of meeting and for the altar shall he make atonement."
+            },
+            {
+              "hebrew": "וְעַ֧ל הַכֹּהֲנִ֛ים וְעַל־כׇּל־עַ֥ם הַקָּהָ֖ל יְכַפֵּֽר׃",
+              "english": "And for the Cohanim and for all the people of the congregation shall he make atonement."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְהָֽיְתָה־זֹּ֨את לָכֶ֜ם לְחֻקַּ֣ת עוֹלָ֗ם לְכַפֵּ֞ר עַל־בְּנֵ֤י יִשְׂרָאֵל֙ מִכׇּל־חַטֹּאתָ֔ם אַחַ֖ת בַּשָּׁנָ֑ה",
+              "english": "And this shall be to you for an everlasting statute to atone for the children of Israel from all of their sins once in the year."
+            },
+            {
+              "hebrew": "וַיַּ֕עַשׂ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "And he [Aaron] did [when Yom Kippur arrived] as the L-rd commanded Moses, [and not for personal aggrandizement]."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "17": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו וְאֶל֙ כׇּל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵיהֶ֑ם",
+              "english": "Speak to Aaron and to his sons and to all the children of Israel and say to them:"
+            },
+            {
+              "hebrew": "זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לֵאמֹֽר׃",
+              "english": "This is the thing that the L-rd commanded, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל אֲשֶׁ֨ר יִשְׁחַ֜ט שׁ֥וֹר אוֹ־כֶ֛שֶׂב אוֹ־עֵ֖ז בַּֽמַּחֲנֶ֑ה",
+              "english": "A man from the house of Israel who slaughters [(consecrated animals)] an ox or a lamb, or a goat, in the camp [outside of the azarah]"
+            },
+            {
+              "hebrew": "א֚וֹ אֲשֶׁ֣ר יִשְׁחַ֔ט מִח֖וּץ לַֽמַּחֲנֶֽה׃",
+              "english": "or who slaughters outside the camp,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶל־פֶּ֜תַח אֹ֣הֶל מוֹעֵד֮ לֹ֣א הֱבִיאוֹ֒ לְהַקְרִ֤יב קׇרְבָּן֙ לַֽיהֹוָ֔ה לִפְנֵ֖י מִשְׁכַּ֣ן יְהֹוָ֑ה",
+              "english": "And to the door of the tent of meeting he did not bring it to present it as an offering to the L-rd before the mishkan of the L-rd —"
+            },
+            {
+              "hebrew": "דָּ֣ם יֵחָשֵׁ֞ב לָאִ֤ישׁ הַהוּא֙ דָּ֣ם שָׁפָ֔ךְ",
+              "english": "blood shall it be reckoned to that man, [as if he had shed a man's blood (in which instance he is liable to death)]; he has spilled blood [(to include as thus liable one who sprinkles the blood outside)],"
+            },
+            {
+              "hebrew": "וְנִכְרַ֛ת הָאִ֥ישׁ הַה֖וּא מִקֶּ֥רֶב עַמּֽוֹ׃",
+              "english": "and that man will be cut off from his people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "לְמַ֩עַן֩ אֲשֶׁ֨ר יָבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל אֶֽת־זִבְחֵיהֶם֮ אֲשֶׁ֣ר הֵ֣ם זֹבְחִים֮ עַל־פְּנֵ֣י הַשָּׂדֶה֒",
+              "english": "So that the children of Israel bring their sacrifices, which they are wont to slaughter in the open field,"
+            },
+            {
+              "hebrew": "וֶֽהֱבִיאֻ֣ם לַֽיהֹוָ֗ה אֶל־פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶל־הַכֹּהֵ֑ן",
+              "english": "and bring them to the L-rd, to the door of the tent of meeting, to the Cohein,"
+            },
+            {
+              "hebrew": "וְזָ֨בְח֜וּ זִבְחֵ֧י שְׁלָמִ֛ים לַֽיהֹוָ֖ה אוֹתָֽם׃",
+              "english": "and slaughter them as peace-offerings to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְזָרַ֨ק הַכֹּהֵ֤ן אֶת־הַדָּם֙ עַל־מִזְבַּ֣ח יְהֹוָ֔ה פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And the Cohein shall dash the blood on the altar of the L-rd at the door of the tent of meeting,"
+            },
+            {
+              "hebrew": "וְהִקְטִ֣יר הַחֵ֔לֶב לְרֵ֥יחַ נִיחֹ֖חַ לַיהֹוָֽה׃",
+              "english": "and he shall smoke the fat, a sweet savor to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹא־יִזְבְּח֥וּ עוֹד֙ אֶת־זִבְחֵיהֶ֔ם לַשְּׂעִירִ֕ם אֲשֶׁ֛ר הֵ֥ם זֹנִ֖ים אַחֲרֵיהֶ֑ם",
+              "english": "And they shall sacrifice no more their sacrifices to the satyrs [demons], after which they go astray."
+            },
+            {
+              "hebrew": "חֻקַּ֥ת עוֹלָ֛ם תִּֽהְיֶה־זֹּ֥את לָהֶ֖ם לְדֹרֹתָֽם׃",
+              "english": "An everlasting statute shall this be to them throughout their generations."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲלֵהֶ֣ם תֹּאמַ֔ר",
+              "english": "And to them shall you say:"
+            },
+            {
+              "hebrew": "אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל וּמִן־הַגֵּ֖ר אֲשֶׁר־יָג֣וּר בְּתוֹכָ֑ם אֲשֶׁר־יַעֲלֶ֥ה עֹלָ֖ה אוֹ־זָֽבַח׃",
+              "english": "A man from the house of Israel, and from the stranger that dwells in their midst, who shall offer up a burnt-offering or a sacrifice [(to include for liability one who smokes the limbs outside just as one who slaughters outside)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶל־פֶּ֜תַח אֹ֤הֶל מוֹעֵד֙ לֹ֣א יְבִיאֶ֔נּוּ לַעֲשׂ֥וֹת אֹת֖וֹ לַיהֹוָ֑ה",
+              "english": "and not bring it to the door of the tent of meeting to offer it to the L-rd,"
+            },
+            {
+              "hebrew": "וְנִכְרַ֛ת הָאִ֥ישׁ הַה֖וּא מֵעַמָּֽיו׃",
+              "english": "that man shall be cut off from his people [(His seed shall be cut off and his days shall be cut off)]."
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:57:34.335Z"
+  "updatedAt": "2026-10-26T18:58:55.964Z"
 }
