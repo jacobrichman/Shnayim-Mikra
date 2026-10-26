@@ -27335,8 +27335,12 @@
               "english": "And the L-rd said to Moses: Stretch out your hand over the land of Egypt for the locust swarm."
             },
             {
-              "hebrew": "וְיַ֖עַל עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיֹאכַל֙ אֶת־כׇּל־עֵ֣שֶׂב הָאָ֔רֶץ אֵ֛ת כׇּל־אֲשֶׁ֥ר הִשְׁאִ֖יר הַבָּרָֽד׃",
-              "english": "And it shall come up upon the land of Egypt and it shall devour all the grass in the land, all that was left by the hail."
+              "hebrew": "וְיַ֖עַל עַל־אֶ֣רֶץ מִצְרָ֑יִם",
+              "english": "And it shall come up upon the land of Egypt"
+            },
+            {
+              "hebrew": "וְיֹאכַל֙ אֶת־כׇּל־עֵ֣שֶׂב הָאָ֔רֶץ אֵ֛ת כׇּל־אֲשֶׁ֥ר הִשְׁאִ֖יר הַבָּרָֽד׃",
+              "english": "and it shall devour all the grass in the land, all that was left by the hail."
             }
           ],
           "model": "Instinct"
@@ -27365,8 +27369,12 @@
               "english": "And the locust swarm came up on all the land of Egypt, and it rested in the entire boundary of Egypt — very sore."
             },
             {
-              "hebrew": "לְ֠פָנָ֠יו לֹא־הָ֨יָה כֵ֤ן אַרְבֶּה֙ כָּמֹ֔הוּ וְאַחֲרָ֖יו לֹ֥א יִֽהְיֶה־כֵּֽן׃",
-              "english": "Before it there had never been a locust swarm of its like, and after it there will not be such."
+              "hebrew": "לְ֠פָנָ֠יו לֹא־הָ֨יָה כֵ֤ן אַרְבֶּה֙ כָּמֹ֔הוּ",
+              "english": "Before it there had never been a locust swarm of its like,"
+            },
+            {
+              "hebrew": "וְאַחֲרָ֖יו לֹ֥א יִֽהְיֶה־כֵּֽן׃",
+              "english": "and after it there will not be such."
             }
           ],
           "model": "Instinct"
@@ -29250,8 +29258,12 @@
               "english": "And the angel of G-d (Elokim), who went before the camp of Israel, turned and went behind them [to separate the Israelites from the Egyptians and to receive the projectiles intended for them. (\"Elokim\" connotes justice. Israel was being judged at that moment for survival or for destruction along with the Egyptians)]."
             },
             {
-              "hebrew": "וַיִּסַּ֞ע עַמּ֤וּד הֶֽעָנָן֙ מִפְּנֵיהֶ֔ם וַֽיַּעֲמֹ֖ד מֵאַחֲרֵיהֶֽם׃",
-              "english": "And [when it became dark and the pillar of fire supervened], the pillar of cloud turned from before them and stood behind them [to \"darken things\" for the Egyptians]."
+              "hebrew": "וַיִּסַּ֞ע עַמּ֤וּד הֶֽעָנָן֙ מִפְּנֵיהֶ֔ם",
+              "english": "And [when it became dark and the pillar of fire supervened], the pillar of cloud turned from before them"
+            },
+            {
+              "hebrew": "וַֽיַּעֲמֹ֖ד מֵאַחֲרֵיהֶֽם׃",
+              "english": "and stood behind them [to \"darken things\" for the Egyptians]."
             }
           ],
           "model": "Instinct"
@@ -30400,8 +30412,12 @@
         "35": {
           "pairs": [
             {
-              "hebrew": "וּבְנֵ֣י יִשְׂרָאֵ֗ל אָֽכְל֤וּ אֶת־הַמָּן֙ אַרְבָּעִ֣ים שָׁנָ֔ה עַד־בֹּאָ֖ם אֶל־אֶ֣רֶץ נוֹשָׁ֑בֶת",
-              "english": "And the children of Israel ate the manna for forty years until they came to an inhabited land [on the other side of the Jordan (see Joshua 5:11-12)]."
+              "hebrew": "וּבְנֵ֣י יִשְׂרָאֵ֗ל אָֽכְל֤וּ אֶת־הַמָּן֙ אַרְבָּעִ֣ים שָׁנָ֔ה",
+              "english": "And the children of Israel ate the manna for forty years"
+            },
+            {
+              "hebrew": "עַד־בֹּאָ֖ם אֶל־אֶ֣רֶץ נוֹשָׁ֑בֶת",
+              "english": "until they came to an inhabited land [on the other side of the Jordan (see Joshua 5:11-12)]."
             },
             {
               "hebrew": "אֶת־הַמָּן֙ אָֽכְל֔וּ עַד־בֹּאָ֕ם אֶל־קְצֵ֖ה אֶ֥רֶץ כְּנָֽעַן׃",
@@ -31020,8 +31036,12 @@
         "23": {
           "pairs": [
             {
-              "hebrew": "אִ֣ם אֶת־הַדָּבָ֤ר הַזֶּה֙ תַּעֲשֶׂ֔ה וְצִוְּךָ֣ אֱלֹהִ֔ים וְיָֽכׇלְתָּ֖ עֲמֹ֑ד",
-              "english": "If you do this thing and G-d will command you [to do it], then you will be able to bear up [(but not if He does not command you to do it)];"
+              "hebrew": "אִ֣ם אֶת־הַדָּבָ֤ר הַזֶּה֙ תַּעֲשֶׂ֔ה וְצִוְּךָ֣ אֱלֹהִ֔ים",
+              "english": "If you do this thing and G-d will command you [to do it],"
+            },
+            {
+              "hebrew": "וְיָֽכׇלְתָּ֖ עֲמֹ֑ד",
+              "english": "then you will be able to bear up [(but not if He does not command you to do it)];"
             },
             {
               "hebrew": "וְגַם֙ כׇּל־הָעָ֣ם הַזֶּ֔ה עַל־מְקֹמ֖וֹ יָבֹ֥א בְשָׁלֽוֹם׃",
@@ -31437,8 +31457,12 @@
               "english": "And Moses said to the L-rd: The people will not be able to ascend Mount Sinai,"
             },
             {
-              "hebrew": "כִּֽי־אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃",
-              "english": "for You [already] warned us, saying: Demarcate bounds for the mountain and hallow it. [There is no need, then, for me to warn them again.]"
+              "hebrew": "כִּֽי־אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר",
+              "english": "for You [already] warned us, saying:"
+            },
+            {
+              "hebrew": "הַגְבֵּ֥ל אֶת־הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃",
+              "english": "Demarcate bounds for the mountain and hallow it. [There is no need, then, for me to warn them again.]"
             }
           ],
           "model": "Instinct"
@@ -32397,8 +32421,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם וְשִׁלַּח֙ אֶת־בְּעִירֹ֔ה וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר",
-              "english": "If a man take his beast into a field or a vineyard and he send his beast [and it tread, causing damage] or ravage [by the \"tooth\"] in the field of another,"
+              "hebrew": "כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם",
+              "english": "If a man take his beast into a field or a vineyard"
+            },
+            {
+              "hebrew": "וְשִׁלַּח֙ אֶת־בְּעִירֹ֔ה וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר",
+              "english": "and he send his beast [and it tread, causing damage] or ravage [by the \"tooth\"] in the field of another,"
             },
             {
               "hebrew": "מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
@@ -32410,8 +32438,12 @@
         "5": {
           "pairs": [
             {
-              "hebrew": "כִּֽי־תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה",
-              "english": "If fire go out [even of itself] and it find thorns, and there be consumed [by the progress of the fire in the thorns] sheaves, or the standing corn, or the field, [his furrow being singed so that it has to be re-plowed],"
+              "hebrew": "כִּֽי־תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙",
+              "english": "If fire go out [even of itself] and it find thorns,"
+            },
+            {
+              "hebrew": "וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה",
+              "english": "and there be consumed [by the progress of the fire in the thorns] sheaves, or the standing corn, or the field, [his furrow being singed so that it has to be re-plowed],"
             },
             {
               "hebrew": "שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־הַבְּעֵרָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
@@ -32933,8 +32965,12 @@
               "english": "Six days shall you do your work, and on the seventh day shall you rest [i.e., Shabbath is not superseded by Shevi'ith (which is also a commemoration of the creation)],"
             },
             {
-              "hebrew": "לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ וְיִנָּפֵ֥שׁ בֶּן־אֲמָתְךָ֖ וְהַגֵּֽר׃",
-              "english": "so that there rest your ox and your ass [Give it \"resting,\" i.e., allow it to tear grass from the earth and eat it], and there be refreshed the son of your maidservant [an uncircumcised Canaanite servant] and the stranger [a ger toshav, a \"sojourning stranger\" (one who shuns idolatry and observes the seven Noachide laws)]."
+              "hebrew": "לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ",
+              "english": "so that there rest your ox and your ass [Give it \"resting,\" i.e., allow it to tear grass from the earth and eat it],"
+            },
+            {
+              "hebrew": "וְיִנָּפֵ֥שׁ בֶּן־אֲמָתְךָ֖ וְהַגֵּֽר׃",
+              "english": "and there be refreshed the son of your maidservant [an uncircumcised Canaanite servant] and the stranger [a ger toshav, a \"sojourning stranger\" (one who shuns idolatry and observes the seven Noachide laws)]."
             }
           ],
           "model": "Instinct"
@@ -33344,8 +33380,12 @@
               "english": "And Moses took the blood and sprinkled it upon the people,"
             },
             {
-              "hebrew": "וַיֹּ֗אמֶר הִנֵּ֤ה דַֽם־הַבְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִמָּכֶ֔ם עַ֥ל כׇּל־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
-              "english": "and he said: Behold, the blood of the covenant, which the L-rd has made with you over all these words."
+              "hebrew": "וַיֹּ֗אמֶר הִנֵּ֤ה דַֽם־הַבְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִמָּכֶ֔ם",
+              "english": "and he said: Behold, the blood of the covenant, which the L-rd has made with you"
+            },
+            {
+              "hebrew": "עַ֥ל כׇּל־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+              "english": "over all these words."
             }
           ],
           "model": "Instinct"
@@ -33396,8 +33436,12 @@
               "english": "And the L-rd said to Moses [after the giving of the Torah]: Go up to Me to the mountain and be there [forty days],"
             },
             {
-              "hebrew": "וְאֶתְּנָ֨ה לְךָ֜ אֶת־לֻחֹ֣ת הָאֶ֗בֶן וְהַתּוֹרָה֙ וְהַמִּצְוָ֔ה אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהוֹרֹתָֽם׃",
-              "english": "and I shall give you the tablets of stone and the Torah and the mitzvah which I have written to teach them. [All the six hundred and thirteen mitzvoth are contained in the Ten Commandments.]"
+              "hebrew": "וְאֶתְּנָ֨ה לְךָ֜ אֶת־לֻחֹ֣ת הָאֶ֗בֶן וְהַתּוֹרָה֙ וְהַמִּצְוָ֔ה",
+              "english": "and I shall give you the tablets of stone and the Torah and the mitzvah"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהוֹרֹתָֽם׃",
+              "english": "which I have written to teach them. [All the six hundred and thirteen mitzvoth are contained in the Ten Commandments.]"
             }
           ],
           "model": "Instinct"
@@ -33452,8 +33496,12 @@
               "english": "And the glory of the L-rd reposed upon Mount Sinai,"
             },
             {
-              "hebrew": "וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַיִּקְרָ֧א אֶל־מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן׃",
-              "english": "and the cloud covered it for six days and He called to Moses on the seventh day from the midst of the cloud. [Or, according to another view, him. (\"it\"): \"And the glory of the L-rd reposed upon Mount Sinai and the cloud covered it for six days [from Rosh Chodesh Sivan], and He called to Moses [(all of Israel standing there, but Moses being singled out for special honor)] on the seventh day [to declare the Ten Commandments] from the midst of the cloud.\" (\"him\"): \"And the glory of the L-rd reposed upon Mount Sinai and the cloud covered him for six days [after the Ten Commandments, the beginning of the forty days of Moses' going up to receive the tablets (Scripture teaching that entrance into the \"Divine Encampment\" (later, the Holy of Holies) requires a six-day separation period)], and He called to Moses on the seventh day from the midst of the cloud.\"]"
+              "hebrew": "וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים",
+              "english": "and the cloud covered it for six days"
+            },
+            {
+              "hebrew": "וַיִּקְרָ֧א אֶל־מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן׃",
+              "english": "and He called to Moses on the seventh day from the midst of the cloud. [Or, according to another view, him. (\"it\"): \"And the glory of the L-rd reposed upon Mount Sinai and the cloud covered it for six days [from Rosh Chodesh Sivan], and He called to Moses [(all of Israel standing there, but Moses being singled out for special honor)] on the seventh day [to declare the Ten Commandments] from the midst of the cloud.\" (\"him\"): \"And the glory of the L-rd reposed upon Mount Sinai and the cloud covered him for six days [after the Ten Commandments, the beginning of the forty days of Moses' going up to receive the tablets (Scripture teaching that entrance into the \"Divine Encampment\" (later, the Holy of Holies) requires a six-day separation period)], and He called to Moses on the seventh day from the midst of the cloud.\"]"
             }
           ],
           "model": "Instinct"
@@ -33640,8 +33688,12 @@
         "12": {
           "pairs": [
             {
-              "hebrew": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו",
-              "english": "And you shall cast for it four golden rings, and you shall place them on its four [upper] corners [near the kaporeth, two on each side along the breadth of the ark, into which the staves were placed, this allowing space (the two and a half cubits of the length) for two carriers to walk between them] —"
+              "hebrew": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב",
+              "english": "And you shall cast for it four golden rings,"
+            },
+            {
+              "hebrew": "וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו",
+              "english": "and you shall place them on its four [upper] corners [near the kaporeth, two on each side along the breadth of the ark, into which the staves were placed, this allowing space (the two and a half cubits of the length) for two carriers to walk between them] —"
             },
             {
               "hebrew": "וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
@@ -33748,8 +33800,12 @@
               "english": "And the cherubs shall have their wings spread on high [parallel to their heads], covering the kaporeth with their wings from above [a space of ten tefachim between the wings and the kaporeth]."
             },
             {
-              "hebrew": "וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו אֶ֨ל־הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃",
-              "english": "And their faces shall be towards each other. Towards the kaporeth shall the faces of the cherubs be."
+              "hebrew": "וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו",
+              "english": "And their faces shall be towards each other."
+            },
+            {
+              "hebrew": "אֶ֨ל־הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃",
+              "english": "Towards the kaporeth shall the faces of the cherubs be."
             }
           ],
           "model": "Instinct"
@@ -34403,8 +34459,12 @@
               "english": "And [on the western side] there shall be eight beams and their silver sockets, sixteen sockets;"
             },
             {
-              "hebrew": "שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
-              "english": "two sockets under one beam and two sockets under the next beam."
+              "hebrew": "שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד",
+              "english": "two sockets under one beam"
+            },
+            {
+              "hebrew": "וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+              "english": "and two sockets under the next beam."
             }
           ],
           "model": "Instinct"
