@@ -72413,12 +72413,12 @@
         "35": {
           "pairs": [
             {
-              "hebrew": "אִם־יִרְאֶ֥ה אִישׁ֙ בָּאֲנָשִׁ֣ים הָאֵ֔לֶּה הַדּ֥וֹר הָרָ֖ע הַזֶּ֑ה אֵ֚ת הָאָ֣רֶץ הַטּוֹבָ֔ה",
-              "english": "No man of these men, this evil generation, shall see the good land"
+              "hebrew": "אִם־יִרְאֶ֥ה אִישׁ֙ בָּאֲנָשִׁ֣ים הָאֵ֔לֶּה הַדּ֥וֹר הָרָ֖ע הַזֶּ֑ה",
+              "english": "No man of these men, this evil generation,"
             },
             {
-              "hebrew": "אֲשֶׁ֣ר נִשְׁבַּ֔עְתִּי לָתֵ֖ת לַאֲבֹתֵיכֶֽם׃",
-              "english": "that I swore to give to their forefathers."
+              "hebrew": "אֵ֚ת הָאָ֣רֶץ הַטּוֹבָ֔ה אֲשֶׁ֣ר נִשְׁבַּ֔עְתִּי לָתֵ֖ת לַאֲבֹתֵיכֶֽם׃",
+              "english": "shall see the good land that I swore to give to their forefathers."
             }
           ],
           "model": "Instinct"
