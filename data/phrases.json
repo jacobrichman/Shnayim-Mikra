@@ -1110,8 +1110,12 @@
         "17": {
           "pairs": [
             {
-              "hebrew": "וּלְאָדָ֣ם אָמַ֗ר כִּֽי־שָׁמַ֘עְתָּ֮ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֙אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֙יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ",
-              "english": "And to the man he said: Because you heeded your wife's voice and ate of the tree whereof I commanded you not to eat,"
+              "hebrew": "וּלְאָדָ֣ם אָמַ֗ר",
+              "english": "And to the man he said:"
+            },
+            {
+              "hebrew": "כִּֽי־שָׁמַ֘עְתָּ֮ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֙אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֙יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ",
+              "english": "Because you heeded your wife's voice and ate of the tree whereof I commanded you not to eat,"
             },
             {
               "hebrew": "אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ",
@@ -35915,8 +35919,12 @@
               "english": "And you shall take from the ram the fat [of the small intestines, or (according to another opinion) the stomach], and the fat-tail, [from the kidneys and below], and the fat that covers the innards,"
             },
             {
-              "hebrew": "וְאֵ֨ת יֹתֶ֤רֶת הַכָּבֵד֙ וְאֵ֣ת&thinsp;׀ שְׁתֵּ֣י הַכְּלָיֹ֗ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵיהֶ֔ן וְאֵ֖ת שׁ֣וֹק הַיָּמִ֑ין",
-              "english": "and the lobe with [some of] the liver and the two kidneys and the fat that is on them and the right thigh [(This is the only instance of the smoking of the right thigh with the eimurim [the consecrated parts])];"
+              "hebrew": "וְאֵ֨ת יֹתֶ֤רֶת הַכָּבֵד֙ וְאֵ֣ת&thinsp;׀ שְׁתֵּ֣י הַכְּלָיֹ֗ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵיהֶ֔ן",
+              "english": "and the lobe with [some of] the liver and the two kidneys and the fat that is on them"
+            },
+            {
+              "hebrew": "וְאֵ֖ת שׁ֣וֹק הַיָּמִ֑ין",
+              "english": "and the right thigh [(This is the only instance of the smoking of the right thigh with the eimurim [the consecrated parts])];"
             },
             {
               "hebrew": "כִּ֛י אֵ֥יל מִלֻּאִ֖ים הֽוּא׃",
@@ -37309,16 +37317,16 @@
         "12": {
           "pairs": [
             {
-              "hebrew": "לָ֩מָּה֩ יֹאמְר֨וּ מִצְרַ֜יִם לֵאמֹ֗ר בְּרָעָ֤ה הֽוֹצִיאָם֙ לַהֲרֹ֤ג אֹתָם֙ בֶּֽהָרִ֔ים וּ֨לְכַלֹּתָ֔ם מֵעַ֖ל פְּנֵ֣י הָֽאֲדָמָ֑ה",
-              "english": "Why should Egypt say: \"For evil did He take them out, to kill them in the mountains and to wipe them from the face of the earth!\""
+              "hebrew": "לָ֩מָּה֩ יֹאמְר֨וּ מִצְרַ֜יִם לֵאמֹ֗ר",
+              "english": "Why should Egypt say:"
             },
             {
-              "hebrew": "שׁ֚וּב מֵחֲר֣וֹן אַפֶּ֔ךָ",
-              "english": "Turn from Your burning wrath"
+              "hebrew": "בְּרָעָ֤ה הֽוֹצִיאָם֙ לַהֲרֹ֤ג אֹתָם֙ בֶּֽהָרִ֔ים וּ֨לְכַלֹּתָ֔ם מֵעַ֖ל פְּנֵ֣י הָֽאֲדָמָ֑ה",
+              "english": "\"For evil did He take them out, to kill them in the mountains and to wipe them from the face of the earth!\""
             },
             {
-              "hebrew": "וְהִנָּחֵ֥ם עַל־הָרָעָ֖ה לְעַמֶּֽךָ׃",
-              "english": "and bethink Yourself [to turn to good] the evil [intended] for Your people."
+              "hebrew": "שׁ֚וּב מֵחֲר֣וֹן אַפֶּ֔ךָ וְהִנָּחֵ֥ם עַל־הָרָעָ֖ה לְעַמֶּֽךָ׃",
+              "english": "Turn from Your burning wrath and bethink Yourself [to turn to good] the evil [intended] for Your people."
             }
           ],
           "model": "Instinct"
@@ -38197,8 +38205,12 @@
               "english": "Before all your people shall I make (wondrous) distinctions [(whereby you will be distinguished from all other nations, on whom My shechinah will not repose)], which (wonders) have never been created in all the land and in all the nations."
             },
             {
-              "hebrew": "וְרָאָ֣ה כׇל־הָ֠עָ֠ם אֲשֶׁר־אַתָּ֨ה בְקִרְבּ֜וֹ אֶת־מַעֲשֵׂ֤ה יְהֹוָה֙ כִּֽי־נוֹרָ֣א ה֔וּא אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֥ה עִמָּֽךְ׃",
-              "english": "And all the people in whose midst you are will see the work of the L-rd. For it is awesome, what I am to do with you."
+              "hebrew": "וְרָאָ֣ה כׇל־הָ֠עָ֠ם אֲשֶׁר־אַתָּ֨ה בְקִרְבּ֜וֹ אֶת־מַעֲשֵׂ֤ה יְהֹוָה֙",
+              "english": "And all the people in whose midst you are will see the work of the L-rd."
+            },
+            {
+              "hebrew": "כִּֽי־נוֹרָ֣א ה֔וּא אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֥ה עִמָּֽךְ׃",
+              "english": "For it is awesome, what I am to do with you."
             }
           ],
           "model": "Instinct"
@@ -39051,12 +39063,12 @@
         "35": {
           "pairs": [
             {
-              "hebrew": "מִלֵּ֨א אֹתָ֜ם חׇכְמַת־לֵ֗ב",
-              "english": "He filled them with wisdom of heart"
+              "hebrew": "מִלֵּ֨א אֹתָ֜ם חׇכְמַת־לֵ֗ב לַעֲשׂוֹת֮ כׇּל־מְלֶ֣אכֶת חָרָ֣שׁ&thinsp;׀&thinsp;וְחֹשֵׁב֒",
+              "english": "He filled them with wisdom of heart to do every work of craftsman, artist,"
             },
             {
-              "hebrew": "לַעֲשׂוֹת֮ כׇּל־מְלֶ֣אכֶת חָרָ֣שׁ&thinsp;׀&thinsp;וְחֹשֵׁב֒ וְרֹקֵ֞ם בַּתְּכֵ֣לֶת וּבָֽאַרְגָּמָ֗ן בְּתוֹלַ֧עַת הַשָּׁנִ֛י וּבַשֵּׁ֖שׁ וְאֹרֵ֑ג",
-              "english": "to do every work of craftsman, artist, and embroiderer, in blue wool, purple wool, scarlet wool, and linen; and weaver,"
+              "hebrew": "וְרֹקֵ֞ם בַּתְּכֵ֣לֶת וּבָֽאַרְגָּמָ֗ן בְּתוֹלַ֧עַת הַשָּׁנִ֛י וּבַשֵּׁ֖שׁ וְאֹרֵ֑ג",
+              "english": "and embroiderer, in blue wool, purple wool, scarlet wool, and linen; and weaver,"
             },
             {
               "hebrew": "עֹשֵׂי֙ כׇּל־מְלָאכָ֔ה וְחֹשְׁבֵ֖י מַחֲשָׁבֹֽת׃",
@@ -39075,11 +39087,11 @@
             },
             {
               "hebrew": "לָדַ֣עַת לַעֲשֹׂ֔ת אֶֽת־כׇּל־מְלֶ֖אכֶת עֲבֹדַ֣ת הַקֹּ֑דֶשׁ",
-              "english": "to know to do all the work for the labor of the sanctuary"
+              "english": "to know to do all the work for the labor of the sanctuary shall do"
             },
             {
               "hebrew": "לְכֹ֥ל אֲשֶׁר־צִוָּ֖ה יְהֹוָֽה׃",
-              "english": "shall do all that the L-rd has commanded."
+              "english": "all that the L-rd has commanded."
             }
           ],
           "model": "Instinct"
@@ -42463,12 +42475,8 @@
               "english": "And the Cohein shall put of the blood on the horns of the altar of the smoking of the incense before the L-rd, which is in the tent of meeting;"
             },
             {
-              "hebrew": "וְאֵ֣ת&thinsp;׀ כׇּל־דַּ֣ם הַפָּ֗ר יִשְׁפֹּךְ֙ אֶל־יְסוֹד֙ מִזְבַּ֣ח הָעֹלָ֔ה",
-              "english": "and all the [remaining] blood of the bullock he shall pour at the base of the altar of the burnt-offering,"
-            },
-            {
-              "hebrew": "אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-              "english": "which is at the door of the tent of meeting."
+              "hebrew": "וְאֵ֣ת&thinsp;׀ כׇּל־דַּ֣ם הַפָּ֗ר יִשְׁפֹּךְ֙ אֶל־יְסוֹד֙ מִזְבַּ֣ח הָעֹלָ֔ה אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and all the [remaining] blood of the bullock he shall pour at the base of the altar of the burnt-offering, which is at the door of the tent of meeting."
             }
           ],
           "model": "Instinct"
@@ -44064,12 +44072,8 @@
               "english": "For the breast of the waving [(forward and back)] and the thigh of the lifting [(up and down)] have I taken from the children of Israel from the sacrifices of their peace-offerings,"
             },
             {
-              "hebrew": "וָאֶתֵּ֣ן אֹ֠תָ֠ם לְאַהֲרֹ֨ן הַכֹּהֵ֤ן וּלְבָנָיו֙ לְחׇק־עוֹלָ֔ם",
-              "english": "and I have given them to Aaron the Cohein and to his sons as an everlasting statute"
-            },
-            {
-              "hebrew": "מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
-              "english": "from the children of Israel."
+              "hebrew": "וָאֶתֵּ֣ן אֹ֠תָ֠ם לְאַהֲרֹ֨ן הַכֹּהֵ֤ן וּלְבָנָיו֙ לְחׇק־עוֹלָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and I have given them to Aaron the Cohein and to his sons as an everlasting statute from the children of Israel."
             }
           ],
           "model": "Instinct"
@@ -44573,12 +44577,12 @@
         "31": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־אַהֲרֹ֣ן וְאֶל־בָּנָ֗יו",
-              "english": "And Moses said to Aaron and to his sons:"
+              "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־אַהֲרֹ֣ן וְאֶל־בָּנָ֗יו בַּשְּׁל֣וּ אֶת־הַבָּשָׂר֮ פֶּ֣תַח אֹ֣הֶל מוֹעֵד֒",
+              "english": "And Moses said to Aaron and to his sons: Cook the flesh at the door of the tent of meeting,"
             },
             {
-              "hebrew": "בַּשְּׁל֣וּ אֶת־הַבָּשָׂר֮ פֶּ֣תַח אֹ֣הֶל מוֹעֵד֒ וְשָׁם֙ תֹּאכְל֣וּ אֹת֔וֹ וְאֶ֨ת־הַלֶּ֔חֶם אֲשֶׁ֖ר בְּסַ֣ל הַמִּלֻּאִ֑ים",
-              "english": "Cook the flesh at the door of the tent of meeting, and there eat it and the bread that is in the basket of investiture,"
+              "hebrew": "וְשָׁם֙ תֹּאכְל֣וּ אֹת֔וֹ וְאֶ֨ת־הַלֶּ֔חֶם אֲשֶׁ֖ר בְּסַ֣ל הַמִּלֻּאִ֑ים",
+              "english": "and there eat it and the bread that is in the basket of investiture,"
             },
             {
               "hebrew": "כַּאֲשֶׁ֤ר צִוֵּ֙יתִי֙ לֵאמֹ֔ר אַהֲרֹ֥ן וּבָנָ֖יו יֹאכְלֻֽהוּ׃",
@@ -46134,8 +46138,12 @@
               "english": "And the Cohein shall see the plague-spot in the skin of the flesh."
             },
             {
-              "hebrew": "וְשֵׂעָ֨ר בַּנֶּ֜גַע הָפַ֣ךְ&thinsp;׀ לָבָ֗ן וּמַרְאֵ֤ה הַנֶּ֙גַע֙ עָמֹק֙ מֵע֣וֹר בְּשָׂר֔וֹ נֶ֥גַע צָרַ֖עַת ה֑וּא",
-              "english": "If hair [at least two hairs] in the plague-spot had turned [from black to] white, and the appearance of the plague-spot is deeper than the skin of his flesh [(as things in the sun seem deeper than those in the shadow)], it is a plague-spot of leprosy."
+              "hebrew": "וְשֵׂעָ֨ר בַּנֶּ֜גַע הָפַ֣ךְ&thinsp;׀ לָבָ֗ן",
+              "english": "If hair [at least two hairs] in the plague-spot had turned [from black to] white,"
+            },
+            {
+              "hebrew": "וּמַרְאֵ֤ה הַנֶּ֙גַע֙ עָמֹק֙ מֵע֣וֹר בְּשָׂר֔וֹ נֶ֥גַע צָרַ֖עַת ה֑וּא",
+              "english": "and the appearance of the plague-spot is deeper than the skin of his flesh [(as things in the sun seem deeper than those in the shadow)], it is a plague-spot of leprosy."
             },
             {
               "hebrew": "וְרָאָ֥הוּ הַכֹּהֵ֖ן וְטִמֵּ֥א אֹתֽוֹ׃",
@@ -48561,12 +48569,8 @@
         "27": {
           "pairs": [
             {
-              "hebrew": "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת&thinsp;׀ שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ",
-              "english": "And the bullock of the sin-offering and the goat of the sin-offering, whose blood was brought [into the sanctuary and into the holy of holies] to make atonement in the holy place,"
-            },
-            {
-              "hebrew": "יוֹצִ֖יא אֶל־מִח֣וּץ לַֽמַּחֲנֶ֑ה",
-              "english": "he shall take outside the camp,"
+              "hebrew": "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת&thinsp;׀ שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ יוֹצִ֖יא אֶל־מִח֣וּץ לַֽמַּחֲנֶ֑ה",
+              "english": "And the bullock of the sin-offering and the goat of the sin-offering, whose blood was brought [into the sanctuary and into the holy of holies] to make atonement in the holy place, he shall take outside the camp,"
             },
             {
               "hebrew": "וְשָׂרְפ֣וּ בָאֵ֔שׁ אֶת־עֹרֹתָ֥ם וְאֶת־בְּשָׂרָ֖ם וְאֶת־פִּרְשָֽׁם׃",
@@ -51235,12 +51239,8 @@
               "english": "And you shall present with the bread [i.e., as requisite for the bread] seven unblemished one-year-old lambs, and one young bullock, and two rams."
             },
             {
-              "hebrew": "יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם",
-              "english": "They shall be a burnt-offering and their drink-offerings [as per the specifications for meal-offerings and drink-offerings (Numbers 28:12-14)],"
-            },
-            {
-              "hebrew": "אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
-              "english": "a fire-offering, a sweet savor to the L-rd."
+              "hebrew": "יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+              "english": "They shall be a burnt-offering and their drink-offerings [as per the specifications for meal-offerings and drink-offerings (Numbers 28:12-14)], a fire-offering, a sweet savor to the L-rd."
             }
           ],
           "model": "Instinct"
@@ -51592,8 +51592,12 @@
         "43": {
           "pairs": [
             {
-              "hebrew": "לְמַ֘עַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם",
-              "english": "So that your generations know that in succoth [clouds of glory] did I cause the children of Israel to dwell when I took them out of the land of Egypt;"
+              "hebrew": "לְמַ֘עַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "So that your generations know that in succoth [clouds of glory] did I cause the children of Israel to dwell"
+            },
+            {
+              "hebrew": "בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם",
+              "english": "when I took them out of the land of Egypt;"
             },
             {
               "hebrew": "אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
@@ -51646,8 +51650,12 @@
         "3": {
           "pairs": [
             {
-              "hebrew": "מִחוּץ֩ לְפָרֹ֨כֶת הָעֵדֻ֜ת בְּאֹ֣הֶל מוֹעֵ֗ד יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֜ן מֵעֶ֧רֶב עַד־בֹּ֛קֶר לִפְנֵ֥י יְהֹוָ֖ה תָּמִ֑יד",
-              "english": "Outside the parocheth, [which is before] the Testimony [i.e., the ark], in the tent of meeting, shall Aaron arrange it (the menorah) [so that it burn] from evening until morning before the L-rd continually,"
+              "hebrew": "מִחוּץ֩ לְפָרֹ֨כֶת הָעֵדֻ֜ת בְּאֹ֣הֶל מוֹעֵ֗ד",
+              "english": "Outside the parocheth, [which is before] the Testimony [i.e., the ark], in the tent of meeting,"
+            },
+            {
+              "hebrew": "יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֜ן מֵעֶ֧רֶב עַד־בֹּ֛קֶר לִפְנֵ֥י יְהֹוָ֖ה תָּמִ֑יד",
+              "english": "shall Aaron arrange it (the menorah) [so that it burn] from evening until morning before the L-rd continually,"
             },
             {
               "hebrew": "חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹֽתֵיכֶֽם׃",
@@ -56343,12 +56351,12 @@
         "26": {
           "pairs": [
             {
-              "hebrew": "וְאֵת֩ קַלְעֵ֨י הֶֽחָצֵ֜ר וְאֶת־מָסַ֣ךְ&thinsp;׀ פֶּ֣תַח&thinsp;׀ שַׁ֣עַר הֶחָצֵ֗ר אֲשֶׁ֨ר עַל־הַמִּשְׁכָּ֤ן וְעַל־הַמִּזְבֵּ֙חַ֙ סָבִ֔יב",
-              "english": "And the curtains of the court, and the partition for the door of the gate of the court which shield the mishkan and the [copper] altar roundabout,"
+              "hebrew": "וְאֵת֩ קַלְעֵ֨י הֶֽחָצֵ֜ר וְאֶת־מָסַ֣ךְ&thinsp;׀ פֶּ֣תַח&thinsp;׀ שַׁ֣עַר הֶחָצֵ֗ר",
+              "english": "And the curtains of the court, and the partition for the door of the gate of the court"
             },
             {
-              "hebrew": "וְאֵת֙ מֵֽיתְרֵיהֶ֔ם וְאֶֽת־כׇּל־כְּלֵ֖י עֲבֹדָתָ֑ם",
-              "english": "and their cords, and all their service implements,"
+              "hebrew": "אֲשֶׁ֨ר עַל־הַמִּשְׁכָּ֤ן וְעַל־הַמִּזְבֵּ֙חַ֙ סָבִ֔יב וְאֵת֙ מֵֽיתְרֵיהֶ֔ם וְאֶֽת־כׇּל־כְּלֵ֖י עֲבֹדָתָ֑ם",
+              "english": "which shield the mishkan and the [copper] altar roundabout, and their cords, and all their service implements,"
             },
             {
               "hebrew": "וְאֵ֨ת כׇּל־אֲשֶׁ֧ר יֵעָשֶׂ֛ה לָהֶ֖ם וְעָבָֽדוּ׃",
@@ -64885,8 +64893,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֨אמֶר מוֹאָ֜ב אֶל־זִקְנֵ֣י מִדְיָ֗ן עַתָּ֞ה יְלַחֲכ֤וּ הַקָּהָל֙ אֶת־כׇּל־סְבִ֣יבֹתֵ֔ינוּ כִּלְחֹ֣ךְ הַשּׁ֔וֹר אֵ֖ת יֶ֣רֶק הַשָּׂדֶ֑ה",
-              "english": "And Moav said to the elders of Midian: Now this horde will lap up everything around us as an ox laps up the greens of the field —"
+              "hebrew": "וַיֹּ֨אמֶר מוֹאָ֜ב אֶל־זִקְנֵ֣י מִדְיָ֗ן",
+              "english": "And Moav said to the elders of Midian:"
+            },
+            {
+              "hebrew": "עַתָּ֞ה יְלַחֲכ֤וּ הַקָּהָל֙ אֶת־כׇּל־סְבִ֣יבֹתֵ֔ינוּ כִּלְחֹ֣ךְ הַשּׁ֔וֹר אֵ֖ת יֶ֣רֶק הַשָּׂדֶ֑ה",
+              "english": "Now this horde will lap up everything around us as an ox laps up the greens of the field —"
             },
             {
               "hebrew": "וּבָלָ֧ק בֶּן־צִפּ֛וֹר מֶ֥לֶךְ לְמוֹאָ֖ב בָּעֵ֥ת הַהִֽוא׃",
@@ -65299,8 +65311,12 @@
         "34": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־מַלְאַ֤ךְ יְהֹוָה֙ חָטָ֔אתִי כִּ֚י לֹ֣א יָדַ֔עְתִּי כִּ֥י אַתָּ֛ה נִצָּ֥ב לִקְרָאתִ֖י בַּדָּ֑רֶךְ",
-              "english": "And Bilam said to the angel of the L-rd: I have sinned, for I did not know that you were standing against me on the way [(Bilam's own mouth here perforce \"undoes\" him — \"I did not know,\" as opposed to (24:16): \"And he (Bilam) knows, etc.\")]"
+              "hebrew": "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־מַלְאַ֤ךְ יְהֹוָה֙ חָטָ֔אתִי",
+              "english": "And Bilam said to the angel of the L-rd: I have sinned,"
+            },
+            {
+              "hebrew": "כִּ֚י לֹ֣א יָדַ֔עְתִּי כִּ֥י אַתָּ֛ה נִצָּ֥ב לִקְרָאתִ֖י בַּדָּ֑רֶךְ",
+              "english": "for I did not know that you were standing against me on the way [(Bilam's own mouth here perforce \"undoes\" him — \"I did not know,\" as opposed to (24:16): \"And he (Bilam) knows, etc.\")]"
             },
             {
               "hebrew": "וְעַתָּ֛ה אִם־רַ֥ע בְּעֵינֶ֖יךָ אָשׁ֥וּבָה לִּֽי׃",
@@ -66209,8 +66225,12 @@
         "6": {
           "pairs": [
             {
-              "hebrew": "וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י מֹשֶׁ֔ה וּלְעֵינֵ֖י כׇּל־עֲדַ֣ת בְּנֵי־יִשְׂרָאֵ֑ל",
-              "english": "And, behold, a man of the children of Israel [Zimri, chief of the tribe of Shimon] came, and he brought near to his brothers the Midianite woman [Kazbi, the daughter of Tzur] in the sight of Moses and in the sight of the entire congregation of the children of Israel,"
+              "hebrew": "וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית",
+              "english": "And, behold, a man of the children of Israel [Zimri, chief of the tribe of Shimon] came, and he brought near to his brothers the Midianite woman [Kazbi, the daughter of Tzur]"
+            },
+            {
+              "hebrew": "לְעֵינֵ֣י מֹשֶׁ֔ה וּלְעֵינֵ֖י כׇּל־עֲדַ֣ת בְּנֵי־יִשְׂרָאֵ֑ל",
+              "english": "in the sight of Moses and in the sight of the entire congregation of the children of Israel,"
             },
             {
               "hebrew": "וְהֵ֣מָּה בֹכִ֔ים פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
@@ -69929,8 +69949,12 @@
               "english": "And Moses said to them:"
             },
             {
-              "hebrew": "אִם־יַעַבְר֣וּ בְנֵי־גָ֣ד וּבְנֵי־רְאוּבֵ֣ן&thinsp;׀&thinsp;אִ֠תְּכֶ֠ם אֶֽת־הַיַּרְדֵּ֞ן כׇּל־חָל֤וּץ לַמִּלְחָמָה֙ לִפְנֵ֣י יְהֹוָ֔ה וְנִכְבְּשָׁ֥ה הָאָ֖רֶץ לִפְנֵיכֶ֑ם",
-              "english": "If the sons of Gad and the sons of Reuven cross the Jordan with you, each man armed for the war before the L rd, and the land be conquered before you,"
+              "hebrew": "אִם־יַעַבְר֣וּ בְנֵי־גָ֣ד וּבְנֵי־רְאוּבֵ֣ן&thinsp;׀&thinsp;אִ֠תְּכֶ֠ם אֶֽת־הַיַּרְדֵּ֞ן כׇּל־חָל֤וּץ לַמִּלְחָמָה֙ לִפְנֵ֣י יְהֹוָ֔ה",
+              "english": "If the sons of Gad and the sons of Reuven cross the Jordan with you, each man armed for the war before the L rd,"
+            },
+            {
+              "hebrew": "וְנִכְבְּשָׁ֥ה הָאָ֖רֶץ לִפְנֵיכֶ֑ם",
+              "english": "and the land be conquered before you,"
             },
             {
               "hebrew": "וּנְתַתֶּ֥ם לָהֶ֛ם אֶת־אֶ֥רֶץ הַגִּלְעָ֖ד לַאֲחֻזָּֽה׃",
@@ -73682,12 +73706,12 @@
               "english": "And you shall heed [This is mishnah (learning)], and you shall do [what you have learned]."
             },
             {
-              "hebrew": "כִּ֣י הִ֤וא חׇכְמַתְכֶם֙ וּבִ֣ינַתְכֶ֔ם לְעֵינֵ֖י הָעַמִּ֑ים",
-              "english": "For this is your wisdom and your understanding [i.e., You will thereby be accounted wise and understanding] in the eyes of the peoples,"
+              "hebrew": "כִּ֣י הִ֤וא חׇכְמַתְכֶם֙ וּבִ֣ינַתְכֶ֔ם לְעֵינֵ֖י הָעַמִּ֑ים אֲשֶׁ֣ר יִשְׁמְע֗וּן אֵ֚ת כׇּל־הַחֻקִּ֣ים הָאֵ֔לֶּה",
+              "english": "For this is your wisdom and your understanding [i.e., You will thereby be accounted wise and understanding] in the eyes of the peoples, who will hear of all these statutes"
             },
             {
-              "hebrew": "אֲשֶׁ֣ר יִשְׁמְע֗וּן אֵ֚ת כׇּל־הַחֻקִּ֣ים הָאֵ֔לֶּה וְאָמְר֗וּ רַ֚ק עַם־חָכָ֣ם וְנָב֔וֹן הַגּ֥וֹי הַגָּד֖וֹל הַזֶּֽה׃",
-              "english": "who will hear of all these statutes and who will say: Surely, a wise and understanding people is this great nation."
+              "hebrew": "וְאָמְר֗וּ רַ֚ק עַם־חָכָ֣ם וְנָב֔וֹן הַגּ֥וֹי הַגָּד֖וֹל הַזֶּֽה׃",
+              "english": "and who will say: Surely, a wise and understanding people is this great nation."
             }
           ],
           "model": "Instinct"
@@ -74056,12 +74080,12 @@
         "32": {
           "pairs": [
             {
-              "hebrew": "כִּ֣י שְׁאַל־נָא֩ לְיָמִ֨ים רִֽאשֹׁנִ֜ים אֲשֶׁר־הָי֣וּ לְפָנֶ֗יךָ לְמִן־הַיּוֹם֙ אֲשֶׁר֩ בָּרָ֨א אֱלֹהִ֤ים&thinsp;׀&thinsp;אָדָם֙ עַל־הָאָ֔רֶץ",
-              "english": "For ask, now, concerning the first days which were before you, from the day G-d created man upon the earth,"
+              "hebrew": "כִּ֣י שְׁאַל־נָא֩ לְיָמִ֨ים רִֽאשֹׁנִ֜ים אֲשֶׁר־הָי֣וּ לְפָנֶ֗יךָ",
+              "english": "For ask, now, concerning the first days which were before you,"
             },
             {
-              "hebrew": "וּלְמִקְצֵ֥ה הַשָּׁמַ֖יִם וְעַד־קְצֵ֣ה הַשָּׁמָ֑יִם",
-              "english": "[and ask also of all the creations] from one end of the heavens to the other end:"
+              "hebrew": "לְמִן־הַיּוֹם֙ אֲשֶׁר֩ בָּרָ֨א אֱלֹהִ֤ים&thinsp;׀&thinsp;אָדָם֙ עַל־הָאָ֔רֶץ וּלְמִקְצֵ֥ה הַשָּׁמַ֖יִם וְעַד־קְצֵ֣ה הַשָּׁמָ֑יִם",
+              "english": "from the day G-d created man upon the earth, [and ask also of all the creations] from one end of the heavens to the other end:"
             },
             {
               "hebrew": "הֲנִֽהְיָ֗ה כַּדָּבָ֤ר הַגָּדוֹל֙ הַזֶּ֔ה א֖וֹ הֲנִשְׁמַ֥ע כָּמֹֽהוּ׃",
@@ -75741,8 +75765,12 @@
         "19": {
           "pairs": [
             {
-              "hebrew": "וְהָיָ֗ה אִם־שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם",
-              "english": "And it shall be, if you forget the L-rd your G-d and walk after other gods and serve them and bow down to them,"
+              "hebrew": "וְהָיָ֗ה אִם־שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ",
+              "english": "And it shall be, if you forget the L-rd your G-d"
+            },
+            {
+              "hebrew": "וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם",
+              "english": "and walk after other gods and serve them and bow down to them,"
             },
             {
               "hebrew": "הַעִדֹ֤תִי בָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּן׃",
@@ -76860,8 +76888,12 @@
               "english": "No man [— even one like Og, the king of Bashan —] will stand up against you."
             },
             {
-              "hebrew": "פַּחְדְּכֶ֨ם וּמוֹרַֽאֲכֶ֜ם יִתֵּ֣ן&thinsp;׀ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם עַל־פְּנֵ֤י כׇל־הָאָ֙רֶץ֙ אֲשֶׁ֣ר תִּדְרְכוּ־בָ֔הּ כַּאֲשֶׁ֖ר דִּבֶּ֥ר לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "Fear of you [(on the part of those near you)] and dread of you [(on the part of those distant)] shall the L-rd G-d place on the face of all the land where you will tread, as He spoke to you [viz. Exodus 23:27]."
+              "hebrew": "פַּחְדְּכֶ֨ם וּמוֹרַֽאֲכֶ֜ם יִתֵּ֣ן&thinsp;׀ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם עַל־פְּנֵ֤י כׇל־הָאָ֙רֶץ֙ אֲשֶׁ֣ר תִּדְרְכוּ־בָ֔הּ",
+              "english": "Fear of you [(on the part of those near you)] and dread of you [(on the part of those distant)] shall the L-rd G-d place on the face of all the land where you will tread,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֖ר דִּבֶּ֥ר לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as He spoke to you [viz. Exodus 23:27]."
             }
           ],
           "model": "Instinct"
@@ -77168,8 +77200,12 @@
         "15": {
           "pairs": [
             {
-              "hebrew": "רַק֩ בְּכׇל־אַוַּ֨ת נַפְשְׁךָ֜ תִּזְבַּ֣ח&thinsp;׀ וְאָכַלְתָּ֣ בָשָׂ֗ר כְּבִרְכַּ֨ת יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֲשֶׁ֥ר נָֽתַן־לְךָ֖ בְּכׇל־שְׁעָרֶ֑יךָ",
-              "english": "Only [(This excludes from redemption consecrated animals with passing blemishes)], with all the desire of your soul may you slaughter [after redemption, consecrated animals which have sustained a (permanent) blemish], and you may eat [in any place] flesh, [(but you may not use their fleece and their milk)], according to the blessing of the L-rd your G-d that He has given you in all of your gates."
+              "hebrew": "רַק֩ בְּכׇל־אַוַּ֨ת נַפְשְׁךָ֜ תִּזְבַּ֣ח&thinsp;׀ וְאָכַלְתָּ֣ בָשָׂ֗ר",
+              "english": "Only [(This excludes from redemption consecrated animals with passing blemishes)], with all the desire of your soul may you slaughter [after redemption, consecrated animals which have sustained a (permanent) blemish], and you may eat [in any place] flesh, [(but you may not use their fleece and their milk)],"
+            },
+            {
+              "hebrew": "כְּבִרְכַּ֨ת יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֲשֶׁ֥ר נָֽתַן־לְךָ֖ בְּכׇל־שְׁעָרֶ֑יךָ",
+              "english": "according to the blessing of the L-rd your G-d that He has given you in all of your gates."
             },
             {
               "hebrew": "הַטָּמֵ֤א וְהַטָּהוֹר֙ יֹאכְלֶ֔נּוּ כַּצְּבִ֖י וְכָאַיָּֽל׃",
@@ -77462,8 +77498,12 @@
               "english": "Do not pay heed to the words of that prophet or that dreamer of dreams."
             },
             {
-              "hebrew": "כִּ֣י מְנַסֶּ֞ה יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־יְהֹוָ֣ה אֱלֹהֵיכֶ֔ם בְּכׇל־לְבַבְכֶ֖ם וּבְכׇל־נַפְשְׁכֶֽם׃",
-              "english": "For the L-rd your G-d is trying you to know whether you love the L-rd your G-d with all your heart and with all your soul."
+              "hebrew": "כִּ֣י מְנַסֶּ֞ה יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם",
+              "english": "For the L-rd your G-d is trying you"
+            },
+            {
+              "hebrew": "לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־יְהֹוָ֣ה אֱלֹהֵיכֶ֔ם בְּכׇל־לְבַבְכֶ֖ם וּבְכׇל־נַפְשְׁכֶֽם׃",
+              "english": "to know whether you love the L-rd your G-d with all your heart and with all your soul."
             }
           ],
           "model": "Instinct"
@@ -77496,8 +77536,12 @@
               "english": "For of what is \"removed\" [from the world, it never having been created, and His never having been commanded by Me to speak thus] has he spoken of the L-rd your G-d — who took you out of the land of Egypt, and who redeemed you from the house of bondage. [Had He done only that, it should have been sufficient!] —"
             },
             {
-              "hebrew": "לְהַדִּֽיחֲךָ֙ מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר צִוְּךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ לָלֶ֣כֶת בָּ֑הּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "to turn you from the way on which the L-rd your G-d commanded you to go. And you shall remove the evil from your midst."
+              "hebrew": "לְהַדִּֽיחֲךָ֙ מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר צִוְּךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ לָלֶ֣כֶת בָּ֑הּ",
+              "english": "to turn you from the way on which the L-rd your G-d commanded you to go."
+            },
+            {
+              "hebrew": "וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And you shall remove the evil from your midst."
             }
           ],
           "model": "Instinct"
@@ -77713,8 +77757,12 @@
               "english": "For you are a holy people to the L-rd your G-d [by virtue of your fathers],"
             },
             {
-              "hebrew": "וּבְךָ֞ בָּחַ֣ר יְהֹוָ֗ה לִֽהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־פְּנֵ֥י הָאֲדָמָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "and in you [in your own right] has the L-rd chosen to be unto Him a chosen people from all the peoples that are on the face of the earth."
+              "hebrew": "וּבְךָ֞ בָּחַ֣ר יְהֹוָ֗ה לִֽהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה",
+              "english": "and in you [in your own right] has the L-rd chosen to be unto Him a chosen people"
+            },
+            {
+              "hebrew": "מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־פְּנֵ֥י הָאֲדָמָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "from all the peoples that are on the face of the earth."
             }
           ],
           "model": "Instinct"
@@ -78614,8 +78662,12 @@
               "english": "Seven days shall you rejoice before the L-rd your G-d in the place that the L-rd chooses."
             },
             {
-              "hebrew": "כִּ֣י יְבָרֶכְךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃",
-              "english": "For the L-rd your G-d will bless you in all of your produce and in all to which you put your hand, and you will be only happy."
+              "hebrew": "כִּ֣י יְבָרֶכְךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ",
+              "english": "For the L-rd your G-d will bless you in all of your produce and in all to which you put your hand,"
+            },
+            {
+              "hebrew": "וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃",
+              "english": "and you will be only happy."
             }
           ],
           "model": "Instinct"
@@ -78623,12 +78675,12 @@
         "16": {
           "pairs": [
             {
-              "hebrew": "שָׁל֣וֹשׁ פְּעָמִ֣ים&thinsp;׀&thinsp;בַּשָּׁנָ֡ה יֵרָאֶ֨ה כׇל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר",
-              "english": "Three times a year shall appear each of your males in the presence of the L-rd your G-d in the place that He chooses:"
+              "hebrew": "שָׁל֣וֹשׁ פְּעָמִ֣ים&thinsp;׀&thinsp;בַּשָּׁנָ֡ה יֵרָאֶ֨ה כׇל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ",
+              "english": "Three times a year shall appear each of your males in the presence of the L-rd your G-d"
             },
             {
-              "hebrew": "בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת",
-              "english": "on the festival of matzoth, and on the festival of Shavuoth, and on the festival of Succoth."
+              "hebrew": "בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת",
+              "english": "in the place that He chooses: on the festival of matzoth, and on the festival of Shavuoth, and on the festival of Succoth."
             },
             {
               "hebrew": "וְלֹ֧א יֵרָאֶ֛ה אֶת־פְּנֵ֥י יְהֹוָ֖ה רֵיקָֽם׃",
@@ -79891,8 +79943,12 @@
         "19": {
           "pairs": [
             {
-              "hebrew": "כִּֽי־תָצ֣וּר אֶל־עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתׇפְשָׂ֗הּ לֹֽא־תַשְׁחִ֤ית אֶת־עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן",
-              "english": "If you besiege a city [(in an optional war)] many days [(\"days\" = two; \"many days\" = three — whence it is derived that gentile cities are not besieged fewer than three days before the Sabbath and that the peace overture is repeated for two or three days)], to make war upon it, to capture it, do not destroy its tree by wielding an axe against it."
+              "hebrew": "כִּֽי־תָצ֣וּר אֶל־עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתׇפְשָׂ֗הּ",
+              "english": "If you besiege a city [(in an optional war)] many days [(\"days\" = two; \"many days\" = three — whence it is derived that gentile cities are not besieged fewer than three days before the Sabbath and that the peace overture is repeated for two or three days)], to make war upon it, to capture it,"
+            },
+            {
+              "hebrew": "לֹֽא־תַשְׁחִ֤ית אֶת־עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן",
+              "english": "do not destroy its tree by wielding an axe against it."
             },
             {
               "hebrew": "כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת",
@@ -83544,12 +83600,12 @@
         "17": {
           "pairs": [
             {
-              "hebrew": "פֶּן־יֵ֣שׁ בָּ֠כֶ֠ם אִ֣ישׁ אֽוֹ־אִשָּׁ֞ה א֧וֹ מִשְׁפָּחָ֣ה אוֹ־שֵׁ֗בֶט אֲשֶׁר֩ לְבָב֨וֹ פֹנֶ֤ה הַיּוֹם֙ מֵעִם֙ יְהֹוָ֣ה אֱלֹהֵ֔ינוּ",
-              "english": "Lest there be among you a man or a woman, a family or a tribe, whose heart turns this day from the L-rd our G-d"
+              "hebrew": "פֶּן־יֵ֣שׁ בָּ֠כֶ֠ם אִ֣ישׁ אֽוֹ־אִשָּׁ֞ה א֧וֹ מִשְׁפָּחָ֣ה אוֹ־שֵׁ֗בֶט",
+              "english": "Lest there be among you a man or a woman, a family or a tribe,"
             },
             {
-              "hebrew": "לָלֶ֣כֶת לַעֲבֹ֔ד אֶת־אֱלֹהֵ֖י הַגּוֹיִ֣ם הָהֵ֑ם",
-              "english": "to go and serve the gods of those nations —"
+              "hebrew": "אֲשֶׁר֩ לְבָב֨וֹ פֹנֶ֤ה הַיּוֹם֙ מֵעִם֙ יְהֹוָ֣ה אֱלֹהֵ֔ינוּ לָלֶ֣כֶת לַעֲבֹ֔ד אֶת־אֱלֹהֵ֖י הַגּוֹיִ֣ם הָהֵ֑ם",
+              "english": "whose heart turns this day from the L-rd our G-d to go and serve the gods of those nations —"
             },
             {
               "hebrew": "פֶּן־יֵ֣שׁ בָּכֶ֗ם שֹׁ֛רֶשׁ פֹּרֶ֥ה רֹ֖אשׁ וְלַעֲנָֽה׃",
@@ -83822,8 +83878,12 @@
         "9": {
           "pairs": [
             {
-              "hebrew": "וְהוֹתִֽירְךָ֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ בְּכֹ֣ל&thinsp;׀ מַעֲשֵׂ֣ה יָדֶ֗ךָ בִּפְרִ֨י בִטְנְךָ֜ וּבִפְרִ֧י בְהֶמְתְּךָ֛ וּבִפְרִ֥י אַדְמָתְךָ֖ לְטֹבָ֑ה",
-              "english": "And the L-rd your G-d will increase you in all the work of your hands, in the fruit of your womb, and in the fruit of your beasts, and in the fruit of your land for the good."
+              "hebrew": "וְהוֹתִֽירְךָ֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ בְּכֹ֣ל&thinsp;׀ מַעֲשֵׂ֣ה יָדֶ֗ךָ",
+              "english": "And the L-rd your G-d will increase you in all the work of your hands,"
+            },
+            {
+              "hebrew": "בִּפְרִ֨י בִטְנְךָ֜ וּבִפְרִ֧י בְהֶמְתְּךָ֛ וּבִפְרִ֥י אַדְמָתְךָ֖ לְטֹבָ֑ה",
+              "english": "in the fruit of your womb, and in the fruit of your beasts, and in the fruit of your land for the good."
             },
             {
               "hebrew": "כִּ֣י&thinsp;׀ יָשׁ֣וּב יְהֹוָ֗ה לָשׂ֤וּשׂ עָלֶ֙יךָ֙ לְט֔וֹב כַּאֲשֶׁר־שָׂ֖שׂ עַל־אֲבֹתֶֽיךָ׃",
@@ -83913,8 +83973,12 @@
         "16": {
           "pairs": [
             {
-              "hebrew": "אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו וְלִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו",
-              "english": "What I command you this day, to love the L-rd your G-d, to walk in His ways, and to keep His mitzvoth, and His statutes, and His judgments [(This is \"the good\")],"
+              "hebrew": "אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו",
+              "english": "What I command you this day, to love the L-rd your G-d, to walk in His ways,"
+            },
+            {
+              "hebrew": "וְלִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו",
+              "english": "and to keep His mitzvoth, and His statutes, and His judgments [(This is \"the good\")],"
             },
             {
               "hebrew": "וְחָיִ֣יתָ וְרָבִ֔יתָ",
@@ -84308,12 +84372,12 @@
         "21": {
           "pairs": [
             {
-              "hebrew": "וְ֠הָיָ֠ה כִּי־תִמְצֶ֨אןָ אֹת֜וֹ רָע֣וֹת רַבּוֹת֮ וְצָרוֹת֒",
-              "english": "And it shall be, when many ills and afflictions befall them,"
+              "hebrew": "וְ֠הָיָ֠ה כִּי־תִמְצֶ֨אןָ אֹת֜וֹ רָע֣וֹת רַבּוֹת֮ וְצָרוֹת֒ וְ֠עָנְתָ֠ה הַשִּׁירָ֨ה הַזֹּ֤את לְפָנָיו֙ לְעֵ֔ד",
+              "english": "And it shall be, when many ills and afflictions befall them, that this song shall testify before them as a witness [that I forewarned them in it (the song) of all that would befall them],"
             },
             {
-              "hebrew": "וְ֠עָנְתָ֠ה הַשִּׁירָ֨ה הַזֹּ֤את לְפָנָיו֙ לְעֵ֔ד כִּ֛י לֹ֥א תִשָּׁכַ֖ח מִפִּ֣י זַרְע֑וֹ",
-              "english": "that this song shall testify before them as a witness [that I forewarned them in it (the song) of all that would befall them], for it will not be forgotten from the mouth of their seed [(an assurance to Israel that the Torah will never be entirely forgotten by their seed)]."
+              "hebrew": "כִּ֛י לֹ֥א תִשָּׁכַ֖ח מִפִּ֣י זַרְע֑וֹ",
+              "english": "for it will not be forgotten from the mouth of their seed [(an assurance to Israel that the Torah will never be entirely forgotten by their seed)]."
             },
             {
               "hebrew": "כִּ֧י יָדַ֣עְתִּי אֶת־יִצְר֗וֹ אֲשֶׁ֨ר ה֤וּא עֹשֶׂה֙ הַיּ֔וֹם בְּטֶ֣רֶם אֲבִיאֶ֔נּוּ אֶל־הָאָ֖רֶץ אֲשֶׁ֥ר נִשְׁבַּֽעְתִּי׃",
