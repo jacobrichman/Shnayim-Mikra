@@ -46534,8 +46534,12 @@
         "31": {
           "pairs": [
             {
-              "hebrew": "וְכִֽי־יִרְאֶ֨ה הַכֹּהֵ֜ן אֶת־נֶ֣גַע הַנֶּ֗תֶק וְהִנֵּ֤ה אֵין־מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־הָע֔וֹר וְשֵׂעָ֥ר שָׁחֹ֖ר אֵ֣ין בּ֑וֹ",
-              "english": "And if the Cohein see the nethek plague-spot, and, behold, its appearance is not deeper than the skin, and there is no black hair in it,"
+              "hebrew": "וְכִֽי־יִרְאֶ֨ה הַכֹּהֵ֜ן אֶת־נֶ֣גַע הַנֶּ֗תֶק וְהִנֵּ֤ה אֵין־מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־הָע֔וֹר",
+              "english": "And if the Cohein see the nethek plague-spot, and, behold, its appearance is not deeper than the skin,"
+            },
+            {
+              "hebrew": "וְשֵׂעָ֥ר שָׁחֹ֖ר אֵ֣ין בּ֑וֹ",
+              "english": "and there is no black hair in it,"
             },
             {
               "hebrew": "וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־נֶ֥גַע הַנֶּ֖תֶק שִׁבְעַ֥ת יָמִֽים׃",
@@ -46577,8 +46581,12 @@
         "34": {
           "pairs": [
             {
-              "hebrew": "וְרָאָה֩ הַכֹּהֵ֨ן אֶת־הַנֶּ֜תֶק בַּיּ֣וֹם הַשְּׁבִיעִ֗י וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙תֶק֙ בָּע֔וֹר וּמַרְאֵ֕הוּ אֵינֶ֥נּוּ עָמֹ֖ק מִן־הָע֑וֹר",
-              "english": "And the Cohein shall see the nethek on the seventh day. And, behold, if the nethek has not spread in the skin, and its appearance is not deeper than the skin,"
+              "hebrew": "וְרָאָה֩ הַכֹּהֵ֨ן אֶת־הַנֶּ֜תֶק בַּיּ֣וֹם הַשְּׁבִיעִ֗י",
+              "english": "And the Cohein shall see the nethek on the seventh day."
+            },
+            {
+              "hebrew": "וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙תֶק֙ בָּע֔וֹר וּמַרְאֵ֕הוּ אֵינֶ֥נּוּ עָמֹ֖ק מִן־הָע֑וֹר",
+              "english": "And, behold, if the nethek has not spread in the skin, and its appearance is not deeper than the skin,"
             },
             {
               "hebrew": "וְטִהַ֤ר אֹתוֹ֙ הַכֹּהֵ֔ן וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃",
@@ -46776,8 +46784,12 @@
               "english": "And it shall be, if the plague-spot is deep green or deep red in the garment or in the skin, or in the warp or in the woof, or in any article of skin,"
             },
             {
-              "hebrew": "נֶ֥גַע צָרַ֖עַת ה֑וּא וְהׇרְאָ֖ה אֶת־הַכֹּהֵֽן׃",
-              "english": "it is a plague-spot of leprosy, and it shall be shown to the Cohein."
+              "hebrew": "נֶ֥גַע צָרַ֖עַת ה֑וּא",
+              "english": "it is a plague-spot of leprosy,"
+            },
+            {
+              "hebrew": "וְהׇרְאָ֖ה אֶת־הַכֹּהֵֽן׃",
+              "english": "and it shall be shown to the Cohein."
             }
           ],
           "model": "Instinct"
@@ -46819,8 +46831,12 @@
               "english": "And he shall burn the garment, or the warp, or the woof, of wool or of linen, or any article of skin in which the plague-spot will be;"
             },
             {
-              "hebrew": "כִּֽי־צָרַ֤עַת מַמְאֶ֙רֶת֙ הִ֔וא בָּאֵ֖שׁ תִּשָּׂרֵֽף׃",
-              "english": "for it is \"pricking\" leprosy — it shall be burned in fire."
+              "hebrew": "כִּֽי־צָרַ֤עַת מַמְאֶ֙רֶת֙ הִ֔וא",
+              "english": "for it is \"pricking\" leprosy"
+            },
+            {
+              "hebrew": "בָּאֵ֖שׁ תִּשָּׂרֵֽף׃",
+              "english": "— it shall be burned in fire."
             }
           ],
           "model": "Instinct"
@@ -46884,8 +46900,12 @@
         "57": {
           "pairs": [
             {
-              "hebrew": "וְאִם־תֵּרָאֶ֨ה ע֜וֹד בַּ֠בֶּ֠גֶד אֽוֹ־בַשְּׁתִ֤י אֽוֹ־בָעֵ֙רֶב֙ א֣וֹ בְכׇל־כְּלִי־ע֔וֹר פֹּרַ֖חַת הִ֑וא",
-              "english": "And if it be seen again in the garment, or in the warp, or in the woof, or in any article of skin, it is porachath [something whose \"blossoming\" recurs]."
+              "hebrew": "וְאִם־תֵּרָאֶ֨ה ע֜וֹד בַּ֠בֶּ֠גֶד אֽוֹ־בַשְּׁתִ֤י אֽוֹ־בָעֵ֙רֶב֙ א֣וֹ בְכׇל־כְּלִי־ע֔וֹר",
+              "english": "And if it be seen again in the garment, or in the warp, or in the woof, or in any article of skin,"
+            },
+            {
+              "hebrew": "פֹּרַ֖חַת הִ֑וא",
+              "english": "it is porachath [something whose \"blossoming\" recurs]."
             },
             {
               "hebrew": "בָּאֵ֣שׁ תִּשְׂרְפֶ֔נּוּ אֵ֥ת אֲשֶׁר־בּ֖וֹ הַנָּֽגַע׃",
@@ -47020,8 +47040,12 @@
               "english": "And the one to be cleansed shall wash his clothes, and he shall shave all of his hair, and he shall bathe in water, and he shall be clean;"
             },
             {
-              "hebrew": "וְאַחַ֖ר יָב֣וֹא אֶל־הַֽמַּחֲנֶ֑ה וְיָשַׁ֛ב מִח֥וּץ לְאׇהֳל֖וֹ שִׁבְעַ֥ת יָמִֽים׃",
-              "english": "and he shall come into the camp. And he shall sit outside his tent [(i.e., he shall abstain from marital relations)] for seven days."
+              "hebrew": "וְאַחַ֖ר יָב֣וֹא אֶל־הַֽמַּחֲנֶ֑ה",
+              "english": "and he shall come into the camp."
+            },
+            {
+              "hebrew": "וְיָשַׁ֛ב מִח֥וּץ לְאׇהֳל֖וֹ שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "And he shall sit outside his tent [(i.e., he shall abstain from marital relations)] for seven days."
             }
           ],
           "model": "Instinct"
@@ -47029,8 +47053,12 @@
         "9": {
           "pairs": [
             {
-              "hebrew": "וְהָיָה֩ בַיּ֨וֹם הַשְּׁבִיעִ֜י יְגַלַּ֣ח אֶת־כׇּל־שְׂעָר֗וֹ אֶת־רֹאשׁ֤וֹ וְאֶת־זְקָנוֹ֙ וְאֵת֙ גַּבֹּ֣ת עֵינָ֔יו וְאֶת־כׇּל־שְׂעָר֖וֹ יְגַלֵּ֑חַ",
-              "english": "And it shall be on the seventh day that he shall shave all of his hair. His head, his beard, and the brows of his eyes — all of his [visible, \"gathered\"] hair shall he shave."
+              "hebrew": "וְהָיָה֩ בַיּ֨וֹם הַשְּׁבִיעִ֜י יְגַלַּ֣ח אֶת־כׇּל־שְׂעָר֗וֹ",
+              "english": "And it shall be on the seventh day that he shall shave all of his hair."
+            },
+            {
+              "hebrew": "אֶת־רֹאשׁ֤וֹ וְאֶת־זְקָנוֹ֙ וְאֵת֙ גַּבֹּ֣ת עֵינָ֔יו וְאֶת־כׇּל־שְׂעָר֖וֹ יְגַלֵּ֑חַ",
+              "english": "His head, his beard, and the brows of his eyes — all of his [visible, \"gathered\"] hair shall he shave."
             },
             {
               "hebrew": "וְכִבֶּ֣ס אֶת־בְּגָדָ֗יו וְרָחַ֧ץ אֶת־בְּשָׂר֛וֹ בַּמַּ֖יִם וְטָהֵֽר׃",
@@ -47046,8 +47074,12 @@
               "english": "And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb of the first year, without blemish [for a sin-offering],"
             },
             {
-              "hebrew": "וּשְׁלֹשָׁ֣ה עֶשְׂרֹנִ֗ים סֹ֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן וְלֹ֥ג אֶחָ֖ד שָֽׁמֶן׃",
-              "english": "and three tenth parts of (an ephah of) fine flour for a meal-offering, mixed with oil, [for the libations of these three lambs], and one log of oil [for the seven sprinklings and the applications on ear and thumbs]."
+              "hebrew": "וּשְׁלֹשָׁ֣ה עֶשְׂרֹנִ֗ים סֹ֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן",
+              "english": "and three tenth parts of (an ephah of) fine flour for a meal-offering, mixed with oil, [for the libations of these three lambs],"
+            },
+            {
+              "hebrew": "וְלֹ֥ג אֶחָ֖ד שָֽׁמֶן׃",
+              "english": "and one log of oil [for the seven sprinklings and the applications on ear and thumbs]."
             }
           ],
           "model": "Instinct"
@@ -47404,8 +47436,12 @@
               "english": "And the Cohein shall command, and they shall empty out the house before the Cohein comes in to see the plague-spot,"
             },
             {
-              "hebrew": "וְלֹ֥א יִטְמָ֖א כׇּל־אֲשֶׁ֣ר בַּבָּ֑יִת וְאַ֥חַר כֵּ֛ן יָבֹ֥א הַכֹּהֵ֖ן לִרְא֥וֹת אֶת־הַבָּֽיִת׃",
-              "english": "so that there not be made unclean all that is in the house [(Scripture being solicitous even of earthen vessels, which if unclean, cannot be cleansed in a mikveh (but must be broken)]; and then the Cohein shall come to see the house."
+              "hebrew": "וְלֹ֥א יִטְמָ֖א כׇּל־אֲשֶׁ֣ר בַּבָּ֑יִת",
+              "english": "so that there not be made unclean all that is in the house [(Scripture being solicitous even of earthen vessels, which if unclean, cannot be cleansed in a mikveh (but must be broken)];"
+            },
+            {
+              "hebrew": "וְאַ֥חַר כֵּ֛ן יָבֹ֥א הַכֹּהֵ֖ן לִרְא֥וֹת אֶת־הַבָּֽיִת׃",
+              "english": "and then the Cohein shall come to see the house."
             }
           ],
           "model": "Instinct"
@@ -47557,11 +47593,15 @@
           "pairs": [
             {
               "hebrew": "וְאִם־בֹּ֨א יָבֹ֜א הַכֹּהֵ֗ן וְרָאָה֙ וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙גַע֙ בַּבַּ֔יִת אַחֲרֵ֖י הִטֹּ֣חַ אֶת־הַבָּ֑יִת",
-              "english": "[See 44] And if the Cohein comes [at the end of the second week], and he sees, and, behold, the plague-spot has not spread in the house, [he removes, scrapes, and plasters], and after plastering the house, the"
+              "english": "[See 44] And if the Cohein comes [at the end of the second week], and he sees, and, behold, the plague-spot has not spread in the house, [he removes, scrapes, and plasters], and after plastering the house,"
             },
             {
-              "hebrew": "וְטִהַ֤ר הַכֹּהֵן֙ אֶת־הַבַּ֔יִת כִּ֥י נִרְפָּ֖א הַנָּֽגַע׃",
-              "english": "Cohein shall declare the house clean [if the plague-spot has not reappeared at the end of the week], for the plague spot has been healed."
+              "hebrew": "וְטִהַ֤ר הַכֹּהֵן֙ אֶת־הַבַּ֔יִת",
+              "english": "the Cohein shall declare the house clean [if the plague-spot has not reappeared at the end of the week],"
+            },
+            {
+              "hebrew": "כִּ֥י נִרְפָּ֖א הַנָּֽגַע׃",
+              "english": "for the plague spot has been healed."
             }
           ],
           "model": "Instinct"
@@ -47873,8 +47913,12 @@
               "english": "And on the eighth day, he shall take for himself two turtle-doves or two young pigeons,"
             },
             {
-              "hebrew": "וּבָ֣א&thinsp;׀ לִפְנֵ֣י יְהֹוָ֗ה אֶל־פֶּ֙תַח֙ אֹ֣הֶל מוֹעֵ֔ד וּנְתָנָ֖ם אֶל־הַכֹּהֵֽן׃",
-              "english": "and he shall come before the L-rd to the door of the tent of meeting, and he shall give them to the Cohein."
+              "hebrew": "וּבָ֣א&thinsp;׀ לִפְנֵ֣י יְהֹוָ֗ה אֶל־פֶּ֙תַח֙ אֹ֣הֶל מוֹעֵ֔ד",
+              "english": "and he shall come before the L-rd to the door of the tent of meeting,"
+            },
+            {
+              "hebrew": "וּנְתָנָ֖ם אֶל־הַכֹּהֵֽן׃",
+              "english": "and he shall give them to the Cohein."
             }
           ],
           "model": "Instinct"
@@ -48003,8 +48047,12 @@
         "24": {
           "pairs": [
             {
-              "hebrew": "וְאִ֡ם שָׁכֹב֩ יִשְׁכַּ֨ב אִ֜ישׁ אֹתָ֗הּ וּתְהִ֤י נִדָּתָהּ֙ עָלָ֔יו וְטָמֵ֖א שִׁבְעַ֣ת יָמִ֑ים",
-              "english": "And if a man lie with her, then her niddah state shall be upon him [(Just as she renders men and earthenware vessels unclean, so does he)], and he shall be unclean seven days [(even though he may have lived with her only in the middle of her (seven-day) niddah state)],"
+              "hebrew": "וְאִ֡ם שָׁכֹב֩ יִשְׁכַּ֨ב אִ֜ישׁ אֹתָ֗הּ וּתְהִ֤י נִדָּתָהּ֙ עָלָ֔יו",
+              "english": "And if a man lie with her, then her niddah state shall be upon him [(Just as she renders men and earthenware vessels unclean, so does he)],"
+            },
+            {
+              "hebrew": "וְטָמֵ֖א שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "and he shall be unclean seven days [(even though he may have lived with her only in the middle of her (seven-day) niddah state)],"
             },
             {
               "hebrew": "וְכׇל־הַמִּשְׁכָּ֛ב אֲשֶׁר־יִשְׁכַּ֥ב עָלָ֖יו יִטְמָֽא׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
@@ -48016,8 +48064,12 @@
         "25": {
           "pairs": [
             {
-              "hebrew": "וְאִשָּׁ֡ה כִּֽי־יָזוּב֩ ז֨וֹב דָּמָ֜הּ יָמִ֣ים רַבִּ֗ים בְּלֹא֙ עֶת־נִדָּתָ֔הּ א֥וֹ כִֽי־תָז֖וּב עַל־נִדָּתָ֑הּ",
-              "english": "And a woman, if the flow of her blood flows many [i.e., three] days, not in the time of her [seven-day] niddah state, [but right after those days], or if she flows [these three days] above her niddah state [i.e., with one day intervening between the new flow and her (preceding) niddah state],"
+              "hebrew": "וְאִשָּׁ֡ה כִּֽי־יָזוּב֩ ז֨וֹב דָּמָ֜הּ יָמִ֣ים רַבִּ֗ים בְּלֹא֙ עֶת־נִדָּתָ֔הּ",
+              "english": "And a woman, if the flow of her blood flows many [i.e., three] days, not in the time of her [seven-day] niddah state, [but right after those days],"
+            },
+            {
+              "hebrew": "א֥וֹ כִֽי־תָז֖וּב עַל־נִדָּתָ֑הּ",
+              "english": "or if she flows [these three days] above her niddah state [i.e., with one day intervening between the new flow and her (preceding) niddah state],"
             },
             {
               "hebrew": "כׇּל־יְמֵ֞י ז֣וֹב טֻמְאָתָ֗הּ כִּימֵ֧י נִדָּתָ֛הּ תִּהְיֶ֖ה טְמֵאָ֥ה הִֽוא׃",
@@ -48260,12 +48312,12 @@
         "10": {
           "pairs": [
             {
-              "hebrew": "וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגּוֹרָל֙ לַעֲזָאזֵ֔ל",
-              "english": "And the he-goat on which the lot came up for Azazel"
+              "hebrew": "וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגּוֹרָל֙ לַעֲזָאזֵ֔ל יׇֽעֳמַד־חַ֛י לִפְנֵ֥י יְהֹוָ֖ה",
+              "english": "And the he-goat on which the lot came up for Azazel shall be stood living before the L-rd [(whence it is derived that it is sent away for death)]"
             },
             {
-              "hebrew": "יׇֽעֳמַד־חַ֛י לִפְנֵ֥י יְהֹוָ֖ה לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹת֛וֹ לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה׃",
-              "english": "shall be stood living before the L-rd [(whence it is derived that it is sent away for death)] to make atonement over it [i.e., to confess, viz. 21] to send it to Azazel to the desert."
+              "hebrew": "לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹת֛וֹ לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה׃",
+              "english": "to make atonement over it [i.e., to confess, viz. 21] to send it to Azazel to the desert."
             }
           ],
           "model": "Instinct"
@@ -48290,8 +48342,12 @@
               "english": "And he shall take a full coal-pan of coals of fire from off the [outer] altar before the L-rd [i.e., from the side which faces the door (of the mishkan), the west],"
             },
             {
-              "hebrew": "וּמְלֹ֣א חׇפְנָ֔יו קְטֹ֥רֶת סַמִּ֖ים דַּקָּ֑ה וְהֵבִ֖יא מִבֵּ֥ית לַפָּרֹֽכֶת׃",
-              "english": "and his full handfuls of incense of spices ground [especially] small, and he shall bring them within the parocheth."
+              "hebrew": "וּמְלֹ֣א חׇפְנָ֔יו קְטֹ֥רֶת סַמִּ֖ים דַּקָּ֑ה",
+              "english": "and his full handfuls of incense of spices ground [especially] small,"
+            },
+            {
+              "hebrew": "וְהֵבִ֖יא מִבֵּ֥ית לַפָּרֹֽכֶת׃",
+              "english": "and he shall bring them within the parocheth."
             }
           ],
           "model": "Instinct"
@@ -48329,8 +48385,12 @@
               "english": "And he shall slaughter the he-goat of the sin-offering which is the people's [(What the bullock atones for for the Cohanim, the he-goat \"for the L-rd\" atones for, for Israel)], and he shall bring its blood inside the parocheth."
             },
             {
-              "hebrew": "וְעָשָׂ֣ה אֶת־דָּמ֗וֹ כַּאֲשֶׁ֤ר עָשָׂה֙ לְדַ֣ם הַפָּ֔ר וְהִזָּ֥ה אֹת֛וֹ עַל־הַכַּפֹּ֖רֶת וְלִפְנֵ֥י הַכַּפֹּֽרֶת׃",
-              "english": "And he shall do with its blood as he did with the blood of the bullock [i.e., \"one above and seven below\"]; he shall sprinkle it on the kaporeth and before the kaporeth."
+              "hebrew": "וְעָשָׂ֣ה אֶת־דָּמ֗וֹ כַּאֲשֶׁ֤ר עָשָׂה֙ לְדַ֣ם הַפָּ֔ר",
+              "english": "And he shall do with its blood as he did with the blood of the bullock [i.e., \"one above and seven below\"];"
+            },
+            {
+              "hebrew": "וְהִזָּ֥ה אֹת֛וֹ עַל־הַכַּפֹּ֖רֶת וְלִפְנֵ֥י הַכַּפֹּֽרֶת׃",
+              "english": "he shall sprinkle it on the kaporeth and before the kaporeth."
             }
           ],
           "model": "Instinct"
@@ -48342,8 +48402,12 @@
               "english": "And he shall make atonement for the holy place from the uncleanlinesses of the children of Israel [for entering the sanctuary in a state of uncleanliness] and for their offenses [(willful entry in a state of uncleanliness)] for all of their transgressions [(unwitting entry in a state of uncleanliness without subsequent knowledge thereof)]."
             },
             {
-              "hebrew": "וְכֵ֤ן יַעֲשֶׂה֙ לְאֹ֣הֶל מוֹעֵ֔ד הַשֹּׁכֵ֣ן אִתָּ֔ם בְּת֖וֹךְ טֻמְאֹתָֽם׃",
-              "english": "And so shall he do for the tent of meeting [(Just as he sprinkles of both within, one above and seven below, so he sprinkles of both on the parocheth outside, one above and seven below)], who dwells with them in the midst of their uncleanlinesses [(Though they be unclean, the Shechinah is with them)]"
+              "hebrew": "וְכֵ֤ן יַעֲשֶׂה֙ לְאֹ֣הֶל מוֹעֵ֔ד",
+              "english": "And so shall he do for the tent of meeting [(Just as he sprinkles of both within, one above and seven below, so he sprinkles of both on the parocheth outside, one above and seven below)],"
+            },
+            {
+              "hebrew": "הַשֹּׁכֵ֣ן אִתָּ֔ם בְּת֖וֹךְ טֻמְאֹתָֽם׃",
+              "english": "who dwells with them in the midst of their uncleanlinesses [(Though they be unclean, the Shechinah is with them)]"
             }
           ],
           "model": "Instinct"
@@ -48368,8 +48432,12 @@
               "english": "And he shall go out to the [golden] altar which is before the L-rd [after having stood inwards of the altar to sprinkle on the parocheth], and he shall make atonement on it —"
             },
             {
-              "hebrew": "וְלָקַ֞ח מִדַּ֤ם הַפָּר֙ וּמִדַּ֣ם הַשָּׂעִ֔יר וְנָתַ֛ן עַל־קַרְנ֥וֹת הַמִּזְבֵּ֖חַ סָבִֽיב׃",
-              "english": "he shall take from the blood of the bullock and from the blood of the he-goat [intermixed] and he shall place it on the horns of the altar roundabout [beginning with the northeast corner]."
+              "hebrew": "וְלָקַ֞ח מִדַּ֤ם הַפָּר֙ וּמִדַּ֣ם הַשָּׂעִ֔יר",
+              "english": "he shall take from the blood of the bullock and from the blood of the he-goat [intermixed]"
+            },
+            {
+              "hebrew": "וְנָתַ֛ן עַל־קַרְנ֥וֹת הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+              "english": "and he shall place it on the horns of the altar roundabout [beginning with the northeast corner]."
             }
           ],
           "model": "Instinct"
@@ -48450,8 +48518,12 @@
               "english": "[This verse is understood as following verse 22.] And he shall bathe his flesh in water in a holy place [(sanctified with the sanctity of the azarah. It, and the other four Yom Kippur immersions were on the roof of the beth haparvah. The first (daily immersion) was in an unsanctified area.)] And he shall put on his [eight regular] garments,"
             },
             {
-              "hebrew": "וְיָצָ֗א וְעָשָׂ֤ה אֶת־עֹֽלָתוֹ֙ וְאֶת־עֹלַ֣ת הָעָ֔ם וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד הָעָֽם׃",
-              "english": "and he shall go out [from the sanctuary to the court, where the burnt-offering altar was situated], and he shall offer up his burnt-offering [(3)] and the burnt-offering of the people [(5)], and he shall make atonement for himself and for the people."
+              "hebrew": "וְיָצָ֗א וְעָשָׂ֤ה אֶת־עֹֽלָתוֹ֙ וְאֶת־עֹלַ֣ת הָעָ֔ם",
+              "english": "and he shall go out [from the sanctuary to the court, where the burnt-offering altar was situated], and he shall offer up his burnt-offering [(3)] and the burnt-offering of the people [(5)],"
+            },
+            {
+              "hebrew": "וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד הָעָֽם׃",
+              "english": "and he shall make atonement for himself and for the people."
             }
           ],
           "model": "Instinct"
@@ -48485,8 +48557,12 @@
         "27": {
           "pairs": [
             {
-              "hebrew": "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת&thinsp;׀ שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ יוֹצִ֖יא אֶל־מִח֣וּץ לַֽמַּחֲנֶ֑ה",
-              "english": "And the bullock of the sin-offering and the goat of the sin-offering, whose blood was brought [into the sanctuary and into the holy of holies] to make atonement in the holy place, he shall take outside the camp,"
+              "hebrew": "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת&thinsp;׀ שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ",
+              "english": "And the bullock of the sin-offering and the goat of the sin-offering, whose blood was brought [into the sanctuary and into the holy of holies] to make atonement in the holy place,"
+            },
+            {
+              "hebrew": "יוֹצִ֖יא אֶל־מִח֣וּץ לַֽמַּחֲנֶ֑ה",
+              "english": "he shall take outside the camp,"
             },
             {
               "hebrew": "וְשָׂרְפ֣וּ בָאֵ֔שׁ אֶת־עֹרֹתָ֥ם וְאֶת־בְּשָׂרָ֖ם וְאֶת־פִּרְשָֽׁם׃",
@@ -48724,8 +48800,12 @@
               "english": "And a man from the house of Israel and from the stranger that dwells in their midst that shall eat any blood [(not only that of kodshim)] —"
             },
             {
-              "hebrew": "וְנָתַתִּ֣י פָנַ֗י בַּנֶּ֙פֶשׁ֙ הָאֹכֶ֣לֶת אֶת־הַדָּ֔ם וְהִכְרַתִּ֥י אֹתָ֖הּ מִקֶּ֥רֶב עַמָּֽהּ׃",
-              "english": "I shall direct My regard to that soul which eats the blood, and I shall cut it off from the midst of its people."
+              "hebrew": "וְנָתַתִּ֣י פָנַ֗י בַּנֶּ֙פֶשׁ֙ הָאֹכֶ֣לֶת אֶת־הַדָּ֔ם",
+              "english": "I shall direct My regard to that soul which eats the blood,"
+            },
+            {
+              "hebrew": "וְהִכְרַתִּ֥י אֹתָ֖הּ מִקֶּ֥רֶב עַמָּֽהּ׃",
+              "english": "and I shall cut it off from the midst of its people."
             }
           ],
           "model": "Instinct"
@@ -48763,8 +48843,12 @@
         "13": {
           "pairs": [
             {
-              "hebrew": "וְאִ֨ישׁ אִ֜ישׁ מִבְּנֵ֣י יִשְׂרָאֵ֗ל וּמִן־הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֨ר יָצ֜וּד צֵ֥יד חַיָּ֛ה אוֹ־ע֖וֹף אֲשֶׁ֣ר יֵאָכֵ֑ל",
-              "english": "And a man of the children of Israel and of the stranger that dwells in their midst, that shall hunt a hunting [(even if not actually \"hunted\")] of animal or bird that may be eaten [(unclean animals are excluded from what follows)],"
+              "hebrew": "וְאִ֨ישׁ אִ֜ישׁ מִבְּנֵ֣י יִשְׂרָאֵ֗ל וּמִן־הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם",
+              "english": "And a man of the children of Israel and of the stranger that dwells in their midst,"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר יָצ֜וּד צֵ֥יד חַיָּ֛ה אוֹ־ע֖וֹף אֲשֶׁ֣ר יֵאָכֵ֑ל",
+              "english": "that shall hunt a hunting [(even if not actually \"hunted\")] of animal or bird that may be eaten [(unclean animals are excluded from what follows)],"
             },
             {
               "hebrew": "וְשָׁפַךְ֙ אֶת־דָּמ֔וֹ וְכִסָּ֖הוּ בֶּעָפָֽר׃",
@@ -48797,8 +48881,12 @@
               "english": "And every soul that eats neveilah (carcass) or treifah (what is \"torn\") [(Scripture speaks here of the neveilah of a clean fowl)], whether citizen or stranger,"
             },
             {
-              "hebrew": "וְכִבֶּ֨ס בְּגָדָ֜יו וְרָחַ֥ץ בַּמַּ֛יִם וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃",
-              "english": "he shall wash his clothes and bathe in water, and he shall be unclean until the evening, and then he shall be clean."
+              "hebrew": "וְכִבֶּ֨ס בְּגָדָ֜יו וְרָחַ֥ץ בַּמַּ֛יִם",
+              "english": "he shall wash his clothes and bathe in water,"
+            },
+            {
+              "hebrew": "וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃",
+              "english": "and he shall be unclean until the evening, and then he shall be clean."
             }
           ],
           "model": "Instinct"
@@ -49206,8 +49294,12 @@
         "30": {
           "pairs": [
             {
-              "hebrew": "וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י לְבִלְתִּ֨י עֲשׂ֜וֹת מֵחֻקּ֤וֹת הַתּֽוֹעֵבֹת֙ אֲשֶׁ֣ר נַעֲשׂ֣וּ לִפְנֵיכֶ֔ם וְלֹ֥א תִֽטַּמְּא֖וּ בָּהֶ֑ם",
-              "english": "And you shall keep My keeping [(beth-din being exhorted thereto)], not to do in the manner of the abominations that were done before you, and you shall not become unclean in them;"
+              "hebrew": "וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י לְבִלְתִּ֨י עֲשׂ֜וֹת מֵחֻקּ֤וֹת הַתּֽוֹעֵבֹת֙ אֲשֶׁ֣ר נַעֲשׂ֣וּ לִפְנֵיכֶ֔ם",
+              "english": "And you shall keep My keeping [(beth-din being exhorted thereto)], not to do in the manner of the abominations that were done before you,"
+            },
+            {
+              "hebrew": "וְלֹ֥א תִֽטַּמְּא֖וּ בָּהֶ֑ם",
+              "english": "and you shall not become unclean in them;"
             },
             {
               "hebrew": "אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;{פ}",
@@ -49488,8 +49580,12 @@
         "20": {
           "pairs": [
             {
-              "hebrew": "וְ֠אִ֠ישׁ כִּֽי־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה שִׁכְבַת־זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהׇפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖הֿ לֹ֣א נִתַּן־לָ֑הּ",
-              "english": "And a man, if he lie with a woman, a lying of seed, and she be a [Canaanite] maidservant [half bondswoman-half freewoman]; bound [i.e., betrothed] to a man [a Hebrew bondsman], and she has not been redeemed [with money], or freedom has not been given to her [by writ],"
+              "hebrew": "וְ֠אִ֠ישׁ כִּֽי־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה שִׁכְבַת־זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ",
+              "english": "And a man, if he lie with a woman, a lying of seed, and she be a [Canaanite] maidservant [half bondswoman-half freewoman]; bound [i.e., betrothed] to a man [a Hebrew bondsman],"
+            },
+            {
+              "hebrew": "וְהׇפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖הֿ לֹ֣א נִתַּן־לָ֑הּ",
+              "english": "and she has not been redeemed [with money], or freedom has not been given to her [by writ],"
             },
             {
               "hebrew": "בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי־לֹ֥א חֻפָּֽשָׁה׃",
@@ -49527,8 +49623,12 @@
         "23": {
           "pairs": [
             {
-              "hebrew": "וְכִי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ וּנְטַעְתֶּם֙ כׇּל־עֵ֣ץ מַאֲכָ֔ל וַעֲרַלְתֶּ֥ם עׇרְלָת֖וֹ אֶת־פִּרְי֑וֹ",
-              "english": "And when you come to the land and you plant every fruit tree, then you shall count its fruit as forbidden."
+              "hebrew": "וְכִי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ וּנְטַעְתֶּם֙ כׇּל־עֵ֣ץ מַאֲכָ֔ל",
+              "english": "And when you come to the land and you plant every fruit tree,"
+            },
+            {
+              "hebrew": "וַעֲרַלְתֶּ֥ם עׇרְלָת֖וֹ אֶת־פִּרְי֑וֹ",
+              "english": "then you shall count its fruit as forbidden."
             },
             {
               "hebrew": "שָׁלֹ֣שׁ שָׁנִ֗ים יִהְיֶ֥ה לָכֶ֛ם עֲרֵלִ֖ים לֹ֥א יֵאָכֵֽל׃",
@@ -49762,8 +49862,12 @@
               "english": "And I shall direct My regard to that man, and I will cut him off, [(but not an entire congregation who serve the Molech)] from the midst of his people,"
             },
             {
-              "hebrew": "כִּ֤י מִזַּרְעוֹ֙ נָתַ֣ן לַמֹּ֔לֶךְ לְמַ֗עַן טַמֵּא֙ אֶת־מִקְדָּשִׁ֔י וּלְחַלֵּ֖ל אֶת־שֵׁ֥ם קׇדְשִֽׁי׃",
-              "english": "for of his seed [(\"of\") including his grandson, etc.] he has given to the Molech to defile My holy ones [the congregation of Israel] and to profane My holy name."
+              "hebrew": "כִּ֤י מִזַּרְעוֹ֙ נָתַ֣ן לַמֹּ֔לֶךְ",
+              "english": "for of his seed [(\"of\") including his grandson, etc.] he has given to the Molech"
+            },
+            {
+              "hebrew": "לְמַ֗עַן טַמֵּא֙ אֶת־מִקְדָּשִׁ֔י וּלְחַלֵּ֖ל אֶת־שֵׁ֥ם קׇדְשִֽׁי׃",
+              "english": "to defile My holy ones [the congregation of Israel] and to profane My holy name."
             }
           ],
           "model": "Instinct"
@@ -49801,8 +49905,12 @@
               "english": "And the soul that turns to the ovoth and to the yidonim to stray after them —"
             },
             {
-              "hebrew": "וְנָתַתִּ֤י אֶת־פָּנַי֙ בַּנֶּ֣פֶשׁ הַהִ֔וא וְהִכְרַתִּ֥י אֹת֖וֹ מִקֶּ֥רֶב עַמּֽוֹ׃",
-              "english": "I shall set My face against that soul, and I shall cut him off from the midst of his people."
+              "hebrew": "וְנָתַתִּ֤י אֶת־פָּנַי֙ בַּנֶּ֣פֶשׁ הַהִ֔וא",
+              "english": "I shall set My face against that soul,"
+            },
+            {
+              "hebrew": "וְהִכְרַתִּ֥י אֹת֖וֹ מִקֶּ֥רֶב עַמּֽוֹ׃",
+              "english": "and I shall cut him off from the midst of his people."
             }
           ],
           "model": "Instinct"
@@ -49905,8 +50013,12 @@
               "english": "And if a man takes a woman [his mother-in-law] and her mother, it is lewdness."
             },
             {
-              "hebrew": "בָּאֵ֞שׁ יִשְׂרְפ֤וּ אֹתוֹ֙ וְאֶתְהֶ֔ן וְלֹא־תִהְיֶ֥ה זִמָּ֖ה בְּתוֹכְכֶֽם׃",
-              "english": "In fire shall they be burned, he and they, and there shall not be lewdness in your midst."
+              "hebrew": "בָּאֵ֞שׁ יִשְׂרְפ֤וּ אֹתוֹ֙ וְאֶתְהֶ֔ן",
+              "english": "In fire shall they be burned, he and they,"
+            },
+            {
+              "hebrew": "וְלֹא־תִהְיֶ֥ה זִמָּ֖ה בְּתוֹכְכֶֽם׃",
+              "english": "and there shall not be lewdness in your midst."
             }
           ],
           "model": "Instinct"
@@ -49957,8 +50069,12 @@
         "18": {
           "pairs": [
             {
-              "hebrew": "וְ֠אִ֠ישׁ אֲשֶׁר־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת־עֶרְוָתָהּ֙ אֶת־מְקֹרָ֣הּ הֶֽעֱרָ֔ה וְהִ֕וא גִּלְּתָ֖ה אֶת־מְק֣וֹר דָּמֶ֑יהָ",
-              "english": "And if a man lies with a woman in her flow and reveals her nakedness — her fount has he bared [(peripheral intercourse is hereby connoted)], and she has revealed the fount of her blood,"
+              "hebrew": "וְ֠אִ֠ישׁ אֲשֶׁר־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת־עֶרְוָתָהּ֙ אֶת־מְקֹרָ֣הּ הֶֽעֱרָ֔ה",
+              "english": "And if a man lies with a woman in her flow and reveals her nakedness — her fount has he bared [(peripheral intercourse is hereby connoted)],"
+            },
+            {
+              "hebrew": "וְהִ֕וא גִּלְּתָ֖ה אֶת־מְק֣וֹר דָּמֶ֑יהָ",
+              "english": "and she has revealed the fount of her blood,"
             },
             {
               "hebrew": "וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃",
@@ -50035,8 +50151,12 @@
         "24": {
           "pairs": [
             {
-              "hebrew": "וָאֹמַ֣ר לָכֶ֗ם אַתֶּם֮ תִּֽירְשׁ֣וּ אֶת־אַדְמָתָם֒ וַאֲנִ֞י אֶתְּנֶ֤נָּה לָכֶם֙ לָרֶ֣שֶׁת אֹתָ֔הּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ",
-              "english": "And I said to you: You shall inherit their land, and I will give it to you to inherit, a land flowing with milk and honey."
+              "hebrew": "וָאֹמַ֣ר לָכֶ֗ם אַתֶּם֮ תִּֽירְשׁ֣וּ אֶת־אַדְמָתָם֒",
+              "english": "And I said to you: You shall inherit their land,"
+            },
+            {
+              "hebrew": "וַאֲנִ֞י אֶתְּנֶ֤נָּה לָכֶם֙ לָרֶ֣שֶׁת אֹתָ֔הּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ",
+              "english": "and I will give it to you to inherit, a land flowing with milk and honey."
             },
             {
               "hebrew": "אֲנִי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁר־הִבְדַּ֥לְתִּי אֶתְכֶ֖ם מִן־הָֽעַמִּֽים׃",
@@ -50305,8 +50425,12 @@
               "english": "Speak to Aaron, saying:"
             },
             {
-              "hebrew": "אִ֣ישׁ מִֽזַּרְעֲךָ֞ לְדֹרֹתָ֗ם אֲשֶׁ֨ר יִהְיֶ֥ה בוֹ֙ מ֔וּם לֹ֣א יִקְרַ֔ב לְהַקְרִ֖יב לֶ֥חֶם אֱלֹהָֽיו׃",
-              "english": "A man of your seed, through their generations, who will have in him a blemish, shall not come near to offer up the bread [i.e., \"the food\"] of his G-d."
+              "hebrew": "אִ֣ישׁ מִֽזַּרְעֲךָ֞ לְדֹרֹתָ֗ם אֲשֶׁ֨ר יִהְיֶ֥ה בוֹ֙ מ֔וּם",
+              "english": "A man of your seed, through their generations, who will have in him a blemish,"
+            },
+            {
+              "hebrew": "לֹ֣א יִקְרַ֔ב לְהַקְרִ֖יב לֶ֥חֶם אֱלֹהָֽיו׃",
+              "english": "shall not come near to offer up the bread [i.e., \"the food\"] of his G-d."
             }
           ],
           "model": "Instinct"
@@ -50383,8 +50507,12 @@
               "english": "But to the parocheth [to sprinkle the seven sprinklings] and to the [outer] altar he shall not come near, for a blemish is in him;"
             },
             {
-              "hebrew": "וְלֹ֤א יְחַלֵּל֙ אֶת־מִקְדָּשַׁ֔י כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשָֽׁם׃",
-              "english": "and he shall not profane My holy places [(If he does serve, the service is profaned and is pasul)]; for I am the L-rd who sanctifies them."
+              "hebrew": "וְלֹ֤א יְחַלֵּל֙ אֶת־מִקְדָּשַׁ֔י",
+              "english": "and he shall not profane My holy places [(If he does serve, the service is profaned and is pasul)];"
+            },
+            {
+              "hebrew": "כִּ֛י אֲנִ֥י יְהֹוָ֖ה מְקַדְּשָֽׁם׃",
+              "english": "for I am the L-rd who sanctifies them."
             }
           ],
           "model": "Instinct"
@@ -50420,12 +50548,12 @@
         "2": {
           "pairs": [
             {
-              "hebrew": "דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו",
-              "english": "Speak to Aaron and to his sons"
+              "hebrew": "דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו וְיִנָּֽזְרוּ֙ מִקׇּדְשֵׁ֣י בְנֵֽי־יִשְׂרָאֵ֔ל וְלֹ֥א יְחַלְּל֖וּ אֶת־שֵׁ֣ם קׇדְשִׁ֑י אֲשֶׁ֨ר הֵ֧ם מַקְדִּשִׁ֛ים לִ֖י",
+              "english": "Speak to Aaron and to his sons that they separate themselves [in the days of their uncleanliness] from the holy things of the children of Israel which they [(including the Cohanim themselves)] make holy unto Me, that they not profane My holy name;"
             },
             {
-              "hebrew": "וְיִנָּֽזְרוּ֙ מִקׇּדְשֵׁ֣י בְנֵֽי־יִשְׂרָאֵ֔ל וְלֹ֥א יְחַלְּל֖וּ אֶת־שֵׁ֣ם קׇדְשִׁ֑י אֲשֶׁ֨ר הֵ֧ם מַקְדִּשִׁ֛ים לִ֖י אֲנִ֥י יְהֹוָֽה׃",
-              "english": "that they separate themselves [in the days of their uncleanliness] from the holy things of the children of Israel which they [(including the Cohanim themselves)] make holy unto Me, that they not profane My holy name; I am the L-rd."
+              "hebrew": "אֲנִ֥י יְהֹוָֽה׃",
+              "english": "I am the L-rd."
             }
           ],
           "model": "Instinct"
@@ -50563,8 +50691,12 @@
         "13": {
           "pairs": [
             {
-              "hebrew": "וּבַת־כֹּהֵן֩ כִּ֨י תִהְיֶ֜ה אַלְמָנָ֣ה וּגְרוּשָׁ֗ה וְזֶ֘רַע֮ אֵ֣ין לָהּ֒ וְשָׁבָ֞ה אֶל־בֵּ֤ית אָבִ֙יהָ֙ כִּנְעוּרֶ֔יהָ מִלֶּ֥חֶם אָבִ֖יהָ תֹּאכֵ֑ל",
-              "english": "And the daughter of a Cohein, if she be widowed or divorced [from the zar], and she have no seed [from him], then she may return to the house of her father as in her maidenhood (and) from the bread of her father may she eat."
+              "hebrew": "וּבַת־כֹּהֵן֩ כִּ֨י תִהְיֶ֜ה אַלְמָנָ֣ה וּגְרוּשָׁ֗ה וְזֶ֘רַע֮ אֵ֣ין לָהּ֒",
+              "english": "And the daughter of a Cohein, if she be widowed or divorced [from the zar], and she have no seed [from him],"
+            },
+            {
+              "hebrew": "וְשָׁבָ֞ה אֶל־בֵּ֤ית אָבִ֙יהָ֙ כִּנְעוּרֶ֔יהָ מִלֶּ֥חֶם אָבִ֖יהָ תֹּאכֵ֑ל",
+              "english": "then she may return to the house of her father as in her maidenhood (and) from the bread of her father may she eat."
             },
             {
               "hebrew": "וְכׇל־זָ֖ר לֹא־יֹ֥אכַל בּֽוֹ׃",
@@ -50632,8 +50764,12 @@
               "english": "Speak to Aaron and to his sons and to all the children of Israel, and say to them:"
             },
             {
-              "hebrew": "אִ֣ישׁ אִישׁ֩ מִבֵּ֨ית יִשְׂרָאֵ֜ל וּמִן־הַגֵּ֣ר בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יַקְרִ֤יב קׇרְבָּנוֹ֙ לְכׇל־נִדְרֵיהֶם֙ וּלְכׇל־נִדְבוֹתָ֔ם אֲשֶׁר־יַקְרִ֥יבוּ לַיהֹוָ֖ה לְעֹלָֽה׃",
-              "english": "A man of the house of Israel and of the stranger in Israel, who brings his offering, of all of their vows [\"I take it upon myself to bring, etc.\"] and of all of their gift offerings [\"This (animal) shall be, etc.\"], which they will present to the L-rd as a burnt-offering —"
+              "hebrew": "אִ֣ישׁ אִישׁ֩ מִבֵּ֨ית יִשְׂרָאֵ֜ל וּמִן־הַגֵּ֣ר בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יַקְרִ֤יב קׇרְבָּנוֹ֙ לְכׇל־נִדְרֵיהֶם֙ וּלְכׇל־נִדְבוֹתָ֔ם",
+              "english": "A man of the house of Israel and of the stranger in Israel, who brings his offering, of all of their vows [\"I take it upon myself to bring, etc.\"] and of all of their gift offerings [\"This (animal) shall be, etc.\"],"
+            },
+            {
+              "hebrew": "אֲשֶׁר־יַקְרִ֥יבוּ לַיהֹוָ֖ה לְעֹלָֽה׃",
+              "english": "which they will present to the L-rd as a burnt-offering —"
             }
           ],
           "model": "Instinct"
@@ -50680,8 +50816,12 @@
         "22": {
           "pairs": [
             {
-              "hebrew": "עַוֶּ֩רֶת֩ א֨וֹ שָׁב֜וּר אוֹ־חָר֣וּץ אֽוֹ־יַבֶּ֗לֶת א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת לֹא־תַקְרִ֥יבוּ אֵ֖לֶּה לַיהֹוָ֑ה",
-              "english": "[It shall not be] blind or broken or charutz [having an eyelid or a lip that was split or injured], or having a wart or [having] garav or yalefeth [types of skin conditions]. You shall not present these to the L-rd. [(\"You shall not present\") — three times (here, 24, 25): to exhort against their being dedicated, slaughtered, and their blood being sprinkled)]"
+              "hebrew": "עַוֶּ֩רֶת֩ א֨וֹ שָׁב֜וּר אוֹ־חָר֣וּץ אֽוֹ־יַבֶּ֗לֶת א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת",
+              "english": "[It shall not be] blind or broken or charutz [having an eyelid or a lip that was split or injured], or having a wart or [having] garav or yalefeth [types of skin conditions]."
+            },
+            {
+              "hebrew": "לֹא־תַקְרִ֥יבוּ אֵ֖לֶּה לַיהֹוָ֑ה",
+              "english": "You shall not present these to the L-rd. [(\"You shall not present\") — three times (here, 24, 25): to exhort against their being dedicated, slaughtered, and their blood being sprinkled)]"
             },
             {
               "hebrew": "וְאִשֶּׁ֗ה לֹא־תִתְּנ֥וּ מֵהֶ֛ם עַל־הַמִּזְבֵּ֖חַ לַיהֹוָֽה׃",
@@ -50723,8 +50863,12 @@
               "english": "And from the hand of a gentile [who brings an offering through a Cohein] you shall not present the bread of your G-d of all these [blemished animals],"
             },
             {
-              "hebrew": "כִּ֣י מׇשְׁחָתָ֤ם בָּהֶם֙ מ֣וּם בָּ֔ם לֹ֥א יֵרָצ֖וּ לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "for their defect is in them. There is a blemish in them; they will not be acceptable [to atone] for you."
+              "hebrew": "כִּ֣י מׇשְׁחָתָ֤ם בָּהֶם֙ מ֣וּם בָּ֔ם",
+              "english": "for their defect is in them. There is a blemish in them;"
+            },
+            {
+              "hebrew": "לֹ֥א יֵרָצ֖וּ לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "they will not be acceptable [to atone] for you."
             }
           ],
           "model": "Instinct"
@@ -51015,8 +51159,12 @@
         "14": {
           "pairs": [
             {
-              "hebrew": "וְלֶ֩חֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קׇרְבַּ֖ן אֱלֹהֵיכֶ֑ם",
-              "english": "And bread, and kali [flour made from karmel (tender ears) dried in an oven] and karmel [the ears themselves] you shall not eat until this self-same day, until you have brought the offering of your G-d;"
+              "hebrew": "וְלֶ֩חֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה",
+              "english": "And bread, and kali [flour made from karmel (tender ears) dried in an oven] and karmel [the ears themselves] you shall not eat until this self-same day,"
+            },
+            {
+              "hebrew": "עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קׇרְבַּ֖ן אֱלֹהֵיכֶ֑ם",
+              "english": "until you have brought the offering of your G-d;"
             },
             {
               "hebrew": "חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
@@ -51071,8 +51219,12 @@
               "english": "And you shall present with the bread [i.e., as requisite for the bread] seven unblemished one-year-old lambs, and one young bullock, and two rams."
             },
             {
-              "hebrew": "יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
-              "english": "They shall be a burnt-offering and their drink-offerings [as per the specifications for meal-offerings and drink-offerings (Numbers 28:12-14)], a fire-offering, a sweet savor to the L-rd."
+              "hebrew": "יִהְי֤וּ עֹלָה֙ לַֽיהֹוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם",
+              "english": "They shall be a burnt-offering and their drink-offerings [as per the specifications for meal-offerings and drink-offerings (Numbers 28:12-14)],"
+            },
+            {
+              "hebrew": "אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָֽה׃",
+              "english": "a fire-offering, a sweet savor to the L-rd."
             }
           ],
           "model": "Instinct"
@@ -51110,8 +51262,12 @@
               "english": "And you shall call out on this self-same day; a holy calling shall there be for you."
             },
             {
-              "hebrew": "כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃",
-              "english": "All work of labor you shall not do, a statute forever, in all of your habitations, throughout your generations."
+              "hebrew": "כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ",
+              "english": "All work of labor you shall not do,"
+            },
+            {
+              "hebrew": "חֻקַּ֥ת עוֹלָ֛ם בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃",
+              "english": "a statute forever, in all of your habitations, throughout your generations."
             }
           ],
           "model": "Instinct"
@@ -51119,12 +51275,20 @@
         "22": {
           "pairs": [
             {
-              "hebrew": "וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט",
-              "english": "And when you harvest the harvest of your land, do not end off the corner (peah) of your field in your reaping. [This is mentioned a second time (see 19:9) to posit liability for transgression of two negative commandments]; and the gleaning (leket) of your harvest you shall not gather."
+              "hebrew": "וּֽבְקֻצְרְכֶ֞ם אֶת־קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ",
+              "english": "And when you harvest the harvest of your land, do not end off the corner (peah) of your field in your reaping. [This is mentioned a second time (see 19:9) to posit liability for transgression of two negative commandments];"
             },
             {
-              "hebrew": "לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;{פ}",
-              "english": "To the poor man and to the stranger shall you leave them [(Leave it for them and let them gather it; do not assist any particular one of them)]; I am the L-rd your G-d. [This is inserted in the midst of the festivals to teach that if one gives leket, shikchah, and peah to the poor as prescribed, it is accounted to him as if he had built the Temple and offered up his sacrifices therein.]"
+              "hebrew": "וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט",
+              "english": "and the gleaning (leket) of your harvest you shall not gather."
+            },
+            {
+              "hebrew": "לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם",
+              "english": "To the poor man and to the stranger shall you leave them [(Leave it for them and let them gather it; do not assist any particular one of them)];"
+            },
+            {
+              "hebrew": "אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;{פ}",
+              "english": "I am the L-rd your G-d. [This is inserted in the midst of the festivals to teach that if one gives leket, shikchah, and peah to the poor as prescribed, it is accounted to him as if he had built the Temple and offered up his sacrifices therein.]"
             }
           ],
           "model": "Instinct"
@@ -51184,8 +51348,12 @@
         "27": {
           "pairs": [
             {
-              "hebrew": "אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹ֩דֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם",
-              "english": "Only, on the tenth day of this seventh month it is the day of atonement [(\"Only\") — Only those who repent are granted atonement.] A holy calling shall it be for you."
+              "hebrew": "אַ֡ךְ בֶּעָשׂ֣וֹר לַחֹ֩דֶשׁ֩ הַשְּׁבִיעִ֨י הַזֶּ֜ה י֧וֹם הַכִּפֻּרִ֣ים ה֗וּא",
+              "english": "Only, on the tenth day of this seventh month it is the day of atonement [(\"Only\") — Only those who repent are granted atonement.]"
+            },
+            {
+              "hebrew": "מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם",
+              "english": "A holy calling shall it be for you."
             },
             {
               "hebrew": "וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם וְהִקְרַבְתֶּ֥ם אִשֶּׁ֖ה לַיהֹוָֽה׃",
@@ -51322,8 +51490,12 @@
               "english": "These are the festivals of the L-rd, which you shall call holy callings"
             },
             {
-              "hebrew": "לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהֹוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃",
-              "english": "to present a fire-offering to the L-rd, a burnt-offering and a meal-offering [(the libation meal-offering, which is offered up together with the burnt-offering)], sacrifice and drink-offerings, the thing of the day [(as prescribed in Numbers)] in its day [(but if the day passed, its sacrifice is forfeited)]."
+              "hebrew": "לְהַקְרִ֨יב אִשֶּׁ֜ה לַיהֹוָ֗ה עֹלָ֧ה וּמִנְחָ֛ה זֶ֥בַח וּנְסָכִ֖ים",
+              "english": "to present a fire-offering to the L-rd, a burnt-offering and a meal-offering [(the libation meal-offering, which is offered up together with the burnt-offering)], sacrifice and drink-offerings,"
+            },
+            {
+              "hebrew": "דְּבַר־י֥וֹם בְּיוֹמֽוֹ׃",
+              "english": "the thing of the day [(as prescribed in Numbers)] in its day [(but if the day passed, its sacrifice is forfeited)]."
             }
           ],
           "model": "Instinct"
@@ -51344,8 +51516,12 @@
         "39": {
           "pairs": [
             {
-              "hebrew": "אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאׇסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־חַג־יְהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים",
-              "english": "But [(since the festival peace-offering (chagigah) can be brought on any one of the seven days, it does not override the Sabbath)] on the fifteenth day of the seventh month, when you gather in the produce of the land [(Intercalate the years so that this harvest festival does not fall out sometimes in the middle of the summer, sometimes in the middle of the winter)], you shall celebrate [with the chagigah] the festival of the L-rd seven days [(If you did not bring the chagigah on one of the seven, you may bring it on another)];"
+              "hebrew": "אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאׇסְפְּכֶם֙ אֶת־תְּבוּאַ֣ת הָאָ֔רֶץ",
+              "english": "But [(since the festival peace-offering (chagigah) can be brought on any one of the seven days, it does not override the Sabbath)] on the fifteenth day of the seventh month, when you gather in the produce of the land [(Intercalate the years so that this harvest festival does not fall out sometimes in the middle of the summer, sometimes in the middle of the winter)],"
+            },
+            {
+              "hebrew": "תָּחֹ֥גּוּ אֶת־חַג־יְהֹוָ֖ה שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "you shall celebrate [with the chagigah] the festival of the L-rd seven days [(If you did not bring the chagigah on one of the seven, you may bring it on another)];"
             },
             {
               "hebrew": "בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃",
@@ -51357,8 +51533,12 @@
         "40": {
           "pairs": [
             {
-              "hebrew": "וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל",
-              "english": "And you shall take for yourselves on the first day the fruit of a tree [(the fruit tasting like the tree)] which is hadar, [which lives (hadar, i.e., is produced) on its tree from year to year — an ethrog], a branch of date-palms, a branch of a plaited tree [(a tree the branches of which are plaited like ropes — a myrtle)], and willows of the brook,"
+              "hebrew": "וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙",
+              "english": "And you shall take for yourselves on the first day the fruit of a tree [(the fruit tasting like the tree)] which is hadar, [which lives (hadar, i.e., is produced) on its tree from year to year — an ethrog],"
+            },
+            {
+              "hebrew": "כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל",
+              "english": "a branch of date-palms, a branch of a plaited tree [(a tree the branches of which are plaited like ropes — a myrtle)], and willows of the brook,"
             },
             {
               "hebrew": "וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃",
@@ -53439,8 +53619,12 @@
               "english": "He shall not exchange it and he shall not substitute for it, good [an unblemished animal] for bad [a blemished animal] or bad for good [(and certainly not good for good or bad for bad)]."
             },
             {
-              "hebrew": "וְאִם־הָמֵ֨ר יָמִ֤יר בְּהֵמָה֙ בִּבְהֵמָ֔ה וְהָֽיָה־ה֥וּא וּתְמוּרָת֖וֹ יִֽהְיֶה־קֹּֽדֶשׁ׃",
-              "english": "And if he substitutes beast for beast, then it and its substitute shall be holy."
+              "hebrew": "וְאִם־הָמֵ֨ר יָמִ֤יר בְּהֵמָה֙ בִּבְהֵמָ֔ה",
+              "english": "And if he substitutes beast for beast,"
+            },
+            {
+              "hebrew": "וְהָֽיָה־ה֥וּא וּתְמוּרָת֖וֹ יִֽהְיֶה־קֹּֽדֶשׁ׃",
+              "english": "then it and its substitute shall be holy."
             }
           ],
           "model": "Instinct"
