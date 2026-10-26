@@ -32667,9 +32667,897 @@
             }
           ],
           "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־אַרְצֶ֑ךָ",
+              "english": "And six years shall you sow your land"
+            },
+            {
+              "hebrew": "וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃",
+              "english": "and you shall gather [into your house] its produce."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה וּנְטַשְׁתָּ֗הּ",
+              "english": "And the seventh year it shall lie fallow [and not be worked] and you shall leave it [i.e., you shall not eat of its produce after the time of removal (see Leviticus 25:7)],"
+            },
+            {
+              "hebrew": "וְאָֽכְלוּ֙ אֶבְיֹנֵ֣י עַמֶּ֔ךָ וְיִתְרָ֕ם תֹּאכַ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה",
+              "english": "and the poor of your people shall eat it, and what they leave shall be eaten by the animals of the field [(Just as it need not be tithed for animals, so it need not be tithed for the poor — whence it is derived that ma'aser does not obtain in the sabbatical year)]."
+            },
+            {
+              "hebrew": "כֵּֽן־תַּעֲשֶׂ֥ה לְכַרְמְךָ֖ לְזֵיתֶֽךָ׃",
+              "english": "Thus shall you [also] do with your vineyard and with your olive grove, [(what precedes applying to a grain field)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "שֵׁ֤שֶׁת יָמִים֙ תַּעֲשֶׂ֣ה מַעֲשֶׂ֔יךָ וּבַיּ֥וֹם הַשְּׁבִיעִ֖י תִּשְׁבֹּ֑ת",
+              "english": "Six days shall you do your work, and on the seventh day shall you rest [i.e., Shabbath is not superseded by Shevi'ith (which is also a commemoration of the creation)],"
+            },
+            {
+              "hebrew": "לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ וְיִנָּפֵ֥שׁ בֶּן־אֲמָתְךָ֖ וְהַגֵּֽר׃",
+              "english": "so that there rest your ox and your ass [Give it \"resting,\" i.e., allow it to tear grass from the earth and eat it], and there be refreshed the son of your maidservant [an uncircumcised Canaanite servant] and the stranger [a ger toshav, a \"sojourning stranger\" (one who shuns idolatry and observes the seven Noachide laws)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וּבְכֹ֛ל אֲשֶׁר־אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ",
+              "english": "And all that I have spoken to you, you shall observe [(all positive commandments are hereby \"affixed\" with an exhortation)]."
+            },
+            {
+              "hebrew": "וְשֵׁ֨ם אֱלֹהִ֤ים אֲחֵרִים֙ לֹ֣א תַזְכִּ֔ירוּ",
+              "english": "And the name of other gods you shall not mention [One should not say to another: \"Wait for me near that idol\" (mentioning its name) or \"Stand with me on the festival of that idol\"];"
+            },
+            {
+              "hebrew": "לֹ֥א יִשָּׁמַ֖ע עַל־פִּֽיךָ׃",
+              "english": "it shall not be heard [from the gentile] upon your mouth [i.e., at your instigation. (Do not enter into partnership with a gentile, lest he swear by his god (in the instance of a dispute) in which instance you are an accessory to the mentioning of idolatry.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "שָׁלֹ֣שׁ רְגָלִ֔ים",
+              "english": "Three times"
+            },
+            {
+              "hebrew": "תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה׃",
+              "english": "shall you celebrate for Me in the year."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒",
+              "english": "The festival of matzoth shall you keep."
+            },
+            {
+              "hebrew": "שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב",
+              "english": "Seven days shall you eat matzoth, as I commanded you, at the appointed time in the month of aviv, [when the grain begins to ripen];"
+            },
+            {
+              "hebrew": "כִּי־ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם",
+              "english": "for in it did you go out of Egypt."
+            },
+            {
+              "hebrew": "וְלֹא־יֵרָא֥וּ פָנַ֖י רֵיקָֽם׃",
+              "english": "And they shall not appear before Me empty-handed, [but they shall bring burnt-offerings]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה",
+              "english": "And the festival of the harvest [Shavuoth], the [time of bringing the] first-fruits of your labor, which you sow in the field [(the two loaves of Shavuoth permitting the new wheat for meal-offerings and the bringing of first-fruits to the Temple, viz. (Numbers 28:26)],"
+            },
+            {
+              "hebrew": "וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאׇסְפְּךָ֥ אֶֽת־מַעֲשֶׂ֖יךָ מִן־הַשָּׂדֶֽה׃",
+              "english": "and the festival of the ingathering [Succoth] at the going out of the year, when you gather your labor from the field [against the rain]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה",
+              "english": "Three times in the year"
+            },
+            {
+              "hebrew": "יֵרָאֶה֙ כׇּל־זְכ֣וּרְךָ֔ אֶל־פְּנֵ֖י הָאָדֹ֥ן&thinsp;׀&thinsp;יְהֹוָֽה׃",
+              "english": "shall appear all the males among you in the presence of the Master, the L-rd, [the festivals not lapsing in the sabbatical year]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־תִזְבַּ֥ח עַל־חָמֵ֖ץ דַּם־זִבְחִ֑י",
+              "english": "You shall not offer alongside chametz the blood of My sacrifice [i.e., Do not slaughter the Pesach offering on the fourteenth of Nissan until the chametz has been removed],"
+            },
+            {
+              "hebrew": "וְלֹֽא־יָלִ֥ין חֵֽלֶב־חַגִּ֖י עַד־בֹּֽקֶר׃",
+              "english": "and there shall not remain [unplaced on the altar] the fat of My festival offering until morning."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהֹוָ֣ה אֱלֹהֶ֑יךָ",
+              "english": "The first of the first-fruits of your land [even in the sabbatical year] you shall bring to the house of the L-rd your G-d."
+            },
+            {
+              "hebrew": "לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ׃&nbsp;{פ}",
+              "english": "You shall not cook a kid [any young, tender animal] in its mother's milk. [This is written three times in the Torah: (here, 34:26, and Deuteronomy 14:21), once to forbid eating (milk and meat together), once to forbid derivation of benefit, and once to forbid cooking.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ",
+              "english": "Behold, I shall send an angel before you [(the L-rd here apprising them that they would sin, that He would not go up among them (33:3) and that they would require an intermediary)],"
+            },
+            {
+              "hebrew": "לִשְׁמׇרְךָ֖ בַּדָּ֑רֶךְ וְלַהֲבִ֣יאֲךָ֔ אֶל־הַמָּק֖וֹם אֲשֶׁ֥ר הֲכִנֹֽתִי׃",
+              "english": "to watch over you on the way, and to bring you to the place that I have readied [for you]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "הִשָּׁ֧מֶר מִפָּנָ֛יו וּשְׁמַ֥ע בְּקֹל֖וֹ אַל־תַּמֵּ֣ר בּ֑וֹ",
+              "english": "Take heed of him and hearken to his voice. Do not rebel against him,"
+            },
+            {
+              "hebrew": "כִּ֣י לֹ֤א יִשָּׂא֙ לְפִשְׁעֲכֶ֔ם כִּ֥י שְׁמִ֖י בְּקִרְבּֽוֹ׃",
+              "english": "for he will not forgive your offenses, [sin being foreign to his nature and forgiveness not being deputed to him. \"Take heed of him\"] for My name is within him [i.e., associated with him]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י אִם־שָׁמ֤וֹעַ תִּשְׁמַע֙ בְּקֹל֔וֹ וְעָשִׂ֕יתָ כֹּ֖ל אֲשֶׁ֣ר אֲדַבֵּ֑ר",
+              "english": "But if you hearken to his voice and do all that I shall speak,"
+            },
+            {
+              "hebrew": "וְאָֽיַבְתִּי֙ אֶת־אֹ֣יְבֶ֔יךָ וְצַרְתִּ֖י אֶת־צֹרְרֶֽיךָ׃",
+              "english": "then I shall hate your enemies and oppress your oppressors."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יֵלֵ֣ךְ מַלְאָכִי֮ לְפָנֶ֒יךָ֒",
+              "english": "For My angel shall go before you,"
+            },
+            {
+              "hebrew": "וֶהֱבִֽיאֲךָ֗ אֶל־הָֽאֱמֹרִי֙ וְהַ֣חִתִּ֔י וְהַפְּרִזִּי֙ וְהַֽכְּנַעֲנִ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י וְהִכְחַדְתִּֽיו׃",
+              "english": "and he will bring you to the Emori, and the Chitti and the Perizi and the Canaani and the Chivi and the Yevussi, and I will annihilate them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־תִשְׁתַּחֲוֶ֤ה לֵאלֹֽהֵיהֶם֙ וְלֹ֣א תׇֽעׇבְדֵ֔ם וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם",
+              "english": "Do not bow down to their gods and do not worship them and do not emulate their deeds,"
+            },
+            {
+              "hebrew": "כִּ֤י הָרֵס֙ תְּהָ֣רְסֵ֔ם וְשַׁבֵּ֥ר תְּשַׁבֵּ֖ר מַצֵּבֹתֵיהֶֽם׃",
+              "english": "but raze them [their idols] and break down their [stone] monuments [which they set up to bow down to]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַעֲבַדְתֶּ֗ם אֵ֚ת יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם",
+              "english": "And you shall serve the L-rd your G-d,"
+            },
+            {
+              "hebrew": "וּבֵרַ֥ךְ אֶֽת־לַחְמְךָ֖ וְאֶת־מֵימֶ֑יךָ",
+              "english": "and He will bless your bread and your water,"
+            },
+            {
+              "hebrew": "וַהֲסִרֹתִ֥י מַחֲלָ֖ה מִקִּרְבֶּֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and I shall remove sickness from your midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ",
+              "english": "There shall not be [if you do My will] a woman bereft [(of her young, miscarrying or burying them)] or barren in your land;"
+            },
+            {
+              "hebrew": "אֶת־מִסְפַּ֥ר יָמֶ֖יךָ אֲמַלֵּֽא׃",
+              "english": "the number of your days shall I complete."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ",
+              "english": "My fright shall I send before you,"
+            },
+            {
+              "hebrew": "וְהַמֹּתִי֙ אֶת־כׇּל־הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם",
+              "english": "and I shall confound all the people among whom you come,"
+            },
+            {
+              "hebrew": "וְנָתַתִּ֧י אֶת־כׇּל־אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף׃",
+              "english": "and I shall set the nape of all your foes before you [in fleeing you]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁלַחְתִּ֥י אֶת־הַצִּרְעָ֖ה לְפָנֶ֑יךָ",
+              "english": "And I shall send the hornet before you,"
+            },
+            {
+              "hebrew": "וְגֵרְשָׁ֗ה אֶת־הַחִוִּ֧י אֶת־הַֽכְּנַעֲנִ֛י וְאֶת־הַחִתִּ֖י מִלְּפָנֶֽיךָ׃",
+              "english": "and it shall drive out the Chivvi, the Canaani, and the Chitti before you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֧א אֲגָרְשֶׁ֛נּוּ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת",
+              "english": "I will not drive them out before you in one year"
+            },
+            {
+              "hebrew": "פֶּן־תִּהְיֶ֤ה הָאָ֙רֶץ֙ שְׁמָמָ֔ה וְרַבָּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃",
+              "english": "lest the land be left desolate and the animals of the field increase against you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "מְעַ֥ט מְעַ֛ט אֲגָרְשֶׁ֖נּוּ מִפָּנֶ֑יךָ",
+              "english": "Little by little I will drive them out before you"
+            },
+            {
+              "hebrew": "עַ֚ד אֲשֶׁ֣ר תִּפְרֶ֔ה וְנָחַלְתָּ֖ אֶת־הָאָֽרֶץ׃",
+              "english": "until you multiply and inherit the land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׁתִּ֣י אֶת־גְּבֻלְךָ֗ מִיַּם־סוּף֙ וְעַד־יָ֣ם פְּלִשְׁתִּ֔ים וּמִמִּדְבָּ֖ר עַד־הַנָּהָ֑ר",
+              "english": "And I shall set your boundaries from the Red Sea until the sea of the Philistines, and from the desert until the river."
+            },
+            {
+              "hebrew": "כִּ֣י&thinsp;׀ אֶתֵּ֣ן בְּיֶדְכֶ֗ם אֵ֚ת יֹשְׁבֵ֣י הָאָ֔רֶץ",
+              "english": "For I will put in your hand the inhabitants of the land,"
+            },
+            {
+              "hebrew": "וְגֵרַשְׁתָּ֖מוֹ מִפָּנֶֽיךָ׃",
+              "english": "and you will drive them out before you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־תִכְרֹ֥ת לָהֶ֛ם",
+              "english": "You shall not make a covenant with them"
+            },
+            {
+              "hebrew": "וְלֵאלֹֽהֵיהֶ֖ם בְּרִֽית׃",
+              "english": "or with their gods."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֤א יֵשְׁבוּ֙ בְּאַרְצְךָ֔ פֶּן־יַחֲטִ֥יאוּ אֹתְךָ֖ לִ֑י",
+              "english": "They shall not dwell in your land lest they cause you to sin against Me,"
+            },
+            {
+              "hebrew": "כִּ֤י תַעֲבֹד֙ אֶת־אֱלֹ֣הֵיהֶ֔ם כִּֽי־יִהְיֶ֥ה לְךָ֖ לְמוֹקֵֽשׁ׃&nbsp;{פ}",
+              "english": "that you serve their gods and they be a stumbling block to you."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "24": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶל־מֹשֶׁ֨ה אָמַ֜ר עֲלֵ֣ה אֶל־יְהֹוָ֗ה אַתָּה֙ וְאַהֲרֹן֙ נָדָ֣ב וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And to Moses He said [(before the Ten Commandments) on the fourth of Sivan]: Go up to the L-rd, you and Aaron, Nadav and Avihu, and seventy of the elders of Israel,"
+            },
+            {
+              "hebrew": "וְהִשְׁתַּחֲוִיתֶ֖ם מֵרָחֹֽק׃",
+              "english": "and bow down from afar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְנִגַּ֨שׁ מֹשֶׁ֤ה לְבַדּוֹ֙ אֶל־יְהֹוָ֔ה",
+              "english": "And Moses alone shall draw near [to the mist] to the L-rd,"
+            },
+            {
+              "hebrew": "וְהֵ֖ם לֹ֣א יִגָּ֑שׁוּ וְהָעָ֕ם לֹ֥א יַעֲל֖וּ עִמּֽוֹ׃",
+              "english": "but they shall not draw near, and the people shall not go up with him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כׇּל־דִּבְרֵ֣י יְהֹוָ֔ה וְאֵ֖ת כׇּל־הַמִּשְׁפָּטִ֑ים",
+              "english": "And Moses came and he told the people [on that day] all the words of the L-rd [the commandment of separation (from conjugal relations) and the keeping of bounds (from Mount Sinai)] and all of the judgments [the seven Noachide laws, Sabbath, honoring of father and mother, and the administration of justice, which had been related to them at Marah]."
+            },
+            {
+              "hebrew": "וַיַּ֨עַן כׇּל־הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ",
+              "english": "And the people answered with one voice and said:"
+            },
+            {
+              "hebrew": "כׇּל־הַדְּבָרִ֛ים אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה נַעֲשֶֽׂה׃",
+              "english": "All of the things which the L-rd has spoken we shall do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּכְתֹּ֣ב מֹשֶׁ֗ה אֵ֚ת כׇּל־דִּבְרֵ֣י יְהֹוָ֔ה",
+              "english": "And Moses wrote all the words of the L-rd [from the creation until the giving of the Torah, and he wrote down the mitzvoth given at Marah]"
+            },
+            {
+              "hebrew": "וַיַּשְׁכֵּ֣ם בַּבֹּ֔קֶר וַיִּ֥בֶן מִזְבֵּ֖חַ תַּ֣חַת הָהָ֑ר",
+              "english": "and he arose early in the morning [on the fifth of Sivan] and he built an altar at the foot of the mountain"
+            },
+            {
+              "hebrew": "וּשְׁתֵּ֤ים עֶשְׂרֵה֙ מַצֵּבָ֔ה לִשְׁנֵ֥ים עָשָׂ֖ר שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and twelve monuments for the twelve tribes of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁלַ֗ח אֶֽת־נַעֲרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַֽיַּעֲל֖וּ עֹלֹ֑ת",
+              "english": "And he sent the youths [i.e., the first-born] of the children of Israel, and they offered up burnt-offerings"
+            },
+            {
+              "hebrew": "וַֽיִּזְבְּח֞וּ זְבָחִ֧ים שְׁלָמִ֛ים לַיהֹוָ֖ה פָּרִֽים׃",
+              "english": "and slaughtered sacrifices, peace-offerings to the L-rd, bullocks."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֤ח מֹשֶׁה֙ חֲצִ֣י הַדָּ֔ם וַיָּ֖שֶׂם בָּאַגָּנֹ֑ת",
+              "english": "And Moses took half of the blood [(an angel coming and halving it)] and he placed it in basins [(two basins: one for half the blood of the burnt-offering; the other, for half the blood of the peace-offering to sprinkle upon the people (whence our sages infer that our ancestors entered the covenant through circumcision, immersion, and the sprinkling of blood, there being no sprinkling without immersion)],"
+            },
+            {
+              "hebrew": "וַחֲצִ֣י הַדָּ֔ם זָרַ֖ק עַל־הַמִּזְבֵּֽחַ׃",
+              "english": "and half the blood he sprinkled upon the altar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאׇזְנֵ֣י הָעָ֑ם",
+              "english": "And he took the book of the covenant [(from the creation until the giving of the Torah and the mitzvoth given at Marah)], and he read (it) in the ears of the people,"
+            },
+            {
+              "hebrew": "וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע׃",
+              "english": "and they said: All that the L-rd has spoken we shall do and we shall hear."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־הַדָּ֔ם וַיִּזְרֹ֖ק עַל־הָעָ֑ם",
+              "english": "And Moses took the blood and sprinkled it upon the people,"
+            },
+            {
+              "hebrew": "וַיֹּ֗אמֶר הִנֵּ֤ה דַֽם־הַבְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִמָּכֶ֔ם עַ֥ל כׇּל־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+              "english": "and he said: Behold, the blood of the covenant, which the L-rd has made with you over all these words."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה וְאַהֲרֹ֑ן",
+              "english": "And there went up Moses and Aaron,"
+            },
+            {
+              "hebrew": "נָדָב֙ וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "Nadav and Avihu, and seventy of the elders of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And they saw the G-d of Israel [They \"peeked\" and were liable to death, but the Holy One Blessed be He, desiring not to dampen the joy of (receiving the) Torah \"waited\" for Nadav and Avihu until the consecration of the tabernacle, and for the elders until the episode of the complainers (Numbers 11:16)],"
+            },
+            {
+              "hebrew": "וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר וּכְעֶ֥צֶם הַשָּׁמַ֖יִם לָטֹֽהַר׃",
+              "english": "and under His feet, as the work of a sapphire brick [This was before Him at the time of the (Egyptian) bondage to \"keep Him in mind\" of the brick-toil of the Jews] and as the appearance of the heavens in brightness. [When they were redeemed, there was light and rejoicing before Him.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶל־אֲצִילֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א שָׁלַ֖ח יָד֑וֹ",
+              "english": "And against the nobles of the children of Israel [Nadav, Avihu, and the elders], He did not send forth His hand [(whence it is to be derived that it would have been warranted)],"
+            },
+            {
+              "hebrew": "וַיֶּֽחֱזוּ֙ אֶת־הָ֣אֱלֹהִ֔ים וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and they gazed upon G-d [grossly] while eating and drinking."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה עֲלֵ֥ה אֵלַ֛י הָהָ֖רָה וֶהְיֵה־שָׁ֑ם",
+              "english": "And the L-rd said to Moses [after the giving of the Torah]: Go up to Me to the mountain and be there [forty days],"
+            },
+            {
+              "hebrew": "וְאֶתְּנָ֨ה לְךָ֜ אֶת־לֻחֹ֣ת הָאֶ֗בֶן וְהַתּוֹרָה֙ וְהַמִּצְוָ֔ה אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהוֹרֹתָֽם׃",
+              "english": "and I shall give you the tablets of stone and the Torah and the mitzvah which I have written to teach them. [All the six hundred and thirteen mitzvoth are contained in the Ten Commandments.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣קׇם מֹשֶׁ֔ה וִיהוֹשֻׁ֖עַ מְשָׁרְת֑וֹ",
+              "english": "And Moses arose and Joshua his attendant,"
+            },
+            {
+              "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה אֶל־הַ֥ר הָאֱלֹהִֽים׃",
+              "english": "and Moses went up to the mountain of G-d, [Joshua accompanying him as far as he was permitted to go, pitching his tent there and awaiting Moses' return]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶל־הַזְּקֵנִ֤ים אָמַר֙ שְׁבוּ־לָ֣נוּ בָזֶ֔ה עַ֥ד אֲשֶׁר־נָשׁ֖וּב אֲלֵיכֶ֑ם",
+              "english": "And to the elders he said [upon leaving the encampment]: Abide for us here [with the rest of the people to be \"on call\" for judging their disputes] until we return to you,"
+            },
+            {
+              "hebrew": "וְהִנֵּ֨ה אַהֲרֹ֤ן וְחוּר֙ עִמָּכֶ֔ם",
+              "english": "and, behold, Aaron and Chur [(the son of Miriam and Calev ben Yefuneh)] are with you."
+            },
+            {
+              "hebrew": "מִי־בַ֥עַל דְּבָרִ֖ים יִגַּ֥שׁ אֲלֵהֶֽם׃",
+              "english": "Whoever has a claim (against his fellow) shall draw near to them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה אֶל־הָהָ֑ר",
+              "english": "And Moses went up to the mountain,"
+            },
+            {
+              "hebrew": "וַיְכַ֥ס הֶעָנָ֖ן אֶת־הָהָֽר׃",
+              "english": "and the cloud covered the mountain."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁכֹּ֤ן כְּבוֹד־יְהֹוָה֙ עַל־הַ֣ר סִינַ֔י",
+              "english": "And the glory of the L-rd reposed upon Mount Sinai,"
+            },
+            {
+              "hebrew": "וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַיִּקְרָ֧א אֶל־מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן׃",
+              "english": "and the cloud covered it for six days and He called to Moses on the seventh day from the midst of the cloud. [Or, according to another view, him. (\"it\"): \"And the glory of the L-rd reposed upon Mount Sinai and the cloud covered it for six days [from Rosh Chodesh Sivan], and He called to Moses [(all of Israel standing there, but Moses being singled out for special honor)] on the seventh day [to declare the Ten Commandments] from the midst of the cloud.\" (\"him\"): \"And the glory of the L-rd reposed upon Mount Sinai and the cloud covered him for six days [after the Ten Commandments, the beginning of the forty days of Moses' going up to receive the tablets (Scripture teaching that entrance into the \"Divine Encampment\" (later, the Holy of Holies) requires a six-day separation period)], and He called to Moses on the seventh day from the midst of the cloud.\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וּמַרְאֵה֙ כְּב֣וֹד יְהֹוָ֔ה",
+              "english": "And the sight of the glory of the L-rd"
+            },
+            {
+              "hebrew": "כְּאֵ֥שׁ אֹכֶ֖לֶת בְּרֹ֣אשׁ הָהָ֑ר לְעֵינֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "was like a consuming fire on the top of the mountain in the eyes of the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֥א מֹשֶׁ֛ה בְּת֥וֹךְ הֶעָנָ֖ן וַיַּ֣עַל אֶל־הָהָ֑ר",
+              "english": "And Moses came in the midst of the cloud, [G d making a kind of path for him in its midst], and he went up to the mountain."
+            },
+            {
+              "hebrew": "וַיְהִ֤י מֹשֶׁה֙ בָּהָ֔ר אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה׃&nbsp;{פ}",
+              "english": "And Moses was in the mountain forty days and forty nights."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "25": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה",
+              "english": "And the L-rd spoke to Moses,"
+            },
+            {
+              "hebrew": "לֵּאמֹֽר׃",
+              "english": "saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה",
+              "english": "Speak to the children of Israel and let them take for Me [i.e., for My Name's sake] terumah [a tithe]."
+            },
+            {
+              "hebrew": "מֵאֵ֤ת כׇּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרוּמָתִֽי׃",
+              "english": "From every man whose heart prompts him shall you take My terumah. [Three terumoth are referred to here: the terumah of a beka for a head, of which the sockets were made; the terumah of the altar, a beka for a head, for the communal offering funds; and the terumah of the mishkan (the tabernacle), an individual gift. (The thirteen articles mentioned below were needed either for the work of the mishkan or for the priestly garments)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹאת֙ הַתְּרוּמָ֔ה אֲשֶׁ֥ר תִּקְח֖וּ מֵאִתָּ֑ם",
+              "english": "And this is the terumah that you shall take from them:"
+            },
+            {
+              "hebrew": "זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃",
+              "english": "gold, silver, and copper [all voluntary gifts, except silver, a half-shekel for each individual (Additional offerings of silver were used for making the ministering vessels)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן",
+              "english": "And tcheleth [wool died with the blood of the chilazon, of a greenish hue], and argaman [wool colored with a dye of that name],"
+            },
+            {
+              "hebrew": "וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃",
+              "english": "and crimson, and linen, and goats' hair."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְעֹרֹ֨ת אֵילִ֧ם מְאׇדָּמִ֛ים",
+              "english": "And skins of rams dyed red [after tanning]"
+            },
+            {
+              "hebrew": "וְעֹרֹ֥ת תְּחָשִׁ֖ים",
+              "english": "and skins of techashim [a kind of animal found only at that time],"
+            },
+            {
+              "hebrew": "וַעֲצֵ֥י שִׁטִּֽים׃",
+              "english": "and acacia wood. [Jacob foresaw that they would build a tabernacle in the desert (where there is no wood). Accordingly, he brought cedars to Egypt, planted them and bade his sons take them when they left Egypt.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "שֶׁ֖מֶן לַמָּאֹ֑ר",
+              "english": "Oil for the light [pure olive oil to make the flame ascend continuously],"
+            },
+            {
+              "hebrew": "בְּשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
+              "english": "spices for the anointing oil [used to anoint the vessels of the mishkan itself, to sanctify it] and for the burning [ketoreth (the rising of a smoke column)] of the incense, [which was burned every evening and morning]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "אַבְנֵי־שֹׁ֕הַם וְאַבְנֵ֖י מִלֻּאִ֑ים",
+              "english": "[Two] onyx stones [for the ephod (28:6)] and stones for filling [the golden settings in the breastplate (choshen)],"
+            },
+            {
+              "hebrew": "לָאֵפֹ֖ד וְלַחֹֽשֶׁן׃",
+              "english": "for the ephod and the choshen [respectively]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ",
+              "english": "And they shall make for Me mikdash [beth kedushah — \"a house of holiness\"]"
+            },
+            {
+              "hebrew": "וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃",
+              "english": "and I shall dwell in their midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כְּכֹ֗ל אֲשֶׁ֤ר אֲנִי֙ מַרְאֶ֣ה אוֹתְךָ֔ אֵ֚ת תַּבְנִ֣ית הַמִּשְׁכָּ֔ן וְאֵ֖ת תַּבְנִ֣ית כׇּל־כֵּלָ֑יו",
+              "english": "[\"And they shall make for Me mikdash\"] according to all that I show you, the design of the tabernacle and the design of all its vessels."
+            },
+            {
+              "hebrew": "וְכֵ֖ן תַּעֲשֽׂוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And so [according to this design] shall you do [in future generations when any of the Temple vessels are lost]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And they shall make an ark [without legs] of acacia wood:"
+            },
+            {
+              "hebrew": "אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ",
+              "english": "two and a half cubits, its length;"
+            },
+            {
+              "hebrew": "וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+              "english": "one and a half cubits, its breadth; and one and a half cubits, its height."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ",
+              "english": "And you shall cover it with pure gold. From inside and from outside shall you cover it. [Bezalel made three arks: two of gold and one of wood, each having four walls and a base, and open from above. He placed the wooden one in a golden one, and a golden one in the wooden one and covered the top with gold so that it was found to be covered with gold \"from inside and from outside.\"]"
+            },
+            {
+              "hebrew": "וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+              "english": "And you shall make a rim of gold roundabout it. [He made the outer ark higher than the inner so that it projected above the kaporeth (the ark cover) and formed a rim roundabout, symbolizing the \"crown of Torah\"]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו",
+              "english": "And you shall cast for it four golden rings, and you shall place them on its four [upper] corners [near the kaporeth, two on each side along the breadth of the ark, into which the staves were placed, this allowing space (the two and a half cubits of the length) for two carriers to walk between them] —"
+            },
+            {
+              "hebrew": "וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+              "english": "two rings on one side and two rings on the other."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ בַדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים",
+              "english": "And you shall make staves of acacia wood"
+            },
+            {
+              "hebrew": "וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃",
+              "english": "and cover them with gold."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵבֵאתָ֤ אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן",
+              "english": "And you shall insert the staves in the rings on the sides of the ark"
+            },
+            {
+              "hebrew": "לָשֵׂ֥את אֶת־הָאָרֹ֖ן בָּהֶֽם׃",
+              "english": "to carry the ark therewith."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "בְּטַבְּעֹת֙ הָאָרֹ֔ן יִהְי֖וּ הַבַּדִּ֑ים",
+              "english": "In the rings of the ark shall the staves remain;"
+            },
+            {
+              "hebrew": "לֹ֥א יָסֻ֖רוּ מִמֶּֽנּוּ׃",
+              "english": "they shall never depart from it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֖ אֶל־הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת",
+              "english": "And you shall place in the ark the Testimony [(the Torah, which serves as testimony between you and Me that I have charged you with the mitzvoth written therein)]"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+              "english": "that I shall give you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֥יתָ כַפֹּ֖רֶת זָהָ֣ב טָה֑וֹר",
+              "english": "And you shall make a kaporeth [an ark-cover (the ark was open on top and the kaporeth was placed upon it like a board)] of pure gold:"
+            },
+            {
+              "hebrew": "אַמָּתַ֤יִם וָחֵ֙צִי֙ אׇרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רׇחְבָּֽהּ׃",
+              "english": "two and a half cubits its length and a cubit and a half its width [(corresponding to the length and width of the ark, the kaporeth resting on the thickness of its four walls. The thickness of the kaporeth was a tefach, a hand-breadth)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֛יתָ שְׁנַ֥יִם כְּרֻבִ֖ים זָהָ֑ב",
+              "english": "And you shall make two golden cherubs."
+            },
+            {
+              "hebrew": "מִקְשָׁה֙ תַּעֲשֶׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
+              "english": "Of beaten work shall you make them, at the two [front] ends of the kaporeth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַ֠עֲשֵׂ֠ה כְּר֨וּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה",
+              "english": "Make one cherub at one end and one cherub at the other end."
+            },
+            {
+              "hebrew": "מִן־הַכַּפֹּ֛רֶת תַּעֲשׂ֥וּ אֶת־הַכְּרֻבִ֖ים עַל־שְׁנֵ֥י קְצוֹתָֽיו׃",
+              "english": "From the kaporeth [itself] shall you make the cherubs at its two ends."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְהָי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־הַכַּפֹּ֔רֶת",
+              "english": "And the cherubs shall have their wings spread on high [parallel to their heads], covering the kaporeth with their wings from above [a space of ten tefachim between the wings and the kaporeth]."
+            },
+            {
+              "hebrew": "וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו אֶ֨ל־הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃",
+              "english": "And their faces shall be towards each other. Towards the kaporeth shall the faces of the cherubs be."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֧ אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָ֑עְלָה",
+              "english": "And you shall place the kaporeth on the ark from above,"
+            },
+            {
+              "hebrew": "וְאֶל־הָ֣אָרֹ֔ן תִּתֵּן֙ אֶת־הָ֣עֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+              "english": "and in the ark shall you place the Testimony that I shall give you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְנוֹעַדְתִּ֣י לְךָ֮ שָׁם֒",
+              "english": "And I will be appointed for you [to speak to you] there,"
+            },
+            {
+              "hebrew": "וְדִבַּרְתִּ֨י אִתְּךָ֜ מֵעַ֣ל הַכַּפֹּ֗רֶת מִבֵּין֙ שְׁנֵ֣י הַכְּרֻבִ֔ים אֲשֶׁ֖ר עַל־אֲר֣וֹן הָעֵדֻ֑ת",
+              "english": "and I will speak to you from above the kaporeth between the two cherubs on the ark of testimony,"
+            },
+            {
+              "hebrew": "אֵ֣ת כׇּל־אֲשֶׁ֧ר אֲצַוֶּ֛ה אוֹתְךָ֖ אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;{פ}",
+              "english": "all that I shall charge you with to the children of Israel."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:37:35.824Z"
+  "updatedAt": "2026-10-26T18:39:09.780Z"
 }
