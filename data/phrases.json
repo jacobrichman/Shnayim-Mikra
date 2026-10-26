@@ -45177,9 +45177,1040 @@
             }
           ],
           "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "אַ֤ךְ אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּל֙ שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע",
+              "english": "Only this may you eat of all creeping things that fly, which walk on four —"
+            },
+            {
+              "hebrew": "אֲשֶׁר־[ל֤וֹ] (לא) כְרָעַ֙יִם֙ מִמַּ֣עַל לְרַגְלָ֔יו לְנַתֵּ֥ר בָּהֵ֖ן עַל־הָאָֽרֶץ׃",
+              "english": "that which has kera'aim [foot-like projections] above its feet [near its neck] with which to spring from the earth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־אֵ֤לֶּה מֵהֶם֙ תֹּאכֵ֔לוּ",
+              "english": "These of them you may eat:"
+            },
+            {
+              "hebrew": "אֶת־הָֽאַרְבֶּ֣ה לְמִינ֔וֹ וְאֶת־הַסׇּלְעָ֖ם לְמִינֵ֑הוּ",
+              "english": "the arbeh after its kind, and the salam after its kind,"
+            },
+            {
+              "hebrew": "וְאֶת־הַחַרְגֹּ֣ל לְמִינֵ֔הוּ וְאֶת־הֶחָגָ֖ב לְמִינֵֽהוּ׃",
+              "english": "and the chargol after its kind, and the chagav after its kind."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְכֹל֙ שֶׁ֣רֶץ הָע֔וֹף אֲשֶׁר־ל֖וֹ אַרְבַּ֣ע רַגְלָ֑יִם",
+              "english": "And every creeping thing that flies, which has four legs,"
+            },
+            {
+              "hebrew": "שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃",
+              "english": "it is detestable to you [(but if it has five, it is clean)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וּלְאֵ֖לֶּה תִּטַּמָּ֑אוּ",
+              "english": "And by [touching] these [that follow] you shall become unclean;"
+            },
+            {
+              "hebrew": "כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "english": "all who touch their carcass will be unclean until evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַנֹּשֵׂ֖א מִנִּבְלָתָ֑ם יְכַבֵּ֥ס בְּגָדָ֖יו",
+              "english": "And everyone that carries of their carcass shall wash his clothing,"
+            },
+            {
+              "hebrew": "וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "and he shall be unclean until the evening. [(Carrying-uncleanliness is more stringent than touching-uncleanliness in that it requires washing of clothing.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "לְֽכׇל־הַבְּהֵמָ֡ה אֲשֶׁ֣ר הִוא֩ מַפְרֶ֨סֶת פַּרְסָ֜ה וְשֶׁ֣סַע&thinsp;׀ אֵינֶ֣נָּה שֹׁסַ֗עַת וְגֵרָה֙ אֵינֶ֣נָּה מַעֲלָ֔ה",
+              "english": "By [touching (24)] every beast whose hoof is parted but is not cloven-footed, [like the camel, whose hoof is parted above but joined below] or does not chew the cud."
+            },
+            {
+              "hebrew": "טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם",
+              "english": "They are unclean to you;"
+            },
+            {
+              "hebrew": "כׇּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִטְמָֽא׃",
+              "english": "everyone who touches them (i.e. their carcass) shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְכֹ֣ל&thinsp;׀ הוֹלֵ֣ךְ עַל־כַּפָּ֗יו בְּכׇל־הַֽחַיָּה֙ הַהֹלֶ֣כֶת עַל־אַרְבַּ֔ע טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם",
+              "english": "And all that walk upon their soles [e.g., dog, bear, cat], among all animals which walk on four, they are unclean to you."
+            },
+            {
+              "hebrew": "כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "english": "All who touch their carcass will be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב",
+              "english": "And he that carries their carcass shall wash his clothes, and he shall be unclean until the evening;"
+            },
+            {
+              "hebrew": "טְמֵאִ֥ים הֵ֖מָּה לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "they are unclean to you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ",
+              "english": "And this to you is what is unclean [i.e., which renders you unclean by touching them (vis-à-vis the eating of terumah and kodshim and entering the sanctuary)] among the creeping things that creep upon the earth:"
+            },
+            {
+              "hebrew": "הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃",
+              "english": "the weasel, and the mouse, and the great lizard after its kind."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְהָאֲנָקָ֥ה וְהַכֹּ֖חַ וְהַלְּטָאָ֑ה",
+              "english": "And the gecko, and the land-crocodile, and the lizard,"
+            },
+            {
+              "hebrew": "וְהַחֹ֖מֶט וְהַתִּנְשָֽׁמֶת׃",
+              "english": "and the sand-lizard, and the chameleon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכׇל־הַשָּׁ֑רֶץ",
+              "english": "These are what are unclean to you among all that creep."
+            },
+            {
+              "hebrew": "כׇּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "english": "Everyone who touches them in their death will be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְכֹ֣ל אֲשֶׁר־יִפֹּל־עָלָיו֩ מֵהֶ֨ם&thinsp;׀&thinsp;בְּמֹתָ֜ם יִטְמָ֗א מִכׇּל־כְּלִי־עֵץ֙ א֣וֹ בֶ֤גֶד אוֹ־עוֹר֙ א֣וֹ שָׂ֔ק",
+              "english": "And all (vessels) upon which there falls of them in their death shall be unclean: of all vessels of wood, or garment, or skin, or sack."
+            },
+            {
+              "hebrew": "כׇּל־כְּלִ֕י אֲשֶׁר־יֵעָשֶׂ֥ה מְלָאכָ֖ה בָּהֶ֑ם בַּמַּ֧יִם יוּבָ֛א",
+              "english": "Any vessel with which work is done shall be put into water,"
+            },
+            {
+              "hebrew": "וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃",
+              "english": "and it shall be unclean [even after immersion] until the evening [for purposes of terumah], and then, [with the setting of the sun] it shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇ֨ל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תּוֹכ֑וֹ",
+              "english": "And every earthen vessel where there shall fall of them into its midst [(an earthen vessel becomes unclean only through its interior)],"
+            },
+            {
+              "hebrew": "כֹּ֣ל אֲשֶׁ֧ר בְּתוֹכ֛וֹ יִטְמָ֖א וְאֹת֥וֹ תִשְׁבֹּֽרוּ׃",
+              "english": "whatever is in its midst shall [in turn] become unclean, and it shall you break [(It cannot be rendered clean in a mikveh.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "מִכׇּל־הָאֹ֜כֶל אֲשֶׁ֣ר יֵאָכֵ֗ל אֲשֶׁ֨ר יָב֥וֹא עָלָ֛יו מַ֖יִם יִטְמָ֑א",
+              "english": "[\"whatever is in its midst shall be unclean\"] of all the food [(but not vessels) that is in it] which may be eaten [in one swallow (the size of an egg)], upon which water [and all drink] comes [(after the fruit has been picked)];"
+            },
+            {
+              "hebrew": "וְכׇל־מַשְׁקֶה֙ אֲשֶׁ֣ר יִשָּׁתֶ֔ה בְּכׇל־כְּלִ֖י יִטְמָֽא׃",
+              "english": "and all drink that may be drunk in every (such) vessel shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וְ֠כֹ֠ל אֲשֶׁר־יִפֹּ֨ל מִנִּבְלָתָ֥ם&thinsp;׀&thinsp;עָלָיו֮ יִטְמָא֒",
+              "english": "And all that there shall fall of their carcass upon it shall be unclean;"
+            },
+            {
+              "hebrew": "תַּנּ֧וּר וְכִירַ֛יִם יֻתָּ֖ץ טְמֵאִ֣ים הֵ֑ם",
+              "english": "whether oven or stove [(hollow, movable earthenware vessels with the opening on top)], it shall be torn down [(ritual immersion not availing for earthenware)]; they are unclean."
+            },
+            {
+              "hebrew": "וּטְמֵאִ֖ים יִהְי֥וּ לָכֶֽם׃",
+              "english": "And they shall be unclean to you [(\"to you\":) If one wishes to preserve them in their state of uncleanliness he may do so.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־מַ֖יִם יִהְיֶ֣ה טָה֑וֹר",
+              "english": "Only a spring or a pit where waters are gathered shall be clean [i.e., they are not susceptible to uncleanliness (or: he who immerses in them \"shall be clean\")]."
+            },
+            {
+              "hebrew": "וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃",
+              "english": "But he who touches their carcass (the carcass of the animals mentioned above) shall be unclean, [even if he does so while immersed in the spring or the mikveh]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְכִ֤י יִפֹּל֙ מִנִּבְלָתָ֔ם עַל־כׇּל־זֶ֥רַע זֵר֖וּעַ אֲשֶׁ֣ר יִזָּרֵ֑עַ",
+              "english": "And if there fall of their carcass on any variety of seed which is to be sown,"
+            },
+            {
+              "hebrew": "טָה֖וֹר הֽוּא׃",
+              "english": "it is clean [(Scripture apprises us (see 38) that it is not considered food susceptible of uncleanliness until water comes upon it)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וְכִ֤י יֻתַּן־מַ֙יִם֙ עַל־זֶ֔רַע",
+              "english": "And if water [or other liquids] be placed upon a(n) [uprooted] seed [or it fall into water],"
+            },
+            {
+              "hebrew": "וְנָפַ֥ל מִנִּבְלָתָ֖ם עָלָ֑יו טָמֵ֥א ה֖וּא לָכֶֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and aught of their carcass fall on it [(even after the water has dried)], it is unclean to you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "וְכִ֤י יָמוּת֙ מִן־הַבְּהֵמָ֔ה אֲשֶׁר־הִ֥יא לָכֶ֖ם לְאׇכְלָ֑ה",
+              "english": "And if there die of the beast which is yours to eat,"
+            },
+            {
+              "hebrew": "הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "english": "he that touches its carcass [(but not its bones, sinews, horns, hooves, or skin)] shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וְהָֽאֹכֵל֙ מִנִּבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב",
+              "english": "And he who eats of its carcass [i.e., one who carries or touches the amount of carcass to which the term \"eating\" can be applied (i.e., an olive-size)] shall wash his clothes and he shall be unclean until the evening."
+            },
+            {
+              "hebrew": "וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃",
+              "english": "And he who carries its carcass shall wash his clothes and he shall be unclean until the evening."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ שֶׁ֥קֶץ ה֖וּא",
+              "english": "And every creeping thing that creeps upon the earth is detestable [(to exclude the insects in peas and beans, which do not creep upon the earth but within the food (Once they come out, however, and creep upon the earth, they are forbidden)];"
+            },
+            {
+              "hebrew": "לֹ֥א יֵאָכֵֽל׃",
+              "english": "it shall not be eaten [The feeder incurs punishment as the eater does.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "כֹּל֩ הוֹלֵ֨ךְ עַל־גָּח֜וֹן וְכֹ֣ל&thinsp;׀ הוֹלֵ֣ךְ עַל־אַרְבַּ֗ע עַ֚ד כׇּל־מַרְבֵּ֣ה רַגְלַ֔יִם",
+              "english": "All [(including worms and the like)] that go upon the belly [i.e., snakes] and all that go upon four [i.e., scorpions], until all [including beetles and the like] that are many-footed [i.e., centipedes],"
+            },
+            {
+              "hebrew": "לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
+              "english": "of all creeping things that creep upon the earth, you shall not eat them, for they are detestable."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ",
+              "english": "Do not make your souls detestable by [eating] every creeping thing that creeps,"
+            },
+            {
+              "hebrew": "וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃",
+              "english": "and do not make yourselves unclean by [eating] them, that you be rendered unclean by them. [(If you make yourselves unclean by them on earth, I shall render you unclean for the world to come and for the heavenly tribunal.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י אֲנִ֣י יְהֹוָה֮ אֱלֹֽהֵיכֶם֒",
+              "english": "[Just as I am holy,] for I am the L-rd your G-d,"
+            },
+            {
+              "hebrew": "וְהִתְקַדִּשְׁתֶּם֙ וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי",
+              "english": "make yourselves holy, and you will be holy, [for I will sanctify you above and in the world to come.] For I am holy,"
+            },
+            {
+              "hebrew": "וְלֹ֤א תְטַמְּאוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הָרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+              "english": "and do not make your souls unclean, [transgressing many negative commandments, each punishable by stripes (e.g., \"If one ate a putitha (a kind of reptile) he receives stripes four times, etc.\")] with every creeping thing that creeps upon the earth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י&thinsp;׀ אֲנִ֣י יְהֹוָ֗ה הַֽמַּעֲלֶ֤ה אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ת לָכֶ֖ם לֵאלֹהִ֑ים",
+              "english": "For I am the L-rd, who brought you up out of the land of Egypt [so that you accept My mitzvoth], to be a G-d to you."
+            },
+            {
+              "hebrew": "וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי׃",
+              "english": "And you shall be holy, for I am holy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את תּוֹרַ֤ת הַבְּהֵמָה֙ וְהָע֔וֹף",
+              "english": "This is the law of the beast and the bird"
+            },
+            {
+              "hebrew": "וְכֹל֙ נֶ֣פֶשׁ הַֽחַיָּ֔ה הָרֹמֶ֖שֶׂת בַּמָּ֑יִם וּלְכׇל־נֶ֖פֶשׁ הַשֹּׁרֶ֥צֶת עַל־הָאָֽרֶץ׃",
+              "english": "and of every living creature that swarms in the water and of every creature that creeps on the earth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר",
+              "english": "To distinguish [(It is not enough to \"learn\" about them; you must have perfect \"recognition\" of them.)] between the unclean [i.e., what is \"unclean\" to you (e.g., cutting half the windpipe)] and the clean [i.e., what is \"clean\" to you (e.g., cutting most of the windpipe)],"
+            },
+            {
+              "hebrew": "וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙ הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל׃&nbsp;{פ}",
+              "english": "and between the animal [(with certain treifah signs)] which may be eaten, and the animal [(with other treifah signs)] which may not be eaten."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "12": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd said"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר",
+              "english": "Speak to the children of Israel, saying:"
+            },
+            {
+              "hebrew": "אִשָּׁה֙ כִּ֣י תַזְרִ֔יעַ וְיָלְדָ֖ה זָכָ֑ר וְטָֽמְאָה֙ שִׁבְעַ֣ת יָמִ֔ים",
+              "english": "If a woman give forth seed [(Just as man's creation followed that of beast and fowl, so his law follows that of beast and fowl)] (\"If a woman give forth seed\") [(Even if she bore something pulpy and semen-like, she becomes unclean with childbirth-uncleanliness.)] and she bear a male, she shall be unclean seven days."
+            },
+            {
+              "hebrew": "כִּימֵ֛י נִדַּ֥ת דְּוֺתָ֖הּ תִּטְמָֽא׃",
+              "english": "As the days of her menstrual flow [(even if her womb opened without blood)] shall she be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וּבַיּ֖וֹם הַשְּׁמִינִ֑י",
+              "english": "And on the eighth day"
+            },
+            {
+              "hebrew": "יִמּ֖וֹל בְּשַׂ֥ר עׇרְלָתֽוֹ׃",
+              "english": "he shall circumcise the flesh of his foreskin."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וּשְׁלֹשִׁ֥ים יוֹם֙ וּשְׁלֹ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב בִּדְמֵ֣י טׇהֳרָ֑הֿ",
+              "english": "And thirty days and three days she shall abide in the blood of cleanliness. [(Even though she sees blood, she is clean.)]"
+            },
+            {
+              "hebrew": "בְּכׇל־קֹ֣דֶשׁ לֹֽא־תִגָּ֗ע וְאֶל־הַמִּקְדָּשׁ֙ לֹ֣א תָבֹ֔א עַד־מְלֹ֖את יְמֵ֥י טׇהֳרָֽהּ׃",
+              "english": "All that is holy [including terumah] she shall not touch [(an exhortation against eating terumah)] [for her immersion (vis-à-vis kodshim) does not \"take\" until sunset of the fortieth day, on the morrow of which she brings her atonement offering], and into the sanctuary she shall not come until the fulfillment of the days of her purification."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־נְקֵבָ֣ה תֵלֵ֔ד וְטָמְאָ֥ה שְׁבֻעַ֖יִם כְּנִדָּתָ֑הּ",
+              "english": "And if a female she bear, then she shall be unclean two weeks, as in her menstrual state,"
+            },
+            {
+              "hebrew": "וְשִׁשִּׁ֥ים יוֹם֙ וְשֵׁ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב עַל־דְּמֵ֥י טׇהֳרָֽהֿ׃",
+              "english": "and sixty days and six days shall she abide in the blood of cleanliness."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וּבִמְלֹ֣את&thinsp;׀ יְמֵ֣י טׇהֳרָ֗הּ לְבֵן֮ א֣וֹ לְבַת֒",
+              "english": "And when the days of her purification are fulfilled, for a son or for a daughter,"
+            },
+            {
+              "hebrew": "תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־שְׁנָתוֹ֙ לְעֹלָ֔ה וּבֶן־יוֹנָ֥ה אוֹ־תֹ֖ר לְחַטָּ֑את",
+              "english": "she shall bring a lamb in its first year for a burnt-offering, and a young pigeon or a turtle-dove for a sin-offering,"
+            },
+            {
+              "hebrew": "אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד אֶל־הַכֹּהֵֽן׃",
+              "english": "to the door of the tent of meeting, to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִיב֞וֹ לִפְנֵ֤י יְהֹוָה֙ וְכִפֶּ֣ר עָלֶ֔יהָ וְטָהֲרָ֖הֿ מִמְּקֹ֣ר דָּמֶ֑יהָ",
+              "english": "And he shall offer it [the sin-offering (Only the sin-offering is indispensable for her eating kodshim)] before the L-rd and make atonement for her, and she shall be cleansed [(whence it is seen that before this she is regarded as unclean)] from the source of her blood."
+            },
+            {
+              "hebrew": "זֹ֤את תּוֹרַת֙ הַיֹּלֶ֔דֶת לַזָּכָ֖ר א֥וֹ לַנְּקֵבָֽה׃",
+              "english": "This is the law for the woman who bears, whether a male or a female."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־לֹ֨א תִמְצָ֣א יָדָהּ֮ דֵּ֣י שֶׂה֒",
+              "english": "And if she has not means enough for a lamb,"
+            },
+            {
+              "hebrew": "וְלָקְחָ֣ה שְׁתֵּֽי־תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֶחָ֥ד לְעֹלָ֖ה וְאֶחָ֣ד לְחַטָּ֑את",
+              "english": "then she shall take two turtle-doves or two young pigeons, one for a burnt-offering and one for a sin-offering [(Note: The sin-offering is offered first; \"burnt-offering\" is just read first.)],"
+            },
+            {
+              "hebrew": "וְכִפֶּ֥ר עָלֶ֛יהָ הַכֹּהֵ֖ן וְטָהֵֽרָה׃&nbsp;{פ}",
+              "english": "and the Cohein shall make atonement for her and she shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "13": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֔ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "אָדָ֗ם כִּֽי־יִהְיֶ֤ה בְעוֹר־בְּשָׂרוֹ֙ שְׂאֵ֤ת אֽוֹ־סַפַּ֙חַת֙ א֣וֹ בַהֶ֔רֶת וְהָיָ֥ה בְעוֹר־בְּשָׂר֖וֹ לְנֶ֣גַע צָרָ֑עַת",
+              "english": "A man, if there be in the skin of his flesh se'eth (a rising) or sapachath or bahereth (a bright spot) [types of plague-spots, one brighter than the other], and it become in the skin of his flesh a plague-spot of leprosy,"
+            },
+            {
+              "hebrew": "וְהוּבָא֙ אֶל־אַהֲרֹ֣ן הַכֹּהֵ֔ן א֛וֹ אֶל־אַחַ֥ד מִבָּנָ֖יו הַכֹּהֲנִֽים׃",
+              "english": "then he shall be brought to Aaron the Cohein or to one of his sons, the Cohanim [(It is a Scriptural decree that only a Cohein rules on the cleanliness or uncleanliness of plague-spots)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה הַכֹּהֵ֣ן אֶת־הַנֶּ֣גַע בְּעֽוֹר־הַ֠בָּשָׂ֠ר",
+              "english": "And the Cohein shall see the plague-spot in the skin of the flesh."
+            },
+            {
+              "hebrew": "וְשֵׂעָ֨ר בַּנֶּ֜גַע הָפַ֣ךְ&thinsp;׀ לָבָ֗ן וּמַרְאֵ֤ה הַנֶּ֙גַע֙ עָמֹק֙ מֵע֣וֹר בְּשָׂר֔וֹ נֶ֥גַע צָרַ֖עַת ה֑וּא",
+              "english": "If hair [at least two hairs] in the plague-spot had turned [from black to] white, and the appearance of the plague-spot is deeper than the skin of his flesh [(as things in the sun seem deeper than those in the shadow)], it is a plague-spot of leprosy."
+            },
+            {
+              "hebrew": "וְרָאָ֥הוּ הַכֹּהֵ֖ן וְטִמֵּ֥א אֹתֽוֹ׃",
+              "english": "And the Cohein shall see it and declare him unclean [(He shall say to him: \"You are unclean.\")]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־בַּהֶ֩רֶת֩ לְבָנָ֨ה הִ֜וא בְּע֣וֹר בְּשָׂר֗וֹ וְעָמֹק֙ אֵין־מַרְאֶ֣הָ מִן־הָע֔וֹר וּשְׂעָרָ֖הֿ לֹא־הָפַ֣ךְ לָבָ֑ן",
+              "english": "And if it is a white bahereth in the skin of his flesh, and its appearance is not deeper than the skin, and its hair had not turned white,"
+            },
+            {
+              "hebrew": "וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "then the Cohein shall quarantine the plague-spot for seven days, [not to be looked at until the end of the week]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣הוּ הַכֹּהֵן֮ בַּיּ֣וֹם הַשְּׁבִיעִי֒",
+              "english": "And the Cohein shall see it on the seventh day;"
+            },
+            {
+              "hebrew": "וְהִנֵּ֤ה הַנֶּ֙גַע֙ עָמַ֣ד בְּעֵינָ֔יו לֹֽא־פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר",
+              "english": "and if the plague-spot appears as it did before [in appearance and size], if the plague-spot did not spread in the skin,"
+            },
+            {
+              "hebrew": "וְהִסְגִּיר֧וֹ הַכֹּהֵ֛ן שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃",
+              "english": "then the Cohein shall quarantine it for a second seven days, [but if it spread in the first week, he is a confirmed leper]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָה֩ הַכֹּהֵ֨ן אֹת֜וֹ בַּיּ֣וֹם הַשְּׁבִיעִי֮ שֵׁנִית֒",
+              "english": "And the Cohein shall see it on the seventh day again;"
+            },
+            {
+              "hebrew": "וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע וְלֹא־פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר וְטִהֲר֤וֹ הַכֹּהֵן֙ מִסְפַּ֣חַת הִ֔וא",
+              "english": "and if the plague-spot is dim, and the plague-spot has not spread in the skin, then the Cohein shall declare him clean [(but if it remained the same or spread, he is unclean)]; it is a mispachath [a type of clean plague-spot],"
+            },
+            {
+              "hebrew": "וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃",
+              "english": "and he shall wash his clothes and be clean [(Since he required quarantine he is called \"unclean\" and requires immersion.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־פָּשֹׂ֨ה תִפְשֶׂ֤ה הַמִּסְפַּ֙חַת֙ בָּע֔וֹר אַחֲרֵ֧י הֵרָאֹת֛וֹ אֶל־הַכֹּהֵ֖ן לְטׇהֳרָת֑וֹ",
+              "english": "And if the mispachath spreads in the skin after he has shown himself to the Cohein for his cleansing,"
+            },
+            {
+              "hebrew": "וְנִרְאָ֥ה שֵׁנִ֖ית אֶל־הַכֹּהֵֽן׃",
+              "english": "then he shall show himself a second time to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה פָּשְׂתָ֥ה הַמִּסְפַּ֖חַת בָּע֑וֹר",
+              "english": "And the Cohein shall see: If the mispachath has spread in the skin,"
+            },
+            {
+              "hebrew": "וְטִמְּא֥וֹ הַכֹּהֵ֖ן צָרַ֥עַת הִֽוא׃&nbsp;{פ}",
+              "english": "then the Cohein shall declare him unclean, [whereupon he is a confirmed leper, requiring birds, shaving, and the offering (see Chapter 14)]. It [this mispachath] is leprosy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "נֶ֣גַע צָרַ֔עַת כִּ֥י תִהְיֶ֖ה בְּאָדָ֑ם",
+              "english": "A plague-spot of leprosy, if it be in a man,"
+            },
+            {
+              "hebrew": "וְהוּבָ֖א אֶל־הַכֹּהֵֽן׃",
+              "english": "then he shall be brought to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־לְבָנָה֙ בָּע֔וֹר וְהִ֕יא הָפְכָ֖ה שֵׂעָ֣ר לָבָ֑ן",
+              "english": "And the Cohein shall see, and behold, a white se'eth in the skin, and it has turned the hair white,"
+            },
+            {
+              "hebrew": "וּמִֽחְיַ֛ת בָּשָׂ֥ר חַ֖י בַּשְׂאֵֽת׃",
+              "english": "and the healthiness of living flesh within the rising, [part of the whiteness within the se'eth having assumed the appearance of flesh, this, too, is a sign of uncleanliness — white hair (even) without healthy flesh, or healthy flesh (even) without white hair. (Note: Though \"healthy flesh\" is stated only in reference to se'eth, it is a sign of uncleanliness in all plague-spots.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "צָרַ֨עַת נוֹשֶׁ֤נֶת הִוא֙ בְּע֣וֹר בְּשָׂר֔וֹ",
+              "english": "It is old leprosy in the skin of his flesh [(There is an old wound, full of pus, beneath the healthy flesh, so that the healthy flesh is no reason to declare him clean]."
+            },
+            {
+              "hebrew": "וְטִמְּא֖וֹ הַכֹּהֵ֑ן לֹ֣א יַסְגִּרֶ֔נּוּ כִּ֥י טָמֵ֖א הֽוּא׃",
+              "english": "And the Cohein shall declare him unclean; he shall not quarantine him, for he is unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־פָּר֨וֹחַ תִּפְרַ֤ח הַצָּרַ֙עַת֙ בָּע֔וֹר",
+              "english": "And if the leprosy blossom in the skin,"
+            },
+            {
+              "hebrew": "וְכִסְּתָ֣ה הַצָּרַ֗עַת אֵ֚ת כׇּל־ע֣וֹר הַנֶּ֔גַע מֵרֹאשׁ֖וֹ וְעַד־רַגְלָ֑יו לְכׇל־מַרְאֵ֖ה עֵינֵ֥י הַכֹּהֵֽן׃",
+              "english": "and the leprosy cover all the skin of the plague-spot, from his head until his feet, to all the sight of the eyes of the Cohein [(to exclude a Cohein whose sight has dimmed)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֨ה כִסְּתָ֤ה הַצָּרַ֙עַת֙ אֶת־כׇּל־בְּשָׂר֔וֹ",
+              "english": "And the Cohein shall see, and behold, the leprosy has covered all of his flesh,"
+            },
+            {
+              "hebrew": "וְטִהַ֖ר אֶת־הַנָּ֑גַע כֻּלּ֛וֹ הָפַ֥ךְ לָבָ֖ן טָה֥וֹר הֽוּא׃",
+              "english": "then he shall declare the plague-spot clean; all of it has turned white — it is clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וּבְי֨וֹם הֵרָא֥וֹת בּ֛וֹ בָּשָׂ֥ר חַ֖י",
+              "english": "And on the day [(There is a \"day\" when plague-spots are inspected and a \"day\" when they are not inspected. A groom is given all seven days of his festivity — him, his garments, and his house (not to be inspected). Likewise, one is granted all the days of a festival.)] that there appear in it healthy flesh [(If a limb tip, which could not be rendered unclean by the appearance of healthy flesh (which normally does render a plague-spot unclean) because the entire limb, by virtue of its \"slopes\" could not be viewed at one time — If such a limb tip broadened and leveled, so that it could be viewed at one time, and healthy flesh appeared in it, then)]"
+            },
+            {
+              "hebrew": "יִטְמָֽא׃",
+              "english": "he shall be unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֧ה הַכֹּהֵ֛ן אֶת־הַבָּשָׂ֥ר הַחַ֖י וְטִמְּא֑וֹ",
+              "english": "And the Cohein shall see the healthy flesh, and he shall declare him unclean."
+            },
+            {
+              "hebrew": "הַבָּשָׂ֥ר הַחַ֛י טָמֵ֥א ה֖וּא צָרַ֥עַת הֽוּא׃",
+              "english": "The healthy flesh is unclean; it is leprosy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "א֣וֹ כִ֥י יָשׁ֛וּב הַבָּשָׂ֥ר הַחַ֖י וְנֶהְפַּ֣ךְ לְלָבָ֑ן",
+              "english": "Or if the healthy flesh recede and it return to white,"
+            },
+            {
+              "hebrew": "וּבָ֖א אֶל־הַכֹּהֵֽן׃",
+              "english": "then he shall come to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֙הוּ֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נֶהְפַּ֥ךְ הַנֶּ֖גַע לְלָבָ֑ן",
+              "english": "And the Cohein shall view it, and, behold, the plague-spot has turned to white,"
+            },
+            {
+              "hebrew": "וְטִהַ֧ר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע טָה֥וֹר הֽוּא׃&nbsp;{פ}",
+              "english": "then the Cohein shall declare the plague-spot clean; he is clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וּבָשָׂ֕ר כִּֽי־יִהְיֶ֥ה בֽוֹ־בְעֹר֖וֹ שְׁחִ֑ין",
+              "english": "And flesh, if there be in it, in its skin, a boil [a warming of the flesh due to a wound],"
+            },
+            {
+              "hebrew": "וְנִרְפָּֽא׃",
+              "english": "and it [the boil] be healed,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֞ה בִּמְק֤וֹם הַשְּׁחִין֙ שְׂאֵ֣ת לְבָנָ֔ה א֥וֹ בַהֶ֖רֶת לְבָנָ֣ה אֲדַמְדָּ֑מֶת",
+              "english": "And there be in the place of the boil a white se'eth or a reddish-white bahereth,"
+            },
+            {
+              "hebrew": "וְנִרְאָ֖ה אֶל־הַכֹּהֵֽן׃",
+              "english": "then it shall be shown to the Cohein."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה מַרְאֶ֙הָ֙ שָׁפָ֣ל מִן־הָע֔וֹר וּשְׂעָרָ֖הּ הָפַ֣ךְ לָבָ֑ן",
+              "english": "And the Cohein shall see, and, behold, its appearance is lower than the skin, and its hair has turned white,"
+            },
+            {
+              "hebrew": "וְטִמְּא֧וֹ הַכֹּהֵ֛ן נֶֽגַע־צָרַ֥עַת הִ֖וא בַּשְּׁחִ֥ין פָּרָֽחָה׃",
+              "english": "then the Cohein shall declare him unclean. It is a plague-spot of leprosy; it has blossomed in the boil."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֣ם&thinsp;׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בָּהּ֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣יא כֵהָ֑ה",
+              "english": "And if the Cohein see it, and, behold, there is no white hair in it, and it is not lower than the skin, and it is dim,"
+            },
+            {
+              "hebrew": "וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "then the Cohein shall quarantine him for seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־פָּשֹׂ֥ה תִפְשֶׂ֖ה בָּע֑וֹר",
+              "english": "And if it spread in the skin,"
+            },
+            {
+              "hebrew": "וְטִמֵּ֧א הַכֹּהֵ֛ן אֹת֖וֹ נֶ֥גַע הִֽוא׃",
+              "english": "then the Cohein shall declare him unclean; it [the se'eth or the bahereth] is plague."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־תַּחְתֶּ֜יהָ תַּעֲמֹ֤ד הַבַּהֶ֙רֶת֙ לֹ֣א פָשָׂ֔תָה",
+              "english": "And if the bahereth remains in its place — if it has not spread —"
+            },
+            {
+              "hebrew": "צָרֶ֥בֶת הַשְּׁחִ֖ין הִ֑וא וְטִהֲר֖וֹ הַכֹּהֵֽן׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "then it is the scar of the boil, and the Cohein shall declare him clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "א֣וֹ בָשָׂ֔ר כִּֽי־יִהְיֶ֥ה בְעֹר֖וֹ מִכְוַת־אֵ֑שׁ",
+              "english": "Or flesh, if there be in its skin a burn by fire,"
+            },
+            {
+              "hebrew": "וְֽהָיְתָ֞ה מִֽחְיַ֣ת הַמִּכְוָ֗ה בַּהֶ֛רֶת לְבָנָ֥ה אֲדַמְדֶּ֖מֶת א֥וֹ לְבָנָֽה׃",
+              "english": "and the healing of the burn were [i.e., turned into] a bahereth, reddish-white or [plain] white [(Note: There is no difference between the (accompanying) signs of a boil and a burn. Scripture treats boil and burn separately by way of indicating that half-minimum sizes of each do not combine to render one unclean.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה אֹתָ֣הּ הַכֹּהֵ֡ן וְהִנֵּ֣ה נֶהְפַּךְ֩ שֵׂעָ֨ר לָבָ֜ן בַּבַּהֶ֗רֶת וּמַרְאֶ֙הָ֙ עָמֹ֣ק מִן־הָע֔וֹר",
+              "english": "Then the Cohein shall see it, and, behold, if the hair has turned white in the bahereth, and its appearance is deeper than the skin,"
+            },
+            {
+              "hebrew": "צָרַ֣עַת הִ֔וא בַּמִּכְוָ֖ה פָּרָ֑חָה",
+              "english": "it is leprosy; it has blossomed in the burn."
+            },
+            {
+              "hebrew": "וְטִמֵּ֤א אֹתוֹ֙ הַכֹּהֵ֔ן נֶ֥גַע צָרַ֖עַת הִֽוא׃",
+              "english": "And the Cohein shall declare him unclean; it is a plague-spot of leprosy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֣ם&thinsp;׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־בַּבַּהֶ֙רֶת֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥הֿ אֵינֶ֛נָּה מִן־הָע֖וֹר וְהִ֣וא כֵהָ֑ה",
+              "english": "And if the Cohein see it, and, behold, there is not in the bahereth a white hair, and it is not lower than the skin, and it is dim,"
+            },
+            {
+              "hebrew": "וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "then the Cohein shall quarantine him for seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֥הוּ הַכֹּהֵ֖ן בַּיּ֣וֹם הַשְּׁבִיעִ֑י",
+              "english": "And the Cohein shall see him on the seventh day."
+            },
+            {
+              "hebrew": "אִם־פָּשֹׂ֤ה תִפְשֶׂה֙ בָּע֔וֹר וְטִמֵּ֤א הַכֹּהֵן֙ אֹת֔וֹ נֶ֥גַע צָרַ֖עַת הִֽוא׃",
+              "english": "If it has spread in the skin, then the Cohein shall declare him unclean; it is a plague-spot of leprosy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־תַּחְתֶּ֩יהָ֩ תַעֲמֹ֨ד הַבַּהֶ֜רֶת לֹא־פָשְׂתָ֤ה בָעוֹר֙ וְהִ֣וא כֵהָ֔ה",
+              "english": "And if the bahereth remains in its place, not having spread in the skin, and it is dim,"
+            },
+            {
+              "hebrew": "שְׂאֵ֥ת הַמִּכְוָ֖ה הִ֑וא וְטִֽהֲרוֹ֙ הַכֹּהֵ֔ן כִּֽי־צָרֶ֥בֶת הַמִּכְוָ֖ה הִֽוא׃&nbsp;{פ}",
+              "english": "then it is the rising of the burn. And the Cohein shall declare him clean, for it is the scar of the burn."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְאִישׁ֙ א֣וֹ אִשָּׁ֔ה",
+              "english": "And a man or a woman —"
+            },
+            {
+              "hebrew": "כִּֽי־יִהְיֶ֥ה ב֖וֹ נָ֑גַע בְּרֹ֖אשׁ א֥וֹ בְזָקָֽן׃",
+              "english": "if there be in him a plague-spot, in the head or in the beard [(Scripture comes to distinguish between a plague-spot in the hair (site) and one in the flesh, the former being characterized by yellow hair and the latter by white)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֨ה הַכֹּהֵ֜ן אֶת־הַנֶּ֗גַע וְהִנֵּ֤ה מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־הָע֔וֹר וּב֛וֹ שֵׂעָ֥ר צָהֹ֖ב דָּ֑ק",
+              "english": "Then the Cohein shall see the plague-spot; and if its appearance is deeper than the skin and there is in it thin yellow hair, [the black hair in it having turned to yellow],"
+            },
+            {
+              "hebrew": "וְטִמֵּ֨א אֹת֤וֹ הַכֹּהֵן֙ נֶ֣תֶק ה֔וּא צָרַ֧עַת הָרֹ֛אשׁ א֥וֹ הַזָּקָ֖ן הֽוּא׃",
+              "english": "then the Cohein shall declare him unclean. It is a nethek (a scall); it is leprosy of the head or of the beard."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יִרְאֶ֨ה הַכֹּהֵ֜ן אֶת־נֶ֣גַע הַנֶּ֗תֶק וְהִנֵּ֤ה אֵין־מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־הָע֔וֹר וְשֵׂעָ֥ר שָׁחֹ֖ר אֵ֣ין בּ֑וֹ",
+              "english": "And if the Cohein see the nethek plague-spot, and, behold, its appearance is not deeper than the skin, and there is no black hair in it,"
+            },
+            {
+              "hebrew": "וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־נֶ֥גַע הַנֶּ֖תֶק שִׁבְעַ֥ת יָמִֽים׃",
+              "english": "then the Cohein shall quarantine the nethek plague-spot for seven days [(But if there were black hair, he is clean and quarantine is not required, black hair being a sign of cleanliness in a nethek)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֨ה הַכֹּהֵ֣ן אֶת־הַנֶּ֘גַע֮ בַּיּ֣וֹם הַשְּׁבִיעִי֒",
+              "english": "And the Cohein shall see the plague-spot on the seventh day,"
+            },
+            {
+              "hebrew": "וְהִנֵּה֙ לֹא־פָשָׂ֣ה הַנֶּ֔תֶק וְלֹא־הָ֥יָה ב֖וֹ שֵׂעָ֣ר צָהֹ֑ב",
+              "english": "and, behold, if the nethek has not spread, and there is no yellow hair in it [(but if it did spread or there were yellow hair, he is unclean)],"
+            },
+            {
+              "hebrew": "וּמַרְאֵ֣ה הַנֶּ֔תֶק אֵ֥ין עָמֹ֖ק מִן־הָעֽוֹר׃",
+              "english": "and the appearance of the nethek is not deeper than the skin,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְהִ֨תְגַּלָּ֔ח וְאֶת־הַנֶּ֖תֶק לֹ֣א יְגַלֵּ֑חַ",
+              "english": "Then he shall be shaved [around the nethek], but the nethek he shall not shave. [(He leaves a border two hairs (thick) roundabout it, so that if it spreads, it will pass that border into the shaven area and be discernible (as having spread)]."
+            },
+            {
+              "hebrew": "וְהִסְגִּ֨יר הַכֹּהֵ֧ן אֶת־הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃",
+              "english": "And the Cohein shall quarantine the nethek a second seven days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָה֩ הַכֹּהֵ֨ן אֶת־הַנֶּ֜תֶק בַּיּ֣וֹם הַשְּׁבִיעִ֗י וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙תֶק֙ בָּע֔וֹר וּמַרְאֵ֕הוּ אֵינֶ֥נּוּ עָמֹ֖ק מִן־הָע֑וֹר",
+              "english": "And the Cohein shall see the nethek on the seventh day. And, behold, if the nethek has not spread in the skin, and its appearance is not deeper than the skin,"
+            },
+            {
+              "hebrew": "וְטִהַ֤ר אֹתוֹ֙ הַכֹּהֵ֔ן וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃",
+              "english": "then the Cohein shall declare him clean, and he shall wash his clothes and he shall be clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־פָּשֹׂ֥ה יִפְשֶׂ֛ה הַנֶּ֖תֶק בָּע֑וֹר",
+              "english": "And if the nethek has spread, spread in the skin"
+            },
+            {
+              "hebrew": "אַחֲרֵ֖י טׇהֳרָתֽוֹ׃",
+              "english": "after his cleaning [(\"spread, spread\"): Not only after his quarantine, but also after the first week or after the second week)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֙הוּ֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖תֶק בָּע֑וֹר",
+              "english": "Then the Cohein shall see him, and, behold, the nethek has spread in the skin,"
+            },
+            {
+              "hebrew": "לֹֽא־יְבַקֵּ֧ר הַכֹּהֵ֛ן לַשֵּׂעָ֥ר הַצָּהֹ֖ב טָמֵ֥א הֽוּא׃",
+              "english": "then the Cohein shall not seek out the yellow hair; he is unclean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־בְּעֵינָיו֩ עָמַ֨ד הַנֶּ֜תֶק וְשֵׂעָ֨ר שָׁחֹ֧ר צָֽמַח־בּ֛וֹ",
+              "english": "And if in his eyes the nethek has remained as it was, and black hair [or hair of any color other than yellow] has sprouted in it,"
+            },
+            {
+              "hebrew": "נִרְפָּ֥א הַנֶּ֖תֶק טָה֣וֹר ה֑וּא וְטִהֲר֖וֹ הַכֹּהֵֽן׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "then the nethek has been healed; he is clean. And the Cohein shall declare him clean [(But if the Cohein declared clean one who is unclean, he does not become clean)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וְאִישׁ֙ אֽוֹ־אִשָּׁ֔ה",
+              "english": "And a man or a woman,"
+            },
+            {
+              "hebrew": "כִּֽי־יִהְיֶ֥ה בְעוֹר־בְּשָׂרָ֖ם בֶּהָרֹ֑ת בֶּהָרֹ֖ת לְבָנֹֽת׃",
+              "english": "if there be in the skin of their flesh white spots,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֧ה בְעוֹר־בְּשָׂרָ֛ם בֶּהָרֹ֖ת כֵּה֣וֹת לְבָנֹ֑ת",
+              "english": "Then the Cohein shall see, and, behold, in the skin of their flesh there are dull white spots,"
+            },
+            {
+              "hebrew": "בֹּ֥הַק ה֛וּא פָּרַ֥ח בָּע֖וֹר טָה֥וֹר הֽוּא׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "it is a bohak (brightness) that has blossomed in the skin [(like the white that \"shines out\" between freckles)]; he is clean."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֕ישׁ כִּ֥י יִמָּרֵ֖ט רֹאשׁ֑וֹ",
+              "english": "And a man, if the hair of his head [from the slope of his head towards the nape (karachath)] fall out,"
+            },
+            {
+              "hebrew": "קֵרֵ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃",
+              "english": "he is kereach (bald); he is clean [of nethek uncleanliness, (and subject only to flesh uncleanliness)]."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:55:04.819Z"
+  "updatedAt": "2026-10-26T18:56:12.218Z"
 }
