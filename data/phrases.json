@@ -40617,9 +40617,637 @@
             }
           ],
           "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־הַשֻּׁלְחָן֙ אֶת־כׇּל־כֵּלָ֔יו",
+              "english": "The table and all its implements"
+            },
+            {
+              "hebrew": "וְאֵ֖ת לֶ֥חֶם הַפָּנִֽים׃",
+              "english": "and the show-bread."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־הַמְּנֹרָ֨ה הַטְּהֹרָ֜ה אֶת־נֵרֹתֶ֗יהָ נֵרֹ֛ת הַמַּֽעֲרָכָ֖ה וְאֶת־כׇּל־כֵּלֶ֑יהָ",
+              "english": "The pure menorah, its lamps — the lamps of the arrangement (27:21) — and all its implements"
+            },
+            {
+              "hebrew": "וְאֵ֖ת שֶׁ֥מֶן הַמָּאֽוֹר׃",
+              "english": "and the oil for lighting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֙ מִזְבַּ֣ח הַזָּהָ֔ב וְאֵת֙ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְאֵ֖ת קְטֹ֣רֶת הַסַּמִּ֑ים",
+              "english": "And the golden altar, and the anointing oil, and the spice incense,"
+            },
+            {
+              "hebrew": "וְאֵ֕ת מָסַ֖ךְ פֶּ֥תַח הָאֹֽהֶל׃",
+              "english": "and the partition for the entrance of the tent."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֣ת&thinsp;׀ מִזְבַּ֣ח הַנְּחֹ֗שֶׁת וְאֶת־מִכְבַּ֤ר הַנְּחֹ֙שֶׁת֙ אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְאֶת־כׇּל־כֵּלָ֑יו",
+              "english": "The copper altar, its copper lattice, its staves, and all its implements,"
+            },
+            {
+              "hebrew": "אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּֽוֹ׃",
+              "english": "the kiyyor and its pedestal."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "אֵת֩ קַלְעֵ֨י הֶחָצֵ֜ר אֶת־עַמֻּדֶ֣יהָ וְאֶת־אֲדָנֶ֗יהָ וְאֶת־הַמָּסָךְ֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר אֶת־מֵיתָרָ֖יו וִיתֵדֹתֶ֑יהָ",
+              "english": "The curtains of the court, its pillars and its sockets and the partition for the gate of the court, its cords and its pegs,"
+            },
+            {
+              "hebrew": "וְאֵ֗ת כׇּל־כְּלֵ֛י עֲבֹדַ֥ת הַמִּשְׁכָּ֖ן לְאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and all the implements of the service of the mishkan of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־בִּגְדֵ֥י הַשְּׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ",
+              "english": "The mesh vestments for covering the holy (appurtenances),"
+            },
+            {
+              "hebrew": "אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃",
+              "english": "the consecrated garments of Aaron the Cohein, and the garments of his sons for ministering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "כְּכֹ֛ל אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶׁ֑ה",
+              "english": "As all that the L-rd had commanded Moses,"
+            },
+            {
+              "hebrew": "כֵּ֤ן עָשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת כׇּל־הָעֲבֹדָֽה׃",
+              "english": "thus did the children of Israel do all of the work."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֨רְא מֹשֶׁ֜ה אֶת־כׇּל־הַמְּלָאכָ֗ה וְהִנֵּה֙ עָשׂ֣וּ אֹתָ֔הּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה כֵּ֣ן עָשׂ֑וּ",
+              "english": "And Moses saw all the work, and, behold, they had done it as the L-rd had commanded; thus had they done it."
+            },
+            {
+              "hebrew": "וַיְבָ֥רֶךְ אֹתָ֖ם מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "And Moses blessed them."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "40": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "בְּיוֹם־הַחֹ֥דֶשׁ הָרִאשׁ֖וֹן בְּאֶחָ֣ד לַחֹ֑דֶשׁ",
+              "english": "On the first day of the first month,"
+            },
+            {
+              "hebrew": "תָּקִ֕ים אֶת־מִשְׁכַּ֖ן אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "you shall set up the mishkan of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׂמְתָּ֣ שָׁ֔ם אֵ֖ת אֲר֣וֹן הָעֵד֑וּת",
+              "english": "And you shall place there the ark of testimony,"
+            },
+            {
+              "hebrew": "וְסַכֹּתָ֥ עַל־הָאָרֹ֖ן אֶת־הַפָּרֹֽכֶת׃",
+              "english": "and you shall screen the ark with the parocheth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְהֵבֵאתָ֙ אֶת־הַשֻּׁלְחָ֔ן וְעָרַכְתָּ֖ אֶת־עֶרְכּ֑וֹ",
+              "english": "And you shall bring the table and make its arrangement [the two arrangements of the show bread (see Leviticus 24:5-6)],"
+            },
+            {
+              "hebrew": "וְהֵבֵאתָ֙ אֶת־הַמְּנֹרָ֔ה וְהַעֲלֵיתָ֖ אֶת־נֵרֹתֶֽיהָ׃",
+              "english": "and you shall bring the menorah and you shall light its lamps."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֞ה אֶת־מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲר֣וֹן הָעֵדֻ֑ת",
+              "english": "And you shall place the golden altar for (smoking) incense before the ark of testimony,"
+            },
+            {
+              "hebrew": "וְשַׂמְתָּ֛ אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃",
+              "english": "and you shall place the entrance partition for the mishkan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְנָ֣תַתָּ֔ה אֵ֖ת מִזְבַּ֣ח הָעֹלָ֑ה",
+              "english": "And you shall place the burnt-offering altar"
+            },
+            {
+              "hebrew": "לִפְנֵ֕י פֶּ֖תַח מִשְׁכַּ֥ן אֹֽהֶל־מוֹעֵֽד׃",
+              "english": "before the entrance of the mishkan of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְנָֽתַתָּ֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ",
+              "english": "And you shall place the kiyyor between the tent of meeting and the altar"
+            },
+            {
+              "hebrew": "וְנָתַתָּ֥ שָׁ֖ם מָֽיִם׃",
+              "english": "and you shall put water there."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׂמְתָּ֥ אֶת־הֶחָצֵ֖ר סָבִ֑יב",
+              "english": "And you shall set up the court roundabout,"
+            },
+            {
+              "hebrew": "וְנָ֣תַתָּ֔ אֶת־מָסַ֖ךְ שַׁ֥עַר הֶחָצֵֽר׃",
+              "english": "and you shall place the screen of the gate of the court."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַחְתָּ֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה",
+              "english": "And you shall take the anointing oil"
+            },
+            {
+              "hebrew": "וּמָשַׁחְתָּ֥ אֶת־הַמִּשְׁכָּ֖ן וְאֶת־כׇּל־אֲשֶׁר־בּ֑וֹ",
+              "english": "and you shall anoint the mishkan and all that is in it."
+            },
+            {
+              "hebrew": "וְקִדַּשְׁתָּ֥ אֹת֛וֹ וְאֶת־כׇּל־כֵּלָ֖יו וְהָ֥יָה קֹֽדֶשׁ׃",
+              "english": "And you shall consecrate it and all of its appurtenances, and it shall be holy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וּמָשַׁחְתָּ֛ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־כׇּל־כֵּלָ֑יו",
+              "english": "And you shall anoint the burnt-offering altar and all of its implements."
+            },
+            {
+              "hebrew": "וְקִדַּשְׁתָּ֙ אֶת־הַמִּזְבֵּ֔חַ וְהָיָ֥ה הַמִּזְבֵּ֖חַ קֹ֥דֶשׁ קׇֽדָשִֽׁים׃",
+              "english": "And you shall consecrate the altar, and the altar shall be holy of holies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וּמָשַׁחְתָּ֥ אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּ֑וֹ",
+              "english": "And you shall anoint the kiyyor and its pedestal,"
+            },
+            {
+              "hebrew": "וְקִדַּשְׁתָּ֖ אֹתֽוֹ׃",
+              "english": "and you shall consecrate it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרַבְתָּ֤ אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֔יו אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And you shall bring near Aaron and his sons to the entrance of the tent of meeting"
+            },
+            {
+              "hebrew": "וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃",
+              "english": "and you shall wash them with water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהִלְבַּשְׁתָּ֙ אֶֽת־אַהֲרֹ֔ן אֵ֖ת בִּגְדֵ֣י הַקֹּ֑דֶשׁ",
+              "english": "And you shall clothe Aaron in the holy garments,"
+            },
+            {
+              "hebrew": "וּמָשַׁחְתָּ֥ אֹת֛וֹ וְקִדַּשְׁתָּ֥ אֹת֖וֹ",
+              "english": "and you shall anoint him, and you shall consecrate him,"
+            },
+            {
+              "hebrew": "וְכִהֵ֥ן לִֽי׃",
+              "english": "and he shall minister unto Me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־בָּנָ֖יו תַּקְרִ֑יב",
+              "english": "And his sons shall you bring near,"
+            },
+            {
+              "hebrew": "וְהִלְבַּשְׁתָּ֥ אֹתָ֖ם כֻּתֳּנֹֽת׃",
+              "english": "and you shall dress them in kutanoth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וּמָשַׁחְתָּ֣ אֹתָ֗ם כַּאֲשֶׁ֤ר מָשַׁ֙חְתָּ֙ אֶת־אֲבִיהֶ֔ם",
+              "english": "And you shall anoint them as you anointed their father."
+            },
+            {
+              "hebrew": "וְכִהֲנ֖וּ לִ֑י",
+              "english": "And they shall minister unto Me."
+            },
+            {
+              "hebrew": "וְ֠הָיְתָ֠ה לִהְיֹ֨ת לָהֶ֧ם מׇשְׁחָתָ֛ם לִכְהֻנַּ֥ת עוֹלָ֖ם לְדֹרֹתָֽם׃",
+              "english": "and this will serve for their anointment to be for them an eternal kehunah for their generations."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֖עַשׂ מֹשֶׁ֑ה כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֹת֖וֹ",
+              "english": "And Moses did as all that the L-rd had commanded him;"
+            },
+            {
+              "hebrew": "כֵּ֥ן עָשָֽׂה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "thus did he do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֞י בַּחֹ֧דֶשׁ הָרִאשׁ֛וֹן בַּשָּׁנָ֥ה הַשֵּׁנִ֖ית בְּאֶחָ֣ד לַחֹ֑דֶשׁ",
+              "english": "And it was in the first month of the second year on the first of the month"
+            },
+            {
+              "hebrew": "הוּקַ֖ם הַמִּשְׁכָּֽן׃",
+              "english": "that the mishkan was set up."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֨קֶם מֹשֶׁ֜ה אֶת־הַמִּשְׁכָּ֗ן",
+              "english": "And Moses erected the mishkan."
+            },
+            {
+              "hebrew": "וַיִּתֵּן֙ אֶת־אֲדָנָ֔יו וַיָּ֙שֶׂם֙ אֶת־קְרָשָׁ֔יו וַיִּתֵּ֖ן אֶת־בְּרִיחָ֑יו",
+              "english": "He placed its sockets and he set its beams, and he placed its bars"
+            },
+            {
+              "hebrew": "וַיָּ֖קֶם אֶת־עַמּוּדָֽיו׃",
+              "english": "and he set up its pillars."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְרֹ֤שׂ אֶת־הָאֹ֙הֶל֙ עַל־הַמִּשְׁכָּ֔ן וַיָּ֜שֶׂם אֶת־מִכְסֵ֥ה הָאֹ֛הֶל עָלָ֖יו מִלְמָ֑עְלָה",
+              "english": "And he spread the tent [the goats' hair spread] on the mishkan. And he placed the covering of the tent above it,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֞ח וַיִּתֵּ֤ן אֶת־הָעֵדֻת֙ אֶל־הָ֣אָרֹ֔ן",
+              "english": "And he took and he placed the testimony [the tablets] into the ark."
+            },
+            {
+              "hebrew": "וַיָּ֥שֶׂם אֶת־הַבַּדִּ֖ים עַל־הָאָרֹ֑ן",
+              "english": "And he put the staves on the ark."
+            },
+            {
+              "hebrew": "וַיִּתֵּ֧ן אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָֽעְלָה׃",
+              "english": "And he placed the kaporeth on the ark from above."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֵ֣א אֶת־הָאָרֹן֮ אֶל־הַמִּשְׁכָּן֒ וַיָּ֗שֶׂם אֵ֚ת פָּרֹ֣כֶת הַמָּסָ֔ךְ וַיָּ֕סֶךְ עַ֖ל אֲר֣וֹן הָעֵד֑וּת",
+              "english": "And he brought the ark to the mishkan, and he placed the parocheth partition and it screened the ark of testimony,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתֵּ֤ן אֶת־הַשֻּׁלְחָן֙ בְּאֹ֣הֶל מוֹעֵ֔ד",
+              "english": "And he put the table in the tent of meeting"
+            },
+            {
+              "hebrew": "עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן צָפֹ֑נָה מִח֖וּץ לַפָּרֹֽכֶת׃",
+              "english": "on the side of the mishkan north [i.e., on the northern half of the breadth of the sanctuary], outside the parocheth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּעֲרֹ֥ךְ עָלָ֛יו עֵ֥רֶךְ לֶ֖חֶם לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "And he arranged on it a bread arrangement before the L-rd,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֤שֶׂם אֶת־הַמְּנֹרָה֙ בְּאֹ֣הֶל מוֹעֵ֔ד",
+              "english": "And he put the menorah in the tent of meeting"
+            },
+            {
+              "hebrew": "נֹ֖כַח הַשֻּׁלְחָ֑ן עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן נֶֽגְבָּה׃",
+              "english": "opposite the table on the side of the mishkan south."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַל הַנֵּרֹ֖ת לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "And he lit the lamps before the L-rd"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֛שֶׂם אֶת־מִזְבַּ֥ח הַזָּהָ֖ב בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And he put the golden altar in the tent of meeting"
+            },
+            {
+              "hebrew": "לִפְנֵ֖י הַפָּרֹֽכֶת׃",
+              "english": "before (i.e., inside) the parocheth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְטֵ֥ר עָלָ֖יו קְטֹ֣רֶת סַמִּ֑ים",
+              "english": "And he smoked upon it spice incense,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses [see 30:7-8]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֛שֶׂם אֶת־מָסַ֥ךְ הַפֶּ֖תַח",
+              "english": "And he placed the entrance partition"
+            },
+            {
+              "hebrew": "לַמִּשְׁכָּֽן׃",
+              "english": "for the mishkan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֙ מִזְבַּ֣ח הָעֹלָ֔ה שָׂ֕ם פֶּ֖תַח מִשְׁכַּ֣ן אֹֽהֶל־מוֹעֵ֑ד",
+              "english": "And the burnt-offering altar he placed at the entrance of the mishkan of the tent of meeting."
+            },
+            {
+              "hebrew": "וַיַּ֣עַל עָלָ֗יו אֶת־הָעֹלָה֙ וְאֶת־הַמִּנְחָ֔ה",
+              "english": "And he offered up upon it the burnt-offering [the continual burnt-offering] and the meal-offering [accompanying the libations of the continual burnt-offering (29:40)],"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֙שֶׂם֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ",
+              "english": "And he put the kiyyor between the tent of meeting and the altar,"
+            },
+            {
+              "hebrew": "וַיִּתֵּ֥ן שָׁ֛מָּה מַ֖יִם לְרׇחְצָֽה׃",
+              "english": "and he put there water for washing."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְרָחֲצ֣וּ מִמֶּ֔נּוּ מֹשֶׁ֖ה וְאַהֲרֹ֣ן וּבָנָ֑יו",
+              "english": "And Moses and Aaron and his sons washed from it"
+            },
+            {
+              "hebrew": "אֶת־יְדֵיהֶ֖ם וְאֶת־רַגְלֵיהֶֽם׃",
+              "english": "their hands and their feet, [all of them being equal for kehunah on the eighth day of the investiture of the Cohanim (which was the day of the erection of the mishkan)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "בְּבֹאָ֞ם אֶל־אֹ֣הֶל מוֹעֵ֗ד וּבְקׇרְבָתָ֛ם אֶל־הַמִּזְבֵּ֖חַ יִרְחָ֑צוּ",
+              "english": "When they came to the tent of meeting and when they approached the altar they would wash,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣קֶם אֶת־הֶחָצֵ֗ר סָבִיב֙ לַמִּשְׁכָּ֣ן וְלַמִּזְבֵּ֔חַ וַיִּתֵּ֕ן אֶת־מָסַ֖ךְ שַׁ֣עַר הֶחָצֵ֑ר",
+              "english": "And he erected the court around the mishkan and the altar, and he placed the screen of the gate of the court."
+            },
+            {
+              "hebrew": "וַיְכַ֥ל מֹשֶׁ֖ה אֶת־הַמְּלָאכָֽה׃&nbsp;{פ}",
+              "english": "And Moses completed the work."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַיְכַ֥ס הֶעָנָ֖ן אֶת־אֹ֣הֶל מוֹעֵ֑ד",
+              "english": "And the cloud covered the tent of meeting,"
+            },
+            {
+              "hebrew": "וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃",
+              "english": "and the glory of the L-rd filled the mishkan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹא־יָכֹ֣ל מֹשֶׁ֗ה לָבוֹא֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד כִּֽי־שָׁכַ֥ן עָלָ֖יו הֶעָנָ֑ן",
+              "english": "And Moses could not come to the tent of meeting, for the cloud rested upon it"
+            },
+            {
+              "hebrew": "וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃",
+              "english": "and the glory of the L-rd filled the mishkan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וּבְהֵעָל֤וֹת הֶֽעָנָן֙ מֵעַ֣ל הַמִּשְׁכָּ֔ן",
+              "english": "And when the cloud rose from the mishkan,"
+            },
+            {
+              "hebrew": "יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל בְּכֹ֖ל מַסְעֵיהֶֽם׃",
+              "english": "the children of Israel would travel on all of their journeys."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־לֹ֥א יֵעָלֶ֖ה הֶעָנָ֑ן",
+              "english": "And if the cloud did not rise,"
+            },
+            {
+              "hebrew": "וְלֹ֣א יִסְע֔וּ עַד־י֖וֹם הֵעָלֹתֽוֹ׃",
+              "english": "they did not journey until the day of its rising."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "כִּי֩ עֲנַ֨ן יְהֹוָ֤ה עַֽל־הַמִּשְׁכָּן֙ יוֹמָ֔ם",
+              "english": "For the cloud of the L-rd was on the mishkan by day,"
+            },
+            {
+              "hebrew": "וְאֵ֕שׁ תִּהְיֶ֥ה לַ֖יְלָה בּ֑וֹ",
+              "english": "and a fire was in it at night"
+            },
+            {
+              "hebrew": "לְעֵינֵ֥י כׇל־בֵּֽית־יִשְׂרָאֵ֖ל בְּכׇל־מַסְעֵיהֶֽם׃",
+              "english": "before the eyes of all the house of Israel in all of their journeyings [i.e., in all the encampments of their journeyings]."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:47:55.424Z"
+  "updatedAt": "2026-10-26T18:49:12.946Z"
 }
