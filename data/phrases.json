@@ -75191,12 +75191,12 @@
         "9": {
           "pairs": [
             {
-              "hebrew": "וְיָ֣דַעְתָּ֔ כִּֽי־יְהֹוָ֥ה אֱלֹהֶ֖יךָ ה֣וּא הָֽאֱלֹהִ֑ים הָאֵל֙ הַֽנֶּאֱמָ֔ן",
-              "english": "And you shall know that the L-rd your G-d is the god, the faithful G-d,"
+              "hebrew": "וְיָ֣דַעְתָּ֔ כִּֽי־יְהֹוָ֥ה אֱלֹהֶ֖יךָ ה֣וּא הָֽאֱלֹהִ֑ים",
+              "english": "And you shall know that the L-rd your G-d is the god,"
             },
             {
-              "hebrew": "שֹׁמֵ֧ר הַבְּרִ֣ית וְהַחֶ֗סֶד לְאֹהֲבָ֛יו וּלְשֹׁמְרֵ֥י מִצְוֺתָ֖ו לְאֶ֥לֶף דּֽוֹר׃",
-              "english": "guarding the covenant and the lovingkindness for His lovers [those who do the mitzvoth out of love], and for the keepers of His mitzvoth [out of fear] for a thousand generations, [(but for \"His lovers,\" for \"thousands\" (5:10)]."
+              "hebrew": "הָאֵל֙ הַֽנֶּאֱמָ֔ן שֹׁמֵ֧ר הַבְּרִ֣ית וְהַחֶ֗סֶד לְאֹהֲבָ֛יו וּלְשֹׁמְרֵ֥י מִצְוֺתָ֖ו לְאֶ֥לֶף דּֽוֹר׃",
+              "english": "the faithful G-d, guarding the covenant and the lovingkindness for His lovers [those who do the mitzvoth out of love], and for the keepers of His mitzvoth [out of fear] for a thousand generations, [(but for \"His lovers,\" for \"thousands\" (5:10)]."
             }
           ],
           "model": "Instinct"
@@ -75738,12 +75738,12 @@
         "2": {
           "pairs": [
             {
-              "hebrew": "עַֽם־גָּד֥וֹל וָרָ֖ם בְּנֵ֣י עֲנָקִ֑ים",
-              "english": "A people great and lofty, the sons of Anakim,"
+              "hebrew": "עַֽם־גָּד֥וֹל וָרָ֖ם בְּנֵ֣י עֲנָקִ֑ים אֲשֶׁ֨ר אַתָּ֤ה יָדַ֙עְתָּ֙ וְאַתָּ֣ה שָׁמַ֔עְתָּ",
+              "english": "A people great and lofty, the sons of Anakim, whom you know, and of whom you have heard (saying):"
             },
             {
-              "hebrew": "אֲשֶׁ֨ר אַתָּ֤ה יָדַ֙עְתָּ֙ וְאַתָּ֣ה שָׁמַ֔עְתָּ מִ֣י יִתְיַצֵּ֔ב לִפְנֵ֖י בְּנֵ֥י עֲנָֽק׃",
-              "english": "whom you know, and of whom you have heard (saying): Who can stand up against the sons of Anak!"
+              "hebrew": "מִ֣י יִתְיַצֵּ֔ב לִפְנֵ֖י בְּנֵ֥י עֲנָֽק׃",
+              "english": "Who can stand up against the sons of Anak!"
             }
           ],
           "model": "Instinct"
@@ -76877,12 +76877,12 @@
         "30": {
           "pairs": [
             {
-              "hebrew": "הֲלֹא־הֵ֜מָּה בְּעֵ֣בֶר הַיַּרְדֵּ֗ן אַֽחֲרֵי֙ דֶּ֚רֶךְ מְב֣וֹא הַשֶּׁ֔מֶשׁ",
-              "english": "Are they [the mountains] not beyond the passage of the Jordan towards the setting of the sun [the west],"
+              "hebrew": "הֲלֹא־הֵ֜מָּה בְּעֵ֣בֶר הַיַּרְדֵּ֗ן אַֽחֲרֵי֙ דֶּ֚רֶךְ מְב֣וֹא הַשֶּׁ֔מֶשׁ בְּאֶ֙רֶץ֙ הַֽכְּנַעֲנִ֔י הַיֹּשֵׁ֖ב בָּעֲרָבָ֑ה",
+              "english": "Are they [the mountains] not beyond the passage of the Jordan towards the setting of the sun [the west], in the land of the Canaani, who dwells in the plain,"
             },
             {
-              "hebrew": "בְּאֶ֙רֶץ֙ הַֽכְּנַעֲנִ֔י הַיֹּשֵׁ֖ב בָּעֲרָבָ֑ה מ֚וּל הַגִּלְגָּ֔ל אֵ֖צֶל אֵלוֹנֵ֥י מֹרֶֽה׃",
-              "english": "in the land of the Canaani, who dwells in the plain, distant from Gilgal, near Eilonei Moreh [Shchem]?"
+              "hebrew": "מ֚וּל הַגִּלְגָּ֔ל אֵ֖צֶל אֵלוֹנֵ֥י מֹרֶֽה׃",
+              "english": "distant from Gilgal, near Eilonei Moreh [Shchem]?"
             }
           ],
           "model": "Instinct"
@@ -76891,11 +76891,11 @@
           "pairs": [
             {
               "hebrew": "כִּ֤י אַתֶּם֙ עֹבְרִ֣ים אֶת־הַיַּרְדֵּ֔ן לָבֹא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם נֹתֵ֣ן לָכֶ֑ם",
-              "english": "When you cross the Jordan to come to inherit the land that the L-rd your G-d gives to you, [the miracles that you experience then will be a sign to you that]"
+              "english": "When you cross the Jordan to come to inherit the land that the L-rd your G-d gives to you,"
             },
             {
               "hebrew": "וִֽירִשְׁתֶּ֥ם אֹתָ֖הּ וִֽישַׁבְתֶּם־בָּֽהּ׃",
-              "english": "you will inherit it and you will dwell in it."
+              "english": "[the miracles that you experience then will be a sign to you that] you will inherit it and you will dwell in it."
             }
           ],
           "model": "Instinct"
@@ -78493,12 +78493,12 @@
         "10": {
           "pairs": [
             {
-              "hebrew": "וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ",
-              "english": "And you shall make a festival of weeks (shavuoth) to the L-rd your G-d,"
+              "hebrew": "וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן",
+              "english": "And you shall make a festival of weeks (shavuoth) to the L-rd your G-d, the sufficiency of the offering of your hand, which you shall give"
             },
             {
-              "hebrew": "מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
-              "english": "the sufficiency of the offering of your hand, which you shall give as the L-rd your G-d shall bless you [i.e., In accordance with the amplitude of His blessing, bring peace-offerings of joy and invite guests for the repast.]"
+              "hebrew": "כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+              "english": "as the L-rd your G-d shall bless you [i.e., In accordance with the amplitude of His blessing, bring peace-offerings of joy and invite guests for the repast.]"
             }
           ],
           "model": "Instinct"
@@ -78622,8 +78622,12 @@
               "english": "You shall not pervert judgment, and you shall not play favorites, [even during the pleading — an exhortation to the judge not to be firm with one and lenient with the other, e.g., making one stand and allowing the other to sit], and you shall not take a bribe [even to judge righteously];"
             },
             {
-              "hebrew": "כִּ֣י הַשֹּׁ֗חַד יְעַוֵּר֙ עֵינֵ֣י חֲכָמִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽם׃",
-              "english": "for a bribe blinds the eyes of the sages [(Once the judge takes a bribe from someone it is impossible for him not to seek arguments in his favor)], and it distorts righteous words [i.e., true judgments]."
+              "hebrew": "כִּ֣י הַשֹּׁ֗חַד יְעַוֵּר֙ עֵינֵ֣י חֲכָמִ֔ים",
+              "english": "for a bribe blinds the eyes of the sages [(Once the judge takes a bribe from someone it is impossible for him not to seek arguments in his favor)],"
+            },
+            {
+              "hebrew": "וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽם׃",
+              "english": "and it distorts righteous words [i.e., true judgments]."
             }
           ],
           "model": "Instinct"
@@ -78823,8 +78827,12 @@
               "english": "And the man who shall do wilfully, not to listen to the Cohein who stands there to serve the L-rd your G-d, or to the judge,"
             },
             {
-              "hebrew": "וּמֵת֙ הָאִ֣ישׁ הַה֔וּא וּבִֽעַרְתָּ֥ הָרָ֖ע מִיִּשְׂרָאֵֽל׃",
-              "english": "that man shall die; and you shall remove the evil from Israel."
+              "hebrew": "וּמֵת֙ הָאִ֣ישׁ הַה֔וּא",
+              "english": "that man shall die;"
+            },
+            {
+              "hebrew": "וּבִֽעַרְתָּ֥ הָרָ֖ע מִיִּשְׂרָאֵֽל׃",
+              "english": "and you shall remove the evil from Israel."
             }
           ],
           "model": "Instinct"
