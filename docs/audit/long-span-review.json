@@ -8,9 +8,10 @@
     "changedVerses": 199,
     "addedPairs": 223,
     "totalPairs": 14298,
-    "meanHebrewWords": 4.793957196810743,
+    "meanHebrewWords": 4.867883620086725,
     "meanEnglishWords": 15.381871590432228,
-    "remainingFlaggedPairs": 530
+    "remainingFlaggedPairs": 549,
+    "remainingNewFlaggedPairs": 508
   },
   "initialSplits": [
     {
