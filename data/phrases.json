@@ -54604,12 +54604,12 @@
         "44": {
           "pairs": [
             {
-              "hebrew": "אֵ֣לֶּה הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֤ה וְאַהֲרֹן֙ וּנְשִׂיאֵ֣י יִשְׂרָאֵ֔ל",
-              "english": "These are the numbered, who were numbered by Moses and Aaron and the chiefs of Israel,"
+              "hebrew": "אֵ֣לֶּה הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֤ה וְאַהֲרֹן֙ וּנְשִׂיאֵ֣י יִשְׂרָאֵ֔ל שְׁנֵ֥ים עָשָׂ֖ר אִ֑ישׁ",
+              "english": "These are the numbered, who were numbered by Moses and Aaron and the chiefs of Israel, twelve men;"
             },
             {
-              "hebrew": "שְׁנֵ֥ים עָשָׂ֖ר אִ֑ישׁ אִישׁ־אֶחָ֥ד לְבֵית־אֲבֹתָ֖יו הָיֽוּ׃",
-              "english": "twelve men; one man for his fathers' house were they."
+              "hebrew": "אִישׁ־אֶחָ֥ד לְבֵית־אֲבֹתָ֖יו הָיֽוּ׃",
+              "english": "one man for his fathers' house were they."
             }
           ],
           "model": "Instinct"
@@ -55775,8 +55775,12 @@
               "english": "All the numbered of the Levites, whom Moses and Aaron numbered [(The dots over \"Aharon\" indicate that he was not included in the count of the Levites)] by word of the L-rd, by their families,"
             },
             {
-              "hebrew": "כׇּל־זָכָר֙ מִבֶּן־חֹ֣דֶשׁ וָמַ֔עְלָה שְׁנַ֥יִם וְעֶשְׂרִ֖ים אָֽלֶף׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "all the males from one month and above — twenty-two thousand. [(Actually 22,300; but 300 of the Levites were themselves bechoroth (first-born), so that they are not included in the count, which is the number of those Levites who displaced bechoroth (and does not include those who were bechoroth themselves (see 46-48)]."
+              "hebrew": "כׇּל־זָכָר֙ מִבֶּן־חֹ֣דֶשׁ וָמַ֔עְלָה",
+              "english": "all the males from one month and above —"
+            },
+            {
+              "hebrew": "שְׁנַ֥יִם וְעֶשְׂרִ֖ים אָֽלֶף׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "twenty-two thousand. [(Actually 22,300; but 300 of the Levites were themselves bechoroth (first-born), so that they are not included in the count, which is the number of those Levites who displaced bechoroth (and does not include those who were bechoroth themselves (see 46-48)]."
             }
           ],
           "model": "Instinct"
@@ -56151,8 +56155,12 @@
               "english": "And they shall place on it all of its implements wherewith they minister upon it: its fire-pans, its spits, its shovels, and its sprinkling basins [see Exodus 27:3] — all the vessels of the altar;"
             },
             {
-              "hebrew": "וּפָרְשׂ֣וּ עָלָ֗יו כְּס֛וּי ע֥וֹר תַּ֖חַשׁ וְשָׂמ֥וּ בַדָּֽיו׃",
-              "english": "and they shall spread upon it a tachash skin covering, and they shall place its staves."
+              "hebrew": "וּפָרְשׂ֣וּ עָלָ֗יו כְּס֛וּי ע֥וֹר תַּ֖חַשׁ",
+              "english": "and they shall spread upon it a tachash skin covering,"
+            },
+            {
+              "hebrew": "וְשָׂמ֥וּ בַדָּֽיו׃",
+              "english": "and they shall place its staves."
             }
           ],
           "model": "Instinct"
@@ -57574,12 +57582,12 @@
         "8": {
           "pairs": [
             {
-              "hebrew": "וְאֵ֣ת&thinsp;׀ אַרְבַּ֣ע הָעֲגָלֹ֗ת וְאֵת֙ שְׁמֹנַ֣ת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י מְרָרִ֑י",
-              "english": "And four wagons and eight oxen he gave to the sons of Merari,"
+              "hebrew": "וְאֵ֣ת&thinsp;׀ אַרְבַּ֣ע הָעֲגָלֹ֗ת וְאֵת֙ שְׁמֹנַ֣ת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י מְרָרִ֑י כְּפִי֙ עֲבֹ֣דָתָ֔ם",
+              "english": "And four wagons and eight oxen he gave to the sons of Merari, according to their service,"
             },
             {
-              "hebrew": "כְּפִי֙ עֲבֹ֣דָתָ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
-              "english": "according to their service, by the hand of Ithamar, the son of Aaron the Cohein."
+              "hebrew": "בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+              "english": "by the hand of Ithamar, the son of Aaron the Cohein."
             }
           ],
           "model": "Instinct"
