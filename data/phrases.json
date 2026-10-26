@@ -28906,9 +28906,350 @@
             }
           ],
           "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּאמְרוּ֮ אֶל־מֹשֶׁה֒",
+              "english": "And they said to Moses:"
+            },
+            {
+              "hebrew": "הֲֽמִבְּלִ֤י אֵין־קְבָרִים֙ בְּמִצְרַ֔יִם לְקַחְתָּ֖נוּ לָמ֣וּת בַּמִּדְבָּ֑ר",
+              "english": "Is it for lack of graves in Egypt that you have taken us to die in the desert!"
+            },
+            {
+              "hebrew": "מַה־זֹּאת֙ עָשִׂ֣יתָ לָּ֔נוּ לְהוֹצִיאָ֖נוּ מִמִּצְרָֽיִם׃",
+              "english": "What is this that you did to us to take us out of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "הֲלֹא־זֶ֣ה הַדָּבָ֗ר אֲשֶׁר֩ דִּבַּ֨רְנוּ אֵלֶ֤יךָ בְמִצְרַ֙יִם֙ לֵאמֹ֔ר",
+              "english": "Is not this the thing that we spoke to you in Egypt [5:21], saying:"
+            },
+            {
+              "hebrew": "חֲדַ֥ל מִמֶּ֖נּוּ וְנַֽעַבְדָ֣ה אֶת־מִצְרָ֑יִם",
+              "english": "Let us be and let us serve Egypt,"
+            },
+            {
+              "hebrew": "כִּ֣י ט֥וֹב לָ֙נוּ֙ עֲבֹ֣ד אֶת־מִצְרַ֔יִם מִמֻּתֵ֖נוּ בַּמִּדְבָּֽר׃",
+              "english": "for it is better for us to serve Egypt than to die in the desert."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָ֒אוּ֒",
+              "english": "And Moses said to the people: Do not fear."
+            },
+            {
+              "hebrew": "הִֽתְיַצְּב֗וּ וּרְאוּ֙ אֶת־יְשׁוּעַ֣ת יְהֹוָ֔ה אֲשֶׁר־יַעֲשֶׂ֥ה לָכֶ֖ם הַיּ֑וֹם",
+              "english": "Stand ready to see the salvation of the L-rd, which He shall work for you this day."
+            },
+            {
+              "hebrew": "כִּ֗י אֲשֶׁ֨ר רְאִיתֶ֤ם אֶת־מִצְרַ֙יִם֙ הַיּ֔וֹם",
+              "english": "For your seeing Egypt is [only] this day;"
+            },
+            {
+              "hebrew": "לֹ֥א תֹסִ֛פוּ לִרְאֹתָ֥ם ע֖וֹד עַד־עוֹלָֽם׃",
+              "english": "you shall see them no more, forever."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "יְהֹוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם",
+              "english": "The L-rd will war for you,"
+            },
+            {
+              "hebrew": "וְאַתֶּ֖ם תַּחֲרִשֽׁוּן׃&nbsp;{פ}",
+              "english": "and you will be still."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה",
+              "english": "And the L-rd said to Moses:"
+            },
+            {
+              "hebrew": "מַה־תִּצְעַ֖ק אֵלָ֑י",
+              "english": "Why do you cry out to Me? [i.e., Why do you prolong your prayer when Israel are stepped in affliction?]"
+            },
+            {
+              "hebrew": "דַּבֵּ֥ר אֶל־בְּנֵי־יִשְׂרָאֵ֖ל וְיִסָּֽעוּ׃",
+              "english": "Speak to the children of Israel and have them go forward [(There is nothing standing in their way. The merits of their fathers and their belief in Me will suffice to split the sea.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאַתָּ֞ה הָרֵ֣ם אֶֽת־מַטְּךָ֗",
+              "english": "And you, raise your staff,"
+            },
+            {
+              "hebrew": "וּנְטֵ֧ה אֶת־יָדְךָ֛ עַל־הַיָּ֖ם וּבְקָעֵ֑הוּ",
+              "english": "and stretch out your hand over the sea, and split it."
+            },
+            {
+              "hebrew": "וְיָבֹ֧אוּ בְנֵֽי־יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָֽׁה׃",
+              "english": "And the children of Israel shall come in the midst of the sea on the dry land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲנִ֗י הִנְנִ֤י מְחַזֵּק֙ אֶת־לֵ֣ב מִצְרַ֔יִם",
+              "english": "And I, behold, I shall strengthen the heart of Egypt,"
+            },
+            {
+              "hebrew": "וְיָבֹ֖אוּ אַחֲרֵיהֶ֑ם",
+              "english": "and they shall come after them,"
+            },
+            {
+              "hebrew": "וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכׇל־חֵיל֔וֹ בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו׃",
+              "english": "and I shall be glorified through Pharaoh and through all his host, through his chariots and through his horsemen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְיָדְע֥וּ מִצְרַ֖יִם כִּי־אֲנִ֣י יְהֹוָ֑ה",
+              "english": "And Egypt will know that I am the L-rd"
+            },
+            {
+              "hebrew": "בְּהִכָּבְדִ֣י בְּפַרְעֹ֔ה בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו׃",
+              "english": "when I am glorified through Pharaoh, through his chariots and through his horsemen."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּסַּ֞ע מַלְאַ֣ךְ הָאֱלֹהִ֗ים הַהֹלֵךְ֙ לִפְנֵי֙ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיֵּ֖לֶךְ מֵאַחֲרֵיהֶ֑ם",
+              "english": "And the angel of G-d (Elokim), who went before the camp of Israel, turned and went behind them [to separate the Israelites from the Egyptians and to receive the projectiles intended for them. (\"Elokim\" connotes justice. Israel was being judged at that moment for survival or for destruction along with the Egyptians)]."
+            },
+            {
+              "hebrew": "וַיִּסַּ֞ע עַמּ֤וּד הֶֽעָנָן֙ מִפְּנֵיהֶ֔ם וַֽיַּעֲמֹ֖ד מֵאַחֲרֵיהֶֽם׃",
+              "english": "And [when it became dark and the pillar of fire supervened], the pillar of cloud turned from before them and stood behind them [to \"darken things\" for the Egyptians]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֞א בֵּ֣ין&thinsp;׀ מַחֲנֵ֣ה מִצְרַ֗יִם וּבֵין֙ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל",
+              "english": "And it came between the camp of Egypt and the camp of Israel."
+            },
+            {
+              "hebrew": "וַיְהִ֤י הֶֽעָנָן֙ וְהַחֹ֔שֶׁךְ וַיָּ֖אֶר אֶת־הַלָּ֑יְלָה",
+              "english": "And there was a cloud and darkness [for the Egyptians] and it [the pillar of fire] lighted the night [for the Israelites],"
+            },
+            {
+              "hebrew": "וְלֹא־קָרַ֥ב זֶ֛ה אֶל־זֶ֖ה כׇּל־הַלָּֽיְלָה׃",
+              "english": "and the one [camp] did not come close to the other all the night."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֨ט מֹשֶׁ֣ה אֶת־יָדוֹ֮ עַל־הַיָּם֒",
+              "english": "And Moses stretched his hand over the sea,"
+            },
+            {
+              "hebrew": "וַיּ֣וֹלֶךְ יְהֹוָ֣ה&thinsp;׀&thinsp;אֶת־הַ֠יָּ֠ם בְּר֨וּחַ קָדִ֤ים עַזָּה֙ כׇּל־הַלַּ֔יְלָה",
+              "english": "and the L-rd drove the sea with a strong east wind [(the strongest of the winds)] all the night,"
+            },
+            {
+              "hebrew": "וַיָּ֥שֶׂם אֶת־הַיָּ֖ם לֶחָרָבָ֑ה",
+              "english": "and He made the sea into dry land,"
+            },
+            {
+              "hebrew": "וַיִּבָּקְע֖וּ הַמָּֽיִם׃",
+              "english": "and the waters [of all the world] were split."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֧אוּ בְנֵֽי־יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָׁ֑ה",
+              "english": "And the children of Israel came in the midst of the sea on the dry land."
+            },
+            {
+              "hebrew": "וְהַמַּ֤יִם לָהֶם֙ חוֹמָ֔ה מִֽימִינָ֖ם וּמִשְּׂמֹאלָֽם׃",
+              "english": "And the water was to them a wall, on their right and on their left."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּרְדְּפ֤וּ מִצְרַ֙יִם֙ וַיָּבֹ֣אוּ אַחֲרֵיהֶ֔ם",
+              "english": "And Egypt pursued and came behind them,"
+            },
+            {
+              "hebrew": "כֹּ֚ל ס֣וּס פַּרְעֹ֔ה רִכְבּ֖וֹ וּפָרָשָׁ֑יו אֶל־תּ֖וֹךְ הַיָּֽם׃",
+              "english": "all horse of Pharaoh [i.e., all of his horses being regarded as (only) one in the eyes of the L-rd], his chariot and his riders into the midst of the sea."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיְהִי֙ בְּאַשְׁמֹ֣רֶת הַבֹּ֔קֶר",
+              "english": "And it was in the morning watch"
+            },
+            {
+              "hebrew": "וַיַּשְׁקֵ֤ף יְהֹוָה֙ אֶל־מַחֲנֵ֣ה מִצְרַ֔יִם בְּעַמּ֥וּד אֵ֖שׁ וְעָנָ֑ן",
+              "english": "that the L-rd looked to the camp of Egypt [to destroy it] with a pillar of fire and cloud [(The pillar of cloud rendered the sea-bed clay, and the pillar of fire made it so hot that the horses' hooves fell off)],"
+            },
+            {
+              "hebrew": "וַיָּ֕הׇם אֵ֖ת מַחֲנֵ֥ה מִצְרָֽיִם׃",
+              "english": "and He confounded the camp of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֗סַר אֵ֚ת אֹפַ֣ן מַרְכְּבֹתָ֔יו וַֽיְנַהֲגֵ֖הוּ בִּכְבֵדֻ֑ת",
+              "english": "And He removed their chariot wheels [(They were burnt off, the chariots jolted, and the drivers were broken)], and He led them with [the measure of] hardness, [measure for measure for their hardness (9:34)]."
+            },
+            {
+              "hebrew": "וַיֹּ֣אמֶר מִצְרַ֗יִם אָנ֙וּסָה֙ מִפְּנֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "And Egypt said: I shall flee from before Israel;"
+            },
+            {
+              "hebrew": "כִּ֣י יְהֹוָ֔ה נִלְחָ֥ם לָהֶ֖ם בְּמִצְרָֽיִם׃&nbsp;{פ}",
+              "english": "for the L-rd wars for them against the Egyptians."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה",
+              "english": "And the L-rd said to Moses:"
+            },
+            {
+              "hebrew": "נְטֵ֥ה אֶת־יָדְךָ֖ עַל־הַיָּ֑ם",
+              "english": "Stretch forth your hand over the sea"
+            },
+            {
+              "hebrew": "וְיָשֻׁ֤בוּ הַמַּ֙יִם֙ עַל־מִצְרַ֔יִם עַל־רִכְבּ֖וֹ וְעַל־פָּרָשָֽׁיו׃",
+              "english": "so that the waters [standing like a wall] return [to their place] upon Egypt, upon its chariot, and upon its riders."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּט֩ מֹשֶׁ֨ה אֶת־יָד֜וֹ עַל־הַיָּ֗ם",
+              "english": "And Moses stretched forth his hand upon the sea,"
+            },
+            {
+              "hebrew": "וַיָּ֨שׇׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֙קֶר֙ לְאֵ֣יתָנ֔וֹ",
+              "english": "and the sea returned towards morning to its [original] strength,"
+            },
+            {
+              "hebrew": "וּמִצְרַ֖יִם נָסִ֣ים לִקְרָאת֑וֹ",
+              "english": "and Egypt [in distraction] fled towards it,"
+            },
+            {
+              "hebrew": "וַיְנַעֵ֧ר יְהֹוָ֛ה אֶת־מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם׃",
+              "english": "and the L-rd shook out Egypt into the midst of the sea."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת־הָרֶ֙כֶב֙ וְאֶת־הַפָּ֣רָשִׁ֔ים",
+              "english": "And the waters returned and covered the chariot and the riders"
+            },
+            {
+              "hebrew": "לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם",
+              "english": "of all the host of Pharaoh that came after them in the sea;"
+            },
+            {
+              "hebrew": "לֹֽא־נִשְׁאַ֥ר בָּהֶ֖ם עַד־אֶחָֽד׃",
+              "english": "not so much as one remained of them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֣וֹךְ הַיָּ֑ם",
+              "english": "And the children of Israel walked on the dry land in the midst of the sea."
+            },
+            {
+              "hebrew": "וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה מִֽימִינָ֖ם וּמִשְּׂמֹאלָֽם׃",
+              "english": "And the water was to them a wall, on their right and on their left."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיּ֨וֹשַׁע יְהֹוָ֜ה בַּיּ֥וֹם הַה֛וּא אֶת־יִשְׂרָאֵ֖ל מִיַּ֣ד מִצְרָ֑יִם",
+              "english": "And the L-rd saved Israel on that day from the hand of Egypt,"
+            },
+            {
+              "hebrew": "וַיַּ֤רְא יִשְׂרָאֵל֙ אֶת־מִצְרַ֔יִם מֵ֖ת עַל־שְׂפַ֥ת הַיָּֽם׃",
+              "english": "and Israel saw Egypt dead on the shore of the sea, [the Egyptians having been cast up there so that Israel not say: Just as we came up on this side, so they came up on another side and will pursue us]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת־הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהֹוָה֙ בְּמִצְרַ֔יִם",
+              "english": "And Israel saw the great hand by which the L-rd wrought against Egypt,"
+            },
+            {
+              "hebrew": "וַיִּֽירְא֥וּ הָעָ֖ם אֶת־יְהֹוָ֑ה",
+              "english": "and the people feared the L-rd,"
+            },
+            {
+              "hebrew": "וַֽיַּאֲמִ֙ינוּ֙ בַּֽיהֹוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ׃&nbsp;{פ}",
+              "english": "and they believed in the L-rd and in Moses, His servant."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:31:45.982Z"
+  "updatedAt": "2026-10-26T18:32:02.440Z"
 }
