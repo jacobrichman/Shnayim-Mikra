@@ -101,3 +101,12 @@ test("intact-pair exemption cannot move to another source edition",()=>{
  const changed={...row,english:row.english+" changed"};
  assert.throws(()=>validatePairs(changed,{verse:row.verse,pairs:[{hebrew:changed.hebrew,english:changed.english}]}));
 });
+
+test('approved Genesis original repairs preserve exact text and work in reader',()=>{
+ for(const ref of ['Genesis 8:22','Genesis 9:4']){
+  const row={...SINGLE_PAIR_EXCEPTIONS[ref],ref,verse:ref.split(' ')[1]};
+  const s=newStore();storeVerse(s,row,{verse:row.verse,pairs:[{hebrew:row.hebrew,english:row.english}]});
+  const pair=displayStore(s,[row],ref)[0].pairs[0];
+  assert.equal(pair.hebrew,row.hebrew);assert.equal(pair.english,row.english);assert.equal(pair.error,undefined);
+ }
+});

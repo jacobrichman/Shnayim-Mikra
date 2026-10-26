@@ -3061,19 +3061,12 @@
         "22": {
           "pairs": [
             {
-              "hebrew": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ",
-              "english": "No more shall cease, all the days of the earth,"
-            },
-            {
-              "hebrew": "זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף",
-              "english": "seed-time [half of Tishrei, Marcheshvan, and half of Kislev], and harvest-time [half of Nissan, Iyyar, and half of Sivan], cold-season [half of Kislev, Teveth, and half of Shvat], and hot season [half of Av, Elul, and half of Tishrei], summer-fruit season [half of Sivan, Tammuz, and half of Av], and winter-fruit season [half of Shvat, Adar, and half of Nissan],"
-            },
-            {
-              "hebrew": "וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
-              "english": "and day and night [shall not cease (whence it is seen that all the days of the flood they did cease)]."
+              "hebrew": "עֹ֖ד כׇּל־יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִ֠יר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃",
+              "english": "No more shall cease, all the days of the earth, seed-time [half of Tishrei, Marcheshvan, and half of Kislev], and harvest-time [half of Nissan, Iyyar, and half of Sivan], cold-season [half of Kislev, Teveth, and half of Shvat], and hot season [half of Av, Elul, and half of Tishrei], summer-fruit season [half of Sivan, Tammuz, and half of Av], and winter-fruit season [half of Shvat, Adar, and half of Nissan], and day and night [shall not cease (whence it is seen that all the days of the flood they did cease)]."
             }
           ],
-          "model": "gemini-3.5-flash-lite"
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "Instinct"
         }
       },
       "9": {
@@ -3119,15 +3112,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "אַךְ־בָּשָׂ֕ר",
-              "english": "Only, you shall not eat flesh"
-            },
-            {
-              "hebrew": "בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃",
-              "english": "with its life [(the ban on ever min hachai — flesh torn from a living animal)] — blood [(the ban on blood from a living animal)]."
+              "hebrew": "אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃",
+              "english": "Only, you shall not eat flesh with its life [(the ban on ever min hachai — flesh torn from a living animal)] — blood [(the ban on blood from a living animal)]."
             }
           ],
-          "model": "gemini-3.5-flash-lite"
+          "model": "gemini-3.5-flash-lite",
+          "repairedBy": "Instinct"
         },
         "5": {
           "pairs": [

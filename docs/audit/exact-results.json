@@ -6,6 +6,10 @@
   "newPairsPerVerse": 2.3820311000191974,
   "errors": [],
   "changedOriginal": [],
+  "approvedOriginalRepairs": [
+    "Genesis 8:22",
+    "Genesis 9:4"
+  ],
   "byBook": {
     "Genesis": {
       "total": 1533,

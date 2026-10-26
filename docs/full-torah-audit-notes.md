@@ -2,7 +2,7 @@
 
 Status: exact-source coverage complete; semantic and granularity review still in progress. Not approved for publication.
 
-- 5,846 Torah verses aligned. The 637 entries already present at the start are unchanged.
+- 5,846 Torah verses aligned. 635 original entries are unchanged. Genesis 8:22 and 9:4 have the two explicitly approved boundary repairs; their text is unchanged.
 - Hebrew: Miqra according to the Masorah (CC-BY-SA). English: The Rashi chumash by Rabbi Shraga Silverstein (CC-BY).
 - Koren Jerusalem Bible (CC-BY-NC) replaces missing verse translations only at Genesis 24:46 and Leviticus 27:28. The latter Silverstein entry is only an editorial introduction, not a verse translation. Approval for the latter fallback was given on 26 October 2026.
 - Fresh complete-book source checks found no source changes, warnings or license changes.
@@ -32,8 +32,10 @@ Reader integration tests cover both approved Koren references, rejected unapprov
 
 ## Narrow single-pair source-order exceptions
 
-These three new verses stay intact because no truthful smaller ordered bilingual partition exists in the selected wording. This is not an error fallback. All original 637 entries remain unchanged.
+These five verses stay intact because no truthful smaller ordered bilingual partition exists in the selected wording. This is not an error fallback. Of the original 637 entries, only the two approved Genesis boundary repairs differ.
 
+- Genesis 8:22: Hebrew ends with "shall not cease"; English opens with it. Approved intact-pair repair of an original entry.
+- Genesis 9:4: Hebrew ends with "shall not eat"; English places it before "flesh." Approved intact-pair repair of an original entry.
 - Genesis 30:10: Hebrew starts with the verb "bore"; English places it after the complete subject.
 - Exodus 23:32: "covenant" ends the Hebrew but precedes both objects in English.
 - Deuteronomy 23:2: the prohibition begins Hebrew but follows the complete English subject.
@@ -42,6 +44,6 @@ These three new verses stay intact because no truthful smaller ordered bilingual
 
 The 126 highest-ranked long/skewed spans were reviewed in their complete verses. The next 524 ranked pairs and all 1,317 short Hebrew pairs were compared directly for meaning, with selected complete-verse rereads and repairs. A negation-focused check found the three source-order exceptions above; Leviticus 27:28 also now keeps Koren's "no devoted thing ... shall be sold or redeemed" together rather than separating the negation from its verb. This is risk-focused review, not an independent reread or rabbinic certification of every boundary.
 
-## Protected original boundaries needing a decision
+## Two approved original boundary repairs
 
-Genesis 8:22 and 9:4 are within the protected original 637. Their existing boundaries place Hebrew's final negative verb in a different pair from English's initial negative verb. They remain unchanged pending an explicit decision. This prevents an unqualified semantic pass for the entire Torah.
+On 26 October 2026, the user approved fixing Genesis 8:22 and 9:4 if clearly wrong. Both existing splits separate Hebrew's final negative verb from English's initial negative verb. Each is now one intact pair, retaining every source word and all commentary. No other original entry changed. This resolves the two identified protected-boundary defects, not a certification that every remaining boundary has been independently reread.
