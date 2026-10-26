@@ -14361,8 +14361,12 @@
               "english": "And Jacob said: The G d of my father Abraham and the G d of my father Isaac, [who under this appellation (28:13), promised to abet me (Ibid. 15)],"
             },
             {
-              "hebrew": "יְהֹוָ֞ה הָאֹמֵ֣ר אֵלַ֗י שׁ֧וּב לְאַרְצְךָ֛ וּלְמוֹלַדְתְּךָ֖ וְאֵיטִ֥יבָה עִמָּֽךְ׃",
-              "english": "the L rd, who said to me [under that appellation (32:3)]: Return to your land and to your birthplace and I shall do good with you —"
+              "hebrew": "יְהֹוָ֞ה הָאֹמֵ֣ר אֵלַ֗י שׁ֧וּב לְאַרְצְךָ֛ וּלְמוֹלַדְתְּךָ֖",
+              "english": "the L rd, who said to me [under that appellation (32:3)]: Return to your land and to your birthplace"
+            },
+            {
+              "hebrew": "וְאֵיטִ֥יבָה עִמָּֽךְ׃",
+              "english": "and I shall do good with you —"
             }
           ],
           "model": "Instinct"
@@ -14550,8 +14554,12 @@
         "23": {
           "pairs": [
             {
-              "hebrew": "וַיָּ֣קׇם&thinsp;׀ בַּלַּ֣יְלָה ה֗וּא וַיִּקַּ֞ח אֶת־שְׁתֵּ֤י נָשָׁיו֙ וְאֶת־שְׁתֵּ֣י שִׁפְחֹתָ֔יו וְאֶת־אַחַ֥ד עָשָׂ֖ר יְלָדָ֑יו",
-              "english": "And he arose that night and took his wives and his two handmaids, and his eleven children [(having secreted Dinah in a chest so that Esau not take her)],"
+              "hebrew": "וַיָּ֣קׇם&thinsp;׀ בַּלַּ֣יְלָה ה֗וּא",
+              "english": "And he arose that night"
+            },
+            {
+              "hebrew": "וַיִּקַּ֞ח אֶת־שְׁתֵּ֤י נָשָׁיו֙ וְאֶת־שְׁתֵּ֣י שִׁפְחֹתָ֔יו וְאֶת־אַחַ֥ד עָשָׂ֖ר יְלָדָ֑יו",
+              "english": "and took his wives and his two handmaids, and his eleven children [(having secreted Dinah in a chest so that Esau not take her)],"
             },
             {
               "hebrew": "וַֽיַּעֲבֹ֔ר אֵ֖ת מַעֲבַ֥ר יַבֹּֽק׃",
@@ -14703,8 +14711,12 @@
         "1": {
           "pairs": [
             {
-              "hebrew": "וַיִּשָּׂ֨א יַעֲקֹ֜ב עֵינָ֗יו וַיַּרְא֙ וְהִנֵּ֣ה עֵשָׂ֣ו בָּ֔א וְעִמּ֕וֹ אַרְבַּ֥ע מֵא֖וֹת אִ֑ישׁ",
-              "english": "And Jacob lifted his eyes and he saw, and, behold, Esau was coming, and with him four hundred men;"
+              "hebrew": "וַיִּשָּׂ֨א יַעֲקֹ֜ב עֵינָ֗יו וַיַּרְא֙ וְהִנֵּ֣ה עֵשָׂ֣ו בָּ֔א",
+              "english": "And Jacob lifted his eyes and he saw, and, behold, Esau was coming,"
+            },
+            {
+              "hebrew": "וְעִמּ֕וֹ אַרְבַּ֥ע מֵא֖וֹת אִ֑ישׁ",
+              "english": "and with him four hundred men;"
             },
             {
               "hebrew": "וַיַּ֣חַץ אֶת־הַיְלָדִ֗ים עַל־לֵאָה֙ וְעַל־רָחֵ֔ל וְעַ֖ל שְׁתֵּ֥י הַשְּׁפָחֽוֹת׃",
@@ -15170,8 +15182,12 @@
         "14": {
           "pairs": [
             {
-              "hebrew": "וַיֹּאמְר֣וּ אֲלֵיהֶ֗ם לֹ֤א נוּכַל֙ לַעֲשׂוֹת֙ הַדָּבָ֣ר הַזֶּ֔ה לָתֵת֙ אֶת־אֲחֹתֵ֔נוּ לְאִ֖ישׁ אֲשֶׁר־ל֣וֹ עׇרְלָ֑ה",
-              "english": "And they said to them: We shall not be able to do this thing, to give our sister to a man with a foreskin,"
+              "hebrew": "וַיֹּאמְר֣וּ אֲלֵיהֶ֗ם לֹ֤א נוּכַל֙ לַעֲשׂוֹת֙ הַדָּבָ֣ר הַזֶּ֔ה",
+              "english": "And they said to them: We shall not be able to do this thing,"
+            },
+            {
+              "hebrew": "לָתֵת֙ אֶת־אֲחֹתֵ֔נוּ לְאִ֖ישׁ אֲשֶׁר־ל֣וֹ עׇרְלָ֑ה",
+              "english": "to give our sister to a man with a foreskin,"
             },
             {
               "hebrew": "כִּֽי־חֶרְפָּ֥ה הִ֖וא לָֽנוּ׃",
@@ -15422,8 +15438,12 @@
               "english": "And G d said to Jacob: Arise, and go up to Bethel, [(You have been punished through your daughter for having tarried upon the way)], and abide there,"
             },
             {
-              "hebrew": "וַעֲשֵׂה־שָׁ֣ם מִזְבֵּ֔חַ לָאֵל֙ הַנִּרְאֶ֣ה אֵלֶ֔יךָ בְּבׇ֨רְחֲךָ֔ מִפְּנֵ֖י עֵשָׂ֥ו אָחִֽיךָ׃",
-              "english": "and make there an altar to the G d who appeared to you when you fled from Esau your brother."
+              "hebrew": "וַעֲשֵׂה־שָׁ֣ם מִזְבֵּ֔חַ לָאֵל֙ הַנִּרְאֶ֣ה אֵלֶ֔יךָ",
+              "english": "and make there an altar to the G d who appeared to you"
+            },
+            {
+              "hebrew": "בְּבׇ֨רְחֲךָ֔ מִפְּנֵ֖י עֵשָׂ֥ו אָחִֽיךָ׃",
+              "english": "when you fled from Esau your brother."
             }
           ],
           "model": "Instinct"
@@ -15465,8 +15485,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "וַיִּתְּנ֣וּ אֶֽל־יַעֲקֹ֗ב אֵ֣ת כׇּל־אֱלֹהֵ֤י הַנֵּכָר֙ אֲשֶׁ֣ר בְּיָדָ֔ם וְאֶת־הַנְּזָמִ֖ים אֲשֶׁ֣ר בְּאׇזְנֵיהֶ֑ם",
-              "english": "And they gave to Jacob all the strange gods which were in their hands and the rings which were in their ears,"
+              "hebrew": "וַיִּתְּנ֣וּ אֶֽל־יַעֲקֹ֗ב אֵ֣ת כׇּל־אֱלֹהֵ֤י הַנֵּכָר֙ אֲשֶׁ֣ר בְּיָדָ֔ם",
+              "english": "And they gave to Jacob all the strange gods which were in their hands"
+            },
+            {
+              "hebrew": "וְאֶת־הַנְּזָמִ֖ים אֲשֶׁ֣ר בְּאׇזְנֵיהֶ֑ם",
+              "english": "and the rings which were in their ears,"
             },
             {
               "hebrew": "וַיִּטְמֹ֤ן אֹתָם֙ יַעֲקֹ֔ב תַּ֥חַת הָאֵלָ֖ה אֲשֶׁ֥ר עִם־שְׁכֶֽם׃",
@@ -15504,8 +15528,12 @@
         "7": {
           "pairs": [
             {
-              "hebrew": "וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ וַיִּקְרָא֙ לַמָּק֔וֹם אֵ֖ל בֵּֽית־אֵ֑ל",
-              "english": "And he built an altar there, and he called the place \"The Almighty is in Bethel\";"
+              "hebrew": "וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ",
+              "english": "And he built an altar there,"
+            },
+            {
+              "hebrew": "וַיִּקְרָא֙ לַמָּק֔וֹם אֵ֖ל בֵּֽית־אֵ֑ל",
+              "english": "and he called the place \"The Almighty is in Bethel\";"
             },
             {
               "hebrew": "כִּ֣י שָׁ֗ם נִגְל֤וּ אֵלָיו֙ הָֽאֱלֹהִ֔ים בְּבׇרְח֖וֹ מִפְּנֵ֥י אָחִֽיו׃",
@@ -15611,8 +15639,12 @@
               "english": "And Jacob set up a monument in the place where He spoke with him, a monument of stone,"
             },
             {
-              "hebrew": "וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ וַיִּצֹ֥ק עָלֶ֖יהָ שָֽׁמֶן׃",
-              "english": "and he poured a libation thereon, and he poured oil thereon."
+              "hebrew": "וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ",
+              "english": "and he poured a libation thereon,"
+            },
+            {
+              "hebrew": "וַיִּצֹ֥ק עָלֶ֖יהָ שָֽׁמֶן׃",
+              "english": "and he poured oil thereon."
             }
           ],
           "model": "Instinct"
@@ -16015,8 +16047,12 @@
         "15": {
           "pairs": [
             {
-              "hebrew": "אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי־עֵשָׂ֑ו בְּנֵ֤י אֱלִיפַז֙ בְּכ֣וֹר עֵשָׂ֔ו",
-              "english": "These are the chiefs [i.e., the heads of families] of the sons of Esau. The sons of Elifaz, the first-born of Esau:"
+              "hebrew": "אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי־עֵשָׂ֑ו",
+              "english": "These are the chiefs [i.e., the heads of families] of the sons of Esau."
+            },
+            {
+              "hebrew": "בְּנֵ֤י אֱלִיפַז֙ בְּכ֣וֹר עֵשָׂ֔ו",
+              "english": "The sons of Elifaz, the first-born of Esau:"
             },
             {
               "hebrew": "אַלּ֤וּף תֵּימָן֙ אַלּ֣וּף אוֹמָ֔ר אַלּ֥וּף צְפ֖וֹ אַלּ֥וּף קְנַֽז׃",
@@ -16045,8 +16081,12 @@
               "english": "And these are the sons of Reuel the son of Esau: Chief Nachath, Chief Zerach, Chief Shammah, Chief Mizzah."
             },
             {
-              "hebrew": "אֵ֣לֶּה אַלּוּפֵ֤י רְעוּאֵל֙ בְּאֶ֣רֶץ אֱד֔וֹם אֵ֕לֶּה בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
-              "english": "These are the chiefs of Reuel in the land of Edom. These are the sons of Basmath, the wife of Esau."
+              "hebrew": "אֵ֣לֶּה אַלּוּפֵ֤י רְעוּאֵל֙ בְּאֶ֣רֶץ אֱד֔וֹם",
+              "english": "These are the chiefs of Reuel in the land of Edom."
+            },
+            {
+              "hebrew": "אֵ֕לֶּה בְּנֵ֥י בָשְׂמַ֖ת אֵ֥שֶׁת עֵשָֽׂו׃",
+              "english": "These are the sons of Basmath, the wife of Esau."
             }
           ],
           "model": "Instinct"
@@ -16054,8 +16094,12 @@
         "18": {
           "pairs": [
             {
-              "hebrew": "וְאֵ֗לֶּה בְּנֵ֤י אׇהֳלִֽיבָמָה֙ אֵ֣שֶׁת עֵשָׂ֔ו אַלּ֥וּף יְע֛וּשׁ אַלּ֥וּף יַעְלָ֖ם אַלּ֣וּף קֹ֑רַח",
-              "english": "And these are the sons of Ahalivamah the wife of Esau: Chief Yeush, Chief Ya'alam, Chief Korach."
+              "hebrew": "וְאֵ֗לֶּה בְּנֵ֤י אׇהֳלִֽיבָמָה֙ אֵ֣שֶׁת עֵשָׂ֔ו",
+              "english": "And these are the sons of Ahalivamah the wife of Esau:"
+            },
+            {
+              "hebrew": "אַלּ֥וּף יְע֛וּשׁ אַלּ֥וּף יַעְלָ֖ם אַלּ֣וּף קֹ֑רַח",
+              "english": "Chief Yeush, Chief Ya'alam, Chief Korach."
             },
             {
               "hebrew": "אֵ֣לֶּה אַלּוּפֵ֞י אׇהֳלִֽיבָמָ֛ה בַּת־עֲנָ֖ה אֵ֥שֶׁת עֵשָֽׂו׃",
@@ -16513,8 +16557,12 @@
         "8": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֤אמְרוּ לוֹ֙ אֶחָ֔יו הֲמָלֹ֤ךְ תִּמְלֹךְ֙ עָלֵ֔ינוּ אִם־מָשׁ֥וֹל תִּמְשֹׁ֖ל בָּ֑נוּ",
-              "english": "And his brothers said to him: Will you reign over us? Will you rule over us?"
+              "hebrew": "וַיֹּ֤אמְרוּ לוֹ֙ אֶחָ֔יו הֲמָלֹ֤ךְ תִּמְלֹךְ֙ עָלֵ֔ינוּ",
+              "english": "And his brothers said to him: Will you reign over us?"
+            },
+            {
+              "hebrew": "אִם־מָשׁ֥וֹל תִּמְשֹׁ֖ל בָּ֑נוּ",
+              "english": "Will you rule over us?"
             },
             {
               "hebrew": "וַיּוֹסִ֤פוּ עוֹד֙ שְׂנֹ֣א אֹת֔וֹ עַל־חֲלֹמֹתָ֖יו וְעַל־דְּבָרָֽיו׃",
@@ -16650,8 +16698,12 @@
               "english": "And the man said: They have departed from this [i.e., from brotherhood]. For I heard them saying: Let us go to Dothan."
             },
             {
-              "hebrew": "וַיֵּ֤לֶךְ יוֹסֵף֙ אַחַ֣ר אֶחָ֔יו וַיִּמְצָאֵ֖ם בְּדֹתָֽן׃",
-              "english": "And Joseph went after his brothers, and he found them in Dothan."
+              "hebrew": "וַיֵּ֤לֶךְ יוֹסֵף֙ אַחַ֣ר אֶחָ֔יו",
+              "english": "And Joseph went after his brothers,"
+            },
+            {
+              "hebrew": "וַיִּמְצָאֵ֖ם בְּדֹתָֽן׃",
+              "english": "and he found them in Dothan."
             }
           ],
           "model": "Instinct"
@@ -17087,8 +17139,12 @@
               "english": "And in the course of time, the daughter of Shua, Judah's wife, died."
             },
             {
-              "hebrew": "וַיִּנָּ֣חֶם יְהוּדָ֗ה וַיַּ֜עַל עַל־גֹּֽזְזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃",
-              "english": "And Judah was consoled and he went up to [supervise] his sheep shearers, he and Chirah his companion, the Adulamite, to Timnah."
+              "hebrew": "וַיִּנָּ֣חֶם יְהוּדָ֗ה",
+              "english": "And Judah was consoled"
+            },
+            {
+              "hebrew": "וַיַּ֜עַל עַל־גֹּֽזְזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃",
+              "english": "and he went up to [supervise] his sheep shearers, he and Chirah his companion, the Adulamite, to Timnah."
             }
           ],
           "model": "Instinct"
@@ -17622,8 +17678,12 @@
         "19": {
           "pairs": [
             {
-              "hebrew": "וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹנָ֜יו אֶת־דִּבְרֵ֣י אִשְׁתּ֗וֹ אֲשֶׁ֨ר דִּבְּרָ֤ה אֵלָיו֙ לֵאמֹ֔ר כַּדְּבָרִ֣ים הָאֵ֔לֶּה עָ֥שָׂה לִ֖י עַבְדֶּ֑ךָ",
-              "english": "And it was, when his master heard [during intercourse] the words of his wife, who spoke to him, saying: Such [(intimate) things] did your slave do with me,"
+              "hebrew": "וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹנָ֜יו אֶת־דִּבְרֵ֣י אִשְׁתּ֗וֹ אֲשֶׁ֨ר דִּבְּרָ֤ה אֵלָיו֙ לֵאמֹ֔ר",
+              "english": "And it was, when his master heard [during intercourse] the words of his wife, who spoke to him, saying:"
+            },
+            {
+              "hebrew": "כַּדְּבָרִ֣ים הָאֵ֔לֶּה עָ֥שָׂה לִ֖י עַבְדֶּ֑ךָ",
+              "english": "Such [(intimate) things] did your slave do with me,"
             },
             {
               "hebrew": "וַיִּ֖חַר אַפּֽוֹ׃",
@@ -17639,8 +17699,12 @@
               "english": "And Joseph's master took him and placed him in the prison house,"
             },
             {
-              "hebrew": "מְק֕וֹם אֲשֶׁר־[אֲסִירֵ֥י] (אסורי) הַמֶּ֖לֶךְ אֲסוּרִ֑ים וַֽיְהִי־שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃",
-              "english": "the place where the king's prisoners were incarcerated; and he remained there in the prison house."
+              "hebrew": "מְק֕וֹם אֲשֶׁר־[אֲסִירֵ֥י] (אסורי) הַמֶּ֖לֶךְ אֲסוּרִ֑ים",
+              "english": "the place where the king's prisoners were incarcerated;"
+            },
+            {
+              "hebrew": "וַֽיְהִי־שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃",
+              "english": "and he remained there in the prison house."
             }
           ],
           "model": "Instinct"
@@ -17741,8 +17805,12 @@
         "5": {
           "pairs": [
             {
-              "hebrew": "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ",
-              "english": "And the two of them dreamed a dream, each his dream in one night, each according to the [eventual] materialization of his dream,"
+              "hebrew": "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד",
+              "english": "And the two of them dreamed a dream, each his dream in one night,"
+            },
+            {
+              "hebrew": "אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ",
+              "english": "each according to the [eventual] materialization of his dream,"
             },
             {
               "hebrew": "הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃",
@@ -17784,8 +17852,12 @@
               "english": "And they said to him: We dreamed a dream, and there is no interpreter of it."
             },
             {
-              "hebrew": "וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־נָ֖א לִֽי׃",
-              "english": "And Joseph said to them: Are not interpretations unto G d? Tell it, I pray you, to me."
+              "hebrew": "וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים",
+              "english": "And Joseph said to them: Are not interpretations unto G d?"
+            },
+            {
+              "hebrew": "סַפְּרוּ־נָ֖א לִֽי׃",
+              "english": "Tell it, I pray you, to me."
             }
           ],
           "model": "Instinct"
@@ -17870,8 +17942,12 @@
               "english": "So that if you remember me with you when it is well with you,"
             },
             {
-              "hebrew": "וְעָשִֽׂיתָ־נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֙נִי֙ אֶל־פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־הַבַּ֥יִת הַזֶּֽה׃",
-              "english": "then do lovingkindness with me, I pray you, and mention me to Pharaoh, and take me out of this house."
+              "hebrew": "וְעָשִֽׂיתָ־נָּ֥א עִמָּדִ֖י חָ֑סֶד",
+              "english": "then do lovingkindness with me, I pray you,"
+            },
+            {
+              "hebrew": "וְהִזְכַּרְתַּ֙נִי֙ אֶל־פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־הַבַּ֥יִת הַזֶּֽה׃",
+              "english": "and mention me to Pharaoh, and take me out of this house."
             }
           ],
           "model": "Instinct"
@@ -17896,8 +17972,12 @@
               "english": "And the chief baker saw that he had interpreted well,"
             },
             {
-              "hebrew": "וַיֹּ֙אמֶר֙ אֶל־יוֹסֵ֔ף אַף־אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־רֹאשִֽׁי׃",
-              "english": "and he said to Joseph: I, too, in my dream; and behold, three wicker baskets on my head."
+              "hebrew": "וַיֹּ֙אמֶר֙ אֶל־יוֹסֵ֔ף אַף־אֲנִי֙ בַּחֲלוֹמִ֔י",
+              "english": "and he said to Joseph: I, too, in my dream;"
+            },
+            {
+              "hebrew": "וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־רֹאשִֽׁי׃",
+              "english": "and behold, three wicker baskets on my head."
             }
           ],
           "model": "Instinct"
@@ -17931,8 +18011,12 @@
         "19": {
           "pairs": [
             {
-              "hebrew": "בְּע֣וֹד&thinsp;׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־עֵ֑ץ",
-              "english": "In another three days, Pharaoh will lift your head from you and hang you upon a tree;"
+              "hebrew": "בְּע֣וֹד&thinsp;׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ",
+              "english": "In another three days, Pharaoh will lift your head from you"
+            },
+            {
+              "hebrew": "וְתָלָ֥ה אוֹתְךָ֖ עַל־עֵ֑ץ",
+              "english": "and hang you upon a tree;"
             },
             {
               "hebrew": "וְאָכַ֥ל הָע֛וֹף אֶת־בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃",
@@ -17944,8 +18028,12 @@
         "20": {
           "pairs": [
             {
-              "hebrew": "וַיְהִ֣י&thinsp;׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכׇל־עֲבָדָ֑יו",
-              "english": "And it was on the third day, Pharaoh's birthday, that he made a feast for all his servants."
+              "hebrew": "וַיְהִ֣י&thinsp;׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־פַּרְעֹ֔ה",
+              "english": "And it was on the third day, Pharaoh's birthday,"
+            },
+            {
+              "hebrew": "וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכׇל־עֲבָדָ֑יו",
+              "english": "that he made a feast for all his servants."
             },
             {
               "hebrew": "וַיִּשָּׂ֞א אֶת־רֹ֣אשׁ&thinsp;׀ שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃",
@@ -21796,8 +21884,12 @@
         "14": {
           "pairs": [
             {
-              "hebrew": "וַיְלַקֵּ֣ט יוֹסֵ֗ף אֶת־כׇּל־הַכֶּ֙סֶף֙ הַנִּמְצָ֤א בְאֶֽרֶץ־מִצְרַ֙יִם֙ וּבְאֶ֣רֶץ כְּנַ֔עַן בַּשֶּׁ֖בֶר אֲשֶׁר־הֵ֣ם שֹׁבְרִ֑ים",
-              "english": "And Joseph gathered all the money found in the land of Egypt and in the land of Canaan [which they had given him] for the grain that they had purchased,"
+              "hebrew": "וַיְלַקֵּ֣ט יוֹסֵ֗ף אֶת־כׇּל־הַכֶּ֙סֶף֙ הַנִּמְצָ֤א בְאֶֽרֶץ־מִצְרַ֙יִם֙ וּבְאֶ֣רֶץ כְּנַ֔עַן",
+              "english": "And Joseph gathered all the money found in the land of Egypt and in the land of Canaan [which they had given him]"
+            },
+            {
+              "hebrew": "בַּשֶּׁ֖בֶר אֲשֶׁר־הֵ֣ם שֹׁבְרִ֑ים",
+              "english": "for the grain that they had purchased,"
             },
             {
               "hebrew": "וַיָּבֵ֥א יוֹסֵ֛ף אֶת־הַכֶּ֖סֶף בֵּ֥יתָה פַרְעֹֽה׃",
@@ -21996,8 +22088,12 @@
         "26": {
           "pairs": [
             {
-              "hebrew": "וַיָּ֣שֶׂם אֹתָ֣הּ יוֹסֵ֡ף לְחֹק֩ עַד־הַיּ֨וֹם הַזֶּ֜ה עַל־אַדְמַ֥ת מִצְרַ֛יִם לְפַרְעֹ֖ה לַחֹ֑מֶשׁ",
-              "english": "And Joseph made it a statute [without repeal] until this day over the land of Egypt that a fifth of it reverted to Pharaoh."
+              "hebrew": "וַיָּ֣שֶׂם אֹתָ֣הּ יוֹסֵ֡ף לְחֹק֩ עַד־הַיּ֨וֹם הַזֶּ֜ה עַל־אַדְמַ֥ת מִצְרַ֛יִם",
+              "english": "And Joseph made it a statute [without repeal] until this day over the land of Egypt"
+            },
+            {
+              "hebrew": "לְפַרְעֹ֖ה לַחֹ֑מֶשׁ",
+              "english": "that a fifth of it reverted to Pharaoh."
             },
             {
               "hebrew": "רַ֞ק אַדְמַ֤ת הַכֹּֽהֲנִים֙ לְבַדָּ֔ם לֹ֥א הָיְתָ֖ה לְפַרְעֹֽה׃",
@@ -22348,8 +22444,12 @@
         "17": {
           "pairs": [
             {
-              "hebrew": "וַיַּ֣רְא יוֹסֵ֗ף כִּי־יָשִׁ֨ית אָבִ֧יו יַד־יְמִינ֛וֹ עַל־רֹ֥אשׁ אֶפְרַ֖יִם וַיֵּ֣רַע בְּעֵינָ֑יו",
-              "english": "And Joseph saw that his father had placed his right hand on the head of Ephraim, and it was bad in his eyes;"
+              "hebrew": "וַיַּ֣רְא יוֹסֵ֗ף כִּי־יָשִׁ֨ית אָבִ֧יו יַד־יְמִינ֛וֹ עַל־רֹ֥אשׁ אֶפְרַ֖יִם",
+              "english": "And Joseph saw that his father had placed his right hand on the head of Ephraim,"
+            },
+            {
+              "hebrew": "וַיֵּ֣רַע בְּעֵינָ֑יו",
+              "english": "and it was bad in his eyes;"
             },
             {
               "hebrew": "וַיִּתְמֹ֣ךְ יַד־אָבִ֗יו לְהָסִ֥יר אֹתָ֛הּ מֵעַ֥ל רֹאשׁ־אֶפְרַ֖יִם עַל־רֹ֥אשׁ מְנַשֶּֽׁה׃",
