@@ -34853,8 +34853,12 @@
         "16": {
           "pairs": [
             {
-              "hebrew": "וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ&thinsp;׀ עֶשְׂרִ֣ים אַמָּ֗ה תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם",
-              "english": "And for the gate of the court, a screen [a curtain] of twenty cubits: blue wool, and purple wool, and scarlet wool, and twisted linen, the work of an embroiderer,"
+              "hebrew": "וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ&thinsp;׀ עֶשְׂרִ֣ים אַמָּ֗ה",
+              "english": "And for the gate of the court, a screen [a curtain] of twenty cubits:"
+            },
+            {
+              "hebrew": "תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם",
+              "english": "blue wool, and purple wool, and scarlet wool, and twisted linen, the work of an embroiderer,"
             },
             {
               "hebrew": "עַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֖ם אַרְבָּעָֽה׃",
@@ -34883,8 +34887,12 @@
               "english": "The length of the court, a hundred cubits, and the width, fifty by fifty,"
             },
             {
-              "hebrew": "וְקֹמָ֛ה חָמֵ֥שׁ אַמּ֖וֹת שֵׁ֣שׁ מׇשְׁזָ֑ר וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
-              "english": "and the height, five cubits of twisted linen, and their sockets [(including the sockets for the pillars of the screen)] of copper."
+              "hebrew": "וְקֹמָ֛ה חָמֵ֥שׁ אַמּ֖וֹת שֵׁ֣שׁ מׇשְׁזָ֑ר",
+              "english": "and the height, five cubits of twisted linen,"
+            },
+            {
+              "hebrew": "וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
+              "english": "and their sockets [(including the sockets for the pillars of the screen)] of copper."
             }
           ],
           "model": "Instinct"
@@ -34980,8 +34988,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט",
-              "english": "And these are the garments which they shall make: a choshen [an ornament worn on the heart], an ephod [a kind of apron], a me'il [an outer robe], a kethoneth [an inner robe worn on the skin] with checkered indentations, a mitznefeth [a dome-like hat], and an avnet [the belt over the kethoneth]."
+              "hebrew": "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ",
+              "english": "And these are the garments which they shall make:"
+            },
+            {
+              "hebrew": "חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט",
+              "english": "a choshen [an ornament worn on the heart], an ephod [a kind of apron], a me'il [an outer robe], a kethoneth [an inner robe worn on the skin] with checkered indentations, a mitznefeth [a dome-like hat], and an avnet [the belt over the kethoneth]."
             },
             {
               "hebrew": "וְעָשׂ֨וּ בִגְדֵי־קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־לִֽי׃",
@@ -35084,8 +35096,12 @@
         "12": {
           "pairs": [
             {
-              "hebrew": "וְשַׂמְתָּ֞ אֶת־שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל",
-              "english": "And you shall place the two stones on the shoulder straps of the ephod, stones of remembrance for the children of Israel."
+              "hebrew": "וְשַׂמְתָּ֞ אֶת־שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד",
+              "english": "And you shall place the two stones on the shoulder straps of the ephod,"
+            },
+            {
+              "hebrew": "אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "stones of remembrance for the children of Israel."
             },
             {
               "hebrew": "וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־שְׁמוֹתָ֜ם לִפְנֵ֧י יְהֹוָ֛ה עַל־שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
@@ -35123,8 +35139,12 @@
         "15": {
           "pairs": [
             {
-              "hebrew": "וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ",
-              "english": "And you shall make a choshen of judgment [i.e., a choshen which atones for subversion of judgment]; artistic work, like the work of the ephod shall you make it:"
+              "hebrew": "וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב",
+              "english": "And you shall make a choshen of judgment [i.e., a choshen which atones for subversion of judgment]; artistic work,"
+            },
+            {
+              "hebrew": "כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ",
+              "english": "like the work of the ephod shall you make it:"
             },
             {
               "hebrew": "זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר תַּעֲשֶׂ֥ה אֹתֽוֹ׃",
@@ -35270,8 +35290,12 @@
               "english": "And you shall make two golden rings,"
             },
             {
-              "hebrew": "וְשַׂמְתָּ֣ אֹתָ֔ם עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
-              "english": "and you shall place them on the two ends of the choshen [the two lower corners] on its edge which faces the ephod [i.e., the lower, apron part], inwards [(whereas the rings on top of the choshen face outwards)]."
+              "hebrew": "וְשַׂמְתָּ֣ אֹתָ֔ם עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן",
+              "english": "and you shall place them on the two ends of the choshen [the two lower corners]"
+            },
+            {
+              "hebrew": "עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
+              "english": "on its edge which faces the ephod [i.e., the lower, apron part], inwards [(whereas the rings on top of the choshen face outwards)]."
             }
           ],
           "model": "Instinct"
@@ -35283,8 +35307,12 @@
               "english": "And you shall make two golden rings,"
             },
             {
-              "hebrew": "וְנָתַתָּ֣ה אֹתָ֡ם עַל־שְׁתֵּי֩ כִתְפ֨וֹת הָאֵפ֤וֹד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֽוֹד׃",
-              "english": "and you shall place them on the (origin of the) two shoulder straps of the ephod below, on its face [i.e., on the topside of the ephod], opposite [i.e., near] where it [the shoulder strap] is attached [to the ephod], above the cheishev of the ephod."
+              "hebrew": "וְנָתַתָּ֣ה אֹתָ֡ם עַל־שְׁתֵּי֩ כִתְפ֨וֹת הָאֵפ֤וֹד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ",
+              "english": "and you shall place them on the (origin of the) two shoulder straps of the ephod below, on its face [i.e., on the topside of the ephod], opposite [i.e., near] where it [the shoulder strap] is attached [to the ephod],"
+            },
+            {
+              "hebrew": "מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֽוֹד׃",
+              "english": "above the cheishev of the ephod."
             }
           ],
           "model": "Instinct"
@@ -35900,12 +35928,12 @@
         "23": {
           "pairs": [
             {
-              "hebrew": "וְכִכַּ֨ר לֶ֜חֶם אַחַ֗ת וְֽחַלַּ֨ת לֶ֥חֶם שֶׁ֛מֶן אַחַ֖ת",
-              "english": "And one loaf of bread [from the (matzah) challoth (see 2)], and one challah of oil bread,"
+              "hebrew": "וְכִכַּ֨ר לֶ֜חֶם אַחַ֗ת וְֽחַלַּ֨ת לֶ֥חֶם שֶׁ֛מֶן אַחַ֖ת וְרָקִ֣יק אֶחָ֑ד",
+              "english": "And one loaf of bread [from the (matzah) challoth (see 2)], and one challah of oil bread, and one wafer"
             },
             {
-              "hebrew": "וְרָקִ֣יק אֶחָ֑ד מִסַּל֙ הַמַּצּ֔וֹת אֲשֶׁ֖ר לִפְנֵ֥י יְהֹוָֽה׃",
-              "english": "and one wafer from the basket of matzoth which is before the L-rd. [(This is the only instance of a bread offering accompanying an animal offering, being burned on the altar)]."
+              "hebrew": "מִסַּל֙ הַמַּצּ֔וֹת אֲשֶׁ֖ר לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "from the basket of matzoth which is before the L-rd. [(This is the only instance of a bread offering accompanying an animal offering, being burned on the altar)]."
             }
           ],
           "model": "Instinct"
@@ -38448,8 +38476,12 @@
         "29": {
           "pairs": [
             {
-              "hebrew": "וַיְהִ֗י בְּרֶ֤דֶת מֹשֶׁה֙ מֵהַ֣ר סִינַ֔י וּשְׁנֵ֨י לֻחֹ֤ת הָֽעֵדֻת֙ בְּיַד־מֹשֶׁ֔ה בְּרִדְתּ֖וֹ מִן־הָהָ֑ר",
-              "english": "And it was, when Moses descended [(with the second tablets, on Yom Kippur)] from Mount Sinai — with the two tablets of the testimony in the hand of Moses, when he descended from the mountain —"
+              "hebrew": "וַיְהִ֗י בְּרֶ֤דֶת מֹשֶׁה֙ מֵהַ֣ר סִינַ֔י",
+              "english": "And it was, when Moses descended [(with the second tablets, on Yom Kippur)] from Mount Sinai —"
+            },
+            {
+              "hebrew": "וּשְׁנֵ֨י לֻחֹ֤ת הָֽעֵדֻת֙ בְּיַד־מֹשֶׁ֔ה בְּרִדְתּ֖וֹ מִן־הָהָ֑ר",
+              "english": "with the two tablets of the testimony in the hand of Moses, when he descended from the mountain —"
             },
             {
               "hebrew": "וּמֹשֶׁ֣ה לֹֽא־יָדַ֗ע כִּ֥י קָרַ֛ן ע֥וֹר פָּנָ֖יו בְּדַבְּר֥וֹ אִתּֽוֹ׃",
@@ -38517,8 +38549,12 @@
         "34": {
           "pairs": [
             {
-              "hebrew": "וּבְבֹ֨א מֹשֶׁ֜ה לִפְנֵ֤י יְהֹוָה֙ לְדַבֵּ֣ר אִתּ֔וֹ יָסִ֥יר אֶת־הַמַּסְוֶ֖ה עַד־צֵאת֑וֹ",
-              "english": "And when Moses came before the L-rd to speak with Him, he would put off the mask until he went forth;"
+              "hebrew": "וּבְבֹ֨א מֹשֶׁ֜ה לִפְנֵ֤י יְהֹוָה֙ לְדַבֵּ֣ר אִתּ֔וֹ",
+              "english": "And when Moses came before the L-rd to speak with Him,"
+            },
+            {
+              "hebrew": "יָסִ֥יר אֶת־הַמַּסְוֶ֖ה עַד־צֵאת֑וֹ",
+              "english": "he would put off the mask until he went forth;"
             },
             {
               "hebrew": "וְיָצָ֗א וְדִבֶּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת אֲשֶׁ֥ר יְצֻוֶּֽה׃",
@@ -38534,8 +38570,12 @@
               "english": "And the children of Israel beheld Moses' face, for the skin of Moses' face shone."
             },
             {
-              "hebrew": "וְהֵשִׁ֨יב מֹשֶׁ֤ה אֶת־הַמַּסְוֶה֙ עַל־פָּנָ֔יו עַד־בֹּא֖וֹ לְדַבֵּ֥ר אִתּֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "And [when he took leave of them], Moses would put the mask back on his face until he came to speak with Him, [when he would doff it]."
+              "hebrew": "וְהֵשִׁ֨יב מֹשֶׁ֤ה אֶת־הַמַּסְוֶה֙ עַל־פָּנָ֔יו",
+              "english": "And [when he took leave of them], Moses would put the mask back on his face"
+            },
+            {
+              "hebrew": "עַד־בֹּא֖וֹ לְדַבֵּ֥ר אִתּֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "until he came to speak with Him, [when he would doff it]."
             }
           ],
           "model": "Instinct"
@@ -39047,8 +39087,12 @@
         "2": {
           "pairs": [
             {
-              "hebrew": "וַיִּקְרָ֣א מֹשֶׁ֗ה אֶל־בְּצַלְאֵל֮ וְאֶל־אׇֽהֳלִיאָב֒ וְאֶל֙ כׇּל־אִ֣ישׁ חֲכַם־לֵ֔ב אֲשֶׁ֨ר נָתַ֧ן יְהֹוָ֛ה חׇכְמָ֖ה בְּלִבּ֑וֹ",
-              "english": "And Moses called to Betzalel and to Ahaliav and to every man wise of heart, in whose heart the L-rd had put wisdom,"
+              "hebrew": "וַיִּקְרָ֣א מֹשֶׁ֗ה אֶל־בְּצַלְאֵל֮ וְאֶל־אׇֽהֳלִיאָב֒ וְאֶל֙ כׇּל־אִ֣ישׁ חֲכַם־לֵ֔ב",
+              "english": "And Moses called to Betzalel and to Ahaliav and to every man wise of heart,"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר נָתַ֧ן יְהֹוָ֛ה חׇכְמָ֖ה בְּלִבּ֑וֹ",
+              "english": "in whose heart the L-rd had put wisdom,"
             },
             {
               "hebrew": "כֹּ֚ל אֲשֶׁ֣ר נְשָׂא֣וֹ לִבּ֔וֹ לְקׇרְבָ֥ה אֶל־הַמְּלָאכָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
@@ -39060,8 +39104,12 @@
         "3": {
           "pairs": [
             {
-              "hebrew": "וַיִּקְח֞וּ מִלִּפְנֵ֣י מֹשֶׁ֗ה אֵ֤ת כׇּל־הַתְּרוּמָה֙ אֲשֶׁ֨ר הֵבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל לִמְלֶ֛אכֶת עֲבֹדַ֥ת הַקֹּ֖דֶשׁ לַעֲשֹׂ֣ת אֹתָ֑הּ",
-              "english": "And they took from before Moses the entire offering that the children of Israel had brought for the work of the labor of the sanctuary, to do it."
+              "hebrew": "וַיִּקְח֞וּ מִלִּפְנֵ֣י מֹשֶׁ֗ה אֵ֤ת כׇּל־הַתְּרוּמָה֙ אֲשֶׁ֨ר הֵבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל",
+              "english": "And they took from before Moses the entire offering that the children of Israel had brought"
+            },
+            {
+              "hebrew": "לִמְלֶ֛אכֶת עֲבֹדַ֥ת הַקֹּ֖דֶשׁ לַעֲשֹׂ֣ת אֹתָ֑הּ",
+              "english": "for the work of the labor of the sanctuary, to do it."
             },
             {
               "hebrew": "וְ֠הֵ֠ם הֵבִ֨יאוּ אֵלָ֥יו ע֛וֹד נְדָבָ֖ה בַּבֹּ֥קֶר בַּבֹּֽקֶר׃",
@@ -39612,8 +39660,12 @@
               "english": "And he cast for it four golden rings for its four corners;"
             },
             {
-              "hebrew": "וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
-              "english": "two rings on one side and two rings on the other side."
+              "hebrew": "וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת",
+              "english": "two rings on one side"
+            },
+            {
+              "hebrew": "וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+              "english": "and two rings on the other side."
             }
           ],
           "model": "Instinct"
@@ -39793,8 +39845,12 @@
               "english": "And he made the implements which were on the table:"
             },
             {
-              "hebrew": "אֶת־קְעָרֹתָ֤יו וְאֶת־כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶ֨ת־הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֖ב טָהֽוֹר׃&nbsp;{פ}",
-              "english": "its [bread-] moulds, its censers, its canes, and its staves, by which [canes] it [the show-bread] was covered — pure gold."
+              "hebrew": "אֶת־קְעָרֹתָ֤יו וְאֶת־כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶ֨ת־הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן",
+              "english": "its [bread-] moulds, its censers, its canes, and its staves, by which [canes] it [the show-bread] was covered —"
+            },
+            {
+              "hebrew": "זָהָ֖ב טָהֽוֹר׃&nbsp;{פ}",
+              "english": "pure gold."
             }
           ],
           "model": "Instinct"
@@ -40324,8 +40380,12 @@
               "english": "All the gold that was used for the work, in all the work of the sanctuary —"
             },
             {
-              "hebrew": "וַיְהִ֣י&thinsp;׀ זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
-              "english": "the gold of the offering was twenty-nine kikar [(one kikar = three thousand shekels)] and seven hundred and thirty shekels in the shekel of the sanctuary."
+              "hebrew": "וַיְהִ֣י&thinsp;׀ זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר",
+              "english": "the gold of the offering was twenty-nine kikar [(one kikar = three thousand shekels)]"
+            },
+            {
+              "hebrew": "וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+              "english": "and seven hundred and thirty shekels in the shekel of the sanctuary."
             }
           ],
           "model": "Instinct"
@@ -40406,8 +40466,12 @@
               "english": "And he made of it the sockets of the entrance of the tent of meeting,"
             },
             {
-              "hebrew": "וְאֵת֙ מִזְבַּ֣ח הַנְּחֹ֔שֶׁת וְאֶת־מִכְבַּ֥ר הַנְּחֹ֖שֶׁת אֲשֶׁר־ל֑וֹ וְאֵ֖ת כׇּל־כְּלֵ֥י הַמִּזְבֵּֽחַ׃",
-              "english": "and the copper altar, and its copper lattice, and all the implements of the altar."
+              "hebrew": "וְאֵת֙ מִזְבַּ֣ח הַנְּחֹ֔שֶׁת וְאֶת־מִכְבַּ֥ר הַנְּחֹ֖שֶׁת אֲשֶׁר־ל֑וֹ",
+              "english": "and the copper altar, and its copper lattice,"
+            },
+            {
+              "hebrew": "וְאֵ֖ת כׇּל־כְּלֵ֥י הַמִּזְבֵּֽחַ׃",
+              "english": "and all the implements of the altar."
             }
           ],
           "model": "Instinct"
@@ -40464,8 +40528,12 @@
               "english": "And they beat the plates of gold and cut [from the thin plate] strands"
             },
             {
-              "hebrew": "לַעֲשׂ֗וֹת בְּת֤וֹךְ הַתְּכֵ֙לֶת֙ וּבְת֣וֹךְ הָֽאַרְגָּמָ֔ן וּבְת֛וֹךְ תּוֹלַ֥עַת הַשָּׁנִ֖י וּבְת֣וֹךְ הַשֵּׁ֑שׁ מַעֲשֵׂ֖ה חֹשֵֽׁב׃",
-              "english": "to work into the blue wool [(i.e., one thread of gold intertwined with six of blue wool, etc.)]. And into the purple wool, and into the scarlet wool, and into the linen, the work of an artist."
+              "hebrew": "לַעֲשׂ֗וֹת בְּת֤וֹךְ הַתְּכֵ֙לֶת֙ וּבְת֣וֹךְ הָֽאַרְגָּמָ֔ן וּבְת֛וֹךְ תּוֹלַ֥עַת הַשָּׁנִ֖י וּבְת֣וֹךְ הַשֵּׁ֑שׁ",
+              "english": "to work into the blue wool [(i.e., one thread of gold intertwined with six of blue wool, etc.)]. And into the purple wool, and into the scarlet wool, and into the linen,"
+            },
+            {
+              "hebrew": "מַעֲשֵׂ֖ה חֹשֵֽׁב׃",
+              "english": "the work of an artist."
             }
           ],
           "model": "Instinct"
@@ -40861,8 +40929,12 @@
               "english": "And all the work of the mishkan of the tent of meeting was completed."
             },
             {
-              "hebrew": "וַֽיַּעֲשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;{פ}",
-              "english": "And the children of Israel did [the work]. As all that the L-rd had commanded Moses; thus did they do."
+              "hebrew": "וַֽיַּעֲשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "And the children of Israel did [the work]."
+            },
+            {
+              "hebrew": "כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;{פ}",
+              "english": "As all that the L-rd had commanded Moses; thus did they do."
             }
           ],
           "model": "Instinct"
@@ -40961,8 +41033,12 @@
         "40": {
           "pairs": [
             {
-              "hebrew": "אֵת֩ קַלְעֵ֨י הֶחָצֵ֜ר אֶת־עַמֻּדֶ֣יהָ וְאֶת־אֲדָנֶ֗יהָ וְאֶת־הַמָּסָךְ֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר אֶת־מֵיתָרָ֖יו וִיתֵדֹתֶ֑יהָ",
-              "english": "The curtains of the court, its pillars and its sockets and the partition for the gate of the court, its cords and its pegs,"
+              "hebrew": "אֵת֩ קַלְעֵ֨י הֶחָצֵ֜ר אֶת־עַמֻּדֶ֣יהָ וְאֶת־אֲדָנֶ֗יהָ וְאֶת־הַמָּסָךְ֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר",
+              "english": "The curtains of the court, its pillars and its sockets and the partition for the gate of the court,"
+            },
+            {
+              "hebrew": "אֶת־מֵיתָרָ֖יו וִיתֵדֹתֶ֑יהָ",
+              "english": "its cords and its pegs,"
             },
             {
               "hebrew": "וְאֵ֗ת כׇּל־כְּלֵ֛י עֲבֹדַ֥ת הַמִּשְׁכָּ֖ן לְאֹ֥הֶל מוֹעֵֽד׃",
@@ -41000,8 +41076,12 @@
         "43": {
           "pairs": [
             {
-              "hebrew": "וַיַּ֨רְא מֹשֶׁ֜ה אֶת־כׇּל־הַמְּלָאכָ֗ה וְהִנֵּה֙ עָשׂ֣וּ אֹתָ֔הּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה כֵּ֣ן עָשׂ֑וּ",
-              "english": "And Moses saw all the work, and, behold, they had done it as the L-rd had commanded; thus had they done it."
+              "hebrew": "וַיַּ֨רְא מֹשֶׁ֜ה אֶת־כׇּל־הַמְּלָאכָ֗ה וְהִנֵּה֙ עָשׂ֣וּ אֹתָ֔הּ",
+              "english": "And Moses saw all the work, and, behold, they had done it"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה כֵּ֣ן עָשׂ֑וּ",
+              "english": "as the L-rd had commanded; thus had they done it."
             },
             {
               "hebrew": "וַיְבָ֥רֶךְ אֹתָ֖ם מֹשֶֽׁה׃&nbsp;{פ}",
@@ -41295,8 +41375,12 @@
         "21": {
           "pairs": [
             {
-              "hebrew": "וַיָּבֵ֣א אֶת־הָאָרֹן֮ אֶל־הַמִּשְׁכָּן֒ וַיָּ֗שֶׂם אֵ֚ת פָּרֹ֣כֶת הַמָּסָ֔ךְ וַיָּ֕סֶךְ עַ֖ל אֲר֣וֹן הָעֵד֑וּת",
-              "english": "And he brought the ark to the mishkan, and he placed the parocheth partition and it screened the ark of testimony,"
+              "hebrew": "וַיָּבֵ֣א אֶת־הָאָרֹן֮ אֶל־הַמִּשְׁכָּן֒",
+              "english": "And he brought the ark to the mishkan,"
+            },
+            {
+              "hebrew": "וַיָּ֗שֶׂם אֵ֚ת פָּרֹ֣כֶת הַמָּסָ֔ךְ וַיָּ֕סֶךְ עַ֖ל אֲר֣וֹן הָעֵד֑וּת",
+              "english": "and he placed the parocheth partition and it screened the ark of testimony,"
             },
             {
               "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
