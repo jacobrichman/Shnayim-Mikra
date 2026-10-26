@@ -54570,8 +54570,1027 @@
           ],
           "model": "Instinct"
         }
+      },
+      "3": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֛לֶּה תּוֹלְדֹ֥ת אַהֲרֹ֖ן וּמֹשֶׁ֑ה",
+              "english": "And these are the generations of Aaron and Moses [(Even though only the sons of Aaron are mentioned, they are called \"the generations of Moses\" because he taught them Torah (whence it is derived that if one teaches his friend's son Torah, it is as if he had begotten him)],"
+            },
+            {
+              "hebrew": "בְּי֗וֹם דִּבֶּ֧ר יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה בְּהַ֥ר סִינָֽי׃",
+              "english": "on the day the L-rd spoke to Moses on Mount Sinai [i.e., on that day they became his \"generations,\" for he taught them what he had learned from the Almighty.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֛לֶּה שְׁמ֥וֹת בְּֽנֵי־אַהֲרֹ֖ן",
+              "english": "And these are the names of the sons of Aaron:"
+            },
+            {
+              "hebrew": "הַבְּכֹ֣ר&thinsp;׀&thinsp;נָדָ֑ב וַאֲבִיה֕וּא אֶלְעָזָ֖ר וְאִיתָמָֽר׃",
+              "english": "the first-born — Nadav; and Avihu, Elazar, and Ithamar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "אֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י אַהֲרֹ֔ן הַכֹּהֲנִ֖ים הַמְּשֻׁחִ֑ים",
+              "english": "These are the names of the sons of Aaron, the anointed Cohanim,"
+            },
+            {
+              "hebrew": "אֲשֶׁר־מִלֵּ֥א יָדָ֖ם לְכַהֵֽן׃",
+              "english": "whom he invested to minister."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣מׇת נָדָ֣ב וַאֲבִיה֣וּא לִפְנֵ֣י יְהֹוָ֡ה בְּֽהַקְרִבָם֩ אֵ֨שׁ זָרָ֜ה לִפְנֵ֤י יְהֹוָה֙ בְּמִדְבַּ֣ר סִינַ֔י",
+              "english": "And Nadav and Avihu died before the L-rd when they presented a strange fire before the L-rd in the desert of Sinai,"
+            },
+            {
+              "hebrew": "וּבָנִ֖ים לֹא־הָי֣וּ לָהֶ֑ם",
+              "english": "and they had no sons."
+            },
+            {
+              "hebrew": "וַיְכַהֵ֤ן אֶלְעָזָר֙ וְאִ֣יתָמָ֔ר עַל־פְּנֵ֖י אַהֲרֹ֥ן אֲבִיהֶֽם׃&nbsp;{פ}",
+              "english": "And Elazar and Ithamar ministered in the presence [i.e., in the lifetime] of Aaron their father."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "הַקְרֵב֙ אֶת־מַטֵּ֣ה לֵוִ֔י",
+              "english": "Bring near the tribe of Levi"
+            },
+            {
+              "hebrew": "וְהַעֲמַדְתָּ֣ אֹת֔וֹ לִפְנֵ֖י אַהֲרֹ֣ן הַכֹּהֵ֑ן",
+              "english": "and place them before Aaron the Cohein,"
+            },
+            {
+              "hebrew": "וְשֵׁרְת֖וּ אֹתֽוֹ׃",
+              "english": "that they serve him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁמְר֣וּ אֶת־מִשְׁמַרְתּ֗וֹ וְאֶת־מִשְׁמֶ֙רֶת֙ כׇּל־הָ֣עֵדָ֔ה",
+              "english": "[And what is this service?] They shall keep his charge [that no stranger come near (to the holy things; the Levites assisted him in this)] and the charge of the entire congregation"
+            },
+            {
+              "hebrew": "לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃",
+              "english": "before the tent of meeting to perform the service of the mishkan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׁמְר֗וּ אֶֽת־כׇּל־כְּלֵי֙ אֹ֣הֶל מוֹעֵ֔ד",
+              "english": "And they shall guard all the vessels of the tent of meeting"
+            },
+            {
+              "hebrew": "וְאֶת־מִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "and (they shall keep) the charge of the children of Israel"
+            },
+            {
+              "hebrew": "לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃",
+              "english": "to perform the service of the mishkan. [The service of the mishkan devolved upon all of Israel, and the Levites became their emissaries for it (in payment for which they give the tithe to the Levites)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּה֙ אֶת־הַלְוִיִּ֔ם לְאַהֲרֹ֖ן וּלְבָנָ֑יו",
+              "english": "And you shall give the Levites to Aaron and to his sons."
+            },
+            {
+              "hebrew": "נְתוּנִ֨ם נְתוּנִ֥ם הֵ֙מָּה֙ ל֔וֹ מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "They are given to him [i.e., separated unto him by the L-rd's decree] from the [midst of the] children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־אַהֲרֹ֤ן וְאֶת־בָּנָיו֙ תִּפְקֹ֔ד וְשָׁמְר֖וּ אֶת־כְּהֻנָּתָ֑ם",
+              "english": "And Aaron and his sons shall you charge that they guard their priesthood [(receiving the blood, sprinkling, smoking, and the services relegated to the priests)],"
+            },
+            {
+              "hebrew": "וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃&nbsp;{פ}",
+              "english": "and the stranger that draws near shall be put to death."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲנִ֞י הִנֵּ֧ה לָקַ֣חְתִּי אֶת־הַלְוִיִּ֗ם מִתּוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "And I, behold, I have taken the Levites from the midst of the children of Israel, [that the Israelites hire them for My service. And whence comes this \"prerogative\" of Mine?]"
+            },
+            {
+              "hebrew": "תַּ֧חַת כׇּל־בְּכ֛וֹר פֶּ֥טֶר רֶ֖חֶם מִבְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "In place of every first-born, opener of the womb, of the children of Israel, [i.e., The service originally devolved upon the first-born, and when they sinned with the golden calf, the Levites, who did not sin, were selected in their place.]"
+            },
+            {
+              "hebrew": "וְהָ֥יוּ לִ֖י הַלְוִיִּֽם׃",
+              "english": "And the Levites shall be Mine."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י לִי֮ כׇּל־בְּכוֹר֒",
+              "english": "For Mine is every first-born."
+            },
+            {
+              "hebrew": "בְּיוֹם֩ הַכֹּתִ֨י כׇל־בְּכ֜וֹר בְּאֶ֣רֶץ מִצְרַ֗יִם",
+              "english": "On the day I smote every first-born in the land of Egypt,"
+            },
+            {
+              "hebrew": "הִקְדַּ֨שְׁתִּי לִ֤י כׇל־בְּכוֹר֙ בְּיִשְׂרָאֵ֔ל מֵאָדָ֖ם עַד־בְּהֵמָ֑ה",
+              "english": "I sanctified unto Me every first-born in Israel, from man until beast."
+            },
+            {
+              "hebrew": "לִ֥י יִהְי֖וּ אֲנִ֥י יְהֹוָֽה׃&nbsp;{פ}",
+              "english": "Mine shall they be — I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה",
+              "english": "And the L-rd spoke to Moses"
+            },
+            {
+              "hebrew": "בְּמִדְבַּ֥ר סִינַ֖י לֵאמֹֽר׃",
+              "english": "in the desert of Sinai, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֹד֙ אֶת־בְּנֵ֣י לֵוִ֔י לְבֵ֥ית אֲבֹתָ֖ם לְמִשְׁפְּחֹתָ֑ם",
+              "english": "Number the children of Levi, by their fathers' house, by their families."
+            },
+            {
+              "hebrew": "כׇּל־זָכָ֛ר מִבֶּן־חֹ֥דֶשׁ וָמַ֖עְלָה תִּפְקְדֵֽם׃",
+              "english": "Every male, from one month and above [(after they have left the category of nefalim (non-viable births)] shall you number them. [He is numbered to be called \"a keeper of the charge of the sanctuary\" (3:28). (The Levites are \"conversant\" in being numbered from the womb, e.g., Yocheved, the daughter of Levi (see 26:59)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְקֹ֥ד אֹתָ֛ם מֹשֶׁ֖ה עַל־פִּ֣י יְהֹוָ֑ה",
+              "english": "And Moses numbered them by word of the L-rd"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֖ר צֻוָּֽה׃",
+              "english": "as he had been commanded. [A heavenly voice would come to Moses from the door of each tent, saying: So many and so many infants are in this tent.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽהְיוּ־אֵ֥לֶּה בְנֵֽי־לֵוִ֖י בִּשְׁמֹתָ֑ם",
+              "english": "And these were the sons of Levi by their names:"
+            },
+            {
+              "hebrew": "גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִֽי׃",
+              "english": "Gershon, Kehath, and Merari."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֛לֶּה שְׁמ֥וֹת בְּֽנֵי־גֵרְשׁ֖וֹן לְמִשְׁפְּחֹתָ֑ם",
+              "english": "And these are the names of the sons of Gershon by their families:"
+            },
+            {
+              "hebrew": "לִבְנִ֖י וְשִׁמְעִֽי׃",
+              "english": "Livni and Shimi."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֥י קְהָ֖ת לְמִשְׁפְּחֹתָ֑ם",
+              "english": "And the sons of Kehath by their families:"
+            },
+            {
+              "hebrew": "עַמְרָ֣ם וְיִצְהָ֔ר חֶבְר֖וֹן וְעֻזִּיאֵֽל׃",
+              "english": "Amram and Yitzhar, Chevron and Uziel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וּבְנֵ֧י מְרָרִ֛י לְמִשְׁפְּחֹתָ֖ם מַחְלִ֣י וּמוּשִׁ֑י",
+              "english": "And the sons of Merari by their families: Machli and Mushi."
+            },
+            {
+              "hebrew": "אֵ֥לֶּה הֵ֛ם מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְבֵ֥ית אֲבֹתָֽם׃",
+              "english": "These are the families of the Levites by their fathers' house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "לְגֵ֣רְשׁ֔וֹן מִשְׁפַּ֙חַת֙ הַלִּבְנִ֔י וּמִשְׁפַּ֖חַת הַשִּׁמְעִ֑י",
+              "english": "Unto Gershon [were numbered] the family of the Livni and the family of the Shimi."
+            },
+            {
+              "hebrew": "אֵ֣לֶּה הֵ֔ם מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּֽי׃",
+              "english": "These are the families of the Gershuni."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "פְּקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה",
+              "english": "Their numbered, the number of all the males from one month and above:"
+            },
+            {
+              "hebrew": "פְּקֻ֣דֵיהֶ֔ם שִׁבְעַ֥ת אֲלָפִ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+              "english": "seven thousand and five hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י",
+              "english": "The families of the Gershuni"
+            },
+            {
+              "hebrew": "אַחֲרֵ֧י הַמִּשְׁכָּ֛ן יַחֲנ֖וּ יָֽמָּה׃",
+              "english": "were to encamp behind the mishkan, on the west."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וּנְשִׂ֥יא בֵֽית־אָ֖ב לַגֵּרְשֻׁנִּ֑י",
+              "english": "And the chief of the fathers' house of the Gershuni,"
+            },
+            {
+              "hebrew": "אֶלְיָסָ֖ף בֶּן־לָאֵֽל׃",
+              "english": "Elyasaf ben La'el."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וּמִשְׁמֶ֤רֶת בְּנֵֽי־גֵרְשׁוֹן֙ בְּאֹ֣הֶל מוֹעֵ֔ד",
+              "english": "And the charge of the sons of Gershon in the tent of meeting:"
+            },
+            {
+              "hebrew": "הַמִּשְׁכָּ֖ן וְהָאֹ֑הֶל מִכְסֵ֕הוּ",
+              "english": "the mishkan [the lower curtains] and the tent [the goats' hair curtains, which served as a roof], its covering [the hides of the rams and the techashim]"
+            },
+            {
+              "hebrew": "וּמָסַ֕ךְ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and the partition for the door of the tent of meeting [the vilon]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְקַלְעֵ֣י הֶֽחָצֵ֗ר וְאֶת־מָסַךְ֙ פֶּ֣תַח הֶֽחָצֵ֔ר אֲשֶׁ֧ר עַל־הַמִּשְׁכָּ֛ן וְעַל־הַמִּזְבֵּ֖חַ סָבִ֑יב",
+              "english": "And the hangings of the court, and the partition for the door of the court, which is by the mishkan and by the altar roundabout,"
+            },
+            {
+              "hebrew": "וְאֵת֙ מֵֽיתָרָ֔יו לְכֹ֖ל עֲבֹדָתֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and its cords [(those of the mishkan and of the tent, but not those of the court)], for all of its service."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וְלִקְהָ֗ת מִשְׁפַּ֤חַת הַֽעַמְרָמִי֙ וּמִשְׁפַּ֣חַת הַיִּצְהָרִ֔י וּמִשְׁפַּ֙חַת֙ הַֽחֶבְרֹנִ֔י וּמִשְׁפַּ֖חַת הָעׇזִּֽיאֵלִ֑י",
+              "english": "And unto Kehath [were numbered] the family of the Amrami, and the family of the Yitzhari, and the family of the Chevroni, and the family of the Azieli."
+            },
+            {
+              "hebrew": "אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת הַקְּהָתִֽי׃",
+              "english": "These are the families of the Kehathi."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "בְּמִסְפַּר֙ כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה",
+              "english": "The number of all the males from one month and above:"
+            },
+            {
+              "hebrew": "שְׁמֹנַ֤ת אֲלָפִים֙ וְשֵׁ֣שׁ מֵא֔וֹת",
+              "english": "eight thousand and six hundred,"
+            },
+            {
+              "hebrew": "שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃",
+              "english": "keepers of the charge of the sanctuary."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "מִשְׁפְּחֹ֥ת בְּנֵי־קְהָ֖ת יַחֲנ֑וּ",
+              "english": "The families of the sons of Kehath were to encamp"
+            },
+            {
+              "hebrew": "עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן תֵּימָֽנָה׃",
+              "english": "at the side of the mishkan on the south."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וּנְשִׂ֥יא בֵֽית־אָ֖ב לְמִשְׁפְּחֹ֣ת הַקְּהָתִ֑י",
+              "english": "And the chief of the fathers' house of the families of the Kehathi,"
+            },
+            {
+              "hebrew": "אֱלִיצָפָ֖ן בֶּן־עֻזִּיאֵֽל׃",
+              "english": "Elitzafan ben Uziel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וּמִשְׁמַרְתָּ֗ם הָאָרֹ֤ן וְהַשֻּׁלְחָן֙ וְהַמְּנֹרָ֣ה וְהַֽמִּזְבְּחֹ֔ת",
+              "english": "And their charge: the ark and the table and the menorah and the altars,"
+            },
+            {
+              "hebrew": "וּכְלֵ֣י הַקֹּ֔דֶשׁ אֲשֶׁ֥ר יְשָׁרְת֖וּ בָּהֶ֑ם",
+              "english": "and the ministering vessels of the sanctuary,"
+            },
+            {
+              "hebrew": "וְהַ֨מָּסָ֔ךְ וְכֹ֖ל עֲבֹדָתֽוֹ׃",
+              "english": "and the partition (masach) [the parocheth, which is also called \"parocheth hamasach\" (Exodus 35:52)], and all of its service."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וּנְשִׂיא֙ נְשִׂיאֵ֣י הַלֵּוִ֔י אֶלְעָזָ֖ר בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֑ן",
+              "english": "And the chief of the chiefs of the Levites, Elazar the son of Aaron the Cohein,"
+            },
+            {
+              "hebrew": "פְּקֻדַּ֕ת שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃",
+              "english": "[this charge being] the appointment of the keepers of the sanctuary."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "לִמְרָרִ֕י מִשְׁפַּ֙חַת֙ הַמַּחְלִ֔י וּמִשְׁפַּ֖חַת הַמּוּשִׁ֑י",
+              "english": "Unto Merari [were numbered] the family of the Machli, and the family of the Mushi."
+            },
+            {
+              "hebrew": "אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת מְרָרִֽי׃",
+              "english": "These are the families of Merari."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וּפְקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה",
+              "english": "And their numbered, the number of all the males from one month and above,"
+            },
+            {
+              "hebrew": "שֵׁ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃",
+              "english": "six thousand and two hundred."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וּנְשִׂ֤יא בֵֽית־אָב֙ לְמִשְׁפְּחֹ֣ת מְרָרִ֔י צוּרִיאֵ֖ל בֶּן־אֲבִיחָ֑יִל",
+              "english": "And the chief of the father's house of the families of Merari, Tzuriyel ben Avichayil."
+            },
+            {
+              "hebrew": "עַ֣ל יֶ֧רֶךְ הַמִּשְׁכָּ֛ן יַחֲנ֖וּ צָפֹֽנָה׃",
+              "english": "At the side of the mishkan they were to encamp, on the north."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וּפְקֻדַּ֣ת מִשְׁמֶ֘רֶת֮ בְּנֵ֣י מְרָרִי֒",
+              "english": "And the appointed charge of the sons of Merari:"
+            },
+            {
+              "hebrew": "קַרְשֵׁי֙ הַמִּשְׁכָּ֔ן וּבְרִיחָ֖יו וְעַמֻּדָ֣יו וַאֲדָנָ֑יו",
+              "english": "the beams of the mishkan and its bars, and its pillars, and its sockets,"
+            },
+            {
+              "hebrew": "וְכׇ֨ל־כֵּלָ֔יו וְכֹ֖ל עֲבֹדָתֽוֹ׃",
+              "english": "and all of its vessels, and all of its service."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וְעַמֻּדֵ֧י הֶחָצֵ֛ר סָבִ֖יב וְאַדְנֵיהֶ֑ם",
+              "english": "And the pillars of the court roundabout, and their sockets,"
+            },
+            {
+              "hebrew": "וִיתֵדֹתָ֖ם וּמֵֽיתְרֵיהֶֽם׃",
+              "english": "and their pegs, and their cords."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וְהַחֹנִ֣ים לִפְנֵ֣י הַמִּשְׁכָּ֡ן קֵ֣דְמָה לִפְנֵי֩ אֹֽהֶל־מוֹעֵ֨ד&thinsp;׀&thinsp;מִזְרָ֜חָה מֹשֶׁ֣ה&thinsp;׀ וְאַהֲרֹ֣ן וּבָנָ֗יו",
+              "english": "And those who encamped before the mishkan, in front, before the tent of meeting, on the east — Moses, and Aaron, and his sons,"
+            },
+            {
+              "hebrew": "שֹֽׁמְרִים֙ מִשְׁמֶ֣רֶת הַמִּקְדָּ֔שׁ לְמִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "keeping the charge of the sanctuary, for the charge of the children of Israel [see 8];"
+            },
+            {
+              "hebrew": "וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃",
+              "english": "and the stranger that draws near shall be put to death."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־פְּקוּדֵ֨י הַלְוִיִּ֜ם אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֧ה וְׄאַׄהֲׄרֹ֛ׄןׄ עַל־פִּ֥י יְהֹוָ֖ה לְמִשְׁפְּחֹתָ֑ם",
+              "english": "All the numbered of the Levites, whom Moses and Aaron numbered [(The dots over \"Aharon\" indicate that he was not included in the count of the Levites)] by word of the L-rd, by their families,"
+            },
+            {
+              "hebrew": "כׇּל־זָכָר֙ מִבֶּן־חֹ֣דֶשׁ וָמַ֔עְלָה שְׁנַ֥יִם וְעֶשְׂרִ֖ים אָֽלֶף׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "all the males from one month and above — twenty-two thousand. [(Actually 22,300; but 300 of the Levites were themselves bechoroth (first-born), so that they are not included in the count, which is the number of those Levites who displaced bechoroth (and does not include those who were bechoroth themselves (see 46-48)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה",
+              "english": "And the L-rd said to Moses:"
+            },
+            {
+              "hebrew": "פְּקֹ֨ד כׇּל־בְּכֹ֤ר זָכָר֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה",
+              "english": "Number all the first-born males of the children of Israel [(after they have left the category of nefalim — see 3:15)], from one month and above,"
+            },
+            {
+              "hebrew": "וְשָׂ֕א אֵ֖ת מִסְפַּ֥ר שְׁמֹתָֽם׃",
+              "english": "and take the number of their names."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַחְתָּ֨ אֶת־הַלְוִיִּ֥ם לִי֙ אֲנִ֣י יְהֹוָ֔ה תַּ֥חַת כׇּל־בְּכֹ֖ר בִּבְנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "And you shall take the Levites for Me — I am the L-rd — in place of all the first-born of the children of Israel,"
+            },
+            {
+              "hebrew": "וְאֵת֙ בֶּהֱמַ֣ת הַלְוִיִּ֔ם תַּ֣חַת כׇּל־בְּכ֔וֹר בְּבֶהֱמַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and the beasts of the Levites in place of all the firstlings of the beasts of the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְקֹ֣ד מֹשֶׁ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֹת֑וֹ",
+              "english": "And Moses numbered, as the L-rd commanded him,"
+            },
+            {
+              "hebrew": "אֶֽת־כׇּל־בְּכ֖וֹר בִּבְנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "all the first-born of the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִי֩ כׇל־בְּכ֨וֹר זָכָ֜ר בְּמִסְפַּ֥ר שֵׁמֹ֛ת מִבֶּן־חֹ֥דֶשׁ וָמַ֖עְלָה לִפְקֻדֵיהֶ֑ם",
+              "english": "And all the male first-born were, by number of names, from one month and above, of those that were numbered —"
+            },
+            {
+              "hebrew": "שְׁנַ֤יִם וְעֶשְׂרִים֙ אֶ֔לֶף שְׁלֹשָׁ֥ה וְשִׁבְעִ֖ים וּמָאתָֽיִם׃&nbsp;{פ}",
+              "english": "twenty-two thousand and two hundred and seventy-three."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "קַ֣ח אֶת־הַלְוִיִּ֗ם תַּ֤חַת כׇּל־בְּכוֹר֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל",
+              "english": "Take the Levites in place of all the first-born of the children of Israel,"
+            },
+            {
+              "hebrew": "וְאֶת־בֶּהֱמַ֥ת הַלְוִיִּ֖ם תַּ֣חַת בְּהֶמְתָּ֑ם",
+              "english": "and the beasts of the Levites in place of their beasts, [the firstling of asses (One lamb of a Levite would redeem many ass-firstlings of Israelites)],"
+            },
+            {
+              "hebrew": "וְהָיוּ־לִ֥י הַלְוִיִּ֖ם אֲנִ֥י יְהֹוָֽה׃",
+              "english": "and the Levites shall be Mine — I am the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֙ פְּדוּיֵ֣י",
+              "english": "And (for) the redemption (money)"
+            },
+            {
+              "hebrew": "הַשְּׁלֹשָׁ֔ה וְהַשִּׁבְעִ֖ים וְהַמָּאתָ֑יִם הָעֹֽדְפִים֙ עַל־הַלְוִיִּ֔ם מִבְּכ֖וֹר בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "of the two hundred and seventy-three of the bechoroth of the children of Israel over and above the (number of the) Levites,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַחְתָּ֗ חֲמֵ֧שֶׁת חֲמֵ֛שֶׁת שְׁקָלִ֖ים לַגֻּלְגֹּ֑לֶת",
+              "english": "You shall take five shekels for a head."
+            },
+            {
+              "hebrew": "בְּשֶׁ֤קֶל הַקֹּ֙דֶשׁ֙ תִּקָּ֔ח עֶשְׂרִ֥ים גֵּרָ֖ה הַשָּֽׁקֶל׃",
+              "english": "By the shekel of the sanctuary shall you take it, twenty gerah to the shekel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתַתָּ֣ה הַכֶּ֔סֶף לְאַהֲרֹ֖ן וּלְבָנָ֑יו",
+              "english": "And you shall give the money to Aaron and to his sons,"
+            },
+            {
+              "hebrew": "פְּדוּיֵ֕י הָעֹדְפִ֖ים בָּהֶֽם׃",
+              "english": "the redemption (money) of the excess of them [the bechoroth, over the Levites]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֣ח מֹשֶׁ֔ה אֵ֖ת כֶּ֣סֶף הַפִּדְי֑וֹם",
+              "english": "And Moses took the redemption money"
+            },
+            {
+              "hebrew": "מֵאֵת֙ הָעֹ֣דְפִ֔ים עַ֖ל פְּדוּיֵ֥י הַלְוִיִּֽם׃",
+              "english": "from those (bechoroth) who exceeded the (bechoroth) redeemed [bodily] by the Levites."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "50": {
+          "pairs": [
+            {
+              "hebrew": "מֵאֵ֗ת בְּכ֛וֹר בְּנֵ֥י יִשְׂרָאֵ֖ל לָקַ֣ח אֶת־הַכָּ֑סֶף",
+              "english": "[By ballot] from [two hundred and seventy-three] bechoroth of the children of Israel, he took the money —"
+            },
+            {
+              "hebrew": "חֲמִשָּׁ֨ה וְשִׁשִּׁ֜ים וּשְׁלֹ֥שׁ מֵא֛וֹת וָאֶ֖לֶף בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+              "english": "one thousand and three hundred and sixty-five (shekels) by the shekel of the sanctuary."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "51": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתֵּ֨ן מֹשֶׁ֜ה אֶת־כֶּ֧סֶף הַפְּדֻיִ֛ם לְאַהֲרֹ֥ן וּלְבָנָ֖יו",
+              "english": "And Moses gave the money of the redeemed to Aaron and to his sons"
+            },
+            {
+              "hebrew": "עַל־פִּ֣י יְהֹוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;{פ}",
+              "english": "by the word of the L-rd, as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "4": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֔ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "נָשֹׂ֗א אֶת־רֹאשׁ֙ בְּנֵ֣י קְהָ֔ת מִתּ֖וֹךְ בְּנֵ֣י לֵוִ֑י",
+              "english": "Take the count of the sons of Kehath [of those fit for carrying (i.e., from the age of thirty to fifty)], from the midst of the sons of Levi,"
+            },
+            {
+              "hebrew": "לְמִשְׁפְּחֹתָ֖ם לְבֵ֥ית אֲבֹתָֽם׃",
+              "english": "by their families, by their fathers' house."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה",
+              "english": "From thirty years and up until fifty years,"
+            },
+            {
+              "hebrew": "כׇּל־בָּא֙ לַצָּבָ֔א לַעֲשׂ֥וֹת מְלָאכָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "all who enter into service, to do work in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֛את עֲבֹדַ֥ת בְּנֵי־קְהָ֖ת בְּאֹ֣הֶל מוֹעֵ֑ד",
+              "english": "This is the service of the sons of Kehath in the tent of meeting,"
+            },
+            {
+              "hebrew": "קֹ֖דֶשׁ הַקֳּדָשִֽׁים׃",
+              "english": "holy of holies, [i.e., the holiest of all: the ark, the table, the menorah, the altars, the parocheth, and the ministering vessels.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וּבָ֨א אַהֲרֹ֤ן וּבָנָיו֙ בִּנְסֹ֣עַ הַֽמַּחֲנֶ֔ה",
+              "english": "And Aaron and his sons shall come, when the camp is to travel [(being apprised of this by the departure of the cloud)],"
+            },
+            {
+              "hebrew": "וְהוֹרִ֕דוּ אֵ֖ת פָּרֹ֣כֶת הַמָּסָ֑ךְ",
+              "english": "and they shall take down the parocheth partition"
+            },
+            {
+              "hebrew": "וְכִ֨סּוּ־בָ֔הּ אֵ֖ת אֲרֹ֥ן הָעֵדֻֽת׃",
+              "english": "and cover therewith the ark of the Testimony. [They placed each article in its designated sheath and the sons of Kehath needed only to carry it.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתְנ֣וּ עָלָ֗יו כְּסוּי֙ ע֣וֹר תַּ֔חַשׁ",
+              "english": "And they shall put thereon a covering of tachash skin,"
+            },
+            {
+              "hebrew": "וּפָרְשׂ֧וּ בֶֽגֶד־כְּלִ֛יל תְּכֵ֖לֶת מִלְמָ֑עְלָה",
+              "english": "and they shall spread a cloth all of blue over it,"
+            },
+            {
+              "hebrew": "וְשָׂמ֖וּ בַּדָּֽיו׃",
+              "english": "and they shall place its staves."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֣ל&thinsp;׀ שֻׁלְחַ֣ן הַפָּנִ֗ים יִפְרְשׂוּ֮ בֶּ֣גֶד תְּכֵ֒לֶת֒",
+              "english": "And on the show (-bread) table shall they spread a cloth of blue,"
+            },
+            {
+              "hebrew": "וְנָתְנ֣וּ עָ֠לָ֠יו אֶת־הַקְּעָרֹ֤ת וְאֶת־הַכַּפֹּת֙ וְאֶת־הַמְּנַקִּיֹּ֔ת וְאֵ֖ת קְשׂ֣וֹת הַנָּ֑סֶךְ",
+              "english": "and they shall place thereon the [bread-] molds, the censers, the staves, and the canes for covering [see Exodus 25:29];"
+            },
+            {
+              "hebrew": "וְלֶ֥חֶם הַתָּמִ֖יד עָלָ֥יו יִהְיֶֽה׃",
+              "english": "and the continual bread shall be thereon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וּפָרְשׂ֣וּ עֲלֵיהֶ֗ם בֶּ֚גֶד תּוֹלַ֣עַת שָׁנִ֔י",
+              "english": "And they shall spread thereon a cloth of scarlet"
+            },
+            {
+              "hebrew": "וְכִסּ֣וּ אֹת֔וֹ בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ",
+              "english": "and cover it with a tachash skin covering,"
+            },
+            {
+              "hebrew": "וְשָׂמ֖וּ אֶת־בַּדָּֽיו׃",
+              "english": "and they shall place its staves."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקְח֣וּ&thinsp;׀ בֶּ֣גֶד תְּכֵ֗לֶת",
+              "english": "And they shall take a blue cloth"
+            },
+            {
+              "hebrew": "וְכִסּ֞וּ אֶת־מְנֹרַ֤ת הַמָּאוֹר֙ וְאֶת־נֵ֣רֹתֶ֔יהָ וְאֶת־מַלְקָחֶ֖יהָ וְאֶת־מַחְתֹּתֶ֑יהָ",
+              "english": "and cover the menorah of lighting and its lamps, and its tongs, and its snuff-dishes [see Exodus 25:32]"
+            },
+            {
+              "hebrew": "וְאֵת֙ כׇּל־כְּלֵ֣י שַׁמְנָ֔הּ אֲשֶׁ֥ר יְשָׁרְתוּ־לָ֖הּ בָּהֶֽם׃",
+              "english": "and all its oil vessels wherewith they minister unto it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתְנ֤וּ אֹתָהּ֙ וְאֶת־כׇּל־כֵּלֶ֔יהָ אֶל־מִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ",
+              "english": "And they shall place it and all of its vessels into a covering of tachash skin [a kind of sack]"
+            },
+            {
+              "hebrew": "וְנָתְנ֖וּ עַל־הַמּֽוֹט׃",
+              "english": "and put it on a bar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְעַ֣ל&thinsp;׀ מִזְבַּ֣ח הַזָּהָ֗ב יִפְרְשׂוּ֙ בֶּ֣גֶד תְּכֵ֔לֶת",
+              "english": "And on the golden altar they shall spread a blue cloth"
+            },
+            {
+              "hebrew": "וְכִסּ֣וּ אֹת֔וֹ בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ",
+              "english": "and cover it with a tachash skin covering,"
+            },
+            {
+              "hebrew": "וְשָׂמ֖וּ אֶת־בַּדָּֽיו׃",
+              "english": "and they shall place its staves."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקְחוּ֩ אֶת־כׇּל־כְּלֵ֨י הַשָּׁרֵ֜ת אֲשֶׁ֧ר יְשָֽׁרְתוּ־בָ֣ם בַּקֹּ֗דֶשׁ",
+              "english": "And they shall take all the ministering vessels with which they minister in the sanctuary [i.e., the incense vessels with which they minister on the inner altar]"
+            },
+            {
+              "hebrew": "וְנָֽתְנוּ֙ אֶל־בֶּ֣גֶד תְּכֵ֔לֶת",
+              "english": "and put them in a blue cloth"
+            },
+            {
+              "hebrew": "וְכִסּ֣וּ אוֹתָ֔ם בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְנָתְנ֖וּ עַל־הַמּֽוֹט׃",
+              "english": "and cover them with a tachash skin covering and put them on a bar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְדִשְּׁנ֖וּ אֶת־הַמִּזְבֵּ֑חַ",
+              "english": "And they shall remove the ashes from the [copper] altar,"
+            },
+            {
+              "hebrew": "וּפָרְשׂ֣וּ עָלָ֔יו בֶּ֖גֶד אַרְגָּמָֽן׃",
+              "english": "and spread upon it a purple cloth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְנָתְנ֣וּ עָ֠לָ֠יו אֶֽת־כׇּל־כֵּלָ֞יו אֲשֶׁ֣ר יְֽשָׁרְת֧וּ עָלָ֣יו בָּהֶ֗ם אֶת־הַמַּחְתֹּ֤ת אֶת־הַמִּזְלָגֹת֙ וְאֶת־הַיָּעִ֣ים וְאֶת־הַמִּזְרָקֹ֔ת כֹּ֖ל כְּלֵ֣י הַמִּזְבֵּ֑חַ",
+              "english": "And they shall place on it all of its implements wherewith they minister upon it: its fire-pans, its spits, its shovels, and its sprinkling basins [see Exodus 27:3] — all the vessels of the altar;"
+            },
+            {
+              "hebrew": "וּפָרְשׂ֣וּ עָלָ֗יו כְּס֛וּי ע֥וֹר תַּ֖חַשׁ וְשָׂמ֥וּ בַדָּֽיו׃",
+              "english": "and they shall spread upon it a tachash skin covering, and they shall place its staves."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְכִלָּ֣ה אַֽהֲרֹן־וּ֠בָנָ֠יו לְכַסֹּ֨ת אֶת־הַקֹּ֜דֶשׁ וְאֶת־כׇּל־כְּלֵ֣י הַקֹּ֘דֶשׁ֮ בִּנְסֹ֣עַ הַֽמַּחֲנֶה֒",
+              "english": "And Aaron and his sons shall finish covering the holy (things) [the ark and the altar] and all the holy vessels when the camp is to travel,"
+            },
+            {
+              "hebrew": "וְאַחֲרֵי־כֵ֗ן יָבֹ֤אוּ בְנֵי־קְהָת֙ לָשֵׂ֔את",
+              "english": "and then the sons of Kehath shall come to carry (them),"
+            },
+            {
+              "hebrew": "וְלֹֽא־יִגְּע֥וּ אֶל־הַקֹּ֖דֶשׁ וָמֵ֑תוּ",
+              "english": "and they shall not touch the holy (things) lest they die [(at the hands of Heaven)]."
+            },
+            {
+              "hebrew": "אֵ֛לֶּה מַשָּׂ֥א בְנֵֽי־קְהָ֖ת בְּאֹ֥הֶל מוֹעֵֽד׃",
+              "english": "These (things) are the burden of the sons of Kehath in the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וּפְקֻדַּ֞ת אֶלְעָזָ֣ר&thinsp;׀ בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֗ן שֶׁ֤מֶן הַמָּאוֹר֙ וּקְטֹ֣רֶת הַסַּמִּ֔ים",
+              "english": "And the charge of Elazar the son of Aaron the Cohein was [the carrying of] the oil for lighting, and the spice incense,"
+            },
+            {
+              "hebrew": "וּמִנְחַ֥ת הַתָּמִ֖יד וְשֶׁ֣מֶן הַמִּשְׁחָ֑ה",
+              "english": "and the continual meal-offering [(He was charged with commanding and expediting its offering upon encampment)], and the anointing oil."
+            },
+            {
+              "hebrew": "פְּקֻדַּ֗ת כׇּל־הַמִּשְׁכָּן֙ וְכׇל־אֲשֶׁר־בּ֔וֹ בְּקֹ֖דֶשׁ וּבְכֵלָֽיו׃&nbsp;{פ}",
+              "english": "[And, in addition, he was appointed over the burden of the sons of Kehath, to assign to each his service and his burden, viz.] the charge of all the mishkan and all that was in it, the holy (things) and all of its vessels [(as set forth above)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֣ר יְהֹוָ֔ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+              "english": "to Moses and to Aaron, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "אַל־תַּכְרִ֕יתוּ אֶת־שֵׁ֖בֶט מִשְׁפְּחֹ֣ת הַקְּהָתִ֑י",
+              "english": "Do not cut off the tribe of the families of the Kehathi"
+            },
+            {
+              "hebrew": "מִתּ֖וֹךְ הַלְוִיִּֽם׃",
+              "english": "from the midst of the Levites [i.e., take care not to bring about their death]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹ֣את&thinsp;׀ עֲשׂ֣וּ לָהֶ֗ם וְחָיוּ֙ וְלֹ֣א יָמֻ֔תוּ בְּגִשְׁתָּ֖ם אֶת־קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים",
+              "english": "But do this for them and they will live and not die when they approach the holy of holies:"
+            },
+            {
+              "hebrew": "אַהֲרֹ֤ן וּבָנָיו֙ יָבֹ֔אוּ וְשָׂמ֣וּ אוֹתָ֗ם אִ֥ישׁ אִ֛ישׁ עַל־עֲבֹדָת֖וֹ וְאֶל־מַשָּׂאֽוֹ׃",
+              "english": "Aaron and his sons shall come and set them, each man to his service and to his burden."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹא־יָבֹ֧אוּ לִרְא֛וֹת כְּבַלַּ֥ע אֶת־הַקֹּ֖דֶשׁ",
+              "english": "And they shall not come to see when the holy (things) are being covered [within their sheath (5)]"
+            },
+            {
+              "hebrew": "וָמֵֽתוּ׃&nbsp;{פ}",
+              "english": "and die."
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:06:13.912Z"
+  "updatedAt": "2026-10-26T19:07:36.838Z"
 }
