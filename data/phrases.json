@@ -43114,9 +43114,949 @@
             }
           ],
           "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֤ר אֶֽל־אַהֲרֹן֙ וְאֶל־בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הַֽחַטָּ֑את",
+              "english": "Speak to Aaron and his sons, saying: This is the law of the sin-offering."
+            },
+            {
+              "hebrew": "בִּמְק֡וֹם אֲשֶׁר֩ תִּשָּׁחֵ֨ט הָעֹלָ֜ה תִּשָּׁחֵ֤ט הַֽחַטָּאת֙ לִפְנֵ֣י יְהֹוָ֔ה",
+              "english": "In the place where the burnt-offering is slaughtered, there shall the sin-offering be slaughtered, before the L-rd;"
+            },
+            {
+              "hebrew": "קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃",
+              "english": "it is holy of holies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "הַכֹּהֵ֛ן הַֽמְחַטֵּ֥א אֹתָ֖הּ יֹאכְלֶ֑נָּה",
+              "english": "The Cohein who offers it as a sin-offering [(to exclude one who is not clean at the time of the sprinkling of the blood)] shall eat it."
+            },
+            {
+              "hebrew": "בְּמָק֤וֹם קָדֹשׁ֙ תֵּֽאָכֵ֔ל בַּחֲצַ֖ר אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "In a holy place shall it be eaten, in the court of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "כֹּ֛ל אֲשֶׁר־יִגַּ֥ע בִּבְשָׂרָ֖הּ יִקְדָּ֑שׁ",
+              "english": "All that touches its flesh shall be sanctified [see 11]."
+            },
+            {
+              "hebrew": "וַאֲשֶׁ֨ר יִזֶּ֤ה מִדָּמָהּ֙ עַל־הַבֶּ֔גֶד אֲשֶׁר֙ יִזֶּ֣ה עָלֶ֔יהָ תְּכַבֵּ֖ס בְּמָק֥וֹם קָדֹֽשׁ׃",
+              "english": "And what shall be sprinkled of its blood upon a garment, that [place] which has been sprinkled upon, you shall wash in a holy place [the azarah]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וּכְלִי־חֶ֛רֶשׂ אֲשֶׁ֥ר תְּבֻשַּׁל־בּ֖וֹ יִשָּׁבֵ֑ר",
+              "english": "And an earthen vessel in which it is cooked shall be broken [(because what is absorbed becomes nothar (\"leftover\" holy food)]."
+            },
+            {
+              "hebrew": "וְאִם־בִּכְלִ֤י נְחֹ֙שֶׁת֙ בֻּשָּׁ֔לָה וּמֹרַ֥ק וְשֻׁטַּ֖ף בַּמָּֽיִם׃",
+              "english": "And if it is cooked in a copper vessel, it shall be scoured and rinsed with water [to discharge what was absorbed.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכַ֣ל אֹתָ֑הּ",
+              "english": "Every male among the Cohanim may eat it;"
+            },
+            {
+              "hebrew": "קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃",
+              "english": "it is holy of holies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־חַטָּ֡את אֲשֶׁר֩ יוּבָ֨א מִדָּמָ֜הּ אֶל־אֹ֧הֶל מוֹעֵ֛ד לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ לֹ֣א תֵאָכֵ֑ל",
+              "english": "And every [(all kodshim are included)] sin-offering whereof any of its blood is brought to the tent of meeting to make atonement in the holy place shall not be eaten [(If he brings the blood of an \"outer\" sin-offering into the sanctuary, it becomes pasul)];"
+            },
+            {
+              "hebrew": "בָּאֵ֖שׁ תִּשָּׂרֵֽף׃&nbsp;{פ}",
+              "english": "in fire shall it be burned."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "7": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹ֥את תּוֹרַ֖ת הָאָשָׁ֑ם",
+              "english": "And this is the law of the guilt-offering;"
+            },
+            {
+              "hebrew": "קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
+              "english": "it is holy of holies. [It is offered, but its substitute is not offered.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "בִּמְק֗וֹם אֲשֶׁ֤ר יִשְׁחֲטוּ֙ אֶת־הָ֣עֹלָ֔ה יִשְׁחֲט֖וּ אֶת־הָאָשָׁ֑ם",
+              "english": "In the place where they slaughter the burnt-offering [(A communal burnt-offering is also slaughtered in the north)] shall they slaughter the guilt-offering,"
+            },
+            {
+              "hebrew": "וְאֶת־דָּמ֛וֹ יִזְרֹ֥ק עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+              "english": "and its blood shall he dash on the altar roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֥ת כׇּל־חֶלְבּ֖וֹ יַקְרִ֣יב מִמֶּ֑נּוּ",
+              "english": "And all of its fat shall he offer of it:"
+            },
+            {
+              "hebrew": "אֵ֚ת הָֽאַלְיָ֔ה וְאֶת־הַחֵ֖לֶב הַֽמְכַסֶּ֥ה אֶת־הַקֶּֽרֶב׃",
+              "english": "the fat-tail [(for only a ram or a lamb is brought as a guilt-offering)] and the fat that covers the innards."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵיהֶ֔ן אֲשֶׁ֖ר עַל־הַכְּסָלִ֑ים",
+              "english": "And the two kidneys and the fat which is upon them, which is on the loins,"
+            },
+            {
+              "hebrew": "וְאֶת־הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד עַל־הַכְּלָיֹ֖ת יְסִירֶֽנָּה׃",
+              "english": "and the lobe with [some of] the liver, aside from the kidneys, he shall remove it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְטִ֨יר אֹתָ֤ם הַכֹּהֵן֙ הַמִּזְבֵּ֔חָה אִשֶּׁ֖ה לַיהֹוָ֑ה",
+              "english": "And the Cohein shall smoke them upon the altar, a fire-offering to the L-rd;"
+            },
+            {
+              "hebrew": "אָשָׁ֖ם הֽוּא׃",
+              "english": "it is a guilt-offering [(until, in certain circumstances, its name is removed from it by its being consigned to pasture until it sustains a blemish)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכְלֶ֑נּוּ",
+              "english": "Every male among the Cohanim may eat it."
+            },
+            {
+              "hebrew": "בְּמָק֤וֹם קָדוֹשׁ֙ יֵאָכֵ֔ל קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
+              "english": "In a holy place shall it be eaten; it is holy of holies."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "כַּֽחַטָּאת֙ כָּֽאָשָׁ֔ם תּוֹרָ֥ה אַחַ֖ת לָהֶ֑ם",
+              "english": "As is the sin-offering, so is the guilt-offering. There is one law for them:"
+            },
+            {
+              "hebrew": "הַכֹּהֵ֛ן אֲשֶׁ֥ר יְכַפֶּר־בּ֖וֹ ל֥וֹ יִהְיֶֽה׃",
+              "english": "the Cohein who [may] make atonement therewith, to him shall it be [(to exclude from sharing in it one who has immersed in the daytime (and is not clean until the evening), one who lacks atonement (until he brings a sacrifice), and a mourner (before the burial of his kin)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְהַ֨כֹּהֵ֔ן הַמַּקְרִ֖יב אֶת־עֹ֣לַת אִ֑ישׁ",
+              "english": "And the Cohein who offers up the burnt-offering of a man,"
+            },
+            {
+              "hebrew": "ע֤וֹר הָֽעֹלָה֙ אֲשֶׁ֣ר הִקְרִ֔יב לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃",
+              "english": "the hide of the burnt-offering which he offered up is the Cohein's; to him shall it be."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־מִנְחָ֗ה אֲשֶׁ֤ר תֵּֽאָפֶה֙ בַּתַּנּ֔וּר וְכׇל־נַעֲשָׂ֥ה בַמַּרְחֶ֖שֶׁת וְעַֽל־מַחֲבַ֑ת",
+              "english": "And every meal-offering that is baked in the oven, and all that is made in the stewing-pan and on the griddle,"
+            },
+            {
+              "hebrew": "לַכֹּהֵ֛ן הַמַּקְרִ֥יב אֹתָ֖הּ ל֥וֹ תִֽהְיֶֽה׃",
+              "english": "to the Cohein who offers it up, to him [i.e., to the priestly family officiating that day] shall it be."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־מִנְחָ֥ה בְלוּלָֽה־בַשֶּׁ֖מֶן וַחֲרֵבָ֑ה",
+              "english": "And every meal-offering mixed with oil [(a gift meal-offering)] or dry [(the sinner's meal-offering and the meal-offering of jealousy (Numbers 5:15), which contain no oil)],"
+            },
+            {
+              "hebrew": "לְכׇל־בְּנֵ֧י אַהֲרֹ֛ן תִּהְיֶ֖ה אִ֥ישׁ כְּאָחִֽיו׃&nbsp;{פ}",
+              "english": "to all the sons of Aaron shall it be, one man as well as another."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְזֹ֥את תּוֹרַ֖ת זֶ֣בַח הַשְּׁלָמִ֑ים",
+              "english": "And this is the law of the sacrifice of peace-offerings"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר יַקְרִ֖יב לַיהֹוָֽה׃",
+              "english": "which one shall offer to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "אִ֣ם עַל־תּוֹדָה֮ יַקְרִיבֶ֒נּוּ֒",
+              "english": "If for thanksgiving [for a miracle wrought for him, e.g., recovering from an illness] he shall offer it,"
+            },
+            {
+              "hebrew": "וְהִקְרִ֣יב&thinsp;׀ עַל־זֶ֣בַח הַתּוֹדָ֗ה חַלּ֤וֹת מַצּוֹת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן",
+              "english": "then he shall offer with the sacrifice of thanksgiving, unleavened cakes mixed with oil,"
+            },
+            {
+              "hebrew": "וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וְסֹ֣לֶת מֻרְבֶּ֔כֶת חַלֹּ֖ת בְּלוּלֹ֥ת בַּשָּֽׁמֶן׃",
+              "english": "and unleavened wafers spread with oil, and [unleavened] cakes of soaked fine flour mixed with oil [(ten cakes of each of the four kinds)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "עַל־חַלֹּת֙ לֶ֣חֶם חָמֵ֔ץ יַקְרִ֖יב קׇרְבָּנ֑וֹ",
+              "english": "With cakes of leavened bread shall he offer his offering,"
+            },
+            {
+              "hebrew": "עַל־זֶ֖בַח תּוֹדַ֥ת שְׁלָמָֽיו׃",
+              "english": "with the sacrifice of his thanksgiving peace-offerings. [(The bread does not become consecrated until the sacrifice is slaughtered)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְרִ֨יב מִמֶּ֤נּוּ אֶחָד֙ מִכׇּל־קׇרְבָּ֔ן תְּרוּמָ֖ה לַיהֹוָ֑ה",
+              "english": "And he shall offer of it one [bread] of each offering [i.e., of each kind of the four breads], a gift-offering to the L-rd."
+            },
+            {
+              "hebrew": "לַכֹּהֵ֗ן הַזֹּרֵ֛ק אֶת־דַּ֥ם הַשְּׁלָמִ֖ים ל֥וֹ יִהְיֶֽה׃",
+              "english": "To the Cohein who dashes (against the altar) the blood of the peace-offerings, to him shall it be."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וּבְשַׂ֗ר זֶ֚בַח תּוֹדַ֣ת שְׁלָמָ֔יו בְּי֥וֹם קׇרְבָּנ֖וֹ יֵאָכֵ֑ל",
+              "english": "And the flesh of the sacrifice of his thanksgiving peace-offerings [(to include for being eaten on the same day and the succeeding night the sin-offering, guilt-offering, and ram of the Nazirite, and the festival offering of the fourteenth of Nissan)], on the day of his offering shall it [and its bread] be eaten."
+            },
+            {
+              "hebrew": "לֹֽא־יַנִּ֥יחַ מִמֶּ֖נּוּ עַד־בֹּֽקֶר׃",
+              "english": "He shall not leave over of it until morning."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־נֶ֣דֶר&thinsp;׀ א֣וֹ נְדָבָ֗ה זֶ֚בַח קׇרְבָּנ֔וֹ",
+              "english": "And if a vow or a gift [(and not thanksgiving for a miracle)] is the sacrifice of his offering, [(then it does not require bread and it may be eaten for two days)],"
+            },
+            {
+              "hebrew": "בְּי֛וֹם הַקְרִיב֥וֹ אֶת־זִבְח֖וֹ יֵאָכֵ֑ל",
+              "english": "on the day that he offers his sacrifice shall it be eaten;"
+            },
+            {
+              "hebrew": "וּמִֽמׇּחֳרָ֔ת וְהַנּוֹתָ֥ר מִמֶּ֖נּוּ יֵאָכֵֽל׃",
+              "english": "and on the next day, that which remains of it [from the first day] shall be eaten."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנּוֹתָ֖ר מִבְּשַׂ֣ר הַזָּ֑בַח",
+              "english": "And what remains from the flesh of the sacrifice"
+            },
+            {
+              "hebrew": "בַּיּוֹם֙ הַשְּׁלִישִׁ֔י בָּאֵ֖שׁ יִשָּׂרֵֽף׃",
+              "english": "on the third day, with fire shall it be burned."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְאִ֣ם הֵאָכֹ֣ל יֵ֠אָכֵ֠ל מִבְּשַׂר־זֶ֨בַח שְׁלָמָ֜יו בַּיּ֣וֹם הַשְּׁלִישִׁי֮ לֹ֣א יֵרָצֶה֒",
+              "english": "And if there be [thought (by the offerer) to be] eaten of the flesh of the sacrifice of his peace-offerings on the third day [i.e., If, when it is sacrificed he thinks to eat it on the third day], it shall not be accepted."
+            },
+            {
+              "hebrew": "הַמַּקְרִ֣יב אֹת֗וֹ לֹ֧א יֵחָשֵׁ֛ב ל֖וֹ פִּגּ֣וּל יִהְיֶ֑ה",
+              "english": "He that offers it shall not bethink himself [to eat it on the third day]. It shall be piggul (\"rejected\"),"
+            },
+            {
+              "hebrew": "וְהַנֶּ֛פֶשׁ הָאֹכֶ֥לֶת מִמֶּ֖נּוּ עֲוֺנָ֥הּ תִּשָּֽׂא׃",
+              "english": "and the soul that eats of it [even within the permitted time] shall bear its sin."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהַבָּשָׂ֞ר אֲשֶׁר־יִגַּ֤ע בְּכׇל־טָמֵא֙ לֹ֣א יֵֽאָכֵ֔ל בָּאֵ֖שׁ יִשָּׂרֵ֑ף",
+              "english": "And the flesh [of consecrated peace-offerings] that shall touch any unclean thing shall not be eaten; it shall be burned with fire."
+            },
+            {
+              "hebrew": "וְהַ֨בָּשָׂ֔ר כׇּל־טָה֖וֹר יֹאכַ֥ל בָּשָֽׂר׃",
+              "english": "And the flesh [(to include as permitted what remains inside (the permitted eating bounds) of a limb that has projected outside)] — everyone that is clean [and not only the owner] may eat the flesh."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנֶּ֜פֶשׁ אֲשֶׁר־תֹּאכַ֣ל בָּשָׂ֗ר מִזֶּ֤בַח הַשְּׁלָמִים֙ אֲשֶׁ֣ר לַיהֹוָ֔ה וְטֻמְאָת֖וֹ עָלָ֑יו",
+              "english": "And the soul that eats flesh of the sacrifice of the peace-offerings which is the L-rd's, and his uncleanliness is upon him [i.e., if he himself (as opposed to the offering) is unclean],"
+            },
+            {
+              "hebrew": "וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃",
+              "english": "that soul shall be cut off from its people [(but a clean person who eats an unclean offering does not incur kareth)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְנֶ֜פֶשׁ כִּֽי־תִגַּ֣ע בְּכׇל־טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ א֣וֹ&thinsp;׀ בִּבְהֵמָ֣ה טְמֵאָ֗ה א֚וֹ בְּכׇל־שֶׁ֣קֶץ טָמֵ֔א",
+              "english": "And if a soul touch any unclean thing, of the uncleanliness of a man or of an unclean beast, or of any unclean abomination,"
+            },
+            {
+              "hebrew": "וְאָכַ֛ל מִבְּשַׂר־זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לַיהֹוָ֑ה",
+              "english": "and he eat of the flesh of the sacrifice of the peace-offerings, which is the L-rd's,"
+            },
+            {
+              "hebrew": "וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃&nbsp;{פ}",
+              "english": "then that soul shall be cut off from its people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר",
+              "english": "Speak to the children of Israel, saying:"
+            },
+            {
+              "hebrew": "כׇּל־חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ׃",
+              "english": "All fat (cheilev) of ox or sheep or goat you shall not eat."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וְחֵ֤לֶב נְבֵלָה֙ וְחֵ֣לֶב טְרֵפָ֔ה יֵעָשֶׂ֖ה לְכׇל־מְלָאכָ֑ה",
+              "english": "And the fat of (a beast that is) neveilah (carrion) or the fat of treifah (\"torn\") may be used for all service [(The fat of neveilah does not render one unclean)],"
+            },
+            {
+              "hebrew": "וְאָכֹ֖ל לֹ֥א תֹאכְלֻֽהוּ׃",
+              "english": "and you shall not eat it. [(The interdict of eating neveilah and treifah \"takes\" upon that of eating cheilev, so that the eater transgresses two negative commandments)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֚י כׇּל־אֹכֵ֣ל חֵ֔לֶב מִ֨ן־הַבְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֥יב מִמֶּ֛נָּה אִשֶּׁ֖ה לַיהֹוָ֑ה",
+              "english": "For all who eat fat of the beast, of which one presents a fire-offering to the L-rd,"
+            },
+            {
+              "hebrew": "וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הָאֹכֶ֖לֶת מֵֽעַמֶּֽיהָ׃",
+              "english": "the soul that eats shall be cut off from its people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם",
+              "english": "And all blood you shall not eat, in all of your habitations [(the interdict being a function of the body and not of the land)],"
+            },
+            {
+              "hebrew": "לָע֖וֹף וְלַבְּהֵמָֽה׃",
+              "english": "of bird and of beast [(to exclude the blood of fish and locusts)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "כׇּל־נֶ֖פֶשׁ אֲשֶׁר־תֹּאכַ֣ל כׇּל־דָּ֑ם",
+              "english": "Any soul that eats any blood,"
+            },
+            {
+              "hebrew": "וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃&nbsp;{פ}",
+              "english": "that soul shall be cut off from its people."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "דַּבֵּ֛ר אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר",
+              "english": "Speak to the children of Israel, saying:"
+            },
+            {
+              "hebrew": "הַמַּקְרִ֞יב אֶת־זֶ֤בַח שְׁלָמָיו֙ לַיהֹוָ֔ה יָבִ֧יא אֶת־קׇרְבָּנ֛וֹ לַיהֹוָ֖ה מִזֶּ֥בַח שְׁלָמָֽיו׃",
+              "english": "He who presents the sacrifice of his peace-offerings to the L-rd shall bring his offering to the L-rd from the sacrifice of his peace-offerings."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "יָדָ֣יו תְּבִיאֶ֔ינָה אֵ֖ת אִשֵּׁ֣י יְהֹוָ֑ה",
+              "english": "His hands shall bring the fire-offerings of the L-rd, [the hand of the owner above, with the fat and breasts in it, and the hand of the Cohein below, and he (the Cohein) lifts them]."
+            },
+            {
+              "hebrew": "אֶת־הַחֵ֤לֶב עַל־הֶֽחָזֶה֙ יְבִיאֶ֔נּוּ",
+              "english": "The fat on the breast shall he (a Cohein) bring it [from the slaughtering site, so that when it is placed in the hand of the Cohein who waves it, the breast is above and the fat below; and, after the waving, it is placed — breast below and fat above — in the hand of a third Cohein who smokes it] —"
+            },
+            {
+              "hebrew": "אֵ֣ת הֶחָזֶ֗ה לְהָנִ֥יף אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "the breast, to wave it as a wave-offering before the L-rd [i.e., the breast is not part of the fire-offering, but part of the wave-offering]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וְהִקְטִ֧יר הַכֹּהֵ֛ן אֶת־הַחֵ֖לֶב הַמִּזְבֵּ֑חָה",
+              "english": "And the Cohein shall smoke the fat upon the altar,"
+            },
+            {
+              "hebrew": "וְהָיָה֙ הֶֽחָזֶ֔ה לְאַהֲרֹ֖ן וּלְבָנָֽיו׃",
+              "english": "and [i.e., after which] the breast shall be for Aaron and for his sons."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵת֙ שׁ֣וֹק הַיָּמִ֔ין תִּתְּנ֥וּ תְרוּמָ֖ה לַכֹּהֵ֑ן",
+              "english": "And the right shok (from knee to thigh) shall you give as an offering to the Cohein"
+            },
+            {
+              "hebrew": "מִזִּבְחֵ֖י שַׁלְמֵיכֶֽם׃",
+              "english": "from the sacrifices of your peace-offerings."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "הַמַּקְרִ֞יב אֶת־דַּ֧ם הַשְּׁלָמִ֛ים וְאֶת־הַחֵ֖לֶב מִבְּנֵ֣י אַהֲרֹ֑ן",
+              "english": "He who offers the blood of the peace-offerings and the fat, of the sons of Aaron [i.e., he who is fit to offer them (to exclude one who is unclean at the time of the sprinkling of the blood or the smoking of the fats)],"
+            },
+            {
+              "hebrew": "ל֧וֹ תִהְיֶ֛ה שׁ֥וֹק הַיָּמִ֖ין לְמָנָֽה׃",
+              "english": "to him shall be the right shok as a portion."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "כִּי֩ אֶת־חֲזֵ֨ה הַתְּנוּפָ֜ה וְאֵ֣ת&thinsp;׀ שׁ֣וֹק הַתְּרוּמָ֗ה לָקַ֙חְתִּי֙ מֵאֵ֣ת בְּנֵֽי־יִשְׂרָאֵ֔ל מִזִּבְחֵ֖י שַׁלְמֵיהֶ֑ם",
+              "english": "For the breast of the waving [(forward and back)] and the thigh of the lifting [(up and down)] have I taken from the children of Israel from the sacrifices of their peace-offerings,"
+            },
+            {
+              "hebrew": "וָאֶתֵּ֣ן אֹ֠תָ֠ם לְאַהֲרֹ֨ן הַכֹּהֵ֤ן וּלְבָנָיו֙ לְחׇק־עוֹלָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+              "english": "and I have given them to Aaron the Cohein and to his sons as an everlasting statute from the children of Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את מִשְׁחַ֤ת אַהֲרֹן֙ וּמִשְׁחַ֣ת בָּנָ֔יו מֵאִשֵּׁ֖י יְהֹוָ֑ה",
+              "english": "This is the (portion of the) anointment of Aaron and the anointment of his sons from the fire-offerings of the L-rd"
+            },
+            {
+              "hebrew": "בְּיוֹם֙ הִקְרִ֣יב אֹתָ֔ם לְכַהֵ֖ן לַיהֹוָֽה׃",
+              "english": "on the day He drew them near to minister to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "אֲשֶׁר֩ צִוָּ֨ה יְהֹוָ֜ה לָתֵ֣ת לָהֶ֗ם בְּיוֹם֙ מׇשְׁח֣וֹ אֹתָ֔ם מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל",
+              "english": "Which the L-rd commanded to give to them on the day He anointed them, from the children of Israel,"
+            },
+            {
+              "hebrew": "חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתָֽם׃",
+              "english": "a statute forever, throughout their generations."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "זֹ֣את הַתּוֹרָ֗ה לָֽעֹלָה֙ לַמִּנְחָ֔ה וְלַֽחַטָּ֖את וְלָאָשָׁ֑ם",
+              "english": "This is the law of the burnt-offering, of the meal-offering, and of the sin-offering, and of the guilt-offering,"
+            },
+            {
+              "hebrew": "וְלַ֨מִּלּוּאִ֔ים וּלְזֶ֖בַח הַשְּׁלָמִֽים׃",
+              "english": "and of the offering of investiture [of the priesthood], and of the sacrifice of the peace-offerings."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה בְּהַ֣ר סִינָ֑י",
+              "english": "Which the L-rd commanded Moses in Mount Sinai"
+            },
+            {
+              "hebrew": "בְּי֨וֹם צַוֺּת֜וֹ אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל לְהַקְרִ֧יב אֶת־קׇרְבְּנֵיהֶ֛ם לַיהֹוָ֖ה בְּמִדְבַּ֥ר סִינָֽי׃&nbsp;{פ}",
+              "english": "on the day that He commanded the children of Israel to present their offerings to the L-rd in the desert of Sinai."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "8": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיְדַבֵּ֥ר יְהֹוָ֖ה",
+              "english": "And the L-rd spoke"
+            },
+            {
+              "hebrew": "אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+              "english": "to Moses, saying:"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "קַ֤ח אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֣יו אִתּ֔וֹ",
+              "english": "[This section was stated seven days before the erection of the mishkan (there being no \"before\" and \"after\" in the Torah)] Take Aaron [(\"Take\" him with words, predispose him)] and his sons with him,"
+            },
+            {
+              "hebrew": "וְאֵת֙ הַבְּגָדִ֔ים וְאֵ֖ת שֶׁ֣מֶן הַמִּשְׁחָ֑ה",
+              "english": "and the garments, and the oil of anointment,"
+            },
+            {
+              "hebrew": "וְאֵ֣ת&thinsp;׀ פַּ֣ר הַֽחַטָּ֗את וְאֵת֙ שְׁנֵ֣י הָֽאֵילִ֔ים וְאֵ֖ת סַ֥ל הַמַּצּֽוֹת׃",
+              "english": "and the bullock of the sin-offering, and the two rams, and the basket of unleavened bread [(see Exodus 28), the instructions being reiterated as a prompting to zeal on the first day of the investiture]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְאֵ֥ת כׇּל־הָעֵדָ֖ה הַקְהֵ֑ל",
+              "english": "And assemble all of the congregation"
+            },
+            {
+              "hebrew": "אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "at the door of the tent of meeting [(this being one of the places where the \"small\" contained the \"great\")]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֣עַשׂ מֹשֶׁ֔ה כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֹת֑וֹ",
+              "english": "And Moses did as the L-rd commanded him,"
+            },
+            {
+              "hebrew": "וַתִּקָּהֵל֙ הָֽעֵדָ֔ה אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "english": "and the congregation was assembled at the door of the tent of meeting."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֶל־הָעֵדָ֑ה",
+              "english": "And Moses said to the congregation:"
+            },
+            {
+              "hebrew": "זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לַעֲשֽׂוֹת׃",
+              "english": "This [what you will see me doing] is [not for my honor nor for my brother's, but it is] the thing which the L-rd has commanded to do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְרֵ֣ב מֹשֶׁ֔ה אֶֽת־אַהֲרֹ֖ן וְאֶת־בָּנָ֑יו",
+              "english": "And Moses drew near Aaron and his sons"
+            },
+            {
+              "hebrew": "וַיִּרְחַ֥ץ אֹתָ֖ם בַּמָּֽיִם׃",
+              "english": "and he washed them with water."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתֵּ֨ן עָלָ֜יו אֶת־הַכֻּתֹּ֗נֶת וַיַּחְגֹּ֤ר אֹתוֹ֙ בָּֽאַבְנֵ֔ט",
+              "english": "And he put upon him [(see Exodus 29)] the kutoneth, and he girded him with the avneit,"
+            },
+            {
+              "hebrew": "וַיַּלְבֵּ֤שׁ אֹתוֹ֙ אֶֽת־הַמְּעִ֔יל וַיִּתֵּ֥ן עָלָ֖יו אֶת־הָאֵפֹ֑ד",
+              "english": "and he clothed him with the me'il, and he put upon him the ephod,"
+            },
+            {
+              "hebrew": "וַיַּחְגֹּ֣ר אֹת֗וֹ בְּחֵ֙שֶׁב֙ הָֽאֵפֹ֔ד וַיֶּאְפֹּ֥ד ל֖וֹ בּֽוֹ׃",
+              "english": "and he girded him with the cheishev of the ephod, and he bound it to him therewith."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֥שֶׂם עָלָ֖יו אֶת־הַחֹ֑שֶׁן",
+              "english": "And he placed upon him the choshen,"
+            },
+            {
+              "hebrew": "וַיִּתֵּן֙ אֶל־הַחֹ֔שֶׁן אֶת־הָאוּרִ֖ים וְאֶת־הַתֻּמִּֽים׃",
+              "english": "and he put in the choshen the urim and the tumim [(see Exodus 28:30)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֥שֶׂם אֶת־הַמִּצְנֶ֖פֶת עַל־רֹאשׁ֑וֹ",
+              "english": "And he put the mitznefeth upon his head;"
+            },
+            {
+              "hebrew": "וַיָּ֨שֶׂם עַֽל־הַמִּצְנֶ֜פֶת אֶל־מ֣וּל פָּנָ֗יו אֵ֣ת צִ֤יץ הַזָּהָב֙ נֵ֣זֶר הַקֹּ֔דֶשׁ",
+              "english": "and he set upon the mitznefeth, upon its forefront, the golden tzitz, the holy crown,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+              "english": "as the L-rd had commanded Moses [(see Exodus 28:37)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה",
+              "english": "And Moses took the oil of anointment"
+            },
+            {
+              "hebrew": "וַיִּמְשַׁ֥ח אֶת־הַמִּשְׁכָּ֖ן וְאֶת־כׇּל־אֲשֶׁר־בּ֑וֹ וַיְקַדֵּ֖שׁ אֹתָֽם׃",
+              "english": "and he anointed the mishkan and all that was in it, and he sanctified them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥ז מִמֶּ֛נּוּ עַל־הַמִּזְבֵּ֖חַ שֶׁ֣בַע פְּעָמִ֑ים",
+              "english": "And Moses sprinkled of it upon the altar seven times;"
+            },
+            {
+              "hebrew": "וַיִּמְשַׁ֨ח אֶת־הַמִּזְבֵּ֜חַ וְאֶת־כׇּל־כֵּלָ֗יו וְאֶת־הַכִּיֹּ֛ר וְאֶת־כַּנּ֖וֹ לְקַדְּשָֽׁם׃",
+              "english": "and he anointed the altar and all of its vessels, and the laver and its base, to sanctify them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּצֹק֙ מִשֶּׁ֣מֶן הַמִּשְׁחָ֔ה עַ֖ל רֹ֣אשׁ אַהֲרֹ֑ן",
+              "english": "And he poured from the oil of anointment upon the head of Aaron,"
+            },
+            {
+              "hebrew": "וַיִּמְשַׁ֥ח אֹת֖וֹ לְקַדְּשֽׁוֹ׃",
+              "english": "and he anointed him to sanctify him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְרֵ֨ב מֹשֶׁ֜ה אֶת־בְּנֵ֣י אַהֲרֹ֗ן",
+              "english": "And Moses drew near the sons of Aaron,"
+            },
+            {
+              "hebrew": "וַיַּלְבִּשֵׁ֤ם כֻּתֳּנֹת֙ וַיַּחְגֹּ֤ר אֹתָם֙ אַבְנֵ֔ט וַיַּחֲבֹ֥שׁ לָהֶ֖ם מִגְבָּע֑וֹת",
+              "english": "and he clothed them with kutanoth, and he girded them with the avneit, and he bound migbaoth upon them,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּגֵּ֕שׁ אֵ֖ת פַּ֣ר הַֽחַטָּ֑את",
+              "english": "And he presented the bullock of the sin-offering,"
+            },
+            {
+              "hebrew": "וַיִּסְמֹ֨ךְ אַהֲרֹ֤ן וּבָנָיו֙ אֶת־יְדֵיהֶ֔ם עַל־רֹ֖אשׁ פַּ֥ר הַֽחַטָּֽאת׃",
+              "english": "and Aaron and his sons placed their hands on the head of the bullock of the sin-offering."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת־הַדָּם֙ וַ֠יִּתֵּ֠ן עַל־קַרְנ֨וֹת הַמִּזְבֵּ֤חַ סָבִיב֙ בְּאֶצְבָּע֔וֹ",
+              "english": "And he slaughtered (it), and Moses took the blood, and he put it on the horns of the altar roundabout with his finger."
+            },
+            {
+              "hebrew": "וַיְחַטֵּ֖א אֶת־הַמִּזְבֵּ֑חַ וְאֶת־הַדָּ֗ם יָצַק֙ אֶל־יְס֣וֹד הַמִּזְבֵּ֔חַ",
+              "english": "And he purified the altar [(He cleaned and purified it from its state of profaneness to enter into that of holiness)], and the (remaining) blood he poured out at the base of the altar,"
+            },
+            {
+              "hebrew": "וַֽיְקַדְּשֵׁ֖הוּ לְכַפֵּ֥ר עָלָֽיו׃",
+              "english": "and he sanctified it [by this service] to make atonement upon it [i.e., to effect upon it all the atonements thenceforward]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֗ח אֶֽת־כׇּל־הַחֵ֘לֶב֮ אֲשֶׁ֣ר עַל־הַקֶּ֒רֶב֒ וְאֵת֙ יֹתֶ֣רֶת הַכָּבֵ֔ד וְאֶת־שְׁתֵּ֥י הַכְּלָיֹ֖ת וְאֶֽת־חֶלְבְּהֶ֑ן",
+              "english": "And he took all the fat that was upon the innards, and the lobe with [some of] the liver, and the two kidneys, and their fat,"
+            },
+            {
+              "hebrew": "וַיַּקְטֵ֥ר מֹשֶׁ֖ה הַמִּזְבֵּֽחָה׃",
+              "english": "and Moses smoked it on the altar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־הַפָּ֤ר וְאֶת־עֹרוֹ֙ וְאֶת־בְּשָׂר֣וֹ וְאֶת־פִּרְשׁ֔וֹ שָׂרַ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה",
+              "english": "And the bullock, with its skin, and its flesh, and its dung, he burned with fire outside the camp,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְרֵ֕ב אֵ֖ת אֵ֣יל הָעֹלָ֑ה",
+              "english": "And he presented the ram of the burnt-offering,"
+            },
+            {
+              "hebrew": "וַֽיִּסְמְכ֞וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הָאָֽיִל׃",
+              "english": "and Aaron and his sons placed their hands on the head of the ram."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁחָ֑ט",
+              "english": "And he slaughtered (it),"
+            },
+            {
+              "hebrew": "וַיִּזְרֹ֨ק מֹשֶׁ֧ה אֶת־הַדָּ֛ם עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+              "english": "and Moses dashed the blood upon the altar roundabout."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶ֨ת־הָאַ֔יִל נִתַּ֖ח לִנְתָחָ֑יו",
+              "english": "And he cut the ram into its pieces,"
+            },
+            {
+              "hebrew": "וַיַּקְטֵ֤ר מֹשֶׁה֙ אֶת־הָרֹ֔אשׁ וְאֶת־הַנְּתָחִ֖ים וְאֶת־הַפָּֽדֶר׃",
+              "english": "and Moses smoked the head, and the pieces, and the suet."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאֶת־הַקֶּ֥רֶב וְאֶת־הַכְּרָעַ֖יִם רָחַ֣ץ בַּמָּ֑יִם",
+              "english": "And the innards and the legs he washed with water,"
+            },
+            {
+              "hebrew": "וַיַּקְטֵר֩ מֹשֶׁ֨ה אֶת־כׇּל־הָאַ֜יִל הַמִּזְבֵּ֗חָה עֹלָ֨ה ה֤וּא לְרֵֽיחַ־נִיחֹ֙חַ֙ אִשֶּׁ֥ה הוּא֙ לַיהֹוָ֔ה",
+              "english": "and Moses smoked the whole ram upon the altar. It is a burnt-offering for a sweet savor, a fire-offering to the L-rd,"
+            },
+            {
+              "hebrew": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+              "english": "as the L-rd had commanded Moses."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּקְרֵב֙ אֶת־הָאַ֣יִל הַשֵּׁנִ֔י אֵ֖יל הַמִּלֻּאִ֑ים",
+              "english": "And he presented the second ram, the ram of investiture (miluim) [the ram of shelamim, which \"fill and complete\" (memalin umashlimin) the induction of the Cohanim];"
+            },
+            {
+              "hebrew": "וַֽיִּסְמְכ֞וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הָאָֽיִל׃",
+              "english": "and Aaron and his sons placed their hands on the head of the ram."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁחָ֓ט&thinsp;׀ וַיִּקַּ֤ח מֹשֶׁה֙ מִדָּמ֔וֹ",
+              "english": "And he slaughtered (it), and Moses took of its blood"
+            },
+            {
+              "hebrew": "וַיִּתֵּ֛ן עַל־תְּנ֥וּךְ אֹֽזֶן־אַהֲרֹ֖ן הַיְמָנִ֑ית",
+              "english": "and placed it upon the tip of Aaron's right ear,"
+            },
+            {
+              "hebrew": "וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
+              "english": "and upon the thumb of his right hand, and upon the thumb of his right foot."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:52:05.337Z"
+  "updatedAt": "2026-10-26T18:53:26.633Z"
 }
