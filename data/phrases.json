@@ -77259,8 +77259,1601 @@
           ],
           "model": "Instinct"
         }
+      },
+      "15": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "מִקֵּ֥ץ שֶֽׁבַע־שָׁנִ֖ים",
+              "english": "From the end of seven years [of the reckoning of the shemitah period],"
+            },
+            {
+              "hebrew": "תַּעֲשֶׂ֥ה שְׁמִטָּֽה׃",
+              "english": "you shall make shemitah (a release)."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒",
+              "english": "And this is the word of the shemitah:"
+            },
+            {
+              "hebrew": "שָׁמ֗וֹט כׇּל־בַּ֙עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ",
+              "english": "Every creditor shall release his claim against his neighbor."
+            },
+            {
+              "hebrew": "לֹֽא־יִגֹּ֤שׂ אֶת־רֵעֵ֙הוּ֙ וְאֶת־אָחִ֔יו כִּֽי־קָרָ֥א שְׁמִטָּ֖ה לַיהֹוָֽה׃",
+              "english": "He shall not exact it of his neighbor and of his brother because it has been declared shemitah to the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "אֶת־הַנׇּכְרִ֖י תִּגֹּ֑שׂ",
+              "english": "Of the gentile shall you exact [(This is a positive commandment)],"
+            },
+            {
+              "hebrew": "וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ׃",
+              "english": "but what you have with your brother your hand shall release."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "אֶ֕פֶס כִּ֛י לֹ֥א יִֽהְיֶה־בְּךָ֖ אֶבְי֑וֹן",
+              "english": "But there shall not be in you a pauper, [lacking everything. (If you do the will of the L-rd, the paupers shall be in others but not in you; and if not, they shall be in you)]."
+            },
+            {
+              "hebrew": "כִּֽי־בָרֵ֤ךְ יְבָֽרֶכְךָ֙ יְהֹוָ֔ה בָּאָ֕רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹֽתֵן־לְךָ֥ נַחֲלָ֖ה לְרִשְׁתָּֽהּ׃",
+              "english": "For the L-rd will bless you in the land which the L-rd your G-d gives you as an inheritance to inherit it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "רַ֚ק אִם־שָׁמ֣וֹעַ תִּשְׁמַ֔ע בְּק֖וֹל יְהֹוָ֣ה אֱלֹהֶ֑יךָ",
+              "english": "[But there shall be no paupers in you] only if you hearken, hearken [(If you hearken somewhat, you will be enabled to hearken greatly)] to the voice of the L-rd your G-d,"
+            },
+            {
+              "hebrew": "לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃",
+              "english": "to observe to do this entire mitzvah that I command you this day."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בֵּֽרַכְךָ֔ כַּאֲשֶׁ֖ר דִּבֶּר־לָ֑ךְ",
+              "english": "For the L-rd your G-d has blessed you, as He spoke to you [viz. 28:3-12]."
+            },
+            {
+              "hebrew": "וְהַֽעֲבַטְתָּ֞ גּוֹיִ֣ם רַבִּ֗ים וְאַתָּה֙ לֹ֣א תַעֲבֹ֔ט",
+              "english": "And you will lend to many nations, and you will not borrow [from one nation to pay the other],"
+            },
+            {
+              "hebrew": "וּמָֽשַׁלְתָּ֙ בְּגוֹיִ֣ם רַבִּ֔ים וּבְךָ֖ לֹ֥א יִמְשֹֽׁלוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and you will rule many nations, and they [other nations] will not rule you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֙יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ",
+              "english": "If there be in you a pauper [(the neediest takes precedence)], of one of your brothers [(Your paternal brother takes precedence to your maternal brother)], in one of your gates [(The poor of your city take precedence to those of another)], in your land that the L-rd your G-d gives to you,"
+            },
+            {
+              "hebrew": "לֹ֧א תְאַמֵּ֣ץ אֶת־לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת־יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֽוֹן׃",
+              "english": "do not harden your heart [in irresolution], and do not close your hand [after stretching it forth], to your brother the pauper [(If you do not give, in the end you will be a brother to the pauper)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־פָתֹ֧חַ תִּפְתַּ֛ח אֶת־יָדְךָ֖ ל֑וֹ",
+              "english": "But open shall you open your hand to him [even many times],"
+            },
+            {
+              "hebrew": "וְהַעֲבֵט֙ תַּעֲבִיטֶ֔נּוּ דֵּ֚י מַחְסֹר֔וֹ אֲשֶׁ֥ר יֶחְסַ֖ר לֽוֹ׃",
+              "english": "and lend shall you lend him [(If he refuses a gift, give it to him as a loan)] what suffices for his needs [(but you are not required to enrich him)] that are lacking [(even a horse to ride upon and a servant to run before him)] unto him [(even) a wife]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "הִשָּׁ֣מֶר לְךָ֡ פֶּן־יִהְיֶ֣ה דָבָר֩ עִם־לְבָבְךָ֨ בְלִיַּ֜עַל לֵאמֹ֗ר קָֽרְבָ֣ה שְׁנַֽת־הַשֶּׁ֘בַע֮ שְׁנַ֣ת הַשְּׁמִטָּה֒",
+              "english": "Take heed unto yourself lest there be in your heart a thing of wantonness, to say: The seventh year has drawn near, the year of shemitah,"
+            },
+            {
+              "hebrew": "וְרָעָ֣ה עֵֽינְךָ֗ בְּאָחִ֙יךָ֙ הָֽאֶבְי֔וֹן וְלֹ֥א תִתֵּ֖ן ל֑וֹ",
+              "english": "and your eye be evil against your brother the pauper, and you not give him,"
+            },
+            {
+              "hebrew": "וְקָרָ֤א עָלֶ֙יךָ֙ אֶל־יְהֹוָ֔ה וְהָיָ֥ה בְךָ֖ חֵֽטְא׃",
+              "english": "and he cry out against you to the L-rd [(G-d makes haste to exact payment when he \"cries out\")], there will be in you a sin [(even if he does not cry out)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "נָת֤וֹן תִּתֵּן֙ ל֔וֹ וְלֹא־יֵרַ֥ע לְבָבְךָ֖ בְּתִתְּךָ֣ ל֑וֹ",
+              "english": "Give shall you give [(even a hundred times)] to him [privately], and let your heart not take it ill in giving to him,"
+            },
+            {
+              "hebrew": "כִּ֞י בִּגְלַ֣ל&thinsp;׀ הַדָּבָ֣ר הַזֶּ֗ה יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇֽל־מַעֲשֶׂ֔ךָ וּבְכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃",
+              "english": "for because of this word [(Even if you say that you will give, you receive reward for saying along with that for giving)], the L-rd your G-d will bless you in all your deeds and in all to which you put your hand."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֛י לֹא־יֶחְדַּ֥ל אֶבְי֖וֹן מִקֶּ֣רֶב הָאָ֑רֶץ",
+              "english": "For a pauper will not cease from the midst of the land,"
+            },
+            {
+              "hebrew": "עַל־כֵּ֞ן אָנֹכִ֤י מְצַוְּךָ֙ לֵאמֹ֔ר",
+              "english": "wherefore I charge you [in good counsel, for your benefit]:"
+            },
+            {
+              "hebrew": "פָּ֠תֹ֠חַ תִּפְתַּ֨ח אֶת־יָדְךָ֜ לְאָחִ֧יךָ לַעֲנִיֶּ֛ךָ וּלְאֶבְיֹנְךָ֖ בְּאַרְצֶֽךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Open shall you open your hand to your brother — your poor one and your pauper in your land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יִמָּכֵ֨ר לְךָ֜ אָחִ֣יךָ הָֽעִבְרִ֗י א֚וֹ הָֽעִבְרִיָּ֔ה וַעֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים",
+              "english": "If there be sold to you [(by beth-din, for his theft)], your brother, the Hebrew man, or [(if there be sold to you by her father, when she is a minor)] the Hebrew woman, then he shall serve you for six years;"
+            },
+            {
+              "hebrew": "וּבַשָּׁנָה֙ הַשְּׁבִיעִ֔ת תְּשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵעִמָּֽךְ׃",
+              "english": "and on the seventh year you shall send him free from you [(and if the woman's six years expire before she shows pubertal signs, she leaves at that time)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־תְשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵֽעִמָּ֑ךְ",
+              "english": "And when you send him free from you,"
+            },
+            {
+              "hebrew": "לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם׃",
+              "english": "do not send him empty-handed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגׇּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ",
+              "english": "Bestow shall you bestow upon him [so that your \"bestowal\" is clearly visible], of your flock, of your threshing floor, and of your winepress —"
+            },
+            {
+              "hebrew": "אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ תִּתֶּן־לֽוֹ׃",
+              "english": "[Of all] that the L-rd your G-d has blessed you with shall you give him [Just as these (\"flock, etc.\") are characterized by \"blessing\" (i.e., fruitfulness), so (bestow upon him) all that are thus characterized — excluding mules (which are sterile)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְזָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֙יתָ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַֽיִּפְדְּךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ",
+              "english": "And you shall remember that you were a slave in the land of Egypt, and the L-rd your G-d redeemed you [and \"bestowed\" upon you, twice — from the spoils of Egypt and from the spoils of the sea]."
+            },
+            {
+              "hebrew": "עַל־כֵּ֞ן אָנֹכִ֧י מְצַוְּךָ֛ אֶת־הַדָּבָ֥ר הַזֶּ֖ה הַיּֽוֹם׃",
+              "english": "Therefore, I command you in respect to this thing [(to bestow, likewise,)] this day."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָה֙ כִּֽי־יֹאמַ֣ר אֵלֶ֔יךָ לֹ֥א אֵצֵ֖א מֵעִמָּ֑ךְ",
+              "english": "And it shall be, if he say to you: I shall not leave you,"
+            },
+            {
+              "hebrew": "כִּ֤י אֲהֵֽבְךָ֙ וְאֶת־בֵּיתֶ֔ךָ כִּי־ט֥וֹב ל֖וֹ עִמָּֽךְ׃",
+              "english": "because he loves you and your household, because it is good for him with you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְלָקַחְתָּ֣ אֶת־הַמַּרְצֵ֗עַ וְנָתַתָּ֤ה בְאׇזְנוֹ֙ וּבַדֶּ֔לֶת",
+              "english": "Then you shall take the awl and place it in his ear and in the door,"
+            },
+            {
+              "hebrew": "וְהָיָ֥ה לְךָ֖ עֶ֣בֶד עוֹלָ֑ם",
+              "english": "and he shall be unto you a servant forever [i.e., until the Jubilee year]."
+            },
+            {
+              "hebrew": "וְאַ֥ף לַאֲמָתְךָ֖ תַּעֲשֶׂה־כֵּֽן׃",
+              "english": "And to your maid-servant, too, shall you do this [i.e., you shall \"bestow\" unto her (but she cannot become a servant forever)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "לֹא־יִקְשֶׁ֣ה בְעֵינֶ֗ךָ בְּשַׁלֵּֽחֲךָ֨ אֹת֤וֹ חׇפְשִׁי֙ מֵֽעִמָּ֔ךְ",
+              "english": "Let it not be difficult in your eyes when you send him away free from you,"
+            },
+            {
+              "hebrew": "כִּ֗י מִשְׁנֶה֙ שְׂכַ֣ר שָׂכִ֔יר עֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים",
+              "english": "for double the hire of a hired man [day and night] has he served you for six years [(Aside from his day labor, his master gives him a Canaanite maid-servant to bear slaves for him)]."
+            },
+            {
+              "hebrew": "וּבֵֽרַכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל אֲשֶׁ֥ר תַּעֲשֶֽׂה׃&nbsp;{פ}",
+              "english": "And the L-rd your G-d will bless you in all that you do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהֹוָ֣ה אֱלֹהֶ֑יךָ",
+              "english": "Every firstling which is born in your herd and in your flock, the male, you shall consecrate to the L-rd your G-d [It is a mitzvah to say: \"You are sanctified for the bechorah\" (the mitzvah of the first-born)]."
+            },
+            {
+              "hebrew": "לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ׃",
+              "english": "You shall not work with the firstling of your bullock and you shall not shear the firstling of your flock [(The converse is also forbidden, but the common instance is given)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֤יךָ תֹאכְלֶ֙נּוּ֙ שָׁנָ֣ה בְשָׁנָ֔ה",
+              "english": "Before the L-rd your G-d shall you [the Cohein] eat it, year in year [It is a mitzvah to sacrifice and eat it in its first year. Also, if it were slaughtered at the end of the year, it may be eaten that day and one day of the next (whence it is derived that it may be eaten for two days and one night)],"
+            },
+            {
+              "hebrew": "בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה אַתָּ֖ה וּבֵיתֶֽךָ׃",
+              "english": "in the place that the L-rd shall choose, you and your household."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יִהְיֶ֨ה ב֜וֹ מ֗וּם פִּסֵּ֙חַ֙ א֣וֹ עִוֵּ֔ר כֹּ֖ל מ֣וּם רָ֑ע",
+              "english": "And if there be in it a blemish [\"general\"], lame or blind [\"particular\"], any sore blemish [\"reversion to the general\" — Just as the particular specifies a visible blemish which never passes, so (all animals with) visible blemishes that never pass (are unfit for sacrifice)],"
+            },
+            {
+              "hebrew": "לֹ֣א תִזְבָּחֶ֔נּוּ לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃",
+              "english": "you shall not sacrifice it to the L-rd your G-d."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "בִּשְׁעָרֶ֖יךָ תֹּאכְלֶ֑נּוּ",
+              "english": "In your gates may you eat it,"
+            },
+            {
+              "hebrew": "הַטָּמֵ֤א וְהַטָּהוֹר֙ יַחְדָּ֔ו כַּצְּבִ֖י וְכָאַיָּֽל׃",
+              "english": "the unclean and the clean together, as the deer and as the hart."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "רַ֥ק אֶת־דָּמ֖וֹ לֹ֣א תֹאכֵ֑ל",
+              "english": "But its blood you shall not eat [(Even though it was originally forbidden and is now permitted, its blood remains forbidden)];"
+            },
+            {
+              "hebrew": "עַל־הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃&nbsp;{פ}",
+              "english": "on the earth shall you spill it as water."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "16": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "שָׁמוֹר֙ אֶת־חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהֹוָ֖ה אֱלֹהֶ֑יךָ",
+              "english": "Observe the month of aviv [(Before its coming, observe that it be fit for aviv (spring), so that the omer meal-offering may be brought upon it; and if not, intercalate the year)], and make Pesach to the L-rd your G-d."
+            },
+            {
+              "hebrew": "כִּ֞י בְּחֹ֣דֶשׁ הָֽאָבִ֗יב הוֹצִ֨יאֲךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ מִמִּצְרַ֖יִם לָֽיְלָה׃",
+              "english": "For in the month of aviv the L-rd your G-d took you out of Egypt, [Pharaoh having acceded] at night [to your going]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְזָבַ֥חְתָּ פֶּ֛סַח לַיהֹוָ֥ה אֱלֹהֶ֖יךָ צֹ֣אן וּבָקָ֑ר",
+              "english": "And you shall sacrifice a Pesach offering to the L-rd your G-d, sheep [viz. (Exodus 12:5)] and cattle [shall you slaughter as a festival offering (chagigah), so that if a very large company is numbered over the (eating of the) pesach, a chagigah is brought so that it (the pesach) may be eaten in satiety)],"
+            },
+            {
+              "hebrew": "בַּמָּקוֹם֙ אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֔ה לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃",
+              "english": "in the place where the L-rd shall choose to repose His name."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "לֹא־תֹאכַ֤ל עָלָיו֙ חָמֵ֔ץ שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל־עָלָ֥יו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי",
+              "english": "You shall not eat upon it chametz; seven days shall you eat upon it matzoth, the bread [which reminds you] of [the] affliction [that you underwent in Egypt],"
+            },
+            {
+              "hebrew": "כִּ֣י בְחִפָּז֗וֹן יָצָ֙אתָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם",
+              "english": "for in haste [the haste of the Egyptians] did you leave the land of Egypt, [and the dough had not time to leaven, and this (the matzoh) will serve as a reminder],"
+            },
+            {
+              "hebrew": "לְמַ֣עַן תִּזְכֹּ֗ר אֶת־י֤וֹם צֵֽאתְךָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃",
+              "english": "so that you remember [by eating the pesach and the matzoh] the day of your leaving the land of Egypt all the days of your life."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹֽא־יֵרָאֶ֨ה לְךָ֥ שְׂאֹ֛ר בְּכׇל־גְּבֻלְךָ֖ שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "And there shall not be seen unto you leaven in all of your border for seven days,"
+            },
+            {
+              "hebrew": "וְלֹא־יָלִ֣ין מִן־הַבָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּעֶ֛רֶב בַּיּ֥וֹם הָרִאשׁ֖וֹן לַבֹּֽקֶר׃",
+              "english": "and there shall not remain of the flesh [of the Pesach offering] that you sacrifice towards evening on the first day [the fourteenth of Nissan] until the morning."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֥א תוּכַ֖ל לִזְבֹּ֣חַ אֶת־הַפָּ֑סַח",
+              "english": "You may not sacrifice the Pesach offering"
+            },
+            {
+              "hebrew": "בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃",
+              "english": "in one of your gates that the L-rd your G-d gives to you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְשַׁכֵּ֣ן שְׁמ֔וֹ שָׁ֛ם תִּזְבַּ֥ח אֶת־הַפֶּ֖סַח בָּעָ֑רֶב",
+              "english": "But in the place where the L-rd your G-d chooses to repose His name, there shall you sacrifice the Pesach offering in the evening [from the sixth hour on];"
+            },
+            {
+              "hebrew": "כְּב֣וֹא הַשֶּׁ֔מֶשׁ מוֹעֵ֖ד צֵֽאתְךָ֥ מִמִּצְרָֽיִם׃",
+              "english": "as the sun sets [shall you eat it, and] at the time of your going out of Egypt (i.e., in the morning) [if there is any flesh left over, you shall burn it (i.e., take it to the burning site for burning after the festival)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וּבִשַּׁלְתָּ֙ וְאָ֣כַלְתָּ֔ בַּמָּק֕וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּ֑וֹ",
+              "english": "And you shall cook [i.e., roast it] and eat it in the place that the L-rd your G-d has chosen,"
+            },
+            {
+              "hebrew": "וּפָנִ֣יתָ בַבֹּ֔קֶר וְהָלַכְתָּ֖ לְאֹהָלֶֽיךָ׃",
+              "english": "and you shall betake yourselves in the morning [of the second day (whence it is seen that they must spend the night there)], and you shall go to your tents."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "שֵׁ֥שֶׁת יָמִ֖ים תֹּאכַ֣ל מַצּ֑וֹת",
+              "english": "Six days shall you eat matzoth [i.e., You may eat matzoth of the new grain (after the omer offering on the second day) and you may eat it seven days from the old grain],"
+            },
+            {
+              "hebrew": "וּבַיּ֣וֹם הַשְּׁבִיעִ֗י עֲצֶ֙רֶת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תַעֲשֶׂ֖ה מְלָאכָֽה׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and on the seventh day is a holding back [from labor] for the L-rd your G-d; you shall do no work."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "שִׁבְעָ֥ה שָׁבֻעֹ֖ת תִּסְפׇּר־לָ֑ךְ",
+              "english": "Seven weeks shall you count for yourself;"
+            },
+            {
+              "hebrew": "מֵהָחֵ֤ל חֶרְמֵשׁ֙ בַּקָּמָ֔ה תָּחֵ֣ל לִסְפֹּ֔ר שִׁבְעָ֖ה שָׁבֻעֽוֹת׃",
+              "english": "from the beginning of the sickle in the standing corn [i.e., from the cutting of the omer, which is the beginning of the harvest] shall you begin to count seven weeks."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ",
+              "english": "And you shall make a festival of weeks (shavuoth) to the L-rd your G-d,"
+            },
+            {
+              "hebrew": "מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+              "english": "the sufficiency of the offering of your hand, which you shall give as the L-rd your G-d shall bless you [i.e., In accordance with the amplitude of His blessing, bring peace-offerings of joy and invite guests for the repast.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׂמַחְתָּ֞ לִפְנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּ֘ךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶ֒ךָ֒ וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ",
+              "english": "And you shall rejoice before the L-rd your G-d: you — your son, your daughter, your man-servant, your maid-servant — the Levite that is in your gates, the stranger, the orphan, and the widow who are in your midst [(If you cause My four to rejoice, I shall cause your four to rejoice)],"
+            },
+            {
+              "hebrew": "בַּמָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃",
+              "english": "in the place where the L-rd your G-d shall choose to repose His name."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְזָ֣כַרְתָּ֔ כִּי־עֶ֥בֶד הָיִ֖יתָ בְּמִצְרָ֑יִם",
+              "english": "And you shall remember that you were a slave in Egypt,"
+            },
+            {
+              "hebrew": "וְשָׁמַרְתָּ֣ וְעָשִׂ֔יתָ אֶת־הַֽחֻקִּ֖ים הָאֵֽלֶּה׃&nbsp;{פ}",
+              "english": "and you shall keep and observe these statutes [i.e., it is to this end that I redeemed you]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "The festival of succoth (booths) shall you make for yourself, seven days,"
+            },
+            {
+              "hebrew": "בְּאׇ֨סְפְּךָ֔ מִֽגׇּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃",
+              "english": "when [i.e., at the time that] you gather in [to your house the summer fruits] from your threshing floor and from your winepress."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ",
+              "english": "And you shall rejoice in your festival:"
+            },
+            {
+              "hebrew": "אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃",
+              "english": "you — your son, your daughter, your man-servant, your maid-servant — the Levite, the stranger, the orphan, and the widow, who are in your gates."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "שִׁבְעַ֣ת יָמִ֗ים תָּחֹג֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה",
+              "english": "Seven days shall you rejoice before the L-rd your G-d in the place that the L-rd chooses."
+            },
+            {
+              "hebrew": "כִּ֣י יְבָרֶכְךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃",
+              "english": "For the L-rd your G-d will bless you in all of your produce and in all to which you put your hand, and you will be only happy."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "שָׁל֣וֹשׁ פְּעָמִ֣ים&thinsp;׀&thinsp;בַּשָּׁנָ֡ה יֵרָאֶ֨ה כׇל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י&thinsp;׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר",
+              "english": "Three times a year shall appear each of your males in the presence of the L-rd your G-d in the place that He chooses:"
+            },
+            {
+              "hebrew": "בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת",
+              "english": "on the festival of matzoth, and on the festival of Shavuoth, and on the festival of Succoth."
+            },
+            {
+              "hebrew": "וְלֹ֧א יֵרָאֶ֛ה אֶת־פְּנֵ֥י יְהֹוָ֖ה רֵיקָֽם׃",
+              "english": "And he shall not appear in the presence of the L-rd empty-handed, [but he shall bring burnt-offerings of \"appearance\" and the peace-offerings of the festival]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ",
+              "english": "Each according to the gift of his hand [(If one has much food and much property, he brings many burnt-offerings and peace-offerings)],"
+            },
+            {
+              "hebrew": "כְּבִרְכַּ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "according to the blessing of the L-rd your G-d that He has given you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "שֹׁפְטִ֣ים וְשֹֽׁטְרִ֗ים תִּֽתֶּן־לְךָ֙ בְּכׇל־שְׁעָרֶ֔יךָ אֲשֶׁ֨ר יְהֹוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לְךָ֖ לִשְׁבָטֶ֑יךָ",
+              "english": "Judges and officers, [who enforce the rulings of the judges with \"rod and strap\"] shall you appoint for yourselves in all of your gates [i.e., in every city] that the L-rd your G-d gives you for your tribes [(Judges are appointed for each tribe and in each city)],"
+            },
+            {
+              "hebrew": "וְשָׁפְט֥וּ אֶת־הָעָ֖ם מִשְׁפַּט־צֶֽדֶק׃",
+              "english": "and they shall judge the people a righteous judgment [i.e., Appoint expert, righteous judges, who will judge righteously.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "לֹא־תַטֶּ֣ה מִשְׁפָּ֔ט לֹ֥א תַכִּ֖יר פָּנִ֑ים וְלֹא־תִקַּ֣ח שֹׁ֔חַד",
+              "english": "You shall not pervert judgment, and you shall not play favorites, [even during the pleading — an exhortation to the judge not to be firm with one and lenient with the other, e.g., making one stand and allowing the other to sit], and you shall not take a bribe [even to judge righteously];"
+            },
+            {
+              "hebrew": "כִּ֣י הַשֹּׁ֗חַד יְעַוֵּר֙ עֵינֵ֣י חֲכָמִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽם׃",
+              "english": "for a bribe blinds the eyes of the sages [(Once the judge takes a bribe from someone it is impossible for him not to seek arguments in his favor)], and it distorts righteous words [i.e., true judgments]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "צֶ֥דֶק צֶ֖דֶק תִּרְדֹּ֑ף",
+              "english": "Righteousness, righteousness shall you pursue [Seek out the finest beth-din],"
+            },
+            {
+              "hebrew": "לְמַ֤עַן תִּֽחְיֶה֙ וְיָרַשְׁתָּ֣ אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "so that you live and inherit the land that the L-rd your G-d gives to you. [The appointment of fit judges serves to sustain Israel and to settle them in their land.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־תִטַּ֥ע לְךָ֛ אֲשֵׁרָ֖ה כׇּל־עֵ֑ץ",
+              "english": "You shall not plant for yourself an asheirah (a tree devoted to idolatry) [(One is liable from the time of planting)], any tree"
+            },
+            {
+              "hebrew": "אֵ֗צֶל מִזְבַּ֛ח יְהֹוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר תַּעֲשֶׂה־לָּֽךְ׃",
+              "english": "near the altar of the L-rd your G-d that you shall make for yourself [(an exhortation against planting a tree or building a house on the Temple Mount)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹֽא־תָקִ֥ים לְךָ֖ מַצֵּבָ֑ה",
+              "english": "And you shall not raise up for yourself a monument [one stone, on which to sacrifice (even to the L-rd)],"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר שָׂנֵ֖א יְהֹוָ֥ה אֱלֹהֶֽיךָ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "which the L-rd your G-d hates, [it having become an institution of idolatry]."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "17": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "לֹא־תִזְבַּח֩ לַיהֹוָ֨ה אֱלֹהֶ֜יךָ שׁ֣וֹר וָשֶׂ֗ה אֲשֶׁ֨ר יִהְיֶ֥ה בוֹ֙ מ֔וּם כֹּ֖ל דָּבָ֣ר רָ֑ע",
+              "english": "You shall not sacrifice to the L-rd your G-d an ox or a lamb in which there is a blemish, any evil thing [(davar ra) an exhortation against invalidating sacrifices through evil speech (dibbur ra, see Leviticus 7:18)],"
+            },
+            {
+              "hebrew": "כִּ֧י תוֹעֲבַ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ הֽוּא׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "for it is the abomination of the L-rd your G-d."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יִמָּצֵ֤א בְקִרְבְּךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ",
+              "english": "If there be found in your midst, in one of your cities which the L-rd your G-d gives you,"
+            },
+            {
+              "hebrew": "אִ֣ישׁ אוֹ־אִשָּׁ֗ה אֲשֶׁ֨ר יַעֲשֶׂ֧ה אֶת־הָרַ֛ע בְּעֵינֵ֥י יְהֹוָה־אֱלֹהֶ֖יךָ לַעֲבֹ֥ר בְּרִיתֽוֹ׃",
+              "english": "a man or a woman who would do what is evil in the eyes of the L-rd your G-d to transgress His covenant [that He made with you — not to serve idolatry],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֗לֶךְ וַֽיַּעֲבֹד֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּ֖חוּ לָהֶ֑ם",
+              "english": "And he go and serve other gods and he bow down to them,"
+            },
+            {
+              "hebrew": "וְלַשֶּׁ֣מֶשׁ&thinsp;׀ א֣וֹ לַיָּרֵ֗חַ א֛וֹ לְכׇל־צְבָ֥א הַשָּׁמַ֖יִם אֲשֶׁ֥ר לֹא־צִוִּֽיתִי׃",
+              "english": "or to the sun, or to the moon, or to the whole host of heaven, which I did not command [(that they be served)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְהֻֽגַּד־לְךָ֖ וְשָׁמָ֑עְתָּ וְדָרַשְׁתָּ֣ הֵיטֵ֔ב",
+              "english": "And it be told to you, and you hear, and you search it out well,"
+            },
+            {
+              "hebrew": "וְהִנֵּ֤ה אֱמֶת֙ נָכ֣וֹן הַדָּבָ֔ר נֶעֶשְׂתָ֛ה הַתּוֹעֵבָ֥ה הַזֹּ֖את בְּיִשְׂרָאֵֽל׃",
+              "english": "and, behold, the thing is true and correct [i.e., the testimony bears it out] — this abomination has been done in Israel,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְהֽוֹצֵאתָ֣ אֶת־הָאִ֣ישׁ הַה֡וּא אוֹ֩ אֶת־הָאִשָּׁ֨ה הַהִ֜וא אֲשֶׁ֣ר עָ֠שׂ֠וּ אֶת־הַדָּבָ֨ר הָרָ֤ע הַזֶּה֙ אֶל־שְׁעָרֶ֔יךָ אֶת־הָאִ֕ישׁ א֖וֹ אֶת־הָאִשָּׁ֑ה",
+              "english": "Then you shall take out that man or that woman, who did this evil thing, to your cities [where they committed the act], the man or the woman,"
+            },
+            {
+              "hebrew": "וּסְקַלְתָּ֥ם בָּאֲבָנִ֖ים וָמֵֽתוּ׃",
+              "english": "and you shall stone them with stones and they shall die."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "עַל־פִּ֣י&thinsp;׀ שְׁנַ֣יִם עֵדִ֗ים א֛וֹ שְׁלֹשָׁ֥ה עֵדִ֖ים יוּמַ֣ת הַמֵּ֑ת",
+              "english": "By the word of two witnesses or three witnesses shall the dead one be put to death [(Just as two constitute one testimony, so do three, and they do not become \"scheming witnesses\" (eidim zomemim) until all are shown to be so.)]"
+            },
+            {
+              "hebrew": "לֹ֣א יוּמַ֔ת עַל־פִּ֖י עֵ֥ד אֶחָֽד׃",
+              "english": "He shall not be put to death by the word of one witness."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "יַ֣ד הָעֵדִ֞ים תִּֽהְיֶה־בּ֤וֹ בָרִאשֹׁנָה֙ לַהֲמִית֔וֹ וְיַ֥ד כׇּל־הָעָ֖ם בָּאַחֲרֹנָ֑ה",
+              "english": "The hand of the witnesses shall be against him first to put him to death, and the hand of all the people afterwards,"
+            },
+            {
+              "hebrew": "וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃&nbsp;{פ}",
+              "english": "and you shall remove the evil from your midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י יִפָּלֵא֩ מִמְּךָ֨ דָבָ֜ר לַמִּשְׁפָּ֗ט בֵּֽין־דָּ֨ם&thinsp;׀&thinsp;לְדָ֜ם בֵּֽין־דִּ֣ין לְדִ֗ין וּבֵ֥ין נֶ֙גַע֙ לָנֶ֔גַע דִּבְרֵ֥י רִיבֹ֖ת בִּשְׁעָרֶ֑יךָ",
+              "english": "If there be hidden from you a thing of judgment — between blood [that is unclean] and blood [that is clean], between ruling [of acquittal] and ruling [of liability], between plague-spot [that is unclean] and plague-spot [that is clean], words of contention in your gates, [the sages of the city disagreeing with each other],"
+            },
+            {
+              "hebrew": "וְקַמְתָּ֣ וְעָלִ֔יתָ אֶ֨ל־הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ׃",
+              "english": "then you shall arise and go up to the place that the L-rd your G-d shall choose [(whence it is seen that the Temple is the highest of all the places)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וּבָאתָ֗ אֶל־הַכֹּהֲנִים֙ הַלְוִיִּ֔ם וְאֶ֨ל־הַשֹּׁפֵ֔ט אֲשֶׁ֥ר יִהְיֶ֖ה בַּיָּמִ֣ים הָהֵ֑ם",
+              "english": "And you shall come to the Cohanim, the Levites [i.e., from the tribe of Levi], and to the judge that shall be in those days [(Even if he is inferior to his predecessors, you must abide by his ruling)],"
+            },
+            {
+              "hebrew": "וְדָרַשְׁתָּ֙ וְהִגִּ֣ידוּ לְךָ֔ אֵ֖ת דְּבַ֥ר הַמִּשְׁפָּֽט׃",
+              "english": "and you shall inquire, and they shall tell you the word of the judgment."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְעָשִׂ֗יתָ עַל־פִּ֤י הַדָּבָר֙ אֲשֶׁ֣ר יַגִּ֣ידֽוּ לְךָ֔ מִן־הַמָּק֣וֹם הַה֔וּא אֲשֶׁ֖ר יִבְחַ֣ר יְהֹוָ֑ה",
+              "english": "And you shall do according to the word that they shall tell you from that place which the L-rd shall choose,"
+            },
+            {
+              "hebrew": "וְשָׁמַרְתָּ֣ לַעֲשׂ֔וֹת כְּכֹ֖ל אֲשֶׁ֥ר יוֹרֽוּךָ׃",
+              "english": "and you shall observe to do according to all that they teach you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "עַל־פִּ֨י הַתּוֹרָ֜ה אֲשֶׁ֣ר יוֹר֗וּךָ וְעַל־הַמִּשְׁפָּ֛ט אֲשֶׁר־יֹאמְר֥וּ לְךָ֖ תַּעֲשֶׂ֑ה",
+              "english": "According to the Torah that they teach you and the judgment that they tell you shall you do."
+            },
+            {
+              "hebrew": "לֹ֣א תָס֗וּר מִן־הַדָּבָ֛ר אֲשֶׁר־יַגִּ֥ידֽוּ לְךָ֖ יָמִ֥ין וּשְׂמֹֽאל׃",
+              "english": "You shall not turn aside from the thing that they tell you, right or left [(even if they tell you that right is left and left is right.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְהָאִ֞ישׁ אֲשֶׁר־יַעֲשֶׂ֣ה בְזָד֗וֹן לְבִלְתִּ֨י שְׁמֹ֤עַ אֶל־הַכֹּהֵן֙ הָעֹמֵ֞ד לְשָׁ֤רֶת שָׁם֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ א֖וֹ אֶל־הַשֹּׁפֵ֑ט",
+              "english": "And the man who shall do wilfully, not to listen to the Cohein who stands there to serve the L-rd your G-d, or to the judge,"
+            },
+            {
+              "hebrew": "וּמֵת֙ הָאִ֣ישׁ הַה֔וּא וּבִֽעַרְתָּ֥ הָרָ֖ע מִיִּשְׂרָאֵֽל׃",
+              "english": "that man shall die; and you shall remove the evil from Israel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְכׇל־הָעָ֖ם יִשְׁמְע֣וּ וְיִרָ֑אוּ",
+              "english": "And all the people shall hear and fear [— whence it is derived that they wait for him (i.e., they wait to execute the rebellious elder) until the (next) festival, and they execute him during the (period of the) festival],"
+            },
+            {
+              "hebrew": "וְלֹ֥א יְזִיד֖וּן עֽוֹד׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and they shall not act wilfully again."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־תָבֹ֣א אֶל־הָאָ֗רֶץ אֲשֶׁ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ נֹתֵ֣ן לָ֔ךְ וִֽירִשְׁתָּ֖הּ וְיָשַׁ֣בְתָּה בָּ֑הּ",
+              "english": "When you come to the land which the L-rd your G-d gives to you and you inherit it and inhabit it,"
+            },
+            {
+              "hebrew": "וְאָמַרְתָּ֗ אָשִׂ֤ימָה עָלַי֙ מֶ֔לֶךְ כְּכׇל־הַגּוֹיִ֖ם אֲשֶׁ֥ר סְבִיבֹתָֽי׃",
+              "english": "and you say: I shall place over myself a king, as all the nations that are around me,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "שׂ֣וֹם תָּשִׂ֤ים עָלֶ֙יךָ֙ מֶ֔לֶךְ אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּ֑וֹ",
+              "english": "Place shall you place over yourself a king whom the L-rd your G-d shall choose;"
+            },
+            {
+              "hebrew": "מִקֶּ֣רֶב אַחֶ֗יךָ תָּשִׂ֤ים עָלֶ֙יךָ֙ מֶ֔לֶךְ",
+              "english": "from the midst of your brothers shall you place over yourself a king."
+            },
+            {
+              "hebrew": "לֹ֣א תוּכַ֗ל לָתֵ֤ת עָלֶ֙יךָ֙ אִ֣ישׁ נׇכְרִ֔י אֲשֶׁ֥ר לֹֽא־אָחִ֖יךָ הֽוּא׃",
+              "english": "You shall not be able to place over yourself a strange man, who is not your brother."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "רַק֮ לֹא־יַרְבֶּה־לּ֣וֹ סוּסִים֒ וְלֹֽא־יָשִׁ֤יב אֶת־הָעָם֙ מִצְרַ֔יְמָה לְמַ֖עַן הַרְבּ֣וֹת ס֑וּס",
+              "english": "Only, he shall not multiply for himself horses, [but only what he needs for his chariots], so that he not return the people to Egypt [the center of horses], to add a horse,"
+            },
+            {
+              "hebrew": "וַֽיהֹוָה֙ אָמַ֣ר לָכֶ֔ם לֹ֣א תֹסִפ֗וּן לָשׁ֛וּב בַּדֶּ֥רֶךְ הַזֶּ֖ה עֽוֹד׃",
+              "english": "the L-rd having said to you: You shall not venture to return upon this way anymore."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֤א יַרְבֶּה־לּוֹ֙ נָשִׁ֔ים וְלֹ֥א יָס֖וּר לְבָב֑וֹ",
+              "english": "And he shall not multiply for himself wives [(beyond eighteen)], that his heart not turn astray,"
+            },
+            {
+              "hebrew": "וְכֶ֣סֶף וְזָהָ֔ב לֹ֥א יַרְבֶּה־לּ֖וֹ מְאֹֽד׃",
+              "english": "and silver and gold he shall not multiply for himself overmuch, [but only as much as he needs to maintain his army]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֣ה כְשִׁבְתּ֔וֹ עַ֖ל כִּסֵּ֣א מַמְלַכְתּ֑וֹ",
+              "english": "And it shall be, when, [as a reward for fulfilling the above,] he sits [secure] on his throne of kingdom,"
+            },
+            {
+              "hebrew": "וְכָ֨תַב ל֜וֹ אֶת־מִשְׁנֵ֨ה הַתּוֹרָ֤ה הַזֹּאת֙ עַל־סֵ֔פֶר מִלִּפְנֵ֖י הַכֹּהֲנִ֥ים הַלְוִיִּֽם׃",
+              "english": "then he shall write for himself a double of this Torah [i.e., two Torah scrolls: one to be reposited in his treasury, and one to accompany him constantly] on a scroll from before the Cohanim, the Levites."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיְתָ֣ה עִמּ֔וֹ וְקָ֥רָא ב֖וֹ כׇּל־יְמֵ֣י חַיָּ֑יו",
+              "english": "And it shall be with him and he shall read in it all the days of his life,"
+            },
+            {
+              "hebrew": "לְמַ֣עַן יִלְמַ֗ד לְיִרְאָה֙ אֶת־יְהֹוָ֣ה אֱלֹהָ֔יו",
+              "english": "so that he learn to fear the L-rd his G-d,"
+            },
+            {
+              "hebrew": "לִ֠שְׁמֹ֠ר אֶֽת־כׇּל־דִּבְרֵ֞י הַתּוֹרָ֥ה הַזֹּ֛את וְאֶת־הַחֻקִּ֥ים הָאֵ֖לֶּה לַעֲשֹׂתָֽם׃",
+              "english": "to heed all the words of this Torah and these statutes to do them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "לְבִלְתִּ֤י רוּם־לְבָבוֹ֙ מֵֽאֶחָ֔יו וּלְבִלְתִּ֛י ס֥וּר מִן־הַמִּצְוָ֖ה יָמִ֣ין וּשְׂמֹ֑אול",
+              "english": "So that his heart not rise above his brothers, and so that he not depart from the mitzvah, [even a \"light\" mitzvah of a prophet], right or left,"
+            },
+            {
+              "hebrew": "לְמַ֩עַן֩ יַאֲרִ֨יךְ יָמִ֧ים עַל־מַמְלַכְתּ֛וֹ ה֥וּא וּבָנָ֖יו בְּקֶ֥רֶב יִשְׂרָאֵֽל׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "so that he prolong days in his kingdom [(But \"departing,\" he shall not prolong days, e.g., I Samuel 10:8, 13:8 and 13-14)], he and his sons, in the midst of Israel [(If his son is fit to rule, he takes precedence to others.)]"
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "18": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־יִ֠הְיֶ֠ה לַכֹּהֲנִ֨ים הַלְוִיִּ֜ם כׇּל־שֵׁ֧בֶט לֵוִ֛י חֵ֥לֶק וְנַחֲלָ֖ה עִם־יִשְׂרָאֵ֑ל",
+              "english": "There shall not be to the Cohanim, the Levites, the entire tribe of Levi, [both the unblemished and the blemished], a portion [in the spoils] and an inheritance [in the land] with Israel."
+            },
+            {
+              "hebrew": "אִשֵּׁ֧י יְהֹוָ֛ה וְנַחֲלָת֖וֹ יֹאכֵלֽוּן׃",
+              "english": "The fire-offerings of the L-rd [the Temple offerings] and His inheritance [the boundary offerings, i.e., terumoth and ma'asroth] shall they eat,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְנַחֲלָ֥ה לֹא־יִֽהְיֶה־לּ֖וֹ בְּקֶ֣רֶב אֶחָ֑יו",
+              "english": "But he shall not have an [absolute] inheritance in the midst of his brothers;"
+            },
+            {
+              "hebrew": "יְהֹוָה֙ ה֣וּא נַחֲלָת֔וֹ כַּאֲשֶׁ֖ר דִּבֶּר־לֽוֹ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "the L-rd is his inheritance, as He spoke to him [(Numbers 18:20)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְזֶ֡ה יִהְיֶה֩ מִשְׁפַּ֨ט הַכֹּהֲנִ֜ים מֵאֵ֣ת הָעָ֗ם מֵאֵ֛ת זֹבְחֵ֥י הַזֶּ֖בַח אִם־שׁ֣וֹר אִם־שֶׂ֑ה",
+              "english": "And this shall be the judgment for the Cohanim from the people, [but not from the Cohanim (who slaughter for themselves)]. From the slaughterers of the slaughtering, whether ox or sheep [Animals (as opposed to beasts) are excluded],"
+            },
+            {
+              "hebrew": "וְנָתַן֙ לַכֹּהֵ֔ן הַזְּרֹ֥עַ וְהַלְּחָיַ֖יִם וְהַקֵּבָֽה׃",
+              "english": "he shall give to the Cohein the shoulder [(from the knee-joint to the shoulder blade)], the cheeks [with the tongue], and the maw."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "רֵאשִׁ֨ית דְּגָֽנְךָ֜ תִּירֹשְׁךָ֣ וְיִצְהָרֶ֗ךָ",
+              "english": "The first [i.e., terumah] of your corn, your wine, and your oil,"
+            },
+            {
+              "hebrew": "וְרֵאשִׁ֛ית גֵּ֥ז צֹאנְךָ֖ תִּתֶּן־לֽוֹ׃",
+              "english": "and the first of the [annual] shearing of your flock shall you give to him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י ב֗וֹ בָּחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ מִכׇּל־שְׁבָטֶ֑יךָ",
+              "english": "For in him did the L-rd your G-d choose from all of your tribes"
+            },
+            {
+              "hebrew": "לַעֲמֹ֨ד לְשָׁרֵ֧ת בְּשֵׁם־יְהֹוָ֛ה ה֥וּא וּבָנָ֖יו כׇּל־הַיָּמִֽים׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "to stand and minister [(whence it is derived that the ministrant must stand)] in the name of the L-rd, he and his sons all of the days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יָבֹ֨א הַלֵּוִ֜י מֵאַחַ֤ד שְׁעָרֶ֙יךָ֙ מִכׇּל־יִשְׂרָאֵ֔ל אֲשֶׁר־ה֖וּא גָּ֣ר שָׁ֑ם",
+              "english": "And if the Levite [i.e., a Cohein] come from one of your cities, from all of Israel, wherein he lives,"
+            },
+            {
+              "hebrew": "וּבָא֙ בְּכׇל־אַוַּ֣ת נַפְשׁ֔וֹ אֶל־הַמָּק֖וֹם אֲשֶׁר־יִבְחַ֥ר יְהֹוָֽה׃",
+              "english": "and he come in all the desire of his soul [to sacrifice his gift or obligatory offerings] to the place that the L-rd shall choose,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וְשֵׁרֵ֕ת בְּשֵׁ֖ם יְהֹוָ֣ה אֱלֹהָ֑יו",
+              "english": "then, [even if his watch is not officiating], he shall minister in the name of the L-rd his G-d,"
+            },
+            {
+              "hebrew": "כְּכׇל־אֶחָיו֙ הַלְוִיִּ֔ם הָעֹמְדִ֥ים שָׁ֖ם לִפְנֵ֥י יְהֹוָֽה׃",
+              "english": "as all of his brothers, the Levites, [i.e., the Cohanim] who stand there before the L-rd."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "חֵ֥לֶק כְּחֵ֖לֶק יֹאכֵ֑לוּ",
+              "english": "Portion [of the hides (of the burnt-offerings) and the flesh of the he-goat sin-offerings] as portion shall they eat [along with the Cohanim of the watch],"
+            },
+            {
+              "hebrew": "לְבַ֥ד מִמְכָּרָ֖יו עַל־הָאָבֽוֹת׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "except for the sale of the fathers [i.e., those sacrifices offered not by virtue of the festival, e.g., the temidin, the mussafin of Shabbath, and gift and vow offerings, the rights to which were sold by their fathers in the days of David and Samuel, when the rotation of priestly watches was instituted]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֤י אַתָּה֙ בָּ֣א אֶל־הָאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ",
+              "english": "When you come to the land that the L-rd your G-d gives to you,"
+            },
+            {
+              "hebrew": "לֹֽא־תִלְמַ֣ד לַעֲשׂ֔וֹת כְּתוֹעֲבֹ֖ת הַגּוֹיִ֥ם הָהֵֽם׃",
+              "english": "do not learn to do as the abominations of those nations [(but you may learn to understand the falsity of their ways and to teach your children, by identifying them as heathen practices, not to emulate them.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־יִמָּצֵ֣א בְךָ֔ מַעֲבִ֥יר בְּנֽוֹ־וּבִתּ֖וֹ בָּאֵ֑שׁ",
+              "english": "There shall not be found among you one who passes his son or daughter through fire [This is the service of the Molech (see Leviticus 18:21)],"
+            },
+            {
+              "hebrew": "קֹסֵ֣ם קְסָמִ֔ים מְעוֹנֵ֥ן וּמְנַחֵ֖שׁ וּמְכַשֵּֽׁף׃",
+              "english": "a diviner of divinations [one who \"divines\" by holding his stick, whether to go or not to go], a me'onein [one who assigns an auspicious \"time\" (onah) for a particular undertaking], a necromancer [one who interprets natural happenings as signs and portents], and a sorcerer."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְחֹבֵ֖ר חָ֑בֶר",
+              "english": "A chover chaver [one who \"congregates\" snakes or scorpions and the like into one spot],"
+            },
+            {
+              "hebrew": "וְשֹׁאֵ֥ל אוֹב֙ וְיִדְּעֹנִ֔י וְדֹרֵ֖שׁ אֶל־הַמֵּתִֽים׃",
+              "english": "a shoel ov [one who raises the spirit of the dead, which speaks from his arm-pit], a yidoni [(see Leviticus 19:31)], and one who inquires of the dead [e.g., via a skull]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־תוֹעֲבַ֥ת יְהֹוָ֖ה כׇּל־עֹ֣שֵׂה אֵ֑לֶּה",
+              "english": "For the abomination of the L-rd are all who do [(even one of)] these,"
+            },
+            {
+              "hebrew": "וּבִגְלַל֙ הַתּוֹעֵבֹ֣ת הָאֵ֔לֶּה יְהֹוָ֣ה אֱלֹהֶ֔יךָ מוֹרִ֥ישׁ אוֹתָ֖ם מִפָּנֶֽיךָ׃",
+              "english": "and because of these abominations the L-rd your G-d drives them out before you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "תָּמִ֣ים תִּֽהְיֶ֔ה",
+              "english": "Whole shall you be"
+            },
+            {
+              "hebrew": "עִ֖ם יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+              "english": "with the L-rd your G-d [i.e., If you repose all of your trust in Him, without probing the future, but accepting wholeheartedly all that befalls you, then you shall be \"with the L-rd your G-d,\" and His portion.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י&thinsp;׀ הַגּוֹיִ֣ם הָאֵ֗לֶּה אֲשֶׁ֤ר אַתָּה֙ יוֹרֵ֣שׁ אוֹתָ֔ם אֶל־מְעֹנְנִ֥ים וְאֶל־קֹסְמִ֖ים יִשְׁמָ֑עוּ",
+              "english": "For these nations that you inherit hearken to me'onenim (see 10) and to diviners;"
+            },
+            {
+              "hebrew": "וְאַתָּ֕ה לֹ֣א כֵ֔ן נָ֥תַן לְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+              "english": "but you, not thus [to hearken to them] did the L-rd your G-d relegate you, [for He reposed His shechinah on the prophets and the urim vethumim.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֙יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ",
+              "english": "A prophet from your midst, from your brothers, such as I [i.e., just as I am from your midst and from your brothers] shall the L-rd your G-d raise up for you [in my place, and so, from prophet to prophet];"
+            },
+            {
+              "hebrew": "אֵלָ֖יו תִּשְׁמָעֽוּן׃",
+              "english": "to him shall you hearken."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "כְּכֹ֨ל אֲשֶׁר־שָׁאַ֜לְתָּ מֵעִ֨ם יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בְּחֹרֵ֔ב בְּי֥וֹם הַקָּהָ֖ל לֵאמֹ֑ר",
+              "english": "As all that you asked from the L-rd your G-d in Chorev, on the day of the assembly, saying:"
+            },
+            {
+              "hebrew": "לֹ֣א אֹסֵ֗ף לִשְׁמֹ֙עַ֙ אֶת־קוֹל֙ יְהֹוָ֣ה אֱלֹהָ֔י וְאֶת־הָאֵ֨שׁ הַגְּדֹלָ֥ה הַזֹּ֛את לֹֽא־אֶרְאֶ֥ה ע֖וֹד וְלֹ֥א אָמֽוּת׃",
+              "english": "I shall not continue hearing the voice of the L-rd my G-d, and this great fire I shall see no more, that I not die."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלָ֑י",
+              "english": "And the L-rd said to me:"
+            },
+            {
+              "hebrew": "הֵיטִ֖יבוּ אֲשֶׁ֥ר דִּבֵּֽרוּ׃",
+              "english": "They have done well in speaking as they did."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ",
+              "english": "A prophet shall I raise up for them from the midst of their brothers, such as you,"
+            },
+            {
+              "hebrew": "וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם אֵ֖ת כׇּל־אֲשֶׁ֥ר אֲצַוֶּֽנּוּ׃",
+              "english": "and I shall place My words in his mouth, and he shall speak to them all that I command him."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֗ה הָאִישׁ֙ אֲשֶׁ֤ר לֹֽא־יִשְׁמַע֙ אֶל־דְּבָרַ֔י אֲשֶׁ֥ר יְדַבֵּ֖ר בִּשְׁמִ֑י",
+              "english": "And it shall be, the man who will not heed My words, which he shall speak in My name,"
+            },
+            {
+              "hebrew": "אָנֹכִ֖י אֶדְרֹ֥שׁ מֵעִמּֽוֹ׃",
+              "english": "I shall require it of him. [One who suppresses his prophecy, one who transgresses the words of a prophet, and a prophet who transgresses his own words incur death at the hands of Heaven.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא־צִוִּיתִיו֙ לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים",
+              "english": "But the prophet who shall presume to speak a thing in My name which I did not command him to speak [(but which I commanded his fellow prophet)], and one who speaks in the name of other gods, [even if he is in agreement with the halachah, forbidding what is forbidden, and permitting what is permitted],"
+            },
+            {
+              "hebrew": "וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא׃",
+              "english": "that prophet shall be put to death [by strangulation. Three incur death by strangulation: one who prophesies what he did not hear, one who prophesies what was told to his fellow, and one who prophesies in the name of idolatry.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְכִ֥י תֹאמַ֖ר בִּלְבָבֶ֑ךָ",
+              "english": "And when you say in your heart, [as you will in the incident of Chananiah ben Azur and Jeremiah (see Jeremiah 27:16, 19-22)]:"
+            },
+            {
+              "hebrew": "אֵיכָה֙ נֵדַ֣ע אֶת־הַדָּבָ֔ר אֲשֶׁ֥ר לֹא־דִבְּר֖וֹ יְהֹוָֽה׃",
+              "english": "How shall we know the thing which the L-rd has not spoken?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "אֲשֶׁר֩ יְדַבֵּ֨ר הַנָּבִ֜יא בְּשֵׁ֣ם יְהֹוָ֗ה וְלֹֽא־יִהְיֶ֤ה הַדָּבָר֙ וְלֹ֣א יָבֹ֔א",
+              "english": "What the prophet shall speak in the name of the L-rd [i.e., \"This and this shall happen to you\"] and the thing not be and not come to pass,"
+            },
+            {
+              "hebrew": "ה֣וּא הַדָּבָ֔ר אֲשֶׁ֥ר לֹא־דִבְּר֖וֹ יְהֹוָ֑ה",
+              "english": "that is the thing which the L-rd has not spoken, [and put him to death. (For an instance in which he says: \"The L-rd has told me to tell you to do thus and thus,\" see 13:9 and 15 above)]."
+            },
+            {
+              "hebrew": "בְּזָדוֹן֙ דִּבְּר֣וֹ הַנָּבִ֔יא לֹ֥א תָג֖וּר מִמֶּֽנּוּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "In presumption has the prophet spoken it; do not hold back from [incriminating] him [and do not fear incurring punishment because of him]."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "19": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יַכְרִ֞ית יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־הַגּוֹיִ֔ם אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ אֶת־אַרְצָ֑ם",
+              "english": "When the L-rd your G-d cuts off the nations whose land the L-rd your G-d gives to you,"
+            },
+            {
+              "hebrew": "וִֽירִשְׁתָּ֕ם וְיָשַׁבְתָּ֥ בְעָרֵיהֶ֖ם וּבְבָתֵּיהֶֽם׃",
+              "english": "and you inherit them and you dwell in their cities and in their houses,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "שָׁל֥וֹשׁ עָרִ֖ים תַּבְדִּ֣יל לָ֑ךְ",
+              "english": "Three cities shall you set aside for yourself"
+            },
+            {
+              "hebrew": "בְּת֣וֹךְ אַרְצְךָ֔ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ לְרִשְׁתָּֽהּ׃",
+              "english": "in the midst of your land which the L-rd your G-d gives you to inherit."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "תָּכִ֣ין לְךָ֮ הַדֶּ֒רֶךְ֒",
+              "english": "Prepare for yourself the way [(\"Refuge\" signs were posted on the crossroads)],"
+            },
+            {
+              "hebrew": "וְשִׁלַּשְׁתָּ֙ אֶת־גְּב֣וּל אַרְצְךָ֔ אֲשֶׁ֥ר יַנְחִֽילְךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ",
+              "english": "and \"third\" the border of your land that the L-rd your G-d will cause you to inherit, [so that there be equal distances from the beginning of the border to the first city of refuge, from there to the second city, from there to the third city, and from there to the second border of Eretz Yisrael],"
+            },
+            {
+              "hebrew": "וְהָיָ֕ה לָנ֥וּס שָׁ֖מָּה כׇּל־רֹצֵֽחַ׃",
+              "english": "that every slayer may flee there."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וְזֶה֙ דְּבַ֣ר הָרֹצֵ֔חַ אֲשֶׁר־יָנ֥וּס שָׁ֖מָּה וָחָ֑י",
+              "english": "And this is the matter of the slayer who shall flee there and live:"
+            },
+            {
+              "hebrew": "אֲשֶׁ֨ר יַכֶּ֤ה אֶת־רֵעֵ֙הוּ֙ בִּבְלִי־דַ֔עַת וְה֛וּא לֹא־שֹׂנֵ֥א ל֖וֹ מִתְּמֹ֥ל שִׁלְשֹֽׁם׃",
+              "english": "one who smites his neighbor unwittingly, not having hated him in the past,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲשֶׁר֩ יָבֹ֨א אֶת־רֵעֵ֥הוּ בַיַּ֘עַר֮ לַחְטֹ֣ב עֵצִים֒ וְנִדְּחָ֨ה יָד֤וֹ בַגַּרְזֶן֙ לִכְרֹ֣ת הָעֵ֔ץ",
+              "english": "And one who comes with his neighbor in the forest to chop wood, and his hand swing the axe to cut the tree,"
+            },
+            {
+              "hebrew": "וְנָשַׁ֤ל הַבַּרְזֶל֙ מִן־הָעֵ֔ץ וּמָצָ֥א אֶת־רֵעֵ֖הוּ וָמֵ֑ת",
+              "english": "and the blade slip from the haft [or, \"and the blade chip (aught) of the tree\"], and it (the blade or the chip) find his neighbor and he die —"
+            },
+            {
+              "hebrew": "ה֗וּא יָנ֛וּס אֶל־אַחַ֥ת הֶעָרִים־הָאֵ֖לֶּה וָחָֽי׃",
+              "english": "he shall flee to one of these cities, and he shall live."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "פֶּן־יִרְדֹּף֩ גֹּאֵ֨ל הַדָּ֜ם אַחֲרֵ֣י הָרֹצֵ֗חַ כִּי־יֵחַם֮ לְבָבוֹ֒ וְהִשִּׂיג֛וֹ כִּֽי־יִרְבֶּ֥ה הַדֶּ֖רֶךְ וְהִכָּ֣הוּ נָ֑פֶשׁ",
+              "english": "[I tell you to prepare the way (3) and numerous cities of refuge] lest the avenger of blood pursue the slayer, his heart being hot, and he overtake him, the way being long, and he smite him mortally,"
+            },
+            {
+              "hebrew": "וְלוֹ֙ אֵ֣ין מִשְׁפַּט־מָ֔וֶת כִּ֠י לֹ֣א שֹׂנֵ֥א ה֛וּא ל֖וֹ מִתְּמ֥וֹל שִׁלְשֽׁוֹם׃",
+              "english": "and he (the slayer) not deserve to die, not having hated him (the victim) in the past."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "עַל־כֵּ֛ן אָנֹכִ֥י מְצַוְּךָ֖ לֵאמֹ֑ר",
+              "english": "Therefore, I command you, saying:"
+            },
+            {
+              "hebrew": "שָׁלֹ֥שׁ עָרִ֖ים תַּבְדִּ֥יל לָֽךְ׃",
+              "english": "Three cities shall you set aside for yourself."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְאִם־יַרְחִ֞יב יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־גְּבֻ֣לְךָ֔ כַּאֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶ֑יךָ",
+              "english": "And if the L-rd your G-d broaden your borders, as He swore to your forefathers [to give you the land of the Keini, the Kenizi, and the Kadmoni (Genesis 15:9)],"
+            },
+            {
+              "hebrew": "וְנָ֤תַן לְךָ֙ אֶת־כׇּל־הָאָ֔רֶץ אֲשֶׁ֥ר דִּבֶּ֖ר לָתֵ֥ת לַאֲבֹתֶֽיךָ׃",
+              "english": "and He give you all the land that He said to give to your forefathers,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־תִשְׁמֹר֩ אֶת־כׇּל־הַמִּצְוָ֨ה הַזֹּ֜את לַעֲשֹׂתָ֗הּ אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ וְלָלֶ֥כֶת בִּדְרָכָ֖יו כׇּל־הַיָּמִ֑ים",
+              "english": "If you keep all of this mitzvah to do it, that I command you this day, to love the L-rd your G-d and to walk in His ways all of the days —"
+            },
+            {
+              "hebrew": "וְיָסַפְתָּ֨ לְךָ֥ עוֹד֙ שָׁלֹ֣שׁ עָרִ֔ים עַ֖ל הַשָּׁלֹ֥שׁ הָאֵֽלֶּה׃",
+              "english": "then you shall add for yourself another three cities to these three [— nine in all: three across the Jordan, three in the land of Canaan, and three in time to come]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֤א יִשָּׁפֵךְ֙ דָּ֣ם נָקִ֔י בְּקֶ֣רֶב אַרְצְךָ֔ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה",
+              "english": "And innocent blood shall not be shed in the midst of your land that the L-rd your G-d gives to you as an inheritance,"
+            },
+            {
+              "hebrew": "וְהָיָ֥ה עָלֶ֖יךָ דָּמִֽים׃&nbsp;{פ}",
+              "english": "and there be blood upon you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וְכִֽי־יִהְיֶ֥ה אִישׁ֙ שֹׂנֵ֣א לְרֵעֵ֔הוּ וְאָ֤רַב לוֹ֙ וְקָ֣ם עָלָ֔יו וְהִכָּ֥הוּ נֶ֖פֶשׁ וָמֵ֑ת",
+              "english": "And if a man hate his neighbor, [(transgressing Leviticus 19:17)], and he lie in wait for him [(transgression of a \"light\" commandment leading to transgression of a grave one)], and he rise up against him, and he smite him mortally, and he die,"
+            },
+            {
+              "hebrew": "וְנָ֕ס אֶל־אַחַ֖ת הֶעָרִ֥ים הָאֵֽל׃",
+              "english": "and he flees to one of these cities,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וְשָֽׁלְחוּ֙ זִקְנֵ֣י עִיר֔וֹ וְלָקְח֥וּ אֹת֖וֹ מִשָּׁ֑ם",
+              "english": "Then the elders of his city shall send, and they shall take him from there,"
+            },
+            {
+              "hebrew": "וְנָתְנ֣וּ אֹת֗וֹ בְּיַ֛ד גֹּאֵ֥ל הַדָּ֖ם וָמֵֽת׃",
+              "english": "and they shall put him into the hand of the avenger of blood, and he shall die."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "לֹא־תָח֥וֹס עֵֽינְךָ֖ עָלָ֑יו",
+              "english": "Let your eye not pity him [(Do not say: One has already been killed — why kill two Jews?],"
+            },
+            {
+              "hebrew": "וּבִֽעַרְתָּ֧ דַֽם־הַנָּקִ֛י מִיִּשְׂרָאֵ֖ל וְט֥וֹב לָֽךְ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and remove the innocent blood from Israel, and it shall be good for you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "לֹ֤א תַסִּיג֙ גְּב֣וּל רֵֽעֲךָ֔ אֲשֶׁ֥ר גָּבְל֖וּ רִאשֹׁנִ֑ים",
+              "english": "You shall not move back [(into his land, thus broadening your own)], the boundary marker of your neighbor [(If you do so, you violate two negative commandments — this and (Leviticus 19:13): \"You shall not rob\")], which the first ones bounded,"
+            },
+            {
+              "hebrew": "בְּנַחֲלָֽתְךָ֙ אֲשֶׁ֣ר תִּנְחַ֔ל בָּאָ֕רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ לְרִשְׁתָּֽהּ׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "in your inheritance which you shall inherit in the land which the L-rd your G-d gives you to inherit. [(Outside of Eretz Yisrael one is in violation only of \"You shall not rob\")]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "לֹֽא־יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכׇל־עָוֺן֙ וּלְכׇל־חַטָּ֔את בְּכׇל־חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א",
+              "english": "One witness shall not arise against a man for every transgression and for every sin, in any sin that one commit."
+            },
+            {
+              "hebrew": "עַל־פִּ֣י&thinsp;׀ שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל־פִּ֥י שְׁלֹשָֽׁה־עֵדִ֖ים יָק֥וּם דָּבָֽר׃",
+              "english": "By the mouth of two witnesses, [and not by sending written testimony to beth-din, and not by interposing an interpreter between the witnesses and the judges], or by the mouth of three witnesses shall a thing be established."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־יָק֥וּם עֵד־חָמָ֖ס בְּאִ֑ישׁ",
+              "english": "If there arise a false witness [i.e., a false set of witnesses] against a man"
+            },
+            {
+              "hebrew": "לַעֲנ֥וֹת בּ֖וֹ סָרָֽה׃",
+              "english": "to testify against him, removed, [i.e., when they were completely removed from having witnessed the incident (as when other witnesses challenge them: But were you not with us at this and this place at that time!)],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְעָמְד֧וּ שְׁנֵֽי־הָאֲנָשִׁ֛ים אֲשֶׁר־לָהֶ֥ם הָרִ֖יב לִפְנֵ֣י יְהֹוָ֑ה",
+              "english": "Then the two men [the witnesses] shall stand [(Witnesses must be men and they must testify standing)], (and those men) who have the contention (must stand) before the L-rd [(It should be in their eyes as if they are standing \"before the L-rd\")],"
+            },
+            {
+              "hebrew": "לִפְנֵ֤י הַכֹּֽהֲנִים֙ וְהַשֹּׁ֣פְטִ֔ים אֲשֶׁ֥ר יִהְי֖וּ בַּיָּמִ֥ים הָהֵֽם׃",
+              "english": "before the Cohanim and the judges who shall be in those days [(\"Yiftach in his generation is like Samuel in his generation.\")]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב",
+              "english": "And the judges shall inquire well [by cross-examining those who come to discredit the witnesses],"
+            },
+            {
+              "hebrew": "וְהִנֵּ֤ה עֵֽד־שֶׁ֙קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו׃",
+              "english": "and, behold, a false witness is the witness [(\"witness\" always connotes two)] — falsely did he testify against his brother,"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַעֲשִׂ֣יתֶם ל֔וֹ כַּאֲשֶׁ֥ר זָמַ֖ם לַעֲשׂ֣וֹת לְאָחִ֑יו",
+              "english": "Then you shall do to him as he schemed to do [(but not \"as he did\")] to his brother, [but not to his sister (in an instance of their testifying that the married daughter of a Cohein was adulterous, in which instance they receive not the adulteress's penalty (burning), but the adulterer's (strangulation)],"
+            },
+            {
+              "hebrew": "וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃",
+              "english": "and you shall remove the evil from your midst."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וְהַנִּשְׁאָרִ֖ים יִשְׁמְע֣וּ וְיִרָ֑אוּ",
+              "english": "And the rest shall hear and fear,"
+            },
+            {
+              "hebrew": "וְלֹֽא־יֹסִ֨פוּ לַעֲשׂ֜וֹת ע֗וֹד כַּדָּבָ֥ר הָרָ֛ע הַזֶּ֖ה בְּקִרְבֶּֽךָ׃",
+              "english": "and they shall not venture to do again as this evil thing in your midst. [Scheming witnesses require \"proclamation,\" viz.: \"These men were executed for having been found 'scheming witnesses' in beth-din.\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֥א תָח֖וֹס עֵינֶ֑ךָ",
+              "english": "And let your eyes not pity."
+            },
+            {
+              "hebrew": "נֶ֣פֶשׁ בְּנֶ֗פֶשׁ עַ֤יִן בְּעַ֙יִן֙ שֵׁ֣ן בְּשֵׁ֔ן יָ֥ד בְּיָ֖ד רֶ֥גֶל בְּרָֽגֶל׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "A soul for a soul, an eye for an eye [i.e., monetary compensation (and so with what follows)], a tooth for a tooth, a hand for a hand, a foot for a foot."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "20": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־תֵצֵ֨א לַמִּלְחָמָ֜ה עַל־אֹיְבֶ֗ךָ וְֽרָאִ֜יתָ ס֤וּס וָרֶ֙כֶב֙ עַ֚ם רַ֣ב מִמְּךָ֔ לֹ֥א תִירָ֖א מֵהֶ֑ם",
+              "english": "When you go out to war [(the rationale of the juxtaposition: one lacking a limb does not go out to war)], against your foes [(Let them be as foes in your eyes: Do not pity them, for they will not pity you)], and you see horse and chariot [(In My eyes they are all like one horse)], a nation greater 'from you' [i.e., from your vantage point, not from Mine], do not fear them;"
+            },
+            {
+              "hebrew": "כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ הַמַּֽעַלְךָ֖ מֵאֶ֥רֶץ מִצְרָֽיִם׃",
+              "english": "for the L-rd your G-d is with you, who brought you up from the land of Egypt."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֕ה כְּקָֽרׇבְכֶ֖ם אֶל־הַמִּלְחָמָ֑ה",
+              "english": "And it shall be, when you draw near to the battle [soon after leaving the boundary of your land],"
+            },
+            {
+              "hebrew": "וְנִגַּ֥שׁ הַכֹּהֵ֖ן וְדִבֶּ֥ר אֶל־הָעָֽם׃",
+              "english": "that the Cohein [the Cohein \"anointed for war\"] shall come forward, and he shall speak to the people [in the holy tongue]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְאָמַ֤ר אֲלֵהֶם֙ שְׁמַ֣ע יִשְׂרָאֵ֔ל אַתֶּ֨ם קְרֵבִ֥ים הַיּ֛וֹם לַמִּלְחָמָ֖ה עַל־אֹיְבֵיכֶ֑ם",
+              "english": "And he shall say to them: Hear, (Shema) O Israel [(Even if you had no other merit but that of reciting the Shema, it would suffice for your salvation)], you are drawing near today to do battle with your foes, [and not with your brethren, who would treat you with compassion (see II Chronicles 28:15)]."
+            },
+            {
+              "hebrew": "אַל־יֵרַ֣ךְ לְבַבְכֶ֗ם אַל־תִּֽירְא֧וּ וְאַֽל־תַּחְפְּז֛וּ וְאַל־תַּֽעַרְצ֖וּ מִפְּנֵיהֶֽם׃",
+              "english": "Let your hearts not faint [at the whinnying of the foes' horses], do not fear [the clashing of their shields], do not tremble [at the blaring of their trumpets], and do not break before them [i.e., before their battle cries]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֚י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם הַהֹלֵ֖ךְ עִמָּכֶ֑ם",
+              "english": "For it is the L-rd your G-d [(They come with the triumph of flesh and blood, and you come with the triumph of the L-rd)] which [viz., the encampment of the ark] goes with you"
+            },
+            {
+              "hebrew": "לְהִלָּחֵ֥ם לָכֶ֛ם עִם־אֹיְבֵיכֶ֖ם לְהוֹשִׁ֥יעַ אֶתְכֶֽם׃",
+              "english": "to war for you with your foes, to save you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל־הָעָ֣ם לֵאמֹר֒",
+              "english": "Then [the Cohanim shall say to the officers and] the officers shall speak to the people, saying:"
+            },
+            {
+              "hebrew": "מִֽי־הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת־חָדָשׁ֙ וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ",
+              "english": "Who is the man that has built a new house and has not inhabited it? Let him go and return to his house,"
+            },
+            {
+              "hebrew": "פֶּן־יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ׃",
+              "english": "lest he die in the war and another man inhabit it [and the thought of this happening cause him distress]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וּמִֽי־הָאִ֞ישׁ אֲשֶׁר־נָטַ֥ע כֶּ֙רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ",
+              "english": "And who is the man that has planted a vineyard and not redeemed it [in the fourth year (the fruits to be eaten in Jerusalem or redeemed for money to be spent for eating in Jerusalem)]? Let him go and return to his house,"
+            },
+            {
+              "hebrew": "פֶּן־יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ׃",
+              "english": "lest he die in the war and another man redeem it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וּמִֽי־הָאִ֞ישׁ אֲשֶׁר־אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ",
+              "english": "And who is the man who has betrothed a woman and not taken her? Let him go and return to his house,"
+            },
+            {
+              "hebrew": "פֶּן־יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה׃",
+              "english": "lest he die in the war [(If he does not heed the Cohein, he deserves to die)], and another man take her."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל־הָעָם֒ וְאָמְר֗וּ",
+              "english": "Then the officers shall add [to the words of the Cohanim] to speak to the people, and they shall say:"
+            },
+            {
+              "hebrew": "מִי־הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ",
+              "english": "Who is the man that fears [According to one view, fear of combat; according to another, fear of (dying in battle because of) one's transgressions], and that is faint of heart? Let him go and return to his house"
+            },
+            {
+              "hebrew": "וְלֹ֥א יִמַּ֛ס אֶת־לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ׃",
+              "english": "and not melt the heart of his brothers as his own heart."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֛ה כְּכַלֹּ֥ת הַשֹּׁטְרִ֖ים לְדַבֵּ֣ר אֶל־הָעָ֑ם",
+              "english": "And it shall be, when the officers finish speaking to the people,"
+            },
+            {
+              "hebrew": "וּפָ֥קְד֛וּ שָׂרֵ֥י צְבָא֖וֹת בְּרֹ֥אשׁ הָעָֽם׃&nbsp;{ס}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "that they shall post sentinels at the head of the people, [before and behind, with iron staves in their hands, and empowered to \"cripple\" all who would flee, for the beginning of defeat is flight.]"
+            }
+          ],
+          "model": "Instinct"
+        }
       }
     }
   },
-  "updatedAt": "2026-10-26T19:30:14.594Z"
+  "updatedAt": "2026-10-26T19:31:50.860Z"
 }
