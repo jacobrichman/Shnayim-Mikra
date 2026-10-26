@@ -29253,16 +29253,16 @@
         "1": {
           "pairs": [
             {
-              "hebrew": "אָ֣ז יָשִֽׁיר־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהֹוָ֔ה",
-              "english": "Then Moses and the children of Israel would sing [i.e., it entered their heart to sing] this song to the L-rd,"
+              "hebrew": "אָ֣ז יָשִֽׁיר־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהֹוָ֔ה וַיֹּאמְר֖וּ לֵאמֹ֑ר&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Then Moses and the children of Israel would sing [i.e., it entered their heart to sing] this song to the L-rd, and they said:"
             },
             {
-              "hebrew": "וַיֹּאמְר֖וּ לֵאמֹ֑ר&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אָשִׁ֤ירָה לַֽיהֹוָה֙",
-              "english": "and they said: I shall sing to the L-rd"
+              "hebrew": "אָשִׁ֤ירָה לַֽיהֹוָה֙ כִּֽי־גָאֹ֣ה גָּאָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "I shall sing to the L-rd for He is exalted [over all the] exalted:"
             },
             {
-              "hebrew": "כִּֽי־גָאֹ֣ה גָּאָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ס֥וּס וְרֹכְב֖וֹ רָמָ֥ה בַיָּֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "for He is exalted [over all the] exalted: horse and its rider [joined together] He cast into the sea."
+              "hebrew": "ס֥וּס וְרֹכְב֖וֹ רָמָ֥ה בַיָּֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "horse and its rider [joined together] He cast into the sea."
             }
           ],
           "model": "Instinct"
@@ -29270,12 +29270,16 @@
         "2": {
           "pairs": [
             {
-              "hebrew": "עׇזִּ֤י וְזִמְרָת֙ יָ֔הּ וַֽיְהִי־לִ֖י לִֽישׁוּעָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;זֶ֤ה אֵלִי֙",
-              "english": "The strength and vengeance of the L-rd has been salvation to me. This is my G-d [(His glory was so manifest that they pointed to it)]"
+              "hebrew": "עׇזִּ֤י וְזִמְרָת֙ יָ֔הּ וַֽיְהִי־לִ֖י לִֽישׁוּעָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "The strength and vengeance of the L-rd has been salvation to me."
             },
             {
-              "hebrew": "וְאַנְוֵ֔הוּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֱלֹהֵ֥י אָבִ֖י וַאֲרֹמְמֶֽנְהוּ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "and I will extol Him; the G-d of my father [(Not I, but my forefathers are the origin of this hallowing)], and I will exalt Him."
+              "hebrew": "זֶ֤ה אֵלִי֙ וְאַנְוֵ֔הוּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "This is my G-d [(His glory was so manifest that they pointed to it)] and I will extol Him;"
+            },
+            {
+              "hebrew": "אֱלֹהֵ֥י אָבִ֖י וַאֲרֹמְמֶֽנְהוּ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "the G-d of my father [(Not I, but my forefathers are the origin of this hallowing)], and I will exalt Him."
             }
           ],
           "model": "Instinct"
@@ -29296,12 +29300,12 @@
         "4": {
           "pairs": [
             {
-              "hebrew": "מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ",
-              "english": "The chariots of Pharaoh and his host"
+              "hebrew": "מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "The chariots of Pharaoh and his host He cast into the sea,"
             },
             {
-              "hebrew": "יָרָ֣ה בַיָּ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם־סֽוּף׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "He cast into the sea, and the élite of his officers were mired in the Red Sea, [the sea-bed turning into slime, measure for measure for their belaboring Israel with lime and bricks.]"
+              "hebrew": "וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם־סֽוּף׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and the élite of his officers were mired in the Red Sea, [the sea-bed turning into slime, measure for measure for their belaboring Israel with lime and bricks.]"
             }
           ],
           "model": "Instinct"
@@ -29322,12 +29326,12 @@
         "6": {
           "pairs": [
             {
-              "hebrew": "יְמִֽינְךָ֣ יְהֹוָ֔ה",
-              "english": "Your right hand, O L-rd,"
+              "hebrew": "יְמִֽינְךָ֣ יְהֹוָ֔ה נֶאְדָּרִ֖י בַּכֹּ֑חַ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Your right hand, O L-rd, is grand in power."
             },
             {
-              "hebrew": "נֶאְדָּרִ֖י בַּכֹּ֑חַ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יְמִֽינְךָ֥ יְהֹוָ֖ה תִּרְעַ֥ץ אוֹיֵֽב׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "is grand in power. Your right hand, O L-rd, breaks the foe."
+              "hebrew": "יְמִֽינְךָ֥ יְהֹוָ֖ה תִּרְעַ֥ץ אוֹיֵֽב׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Your right hand, O L-rd, breaks the foe."
             }
           ],
           "model": "Instinct"
@@ -29335,12 +29339,12 @@
         "7": {
           "pairs": [
             {
-              "hebrew": "וּבְרֹ֥ב גְּאוֹנְךָ֖",
-              "english": "And [if Your right hand, alone, breaks the foe, then, when it is uplifted] in the greatness of Your grandeur, [how much more so do]"
+              "hebrew": "וּבְרֹ֥ב גְּאוֹנְךָ֖ תַּהֲרֹ֣ס קָמֶ֑יךָ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And [if Your right hand, alone, breaks the foe, then, when it is uplifted] in the greatness of Your grandeur, [how much more so do] You destroy those who rise up against You [i.e., those who rise up against Israel. And, if in the greatness of Your grandeur alone, they are destroyed, then,]"
             },
             {
-              "hebrew": "תַּהֲרֹ֣ס קָמֶ֑יךָ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;תְּשַׁלַּח֙ חֲרֹ֣נְךָ֔ יֹאכְלֵ֖מוֹ כַּקַּֽשׁ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "You destroy those who rise up against You [i.e., those who rise up against Israel. And, if in the greatness of Your grandeur alone, they are destroyed, then,] when You send forth Your wrath, [how much more so] does it consume them as stubble!"
+              "hebrew": "תְּשַׁלַּח֙ חֲרֹ֣נְךָ֔ יֹאכְלֵ֖מוֹ כַּקַּֽשׁ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "when You send forth Your wrath, [how much more so] does it consume them as stubble!"
             }
           ],
           "model": "Instinct"
@@ -29348,12 +29352,16 @@
         "8": {
           "pairs": [
             {
-              "hebrew": "וּבְר֤וּחַ אַפֶּ֙יךָ֙",
-              "english": "And with the breath of Your nostrils [i.e., in the heat of Your anger],"
+              "hebrew": "וּבְר֤וּחַ אַפֶּ֙יךָ֙ נֶ֣עֶרְמוּ מַ֔יִם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "And with the breath of Your nostrils [i.e., in the heat of Your anger], the waters were [heated solid and] piled up."
             },
             {
-              "hebrew": "נֶ֣עֶרְמוּ מַ֔יִם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נִצְּב֥וּ כְמוֹ־נֵ֖ד נֹזְלִ֑ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;קָֽפְא֥וּ תְהֹמֹ֖ת בְּלֶב־יָֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "the waters were [heated solid and] piled up. The waves stood up as a wall. The depths were congealed [into stone, and the Egyptians were dashed against it] in the fury of the sea."
+              "hebrew": "נִצְּב֥וּ כְמוֹ־נֵ֖ד נֹזְלִ֑ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "The waves stood up as a wall."
+            },
+            {
+              "hebrew": "קָֽפְא֥וּ תְהֹמֹ֖ת בְּלֶב־יָֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "The depths were congealed [into stone, and the Egyptians were dashed against it] in the fury of the sea."
             }
           ],
           "model": "Instinct"
@@ -29361,16 +29369,16 @@
         "9": {
           "pairs": [
             {
-              "hebrew": "אָמַ֥ר אוֹיֵ֛ב",
-              "english": "The foe (i.e., Pharaoh) said [to his people in urging them to pursue Israel:]"
+              "hebrew": "אָמַ֥ר אוֹיֵ֛ב אֶרְדֹּ֥ף אַשִּׂ֖יג&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "The foe (i.e., Pharaoh) said [to his people in urging them to pursue Israel:] I shall pursue, I shall overtake,"
             },
             {
-              "hebrew": "אֶרְדֹּ֥ף אַשִּׂ֖יג&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֲחַלֵּ֣ק שָׁלָ֑ל",
-              "english": "I shall pursue, I shall overtake, I shall divide (the) spoil [with my officers and servants]."
+              "hebrew": "אֲחַלֵּ֣ק שָׁלָ֑ל תִּמְלָאֵ֣מוֹ נַפְשִׁ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "I shall divide (the) spoil [with my officers and servants]. My spirit [i.e., my desire] will be filled with them."
             },
             {
-              "hebrew": "תִּמְלָאֵ֣מוֹ נַפְשִׁ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אָרִ֣יק חַרְבִּ֔י תּוֹרִישֵׁ֖מוֹ יָדִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "My spirit [i.e., my desire] will be filled with them. I shall draw forth my sword; my hand will impoverish them."
+              "hebrew": "אָרִ֣יק חַרְבִּ֔י תּוֹרִישֵׁ֖מוֹ יָדִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "I shall draw forth my sword; my hand will impoverish them."
             }
           ],
           "model": "Instinct"
@@ -29378,12 +29386,12 @@
         "10": {
           "pairs": [
             {
-              "hebrew": "נָשַׁ֥פְתָּ בְרוּחֲךָ֖",
-              "english": "You blew with Your breath —"
+              "hebrew": "נָשַׁ֥פְתָּ בְרוּחֲךָ֖ כִּסָּ֣מוֹ יָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "You blew with Your breath — the sea covered them;"
             },
             {
-              "hebrew": "כִּסָּ֣מוֹ יָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;צָֽלְלוּ֙ כַּֽעוֹפֶ֔רֶת בְּמַ֖יִם אַדִּירִֽים׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "the sea covered them; they plummeted like lead in the mighty waters."
+              "hebrew": "צָֽלְלוּ֙ כַּֽעוֹפֶ֔רֶת בְּמַ֖יִם אַדִּירִֽים׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "they plummeted like lead in the mighty waters."
             }
           ],
           "model": "Instinct"
@@ -29391,12 +29399,16 @@
         "11": {
           "pairs": [
             {
-              "hebrew": "מִֽי־כָמֹ֤כָה בָּֽאֵלִם֙",
-              "english": "Who is like You among the mighty,"
+              "hebrew": "מִֽי־כָמֹ֤כָה בָּֽאֵלִם֙ יְהֹוָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Who is like You among the mighty, O L-rd?"
             },
             {
-              "hebrew": "יְהֹוָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מִ֥י כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נוֹרָ֥א תְהִלֹּ֖ת עֹ֥שֵׂה פֶֽלֶא׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "O L-rd? Who is like You, majestic in holiness, dreaded in praise [i.e., men dreading to praise You lest they fall short in Your praises], doing wonders!"
+              "hebrew": "מִ֥י כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Who is like You, majestic in holiness,"
+            },
+            {
+              "hebrew": "נוֹרָ֥א תְהִלֹּ֖ת עֹ֥שֵׂה פֶֽלֶא׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "dreaded in praise [i.e., men dreading to praise You lest they fall short in Your praises], doing wonders!"
             }
           ],
           "model": "Instinct"
@@ -29417,12 +29429,12 @@
         "13": {
           "pairs": [
             {
-              "hebrew": "נָחִ֥יתָ בְחַסְדְּךָ֖",
-              "english": "You have led forth in Your kindness"
+              "hebrew": "נָחִ֥יתָ בְחַסְדְּךָ֖ עַם־ז֣וּ גָּאָ֑לְתָּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "You have led forth in Your kindness this people whom You have redeemed."
             },
             {
-              "hebrew": "עַם־ז֣וּ גָּאָ֑לְתָּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נֵהַ֥לְתָּ בְעׇזְּךָ֖ אֶל־נְוֵ֥ה קׇדְשֶֽׁךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "this people whom You have redeemed. You have guided them in Your strength to Your holy habitation."
+              "hebrew": "נֵהַ֥לְתָּ בְעׇזְּךָ֖ אֶל־נְוֵ֥ה קׇדְשֶֽׁךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "You have guided them in Your strength to Your holy habitation."
             }
           ],
           "model": "Instinct"
@@ -29430,12 +29442,12 @@
         "14": {
           "pairs": [
             {
-              "hebrew": "שָֽׁמְע֥וּ עַמִּ֖ים",
-              "english": "Peoples heard —"
+              "hebrew": "שָֽׁמְע֥וּ עַמִּ֖ים יִרְגָּז֑וּן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Peoples heard — they tremble;"
             },
             {
-              "hebrew": "יִרְגָּז֑וּן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;חִ֣יל אָחַ֔ז יֹשְׁבֵ֖י פְּלָֽשֶׁת׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "they tremble; quaking has seized the inhabitants of Plasheth [(for having killed the sons of Ephraim, who \"pushed\" the redemption prematurely and were killed by the inhabitants of Gath (I Chronicles 7:21)]."
+              "hebrew": "חִ֣יל אָחַ֔ז יֹשְׁבֵ֖י פְּלָֽשֶׁת׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "quaking has seized the inhabitants of Plasheth [(for having killed the sons of Ephraim, who \"pushed\" the redemption prematurely and were killed by the inhabitants of Gath (I Chronicles 7:21)]."
             }
           ],
           "model": "Instinct"
@@ -29443,16 +29455,16 @@
         "15": {
           "pairs": [
             {
-              "hebrew": "אָ֤ז נִבְהֲלוּ֙ אַלּוּפֵ֣י",
-              "english": "Then the chiefs of"
+              "hebrew": "אָ֤ז נִבְהֲלוּ֙ אַלּוּפֵ֣י אֱד֔וֹם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Then the chiefs of Edom were confounded;"
             },
             {
-              "hebrew": "אֱד֔וֹם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֵילֵ֣י מוֹאָ֔ב יֹֽאחֲזֵ֖מוֹ",
-              "english": "Edom were confounded; the mighty ones of Moav were seized"
+              "hebrew": "אֵילֵ֣י מוֹאָ֔ב יֹֽאחֲזֵ֖מוֹ רָ֑עַד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "the mighty ones of Moav were seized with trembling. [Even though they were not the \"target,\" they were mortified by Israel's ascendancy];"
             },
             {
-              "hebrew": "רָ֑עַד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נָמֹ֕גוּ כֹּ֖ל יֹשְׁבֵ֥י כְנָֽעַן׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "with trembling. [Even though they were not the \"target,\" they were mortified by Israel's ascendancy]; all the inhabitants of Canaan melted [in fear of destruction and conquest]."
+              "hebrew": "נָמֹ֕גוּ כֹּ֖ל יֹשְׁבֵ֥י כְנָֽעַן׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "all the inhabitants of Canaan melted [in fear of destruction and conquest]."
             }
           ],
           "model": "Instinct"
@@ -29460,16 +29472,16 @@
         "16": {
           "pairs": [
             {
-              "hebrew": "תִּפֹּ֨ל עֲלֵיהֶ֤ם אֵימָ֙תָה֙",
-              "english": "There fell upon them dread [(upon the distant — see Joshua 2:9-10)]"
+              "hebrew": "תִּפֹּ֨ל עֲלֵיהֶ֤ם אֵימָ֙תָה֙ וָפַ֔חַד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "There fell upon them dread [(upon the distant — see Joshua 2:9-10)] and terror [(upon the near)];"
             },
             {
-              "hebrew": "וָפַ֔חַד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בִּגְדֹ֥ל זְרוֹעֲךָ֖ יִדְּמ֣וּ",
-              "english": "and terror [(upon the near)]; by the greatness of Your arm they will be (struck) still"
+              "hebrew": "בִּגְדֹ֥ל זְרוֹעֲךָ֖ יִדְּמ֣וּ כָּאָ֑בֶן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "by the greatness of Your arm they will be (struck) still as stone."
             },
             {
-              "hebrew": "כָּאָ֑בֶן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עַד־יַעֲבֹ֤ר עַמְּךָ֙ יְהֹוָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עַֽד־יַעֲבֹ֖ר עַם־ז֥וּ קָנִֽיתָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "as stone. Until Your people, O L-rd, pass over [the Arnon]; until there pass over [the Jordan] this people, O L-rd, whom You have acquired [endearingly] (to Yourself)."
+              "hebrew": "עַד־יַעֲבֹ֤ר עַמְּךָ֙ יְהֹוָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עַֽד־יַעֲבֹ֖ר עַם־ז֥וּ קָנִֽיתָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "Until Your people, O L-rd, pass over [the Arnon]; until there pass over [the Jordan] this people, O L-rd, whom You have acquired [endearingly] (to Yourself)."
             }
           ],
           "model": "Instinct"
@@ -29477,16 +29489,16 @@
         "17": {
           "pairs": [
             {
-              "hebrew": "תְּבִאֵ֗מוֹ וְתִטָּעֵ֙מוֹ֙",
-              "english": "You will bring them and You will plant them [(\"them\" and not \"us\" — Moses prophesying in effect that he himself would not enter the land)]"
+              "hebrew": "תְּבִאֵ֗מוֹ וְתִטָּעֵ֙מוֹ֙ בְּהַ֣ר נַחֲלָֽתְךָ֔&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "You will bring them and You will plant them [(\"them\" and not \"us\" — Moses prophesying in effect that he himself would not enter the land)] in the mountain of Your inheritance,"
             },
             {
-              "hebrew": "בְּהַ֣ר נַחֲלָֽתְךָ֔&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מָכ֧וֹן לְשִׁבְתְּךָ֛ פָּעַ֖לְתָּ",
-              "english": "in the mountain of Your inheritance, aligned with Your habitation [the Throne of Glory], which You have made,"
+              "hebrew": "מָכ֧וֹן לְשִׁבְתְּךָ֛ פָּעַ֖לְתָּ יְהֹוָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "aligned with Your habitation [the Throne of Glory], which You have made, O L-rd —"
             },
             {
-              "hebrew": "יְהֹוָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מִקְּדָ֕שׁ אֲדֹנָ֖י כּוֹנְנ֥וּ יָדֶֽיךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-              "english": "O L-rd — the sanctuary, O L-rd, which Your [two] hands have established [(the sanctuary being more beloved of the L-rd than the world, which He created with one hand (Psalms 48:13). And when will it be rebuilt with two hands? At that time when… (18)]"
+              "hebrew": "מִקְּדָ֕שׁ אֲדֹנָ֖י כּוֹנְנ֥וּ יָדֶֽיךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "the sanctuary, O L-rd, which Your [two] hands have established [(the sanctuary being more beloved of the L-rd than the world, which He created with one hand (Psalms 48:13). And when will it be rebuilt with two hands? At that time when… (18)]"
             }
           ],
           "model": "Instinct"
@@ -29507,12 +29519,16 @@
         "19": {
           "pairs": [
             {
-              "hebrew": "כִּ֣י בָא֩ ס֨וּס פַּרְעֹ֜ה בְּרִכְבּ֤וֹ וּבְפָרָשָׁיו֙",
-              "english": "When the horse of Pharaoh came with its chariot and its riders"
+              "hebrew": "כִּ֣י בָא֩ ס֨וּס פַּרְעֹ֜ה בְּרִכְבּ֤וֹ וּבְפָרָשָׁיו֙ בַּיָּ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "When the horse of Pharaoh came with its chariot and its riders into the sea,"
             },
             {
-              "hebrew": "בַּיָּ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיָּ֧שֶׁב יְהֹוָ֛ה עֲלֵהֶ֖ם אֶת־מֵ֣י הַיָּ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֥וֹךְ הַיָּֽם׃&nbsp;{פ}",
-              "english": "into the sea, and the L-rd turned back upon them the waters of the sea, and the children of Israel walked on the dry land in the midst of the sea —"
+              "hebrew": "וַיָּ֧שֶׁב יְהֹוָ֛ה עֲלֵהֶ֖ם אֶת־מֵ֣י הַיָּ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+              "english": "and the L-rd turned back upon them the waters of the sea,"
+            },
+            {
+              "hebrew": "וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֥וֹךְ הַיָּֽם׃&nbsp;{פ}",
+              "english": "and the children of Israel walked on the dry land in the midst of the sea —"
             }
           ],
           "model": "Instinct"

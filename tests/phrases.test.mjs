@@ -73,3 +73,15 @@ test('poetic HTML spacing can be a boundary without adding a source character',(
  assert.deepEqual(validatePairs(source,{verse:source.verse,pairs}),{verse:source.verse,pairs});
  assert.throws(()=>validatePairs(source,{verse:source.verse,pairs:[{...pairs[0],hebrew:'האזינו השמים ואדברה'},pairs[1]]}));
 });
+
+test('entity followed by an existing source space retains both',()=>{
+ const source={verse:'1:1',hebrew:'אב&nbsp; גד',english:'one two'};
+ const pairs=[{hebrew:'אב&nbsp;',english:'one'},{hebrew:'גד',english:'two'}];
+ assert.deepEqual(validatePairs(source,{verse:'1:1',pairs}),{verse:'1:1',pairs});
+});
+test('canonical equivalence with different code-unit lengths saves source bytes',()=>{
+ const source={verse:'1:1',hebrew:'אָ ב',english:'one two'};
+ const pairs=[{hebrew:'אָ',english:'one'},{hebrew:'ב',english:'two'}];
+ assert.deepEqual(validatePairs(source,{verse:'1:1',pairs}),{verse:'1:1',pairs});
+ assert.throws(()=>validatePairs({...source,hebrew:'אב גד'},{verse:'1:1',pairs:[{hebrew:'א',english:'one'},{hebrew:'ב גד',english:'two'}]}));
+});

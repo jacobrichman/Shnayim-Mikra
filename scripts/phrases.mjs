@@ -25,25 +25,29 @@ export function validatePairs(source, output) {
   if (!output || output.verse !== source.verse || !Array.isArray(output.pairs) || output.pairs.length < 2) {
     throw new Error('Expected multiple phrase pairs for ' + source.verse);
   }
+  const pairs = output.pairs.map(() => ({}));
   for (const language of ['hebrew', 'english']) {
     if (output.pairs.some(pair => typeof pair[language] !== 'string' || !normalize(pair[language]))) {
       throw new Error('Empty or invalid ' + language + ' phrase: ' + source.verse);
     }
-    const joined = normalize(joinSourcePhrases(output.pairs.map(pair => pair[language])));
-    if (joined.normalize('NFC') !== source[language].normalize('NFC')) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
-  }
-  // Canonically equivalent Unicode may encode the same Hebrew marks in a
-  // different order. Always reconstruct accepted phrases from the exact source,
-  // never store the model's spelling or combining-mark order.
-  const pairs = output.pairs.map(() => ({}));
-  for (const language of ['hebrew', 'english']) {
+    // Consume each phrase from the exact source. A boundary may consume its
+    // existing ASCII space or follow a retained HTML spacing entity directly.
+    // Canonical-equivalent marks are accepted but source bytes are stored.
     let offset = 0;
     output.pairs.forEach((pair, index) => {
       if (index && source[language][offset] === ' ') offset++;
-      const count = normalize(pair[language]).length;
-      pairs[index][language] = source[language].slice(offset, offset + count);
-      offset += count;
+      const wanted = normalize(pair[language]).normalize('NFC');
+      const tail = source[language].slice(offset);
+      if (!tail.normalize('NFC').startsWith(wanted)) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
+      let end = Math.min(tail.length, wanted.length);
+      while (end > 0 && tail.slice(0,end).normalize('NFC').length > wanted.length) end--;
+      while (end < tail.length && tail.slice(0,end).normalize('NFC').length < wanted.length) end++;
+      if (tail.slice(0,end).normalize('NFC') !== wanted) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
+      pairs[index][language] = tail.slice(0,end);
+      offset += end;
+      if (index < output.pairs.length - 1 && source[language][offset] !== ' ' && !/(?:&nbsp;|&thinsp;|&#160;|&#x[aA]0;)$/u.test(pairs[index][language])) throw new Error('Boundary inside a source word: ' + source.verse);
     });
+    if (offset !== source[language].length) throw new Error('Text changed or reordered: ' + source.verse + ' ' + language);
   }
   return { verse: source.verse, pairs };
 }
