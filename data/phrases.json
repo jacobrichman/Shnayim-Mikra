@@ -12087,9 +12087,2080 @@
           ],
           "model": "gemini-3.5-flash-lite",
           "repairedBy": "gemini-3.5-flash-lite"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּצֵ֥א יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע",
+              "english": "And Jacob went out of Beersheva"
+            },
+            {
+              "hebrew": "וַיֵּ֖לֶךְ חָרָֽנָה׃",
+              "english": "and he went [to go] to Charan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְגַּ֨ע בַּמָּק֜וֹם וַיָּ֤לֶן שָׁם֙ כִּי־בָ֣א הַשֶּׁ֔מֶשׁ",
+              "english": "And he came to the place [Mount Moriah] and he spent the night there, for the sun had set [of a sudden, G d causing it to set so that he should sleep there]."
+            },
+            {
+              "hebrew": "וַיִּקַּח֙ מֵאַבְנֵ֣י הַמָּק֔וֹם וַיָּ֖שֶׂם מְרַֽאֲשֹׁתָ֑יו",
+              "english": "And he took of the stones of the place and set them around his head [to guard against animals],"
+            },
+            {
+              "hebrew": "וַיִּשְׁכַּ֖ב בַּמָּק֥וֹם הַהֽוּא׃",
+              "english": "and he slept in that place."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה",
+              "english": "And he dreamed, and, behold, a ladder set in the earth, and its top reaching the heavens,"
+            },
+            {
+              "hebrew": "וְהִנֵּה֙ מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ׃",
+              "english": "and, behold, angels of G d ascending [to heaven] and [others] descending [from heaven to earth] upon it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וְהִנֵּ֨ה יְהֹוָ֜ה נִצָּ֣ב עָלָיו֮ וַיֹּאמַר֒",
+              "english": "And, behold, the L rd was standing over him [to guard him]. And He said:"
+            },
+            {
+              "hebrew": "אֲנִ֣י יְהֹוָ֗ה אֱלֹהֵי֙ אַבְרָהָ֣ם אָבִ֔יךָ וֵאלֹהֵ֖י יִצְחָ֑ק",
+              "english": "I am the L rd, the G d of Abraham your father, and the G d of Isaac."
+            },
+            {
+              "hebrew": "הָאָ֗רֶץ אֲשֶׁ֤ר אַתָּה֙ שֹׁכֵ֣ב עָלֶ֔יהָ לְךָ֥ אֶתְּנֶ֖נָּה וּלְזַרְעֶֽךָ׃",
+              "english": "The land on which you lie, to you shall I give it, and to your seed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֤ה זַרְעֲךָ֙ כַּעֲפַ֣ר הָאָ֔רֶץ",
+              "english": "And your seed will be as dust of the earth,"
+            },
+            {
+              "hebrew": "וּפָרַצְתָּ֛ יָ֥מָּה וָקֵ֖דְמָה וְצָפֹ֣נָה וָנֶ֑גְבָּה",
+              "english": "and you will be strong, west and east and north and south."
+            },
+            {
+              "hebrew": "וְנִבְרְכ֥וּ בְךָ֛ כׇּל־מִשְׁפְּחֹ֥ת הָאֲדָמָ֖ה וּבְזַרְעֶֽךָ׃",
+              "english": "And all the families of the earth will bless themselves in you and in your seed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וְהִנֵּ֨ה אָנֹכִ֜י עִמָּ֗ךְ וּשְׁמַרְתִּ֙יךָ֙ בְּכֹ֣ל אֲשֶׁר־תֵּלֵ֔ךְ",
+              "english": "And, behold, I am with you, [and you need not fear Esau and Lavan], and I shall keep you, wherever you go,"
+            },
+            {
+              "hebrew": "וַהֲשִׁ֣בֹתִ֔יךָ אֶל־הָאֲדָמָ֖ה הַזֹּ֑את",
+              "english": "and I shall return you to this land;"
+            },
+            {
+              "hebrew": "כִּ֚י לֹ֣א אֶֽעֱזׇבְךָ֔ עַ֚ד אֲשֶׁ֣ר אִם־עָשִׂ֔יתִי אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתִּי לָֽךְ׃",
+              "english": "for I shall not forsake you until I have done what I have spoken [to Abraham] concerning you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּיקַ֣ץ יַעֲקֹב֮ מִשְּׁנָתוֹ֒",
+              "english": "And Jacob awoke from his sleep"
+            },
+            {
+              "hebrew": "וַיֹּ֕אמֶר אָכֵן֙ יֵ֣שׁ יְהֹוָ֔ה בַּמָּק֖וֹם הַזֶּ֑ה",
+              "english": "and he said: In truth, the L rd is in this place,"
+            },
+            {
+              "hebrew": "וְאָנֹכִ֖י לֹ֥א יָדָֽעְתִּי׃",
+              "english": "and I did not know it. [Had I known it, I would not have slept here.]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּירָא֙ וַיֹּאמַ֔ר מַה־נּוֹרָ֖א הַמָּק֣וֹם הַזֶּ֑ה",
+              "english": "And he feared and he said: How awesome is this place!"
+            },
+            {
+              "hebrew": "אֵ֣ין זֶ֗ה כִּ֚י אִם־בֵּ֣ית אֱלֹהִ֔ים",
+              "english": "This is none other than the house of G d,"
+            },
+            {
+              "hebrew": "וְזֶ֖ה שַׁ֥עַר הַשָּׁמָֽיִם׃",
+              "english": "and this is the gate of heaven [a place of prayer, whence prayers ascend to heaven]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּשְׁכֵּ֨ם יַעֲקֹ֜ב בַּבֹּ֗קֶר וַיִּקַּ֤ח אֶת־הָאֶ֙בֶן֙ אֲשֶׁר־שָׂ֣ם מְרַֽאֲשֹׁתָ֔יו",
+              "english": "And Jacob arose early in the morning and he took the stone that he had placed at his head"
+            },
+            {
+              "hebrew": "וַיָּ֥שֶׂם אֹתָ֖הּ מַצֵּבָ֑ה",
+              "english": "and he set it up as a monument"
+            },
+            {
+              "hebrew": "וַיִּצֹ֥ק שֶׁ֖מֶן עַל־רֹאשָֽׁהּ׃",
+              "english": "and he poured oil on its top."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָ֛א אֶת־שֵֽׁם־הַמָּק֥וֹם הַה֖וּא בֵּֽית־אֵ֑ל",
+              "english": "And he called the name of that place Beth-El (\"the house of G d\"),"
+            },
+            {
+              "hebrew": "וְאוּלָ֛ם ל֥וּז שֵׁם־הָעִ֖יר לָרִאשֹׁנָֽה׃",
+              "english": "whereas Luz had been the name of the city in the beginning."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּדַּ֥ר יַעֲקֹ֖ב נֶ֣דֶר לֵאמֹ֑ר אִם־יִהְיֶ֨ה אֱלֹהִ֜ים עִמָּדִ֗י",
+              "english": "And Jacob vowed a vow, saying: If G d will be with me, [as He promised (28:15)],"
+            },
+            {
+              "hebrew": "וּשְׁמָרַ֙נִי֙ בַּדֶּ֤רֶךְ הַזֶּה֙ אֲשֶׁ֣ר אָנֹכִ֣י הוֹלֵ֔ךְ",
+              "english": "and He will keep me on this way on which I go, [as He said (Ibid.)],"
+            },
+            {
+              "hebrew": "וְנָֽתַן־לִ֥י לֶ֛חֶם לֶאֱכֹ֖ל וּבֶ֥גֶד לִלְבֹּֽשׁ׃",
+              "english": "and He will give me bread to eat and a garment to wear, [as He said (Ibid.): \"For I shall not forsake you\"],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְשַׁבְתִּ֥י בְשָׁל֖וֹם אֶל־בֵּ֣ית אָבִ֑י",
+              "english": "and I return in peace [free of sin] to my father's house, [as He said (Ibid.)],"
+            },
+            {
+              "hebrew": "וְהָיָ֧ה יְהֹוָ֛ה לִ֖י לֵאלֹהִֽים׃",
+              "english": "and the L rd will be a G d for me, [conferring His name upon me, there being no blemish in my seed, as He said (Ibid.): \"what I have spoken concerning you,\" viz. (17:17): \"to be a G d to you and to your seed after you\"],"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וְהָאֶ֣בֶן הַזֹּ֗את אֲשֶׁר־שַׂ֙מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים",
+              "english": "then this stone which I have set up as a pillar will be the house of G d [i.e., I shall worship the L rd upon it (as he did, viz. 35:1 and 14)],"
+            },
+            {
+              "hebrew": "וְכֹל֙ אֲשֶׁ֣ר תִּתֶּן־לִ֔י עַשֵּׂ֖ר אֲעַשְּׂרֶ֥נּוּ לָֽךְ׃",
+              "english": "and all that You give me will I tenth to You."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "29": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשָּׂ֥א יַעֲקֹ֖ב רַגְלָ֑יו",
+              "english": "And Jacob lifted his feet [on the \"strength\" of the glad tidings],"
+            },
+            {
+              "hebrew": "וַיֵּ֖לֶךְ אַ֥רְצָה בְנֵי־קֶֽדֶם׃",
+              "english": "and he went to the land of the children of the east."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֞רְא וְהִנֵּ֧ה בְאֵ֣ר בַּשָּׂדֶ֗ה וְהִנֵּה־שָׁ֞ם שְׁלֹשָׁ֤ה עֶדְרֵי־צֹאן֙ רֹבְצִ֣ים עָלֶ֔יהָ",
+              "english": "And he saw, and, behold, a well in the field, and, behold, three flocks of sheep resting near it;"
+            },
+            {
+              "hebrew": "כִּ֚י מִן־הַבְּאֵ֣ר הַהִ֔וא יַשְׁק֖וּ הָעֲדָרִ֑ים",
+              "english": "for from that well they [the shepherds] would water the flocks,"
+            },
+            {
+              "hebrew": "וְהָאֶ֥בֶן גְּדֹלָ֖ה עַל־פִּ֥י הַבְּאֵֽר׃",
+              "english": "and a great stone on the mouth of the well."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וְנֶאֶסְפוּ־שָׁ֣מָּה כׇל־הָעֲדָרִ֗ים וְגָלְל֤וּ אֶת־הָאֶ֙בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר",
+              "english": "And all the flocks would gather there and they would roll the stone from the mouth of the well"
+            },
+            {
+              "hebrew": "וְהִשְׁק֖וּ אֶת־הַצֹּ֑אן",
+              "english": "and water the sheep,"
+            },
+            {
+              "hebrew": "וְהֵשִׁ֧יבוּ אֶת־הָאֶ֛בֶן עַל־פִּ֥י הַבְּאֵ֖ר לִמְקֹמָֽהּ׃",
+              "english": "and they would return the stone to its place on the mouth of the well."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר לָהֶם֙ יַעֲקֹ֔ב אַחַ֖י מֵאַ֣יִן אַתֶּ֑ם",
+              "english": "And Jacob said to them: My brothers, whence do you come?"
+            },
+            {
+              "hebrew": "וַיֹּ֣אמְר֔וּ מֵחָרָ֖ן אֲנָֽחְנוּ׃",
+              "english": "And they said: We are from Charan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר לָהֶ֔ם הַיְדַעְתֶּ֖ם אֶת־לָבָ֣ן בֶּן־נָח֑וֹר",
+              "english": "And he said to them: Do you know Lavan the son of Nachor?"
+            },
+            {
+              "hebrew": "וַיֹּאמְר֖וּ יָדָֽעְנוּ׃",
+              "english": "And they said: We know."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר לָהֶ֖ם הֲשָׁל֣וֹם ל֑וֹ",
+              "english": "And he said to them: Is he well?"
+            },
+            {
+              "hebrew": "וַיֹּאמְר֣וּ שָׁל֔וֹם",
+              "english": "And they said: Well,"
+            },
+            {
+              "hebrew": "וְהִנֵּה֙ רָחֵ֣ל בִּתּ֔וֹ בָּאָ֖ה עִם־הַצֹּֽאן׃",
+              "english": "and, behold, Rachel his daughter is coming with the sheep."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֗אמֶר הֵ֥ן עוֹד֙ הַיּ֣וֹם גָּד֔וֹל",
+              "english": "And he said: The day is yet long;"
+            },
+            {
+              "hebrew": "לֹא־עֵ֖ת הֵאָסֵ֣ף הַמִּקְנֶ֑ה",
+              "english": "it is not time to gather in the kine;"
+            },
+            {
+              "hebrew": "הַשְׁק֥וּ הַצֹּ֖אן וּלְכ֥וּ רְעֽוּ׃",
+              "english": "water the sheep and go and graze."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּאמְרוּ֮ לֹ֣א נוּכַל֒ עַ֣ד אֲשֶׁ֤ר יֵאָֽסְפוּ֙ כׇּל־הָ֣עֲדָרִ֔ים",
+              "english": "And they said: We will not be able to do so until all the flocks are gathered"
+            },
+            {
+              "hebrew": "וְגָֽלְלוּ֙ אֶת־הָאֶ֔בֶן מֵעַ֖ל פִּ֣י הַבְּאֵ֑ר",
+              "english": "and they [the shepherds] roll the stone from the mouth of the well"
+            },
+            {
+              "hebrew": "וְהִשְׁקִ֖ינוּ הַצֹּֽאן׃",
+              "english": "and we water the sheep."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "עוֹדֶ֖נּוּ מְדַבֵּ֣ר עִמָּ֑ם",
+              "english": "He was yet speaking with them"
+            },
+            {
+              "hebrew": "וְרָחֵ֣ל&thinsp;׀ בָּ֗אָה עִם־הַצֹּאן֙ אֲשֶׁ֣ר לְאָבִ֔יהָ כִּ֥י רֹעָ֖ה הִֽוא׃",
+              "english": "when Rachel came with her father's sheep (for she was a shepherdess)."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֡י כַּאֲשֶׁר֩ רָאָ֨ה יַעֲקֹ֜ב אֶת־רָחֵ֗ל בַּת־לָבָן֙ אֲחִ֣י אִמּ֔וֹ וְאֶת־צֹ֥אן לָבָ֖ן אֲחִ֣י אִמּ֑וֹ",
+              "english": "And it was, when Jacob saw Rachel, the daughter of Lavan, his mother's brother, and the sheep of Lavan, his mother's brother,"
+            },
+            {
+              "hebrew": "וַיִּגַּ֣שׁ יַעֲקֹ֗ב וַיָּ֤גֶל אֶת־הָאֶ֙בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר",
+              "english": "that Jacob came forward and flipped the stone from the mouth of the well"
+            },
+            {
+              "hebrew": "וַיַּ֕שְׁקְ אֶת־צֹ֥אן לָבָ֖ן אֲחִ֥י אִמּֽוֹ׃",
+              "english": "and watered the sheep of Lavan, his mother's brother."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשַּׁ֥ק יַעֲקֹ֖ב לְרָחֵ֑ל",
+              "english": "And Jacob kissed Rachel"
+            },
+            {
+              "hebrew": "וַיִּשָּׂ֥א אֶת־קֹל֖וֹ וַיֵּֽבְךְּ׃",
+              "english": "and he lifted up his voice and cried, [seeing prophetically that she would not be buried with him]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּגֵּ֨ד יַעֲקֹ֜ב לְרָחֵ֗ל כִּ֣י אֲחִ֤י אָבִ֙יהָ֙ ה֔וּא וְכִ֥י בֶן־רִבְקָ֖ה ה֑וּא",
+              "english": "And Jacob told Rachel that he was her father's kin and Rivkah's son,"
+            },
+            {
+              "hebrew": "וַתָּ֖רׇץ וַתַּגֵּ֥ד לְאָבִֽיהָ׃",
+              "english": "and she ran and told it to her father, [her mother having died]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִי֩ כִשְׁמֹ֨עַ לָבָ֜ן אֶת־שֵׁ֣מַע&thinsp;׀ יַעֲקֹ֣ב בֶּן־אֲחֹת֗וֹ",
+              "english": "And it was, when Lavan heard the talk of Jacob, his sister's son,"
+            },
+            {
+              "hebrew": "וַיָּ֤רׇץ לִקְרָאתוֹ֙ וַיְחַבֶּק־לוֹ֙ וַיְנַשֶּׁק־ל֔וֹ וַיְבִיאֵ֖הוּ אֶל־בֵּית֑וֹ",
+              "english": "that he ran towards him, and embraced him, and kissed him, and brought him to his house;"
+            },
+            {
+              "hebrew": "וַיְסַפֵּ֣ר לְלָבָ֔ן אֵ֥ת כׇּל־הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+              "english": "and he told Lavan all of these things."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר לוֹ֙ לָבָ֔ן אַ֛ךְ עַצְמִ֥י וּבְשָׂרִ֖י אָ֑תָּה",
+              "english": "And Lavan said to him: But, [though you come empty-handed], you are my bone and flesh."
+            },
+            {
+              "hebrew": "וַיֵּ֥שֶׁב עִמּ֖וֹ חֹ֥דֶשׁ יָמִֽים׃",
+              "english": "And he stayed with him a month of days."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר לָבָן֙ לְיַעֲקֹ֔ב הֲכִי־אָחִ֣י אַ֔תָּה וַעֲבַדְתַּ֖נִי חִנָּ֑ם",
+              "english": "And Lavan said to Jacob: Is it because you are my brother that you would serve me for nought?"
+            },
+            {
+              "hebrew": "הַגִּ֥ידָה לִּ֖י מַה־מַּשְׂכֻּרְתֶּֽךָ׃",
+              "english": "Tell me what your wage is."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וּלְלָבָ֖ן שְׁתֵּ֣י בָנ֑וֹת",
+              "english": "And Lavan had two daughters:"
+            },
+            {
+              "hebrew": "שֵׁ֤ם הַגְּדֹלָה֙ לֵאָ֔ה וְשֵׁ֥ם הַקְּטַנָּ֖ה רָחֵֽל׃",
+              "english": "the name of the elder, Leah, and the name of the younger, Rachel."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וְעֵינֵ֥י לֵאָ֖ה רַכּ֑וֹת",
+              "english": "And the eyes of Leah were soft,"
+            },
+            {
+              "hebrew": "וְרָחֵל֙ הָֽיְתָ֔ה יְפַת־תֹּ֖אַר וִיפַ֥ת מַרְאֶֽה׃",
+              "english": "and Rachel was of beautiful [facial] form and of beautiful [facial] appearance."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּאֱהַ֥ב יַעֲקֹ֖ב אֶת־רָחֵ֑ל",
+              "english": "And Jacob loved Rachel,"
+            },
+            {
+              "hebrew": "וַיֹּ֗אמֶר אֶֽעֱבׇדְךָ֙ שֶׁ֣בַע שָׁנִ֔ים בְּרָחֵ֥ל בִּתְּךָ֖ הַקְּטַנָּֽה׃",
+              "english": "and he said: I shall serve you seven years for Rachel, your younger daughter, [(Jacob making assurance doubly sure — and being deceived nonetheless)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר לָבָ֗ן ט֚וֹב תִּתִּ֣י אֹתָ֣הּ לָ֔ךְ מִתִּתִּ֥י אֹתָ֖הּ לְאִ֣ישׁ אַחֵ֑ר",
+              "english": "And Lavan said: It is better for me to give her to you than to give her to another man;"
+            },
+            {
+              "hebrew": "שְׁבָ֖ה עִמָּדִֽי׃",
+              "english": "stay with me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּעֲבֹ֧ד יַעֲקֹ֛ב בְּרָחֵ֖ל שֶׁ֣בַע שָׁנִ֑ים",
+              "english": "And Jacob served seven years for Rachel,"
+            },
+            {
+              "hebrew": "וַיִּהְי֤וּ בְעֵינָיו֙ כְּיָמִ֣ים אֲחָדִ֔ים בְּאַהֲבָת֖וֹ אֹתָֽהּ׃",
+              "english": "and they were in his eyes like several days in his love for her."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יַעֲקֹ֤ב אֶל־לָבָן֙ הָבָ֣ה אֶת־אִשְׁתִּ֔י כִּ֥י מָלְא֖וּ יָמָ֑י",
+              "english": "And Jacob said to Lavan: Give me my wife, for my days have been completed,"
+            },
+            {
+              "hebrew": "וְאָב֖וֹאָה אֵלֶֽיהָ׃",
+              "english": "and let me come to her [and beget children (the twelve tribes)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּאֱסֹ֥ף לָבָ֛ן אֶת־כׇּל־אַנְשֵׁ֥י הַמָּק֖וֹם",
+              "english": "And Lavan gathered all the men of the place"
+            },
+            {
+              "hebrew": "וַיַּ֥עַשׂ מִשְׁתֶּֽה׃",
+              "english": "and he made a feast."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֣י בָעֶ֔רֶב וַיִּקַּח֙ אֶת־לֵאָ֣ה בִתּ֔וֹ וַיָּבֵ֥א אֹתָ֖הּ אֵלָ֑יו",
+              "english": "And it was in the evening that he took Leah his daughter and brought her to him,"
+            },
+            {
+              "hebrew": "וַיָּבֹ֖א אֵלֶֽיהָ׃",
+              "english": "and he lived with her."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתֵּ֤ן לָבָן֙ לָ֔הּ אֶת־זִלְפָּ֖ה שִׁפְחָת֑וֹ",
+              "english": "And Lavan gave her Zilpah, his handmaid,"
+            },
+            {
+              "hebrew": "לְלֵאָ֥ה בִתּ֖וֹ שִׁפְחָֽה׃",
+              "english": "to Leah his daughter, as a handmaid."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֣י בַבֹּ֔קֶר וְהִנֵּה־הִ֖וא לֵאָ֑ה",
+              "english": "And it was in the morning, and, behold, it is Leah! [(Rachel having given to Leah the \"identity signs\" that Jacob had given her, so that Leah not be shamed)]."
+            },
+            {
+              "hebrew": "וַיֹּ֣אמֶר אֶל־לָבָ֗ן מַה־זֹּאת֙ עָשִׂ֣יתָ לִּ֔י",
+              "english": "And he said to Lavan: What is this that you have done to me?"
+            },
+            {
+              "hebrew": "הֲלֹ֤א בְרָחֵל֙ עָבַ֣דְתִּי עִמָּ֔ךְ וְלָ֖מָּה רִמִּיתָֽנִי׃",
+              "english": "Did I not serve with you for Rachel? Why have you deceived me!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר לָבָ֔ן לֹא־יֵעָשֶׂ֥ה כֵ֖ן בִּמְקוֹמֵ֑נוּ",
+              "english": "And Lavan said: It is not done thus in our place"
+            },
+            {
+              "hebrew": "לָתֵ֥ת הַצְּעִירָ֖ה לִפְנֵ֥י הַבְּכִירָֽה׃",
+              "english": "to give the younger daughter before the elder."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "מַלֵּ֖א שְׁבֻ֣עַ זֹ֑את",
+              "english": "Fulfill the [festal] week of this one (Leah),"
+            },
+            {
+              "hebrew": "וְנִתְּנָ֨ה לְךָ֜ גַּם־אֶת־זֹ֗את",
+              "english": "and we will give you this one, too, [(after the festal week, Jacob's service beginning after the wedding)]"
+            },
+            {
+              "hebrew": "בַּעֲבֹדָה֙ אֲשֶׁ֣ר תַּעֲבֹ֣ד עִמָּדִ֔י ע֖וֹד שֶֽׁבַע־שָׁנִ֥ים אֲחֵרֽוֹת׃",
+              "english": "for the service you will render me yet another seven years."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤עַשׂ יַעֲקֹב֙ כֵּ֔ן וַיְמַלֵּ֖א שְׁבֻ֣עַ זֹ֑את",
+              "english": "And Jacob did thus, and he fulfilled the week of that one,"
+            },
+            {
+              "hebrew": "וַיִּתֶּן־ל֛וֹ אֶת־רָחֵ֥ל בִּתּ֖וֹ ל֥וֹ לְאִשָּֽׁה׃",
+              "english": "and he gave him Rachel his daughter as a wife."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּתֵּ֤ן לָבָן֙ לְרָחֵ֣ל בִּתּ֔וֹ אֶת־בִּלְהָ֖ה שִׁפְחָת֑וֹ",
+              "english": "And Lavan gave to Rachel his daughter, Bilhah his handmaid,"
+            },
+            {
+              "hebrew": "לָ֖הּ לְשִׁפְחָֽה׃",
+              "english": "to her as a handmaid."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹא֙ גַּ֣ם אֶל־רָחֵ֔ל",
+              "english": "And he came also to Rachel,"
+            },
+            {
+              "hebrew": "וַיֶּאֱהַ֥ב גַּֽם־אֶת־רָחֵ֖ל מִלֵּאָ֑ה",
+              "english": "and he loved also Rachel more than Leah,"
+            },
+            {
+              "hebrew": "וַיַּעֲבֹ֣ד עִמּ֔וֹ ע֖וֹד שֶֽׁבַע־שָׁנִ֥ים אֲחֵרֽוֹת׃",
+              "english": "and he served him yet another seven years, [as devotedly as the first]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֤רְא יְהֹוָה֙ כִּֽי־שְׂנוּאָ֣ה לֵאָ֔ה וַיִּפְתַּ֖ח אֶת־רַחְמָ֑הּ",
+              "english": "And the L rd saw that Leah was hated, and He opened her womb;"
+            },
+            {
+              "hebrew": "וְרָחֵ֖ל עֲקָרָֽה׃",
+              "english": "and Rachel was barren."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֤הַר לֵאָה֙ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א שְׁמ֖וֹ רְאוּבֵ֑ן",
+              "english": "And Leah conceived and she bore a son, and she called his name Reuven,"
+            },
+            {
+              "hebrew": "כִּ֣י אָֽמְרָ֗ה כִּֽי־רָאָ֤ה יְהֹוָה֙ בְּעׇנְיִ֔י",
+              "english": "saying: For the L rd has seen (ra'ah Hashem) my affliction;"
+            },
+            {
+              "hebrew": "כִּ֥י עַתָּ֖ה יֶאֱהָבַ֥נִי אִישִֽׁי׃",
+              "english": "for now my husband will love me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֣הַר עוֹד֮ וַתֵּ֣לֶד בֵּן֒",
+              "english": "And she conceived again and she bore a son,"
+            },
+            {
+              "hebrew": "וַתֹּ֗אמֶר כִּֽי־שָׁמַ֤ע יְהֹוָה֙ כִּֽי־שְׂנוּאָ֣ה אָנֹ֔כִי וַיִּתֶּן־לִ֖י גַּם־אֶת־זֶ֑ה",
+              "english": "and she said: For the L rd has heard (shama Hashem) that I am hated, and He has given me this one, too."
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א שְׁמ֖וֹ שִׁמְעֽוֹן׃",
+              "english": "And she called his name Shimon."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֣הַר עוֹד֮ וַתֵּ֣לֶד בֵּן֒",
+              "english": "And she conceived again and she bore a son,"
+            },
+            {
+              "hebrew": "וַתֹּ֗אמֶר עַתָּ֤ה הַפַּ֙עַם֙ יִלָּוֶ֤ה אִישִׁי֙ אֵלַ֔י כִּֽי־יָלַ֥דְתִּי ל֖וֹ שְׁלֹשָׁ֣ה בָנִ֑ים",
+              "english": "and she said: This time my husband will join himself (yilaveh) to me, for I have borne him three sons [my share of the twelve tribes (among his four wives)]."
+            },
+            {
+              "hebrew": "עַל־כֵּ֥ן קָרָֽא־שְׁמ֖וֹ לֵוִֽי׃",
+              "english": "Therefore, he called his name Levi."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֨הַר ע֜וֹד וַתֵּ֣לֶד בֵּ֗ן",
+              "english": "And she conceived again and she bore a son,"
+            },
+            {
+              "hebrew": "וַתֹּ֙אמֶר֙ הַפַּ֙עַם֙ אוֹדֶ֣ה אֶת־יְהֹוָ֔ה",
+              "english": "and she said: This time, [having borne more than my share], I will thank (odeh) the L rd."
+            },
+            {
+              "hebrew": "עַל־כֵּ֛ן קָרְאָ֥ה שְׁמ֖וֹ יְהוּדָ֑ה וַֽתַּעֲמֹ֖ד מִלֶּֽדֶת׃",
+              "english": "Therefore, she called his name Yehudah. And she left off bearing."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "30": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֣רֶא רָחֵ֗ל כִּ֣י לֹ֤א יָֽלְדָה֙ לְיַעֲקֹ֔ב וַתְּקַנֵּ֥א רָחֵ֖ל בַּאֲחֹתָ֑הּ",
+              "english": "And Rachel saw that she had not borne (a child) to Jacob, and Rachel envied her sister, [thinking that if Leah were not more righteous than she, she, too, would not have borne],"
+            },
+            {
+              "hebrew": "וַתֹּ֤אמֶר אֶֽל־יַעֲקֹב֙ הָֽבָה־לִּ֣י בָנִ֔ים וְאִם־אַ֖יִן מֵתָ֥ה אָנֹֽכִי׃",
+              "english": "and she said to Jacob: \"Give me children\" [i.e., pray for me to bear children, as your father did for your mother], \"and if not, I am dead.\""
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽחַר־אַ֥ף יַעֲקֹ֖ב בְּרָחֵ֑ל",
+              "english": "And Jacob's wrath burned against Rachel,"
+            },
+            {
+              "hebrew": "וַיֹּ֗אמֶר הֲתַ֤חַת אֱלֹהִים֙ אָנֹ֔כִי אֲשֶׁר־מָנַ֥ע מִמֵּ֖ךְ פְּרִי־בָֽטֶן׃",
+              "english": "and he said: Am I in the place of G d, who has withheld from you [(but not from me)] the fruit of the womb?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֕אמֶר הִנֵּ֛ה אֲמָתִ֥י בִלְהָ֖ה בֹּ֣א אֵלֶ֑יהָ",
+              "english": "And she said: Here is my handmaid Bilhah. Come to her"
+            },
+            {
+              "hebrew": "וְתֵלֵד֙ עַל־בִּרְכַּ֔י וְאִבָּנֶ֥ה גַם־אָנֹכִ֖י מִמֶּֽנָּה׃",
+              "english": "and let her bear upon my knees, [i.e., I shall raise her child], and I, too, shall build up [i.e., bear a child] by cause of her, [(as Sarah did after she had given her handmaid Hagar to Abraham)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּתֶּן־ל֛וֹ אֶת־בִּלְהָ֥ה שִׁפְחָתָ֖הּ לְאִשָּׁ֑ה",
+              "english": "And she gave him Bilhah her handmaid as a wife,"
+            },
+            {
+              "hebrew": "וַיָּבֹ֥א אֵלֶ֖יהָ יַעֲקֹֽב׃",
+              "english": "and Jacob lived with her."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֣הַר בִּלְהָ֔ה",
+              "english": "And Bilhah conceived"
+            },
+            {
+              "hebrew": "וַתֵּ֥לֶד לְיַעֲקֹ֖ב בֵּֽן׃",
+              "english": "and she bore a son to Jacob."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֤אמֶר רָחֵל֙ דָּנַ֣נִּי אֱלֹהִ֔ים",
+              "english": "And Rachel said: G d judged me (danani) [and made me barren],"
+            },
+            {
+              "hebrew": "וְגַם֙ שָׁמַ֣ע בְּקֹלִ֔י וַיִּתֶּן־לִ֖י בֵּ֑ן",
+              "english": "and He also heard my plaint and gave me a son —"
+            },
+            {
+              "hebrew": "עַל־כֵּ֛ן קָרְאָ֥ה שְׁמ֖וֹ דָּֽן׃",
+              "english": "wherefore she called his name Dan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֣הַר ע֔וֹד",
+              "english": "And she conceived again,"
+            },
+            {
+              "hebrew": "וַתֵּ֕לֶד בִּלְהָ֖ה שִׁפְחַ֣ת רָחֵ֑ל בֵּ֥ן שֵׁנִ֖י לְיַעֲקֹֽב׃",
+              "english": "and Bilhah, Rachel's handmaid, bore a second son to Jacob."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֣אמֶר רָחֵ֗ל נַפְתּוּלֵ֨י אֱלֹהִ֧ים&thinsp;׀&thinsp;נִפְתַּ֛לְתִּי עִם־אֲחֹתִ֖י גַּם־יָכֹ֑לְתִּי",
+              "english": "And Rachel said: [With many] importunities (naftulim) did I importune G d [to be equal] with my sister, and I also prevailed [i.e., He was also entreated of me],"
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א שְׁמ֖וֹ נַפְתָּלִֽי׃",
+              "english": "and she called his name Naftali."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֣רֶא לֵאָ֔ה כִּ֥י עָמְדָ֖ה מִלֶּ֑דֶת",
+              "english": "And Leah saw that she had stopped bearing,"
+            },
+            {
+              "hebrew": "וַתִּקַּח֙ אֶת־זִלְפָּ֣ה שִׁפְחָתָ֔הּ וַתִּתֵּ֥ן אֹתָ֛הּ לְיַעֲקֹ֖ב לְאִשָּֽׁה׃",
+              "english": "and she took her handmaid Zilpah and gave her to Jacob as a wife."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֗לֶד זִלְפָּ֛ה שִׁפְחַ֥ת לֵאָ֖ה",
+              "english": "And Zilpah, Leah's handmaid,"
+            },
+            {
+              "hebrew": "לְיַעֲקֹ֥ב בֵּֽן׃",
+              "english": "bore a son to Jacob."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֥אמֶר לֵאָ֖ה (בגד) [בָּ֣א גָ֑ד]",
+              "english": "And Leah said: \"Bagad\" (\"Good fortune comes\"),"
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ גָּֽד׃",
+              "english": "and she called his name Gad."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַתֵּ֗לֶד זִלְפָּה֙ שִׁפְחַ֣ת לֵאָ֔ה",
+              "english": "And Zilpah, Leah's handmaid,"
+            },
+            {
+              "hebrew": "בֵּ֥ן שֵׁנִ֖י לְיַעֲקֹֽב׃",
+              "english": "bore a second son to Jacob."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֣אמֶר לֵאָ֔ה בְּאׇשְׁרִ֕י כִּ֥י אִשְּׁר֖וּנִי בָּנ֑וֹת",
+              "english": "And Leah said: For my praise (be'ashri); for daughters will praise me."
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ אָשֵֽׁר׃",
+              "english": "And she called his name Asher."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַיֵּ֨לֶךְ רְאוּבֵ֜ן בִּימֵ֣י קְצִיר־חִטִּ֗ים וַיִּמְצָ֤א דֽוּדָאִים֙ בַּשָּׂדֶ֔ה",
+              "english": "And Reuven went in the days of the wheat harvest, and he found violets in the field [(He took what was ownerless and not what had been harvested)],"
+            },
+            {
+              "hebrew": "וַיָּבֵ֣א אֹתָ֔ם אֶל־לֵאָ֖ה אִמּ֑וֹ",
+              "english": "and he brought them to Leah his mother."
+            },
+            {
+              "hebrew": "וַתֹּ֤אמֶר רָחֵל֙ אֶל־לֵאָ֔ה תְּנִי־נָ֣א לִ֔י מִדּוּדָאֵ֖י בְּנֵֽךְ׃",
+              "english": "And Rachel said to Leah: Give me of the violets of your son."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֣אמֶר לָ֗הּ הַמְעַט֙ קַחְתֵּ֣ךְ אֶת־אִישִׁ֔י וְלָקַ֕חַת גַּ֥ם אֶת־דּוּדָאֵ֖י בְּנִ֑י",
+              "english": "And she said to her: Is your taking my husband too little that you would also take the violets of my son?"
+            },
+            {
+              "hebrew": "וַתֹּ֣אמֶר רָחֵ֗ל לָכֵן֙ יִשְׁכַּ֤ב עִמָּךְ֙ הַלַּ֔יְלָה תַּ֖חַת דּוּדָאֵ֥י בְנֵֽךְ׃",
+              "english": "And Rachel said: Therefore, he will lie with you this night [(which was \"Rachel's night\")] in exchange for the violets of your son."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֨א יַעֲקֹ֣ב מִן־הַשָּׂדֶה֮ בָּעֶ֒רֶב֒ וַתֵּצֵ֨א לֵאָ֜ה לִקְרָאת֗וֹ",
+              "english": "And Jacob came from the field in the evening, and Leah went out towards him,"
+            },
+            {
+              "hebrew": "וַתֹּ֙אמֶר֙ אֵלַ֣י תָּב֔וֹא כִּ֚י שָׂכֹ֣ר שְׂכַרְתִּ֔יךָ בְּדוּדָאֵ֖י בְּנִ֑י",
+              "english": "and she said: To me shall you come, for I hired you with the violets of my son;"
+            },
+            {
+              "hebrew": "וַיִּשְׁכַּ֥ב עִמָּ֖הּ בַּלַּ֥יְלָה הֽוּא׃",
+              "english": "and he lay with her in that night, He [i.e., The L rd, \"aided,\" Issachar issuing from that union]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁמַ֥ע אֱלֹהִ֖ים אֶל־לֵאָ֑ה",
+              "english": "And G d hearkened unto Leah, [who aspired to multiply tribes],"
+            },
+            {
+              "hebrew": "וַתַּ֛הַר וַתֵּ֥לֶד לְיַעֲקֹ֖ב בֵּ֥ן חֲמִישִֽׁי׃",
+              "english": "and she conceived and she bore a fifth son to Jacob."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֣אמֶר לֵאָ֗ה נָתַ֤ן אֱלֹהִים֙ שְׂכָרִ֔י אֲשֶׁר־נָתַ֥תִּי שִׁפְחָתִ֖י לְאִישִׁ֑י",
+              "english": "And Leah said: G d has given my reward (s'chari) for having given my handmaid to my husband,"
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א שְׁמ֖וֹ יִשָּׂשכָֽר׃",
+              "english": "and she called his name Issachar."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֤הַר עוֹד֙ לֵאָ֔ה",
+              "english": "And Leah conceived again,"
+            },
+            {
+              "hebrew": "וַתֵּ֥לֶד בֵּן־שִׁשִּׁ֖י לְיַעֲקֹֽב׃",
+              "english": "and she bore a sixth son to Jacob."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֣אמֶר לֵאָ֗ה זְבָדַ֨נִי אֱלֹהִ֥ים&thinsp;׀&thinsp;אֹתִי֮ זֵ֣בֶד טוֹב֒",
+              "english": "And Leah said: The L rd has given me a goodly portion."
+            },
+            {
+              "hebrew": "הַפַּ֙עַם֙ יִזְבְּלֵ֣נִי אִישִׁ֔י כִּֽי־יָלַ֥דְתִּי ל֖וֹ שִׁשָּׁ֣ה בָנִ֑ים",
+              "english": "Now my husband will consort with me (yizbeleni), for I have borne him six sons [(over and against all of his wives)]."
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ זְבֻלֽוּן׃",
+              "english": "And she called his name Zevulun."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וְאַחַ֖ר יָ֣לְדָה בַּ֑ת",
+              "english": "And then she bore a daughter,"
+            },
+            {
+              "hebrew": "וַתִּקְרָ֥א אֶת־שְׁמָ֖הּ דִּינָֽה׃",
+              "english": "and she called her name Dinah."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת־רָחֵ֑ל",
+              "english": "And G d remembered (it) unto Rachel [that she had given her \"signs\" to Leah and that she was distraught lest Esau take her],"
+            },
+            {
+              "hebrew": "וַיִּשְׁמַ֤ע אֵלֶ֙יהָ֙ אֱלֹהִ֔ים וַיִּפְתַּ֖ח אֶת־רַחְמָֽהּ׃",
+              "english": "and G d hearkened unto her and He opened her womb."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן",
+              "english": "And she conceived and she bore a son,"
+            },
+            {
+              "hebrew": "וַתֹּ֕אמֶר אָסַ֥ף אֱלֹהִ֖ים אֶת־חֶרְפָּתִֽי׃",
+              "english": "and she said: G d has gathered in (asaf) my shame."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַתִּקְרָ֧א אֶת־שְׁמ֛וֹ יוֹסֵ֖ף לֵאמֹ֑ר",
+              "english": "And she called his name Yosef, saying:"
+            },
+            {
+              "hebrew": "יֹסֵ֧ף יְהֹוָ֛ה לִ֖י בֵּ֥ן אַחֵֽר׃",
+              "english": "May the L rd add (\"yosef\") unto me another son [(Rachel knowing prophetically that there would be only twelve tribes)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֕י כַּאֲשֶׁ֛ר יָלְדָ֥ה רָחֵ֖ל אֶת־יוֹסֵ֑ף",
+              "english": "And it was, when Rachel bore Joseph [the \"adversary\" of Esau (see Ovadiah 1:18)]"
+            },
+            {
+              "hebrew": "וַיֹּ֤אמֶר יַעֲקֹב֙ אֶל־לָבָ֔ן שַׁלְּחֵ֙נִי֙ וְאֵ֣לְכָ֔ה אֶל־מְקוֹמִ֖י וּלְאַרְצִֽי׃",
+              "english": "that Jacob said to Lavan: Send me away, that I may go to my place and to my land."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "תְּנָ֞ה אֶת־נָשַׁ֣י וְאֶת־יְלָדַ֗י אֲשֶׁ֨ר עָבַ֧דְתִּי אֹֽתְךָ֛ בָּהֵ֖ן וְאֵלֵ֑כָה",
+              "english": "Give me [by your leave] my wives and my children for whom I served you, and let me go."
+            },
+            {
+              "hebrew": "כִּ֚י אַתָּ֣ה יָדַ֔עְתָּ אֶת־עֲבֹדָתִ֖י אֲשֶׁ֥ר עֲבַדְתִּֽיךָ׃",
+              "english": "For you know the service which I have served you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר אֵלָיו֙ לָבָ֔ן אִם־נָ֛א מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ",
+              "english": "And Lavan said to him: If I have found favor in your eyes,"
+            },
+            {
+              "hebrew": "נִחַ֕שְׁתִּי וַיְבָרְכֵ֥נִי יְהֹוָ֖ה בִּגְלָלֶֽךָ׃",
+              "english": "I have found through divination that the L rd has blessed me for your sake."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּאמַ֑ר נׇקְבָ֧ה שְׂכָרְךָ֛",
+              "english": "And he said: State your wage"
+            },
+            {
+              "hebrew": "עָלַ֖י וְאֶתֵּֽנָה׃",
+              "english": "and I will give it."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר אֵלָ֔יו אַתָּ֣ה יָדַ֔עְתָּ אֵ֖ת אֲשֶׁ֣ר עֲבַדְתִּ֑יךָ",
+              "english": "And he said to him: You know how I have served you"
+            },
+            {
+              "hebrew": "וְאֵ֛ת אֲשֶׁר־הָיָ֥ה מִקְנְךָ֖ אִתִּֽי׃",
+              "english": "and how [few] your kine were with me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֡י מְעַט֩ אֲשֶׁר־הָיָ֨ה לְךָ֤ לְפָנַי֙ וַיִּפְרֹ֣ץ לָרֹ֔ב",
+              "english": "For the little that you had before has increased to a multitude,"
+            },
+            {
+              "hebrew": "וַיְבָ֧רֶךְ יְהֹוָ֛ה אֹתְךָ֖ לְרַגְלִ֑י",
+              "english": "and the L rd has blessed you with my coming,"
+            },
+            {
+              "hebrew": "וְעַתָּ֗ה מָתַ֛י אֶֽעֱשֶׂ֥ה גַם־אָנֹכִ֖י לְבֵיתִֽי׃",
+              "english": "and now, when will I also [in addition to my sons] do (what is needed) for my household?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֖אמֶר מָ֣ה אֶתֶּן־לָ֑ךְ",
+              "english": "And he said: What shall I give you?"
+            },
+            {
+              "hebrew": "וַיֹּ֤אמֶר יַעֲקֹב֙ לֹא־תִתֶּן־לִ֣י מְא֔וּמָה",
+              "english": "And Jacob said: You will not give me anything."
+            },
+            {
+              "hebrew": "אִם־תַּֽעֲשֶׂה־לִּי֙ הַדָּבָ֣ר הַזֶּ֔ה אָשׁ֛וּבָה אֶרְעֶ֥ה צֹֽאנְךָ֖ אֶשְׁמֹֽר׃",
+              "english": "If you do this thing for me, I will return and graze and guard your flock."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "אֶֽעֱבֹ֨ר בְּכׇל־צֹֽאנְךָ֜ הַיּ֗וֹם",
+              "english": "I will pass through all your flock today,"
+            },
+            {
+              "hebrew": "הָסֵ֨ר מִשָּׁ֜ם כׇּל־שֶׂ֣ה&thinsp;׀ נָקֹ֣ד וְטָל֗וּא וְכׇל־שֶׂה־חוּם֙ בַּכְּשָׂבִ֔ים וְטָל֥וּא וְנָקֹ֖ד בָּעִזִּ֑ים",
+              "english": "removing from there every sheep speckled and spotted, and every sheep, brownish among the flock, and the spotted and speckled among the goats, [these to be given to your sons],"
+            },
+            {
+              "hebrew": "וְהָיָ֖ה שְׂכָרִֽי׃",
+              "english": "and that [i.e., those of the above kind born from now on] shall be my wage."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וְעָֽנְתָה־בִּ֤י צִדְקָתִי֙ בְּי֣וֹם מָחָ֔ר כִּֽי־תָב֥וֹא עַל־שְׂכָרִ֖י לְפָנֶ֑יךָ",
+              "english": "And my righteousness shall answer for me on the morrow. For it [my righteousness] will come [and testify] to my wage before you, [i.e.,]"
+            },
+            {
+              "hebrew": "כֹּ֣ל אֲשֶׁר־אֵינֶ֩נּוּ֩ נָקֹ֨ד וְטָל֜וּא בָּֽעִזִּ֗ים וְחוּם֙ בַּכְּשָׂבִ֔ים גָּנ֥וּב ה֖וּא אִתִּֽי׃",
+              "english": "anything [which you find in my flock] that is not speckled and spotted among the goats or brownish among the sheep is stolen with me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר לָבָ֖ן הֵ֑ן",
+              "english": "And Lavan said: Agreed!"
+            },
+            {
+              "hebrew": "ל֖וּ יְהִ֥י כִדְבָרֶֽךָ׃",
+              "english": "Would that you wished it so!"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֣סַר בַּיּוֹם֩ הַה֨וּא אֶת־הַתְּיָשִׁ֜ים הָֽעֲקֻדִּ֣ים וְהַטְּלֻאִ֗ים וְאֵ֤ת כׇּל־הָֽעִזִּים֙ הַנְּקֻדּ֣וֹת וְהַטְּלֻאֹ֔ת",
+              "english": "And he [Lavan] removed on that day the he-goats that were ringstraked and spotted, and all the she-goats that were speckled and spotted —"
+            },
+            {
+              "hebrew": "כֹּ֤ל אֲשֶׁר־לָבָן֙ בּ֔וֹ וְכׇל־ח֖וּם בַּכְּשָׂבִ֑ים",
+              "english": "everything that had white in it — and everything that was brownish among the sheep,"
+            },
+            {
+              "hebrew": "וַיִּתֵּ֖ן בְּיַד־בָּנָֽיו׃",
+              "english": "and he [Lavan] gave them into the hands of his sons."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֗שֶׂם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים בֵּינ֖וֹ וּבֵ֣ין יַעֲקֹ֑ב",
+              "english": "And he put three days distance between himself and Jacob,"
+            },
+            {
+              "hebrew": "וְיַעֲקֹ֗ב רֹעֶ֛ה אֶת־צֹ֥אן לָבָ֖ן הַנּוֹתָרֹֽת׃",
+              "english": "and Jacob grazed the flock of Lavan that were left [i.e., the sickly and barren ones]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּֽקַּֽח־ל֣וֹ יַעֲקֹ֗ב מַקַּ֥ל לִבְנֶ֛ה לַ֖ח וְל֣וּז וְעַרְמ֑וֹן",
+              "english": "And Jacob took a moist stick of white poplar and [a stick of] almond and of chestnut,"
+            },
+            {
+              "hebrew": "וַיְפַצֵּ֤ל בָּהֵן֙ פְּצָל֣וֹת לְבָנ֔וֹת מַחְשֹׂף֙ הַלָּבָ֔ן אֲשֶׁ֖ר עַל־הַמַּקְלֽוֹת׃",
+              "english": "and he peeled them into white streaks, baring the white on the sticks."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּצֵּ֗ג אֶת־הַמַּקְלוֹת֙ אֲשֶׁ֣ר פִּצֵּ֔ל בָּרְהָטִ֖ים בְּשִֽׁקְת֣וֹת הַמָּ֑יִם",
+              "english": "And he set the sticks which he had peeled in the gutters of the watering troughs"
+            },
+            {
+              "hebrew": "אֲשֶׁר֩ תָּבֹ֨אןָ הַצֹּ֤אן לִשְׁתּוֹת֙ לְנֹ֣כַח הַצֹּ֔אן",
+              "english": "where the flocks came to drink, opposite the flocks,"
+            },
+            {
+              "hebrew": "וַיֵּחַ֖מְנָה בְּבֹאָ֥ן לִשְׁתּֽוֹת׃",
+              "english": "and they became heated when they came to drink [i.e., the female recoiled at the sight of the sticks and the male mated with her, and she bore in their likeness]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "וַיֶּחֱמ֥וּ הַצֹּ֖אן אֶל־הַמַּקְל֑וֹת",
+              "english": "And the flocks became heated at the [sight of the] sticks [(as above)],"
+            },
+            {
+              "hebrew": "וַתֵּלַ֣דְןָ הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּטְלֻאִֽים׃",
+              "english": "and the flocks bore ringstraked, speckled, and spotted."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "וְהַכְּשָׂבִים֮ הִפְרִ֣יד יַעֲקֹב֒",
+              "english": "And Jacob separated the sheep [that were born ringstraked and spotted],"
+            },
+            {
+              "hebrew": "וַ֠יִּתֵּ֠ן פְּנֵ֨י הַצֹּ֧אן אֶל־עָקֹ֛ד וְכׇל־ח֖וּם בְּצֹ֣אן לָבָ֑ן",
+              "english": "and he set the face of the flock [that followed them] to the ringstraked and to all of the brownish [that he had found] in the flock of Lavan,"
+            },
+            {
+              "hebrew": "וַיָּֽשֶׁת־ל֤וֹ עֲדָרִים֙ לְבַדּ֔וֹ וְלֹ֥א שָׁתָ֖ם עַל־צֹ֥אן לָבָֽן׃",
+              "english": "having put them in flocks by themselves. And he did not place them with the flock of Lavan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "וְהָיָ֗ה בְּכׇל־יַחֵם֮ הַצֹּ֣אן הַמְקֻשָּׁרוֹת֒",
+              "english": "And it was, whenever the early (aroused) sheep became heated,"
+            },
+            {
+              "hebrew": "וְשָׂ֨ם יַעֲקֹ֧ב אֶת־הַמַּקְל֛וֹת לְעֵינֵ֥י הַצֹּ֖אן בָּרְהָטִ֑ים לְיַחְמֵ֖נָּה בַּמַּקְלֽוֹת׃",
+              "english": "that Jacob set the sticks before the eyes of the sheep in the gutters to become heated at [the sight of] the sticks. [see 38]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "וּבְהַעֲטִ֥יף הַצֹּ֖אן לֹ֣א יָשִׂ֑ים",
+              "english": "And when the sheep were late (to become heated), he did not set (them) —"
+            },
+            {
+              "hebrew": "וְהָיָ֤ה הָעֲטֻפִים֙ לְלָבָ֔ן וְהַקְּשֻׁרִ֖ים לְיַעֲקֹֽב׃",
+              "english": "and the (offspring of the) late ones were Lavan's, and the early ones, Jacob's."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּפְרֹ֥ץ הָאִ֖ישׁ מְאֹ֣ד מְאֹ֑ד",
+              "english": "And the man (Jacob) grew exceedingly strong,"
+            },
+            {
+              "hebrew": "וַֽיְהִי־לוֹ֙ צֹ֣אן רַבּ֔וֹת וּשְׁפָחוֹת֙ וַעֲבָדִ֔ים וּגְמַלִּ֖ים וַחֲמֹרִֽים׃",
+              "english": "and he had flocks [more] fruitful [than the norm], and [(by selling them at a high price)] maidservants, manservants, camels, and asses."
+            }
+          ],
+          "model": "Instinct"
+        }
+      },
+      "31": {
+        "1": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁמַ֗ע אֶת־דִּבְרֵ֤י בְנֵֽי־לָבָן֙ לֵאמֹ֔ר",
+              "english": "And he heard the words of the sons of Lavan, saying:"
+            },
+            {
+              "hebrew": "לָקַ֣ח יַעֲקֹ֔ב אֵ֖ת כׇּל־אֲשֶׁ֣ר לְאָבִ֑ינוּ",
+              "english": "Jacob has taken all that is our father's,"
+            },
+            {
+              "hebrew": "וּמֵאֲשֶׁ֣ר לְאָבִ֔ינוּ עָשָׂ֕ה אֵ֥ת כׇּל־הַכָּבֹ֖ד הַזֶּֽה׃",
+              "english": "and from our father's did he gather all this substance."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "2": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥רְא יַעֲקֹ֖ב אֶת־פְּנֵ֣י לָבָ֑ן",
+              "english": "And Jacob saw the face of Lavan,"
+            },
+            {
+              "hebrew": "וְהִנֵּ֥ה אֵינֶ֛נּוּ עִמּ֖וֹ כִּתְמ֥וֹל שִׁלְשֽׁוֹם׃",
+              "english": "and, behold, it was not with him as of yore."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "3": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶֽל־יַעֲקֹ֔ב שׁ֛וּב אֶל־אֶ֥רֶץ אֲבוֹתֶ֖יךָ וּלְמוֹלַדְתֶּ֑ךָ",
+              "english": "And the L rd said to Jacob: Return to the land of your fathers and to your birthplace"
+            },
+            {
+              "hebrew": "וְאֶֽהְיֶ֖ה עִמָּֽךְ׃",
+              "english": "and I shall be with you, [it not being possible to repose my Shechinah with you while you are \"linked to uncleanliness\"]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "4": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּשְׁלַ֣ח יַעֲקֹ֔ב וַיִּקְרָ֖א לְרָחֵ֣ל וּלְלֵאָ֑ה",
+              "english": "And Jacob sent and he called to Rachel and to Leah"
+            },
+            {
+              "hebrew": "הַשָּׂדֶ֖ה אֶל־צֹאנֽוֹ׃",
+              "english": "to the field to his flock."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "5": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר לָהֶ֗ן רֹאֶ֤ה אָנֹכִי֙ אֶת־פְּנֵ֣י אֲבִיכֶ֔ן כִּֽי־אֵינֶ֥נּוּ אֵלַ֖י כִּתְמֹ֣ל שִׁלְשֹׁ֑ם",
+              "english": "And he said to them: I see that your father's face is not with me as of yore;"
+            },
+            {
+              "hebrew": "וֵֽאלֹהֵ֣י אָבִ֔י הָיָ֖ה עִמָּדִֽי׃",
+              "english": "and my father's G d was with me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "6": {
+          "pairs": [
+            {
+              "hebrew": "וְאַתֵּ֖נָה יְדַעְתֶּ֑ן",
+              "english": "And you know"
+            },
+            {
+              "hebrew": "כִּ֚י בְּכׇל־כֹּחִ֔י עָבַ֖דְתִּי אֶת־אֲבִיכֶֽן׃",
+              "english": "that with all my strength did I serve your father."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "7": {
+          "pairs": [
+            {
+              "hebrew": "וַאֲבִיכֶן֙ הֵ֣תֶל בִּ֔י וְהֶחֱלִ֥ף אֶת־מַשְׂכֻּרְתִּ֖י עֲשֶׂ֣רֶת מֹנִ֑ים",
+              "english": "And your father deceived me and he changed my hire ten tens [i.e., a hundred times],"
+            },
+            {
+              "hebrew": "וְלֹֽא־נְתָנ֣וֹ אֱלֹהִ֔ים לְהָרַ֖ע עִמָּדִֽי׃",
+              "english": "but G d did not allow him to do evil with me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "8": {
+          "pairs": [
+            {
+              "hebrew": "אִם־כֹּ֣ה יֹאמַ֗ר נְקֻדִּים֙ יִהְיֶ֣ה שְׂכָרֶ֔ךָ וְיָלְד֥וּ כׇל־הַצֹּ֖אן נְקֻדִּ֑ים",
+              "english": "If he said thus: \"The speckled shall be your hire,\" then all the flocks bore speckled."
+            },
+            {
+              "hebrew": "וְאִם־כֹּ֣ה יֹאמַ֗ר עֲקֻדִּים֙ יִהְיֶ֣ה שְׂכָרֶ֔ךָ וְיָלְד֥וּ כׇל־הַצֹּ֖אן עֲקֻדִּֽים׃",
+              "english": "And if he said thus: \"The ringstraked shall be your hire,\" then all the flocks bore ringstraked."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "9": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּצֵּ֧ל אֱלֹהִ֛ים אֶת־מִקְנֵ֥ה אֲבִיכֶ֖ם",
+              "english": "And G d delivered the kine of your father"
+            },
+            {
+              "hebrew": "וַיִּתֶּן־לִֽי׃",
+              "english": "and He gave them to me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "10": {
+          "pairs": [
+            {
+              "hebrew": "וַיְהִ֗י בְּעֵת֙ יַחֵ֣ם הַצֹּ֔אן וָאֶשָּׂ֥א עֵינַ֛י וָאֵ֖רֶא בַּחֲל֑וֹם",
+              "english": "And it was, at the time the flocks were heated, I lifted up my eyes and I saw in a dream:"
+            },
+            {
+              "hebrew": "וְהִנֵּ֤ה הָֽעַתֻּדִים֙ הָעֹלִ֣ים עַל־הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּבְרֻדִּֽים׃",
+              "english": "Behold, the rams which went up on the sheep were ringstraked, speckled, and grizzled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "11": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר אֵלַ֜י מַלְאַ֧ךְ הָאֱלֹהִ֛ים בַּחֲל֖וֹם יַֽעֲקֹ֑ב",
+              "english": "And an angel of G d said to me in a dream: \"Jacob.\""
+            },
+            {
+              "hebrew": "וָאֹמַ֖ר הִנֵּֽנִי׃",
+              "english": "And I said: \"Here I am.\""
+            }
+          ],
+          "model": "Instinct"
+        },
+        "12": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֗אמֶר שָׂא־נָ֨א עֵינֶ֤יךָ וּרְאֵה֙ כׇּל־הָֽעַתֻּדִים֙ הָעֹלִ֣ים עַל־הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּבְרֻדִּ֑ים",
+              "english": "And he said: Lift up your eyes now and see all the rams that go up on the sheep — ringstraked, speckled, and grizzled —"
+            },
+            {
+              "hebrew": "כִּ֣י רָאִ֔יתִי אֵ֛ת כׇּל־אֲשֶׁ֥ר לָבָ֖ן עֹ֥שֶׂה לָּֽךְ׃",
+              "english": "for I have seen all that Lavan does to you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "13": {
+          "pairs": [
+            {
+              "hebrew": "אָנֹכִ֤י הָאֵל֙ בֵּֽית־אֵ֔ל אֲשֶׁ֨ר מָשַׁ֤חְתָּ שָּׁם֙ מַצֵּבָ֔ה אֲשֶׁ֨ר נָדַ֥רְתָּ לִּ֛י שָׁ֖ם נֶ֑דֶר",
+              "english": "I am the G d of Bethel, where you anointed a pillar where you vowed a vow unto Me, [which it is now time to fulfill (see 28:22)]."
+            },
+            {
+              "hebrew": "עַתָּ֗ה ק֥וּם צֵא֙ מִן־הָאָ֣רֶץ הַזֹּ֔את וְשׁ֖וּב אֶל־אֶ֥רֶץ מוֹלַדְתֶּֽךָ׃",
+              "english": "Now, arise, go out of this land and return to the land of your birth."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "14": {
+          "pairs": [
+            {
+              "hebrew": "וַתַּ֤עַן רָחֵל֙ וְלֵאָ֔ה וַתֹּאמַ֖רְנָה ל֑וֹ",
+              "english": "And Rachel and Leah answered and said to him:"
+            },
+            {
+              "hebrew": "הַע֥וֹד לָ֛נוּ חֵ֥לֶק וְנַחֲלָ֖ה בְּבֵ֥ית אָבִֽינוּ׃",
+              "english": "Is there yet any portion or inheritance for us in our father's house? [Why, then, should we detain you?]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "15": {
+          "pairs": [
+            {
+              "hebrew": "הֲל֧וֹא נׇכְרִיּ֛וֹת נֶחְשַׁ֥בְנוּ ל֖וֹ",
+              "english": "Does he not regard us as strangers?"
+            },
+            {
+              "hebrew": "כִּ֣י מְכָרָ֑נוּ וַיֹּ֥אכַל גַּם־אָכ֖וֹל אֶת־כַּסְפֵּֽנוּ׃",
+              "english": "For [he did not give us a dowry as is customary, but] he sold us [to you for your labor], and he also consumed our money, [withholding your wages]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "16": {
+          "pairs": [
+            {
+              "hebrew": "כִּ֣י כׇל־הָעֹ֗שֶׁר אֲשֶׁ֨ר הִצִּ֤יל אֱלֹהִים֙ מֵֽאָבִ֔ינוּ לָ֥נוּ ה֖וּא וּלְבָנֵ֑ינוּ",
+              "english": "But [only] all of the wealth that G d confiscated from our father is ours and our children's."
+            },
+            {
+              "hebrew": "וְעַתָּ֗ה כֹּל֩ אֲשֶׁ֨ר אָמַ֧ר אֱלֹהִ֛ים אֵלֶ֖יךָ עֲשֵֽׂה׃",
+              "english": "And now, everything that G d says to you, do."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "17": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּ֖קׇם יַעֲקֹ֑ב",
+              "english": "And Jacob arose"
+            },
+            {
+              "hebrew": "וַיִּשָּׂ֛א אֶת־בָּנָ֥יו וְאֶת־נָשָׁ֖יו עַל־הַגְּמַלִּֽים׃",
+              "english": "and he lifted his sons and his wives onto the camels."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "18": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּנְהַ֣ג אֶת־כׇּל־מִקְנֵ֗הוּ וְאֶת־כׇּל־רְכֻשׁוֹ֙ אֲשֶׁ֣ר רָכָ֔שׁ",
+              "english": "And he conveyed all of his kine and all of the substance that he had gotten,"
+            },
+            {
+              "hebrew": "מִקְנֵה֙ קִנְיָנ֔וֹ אֲשֶׁ֥ר רָכַ֖שׁ בְּפַדַּ֣ן אֲרָ֑ם",
+              "english": "the acquisition [maidservants, etc.] of his accession [the flocks (see 30:43)], which he had acquired in Padan Aram,"
+            },
+            {
+              "hebrew": "לָב֛וֹא אֶל־יִצְחָ֥ק אָבִ֖יו אַ֥רְצָה כְּנָֽעַן׃",
+              "english": "to come to Isaac his father in the land of Canaan."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "19": {
+          "pairs": [
+            {
+              "hebrew": "וְלָבָ֣ן הָלַ֔ךְ לִגְזֹ֖ז אֶת־צֹאנ֑וֹ",
+              "english": "And Lavan had gone to shear his sheep [a three days distance (see 30:26)],"
+            },
+            {
+              "hebrew": "וַתִּגְנֹ֣ב רָחֵ֔ל אֶת־הַתְּרָפִ֖ים אֲשֶׁ֥ר לְאָבִֽיהָ׃",
+              "english": "and Rachel stole her father's teraphim [to break him of idolatry]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "20": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּגְנֹ֣ב יַעֲקֹ֔ב אֶת־לֵ֥ב לָבָ֖ן הָאֲרַמִּ֑י",
+              "english": "And Jacob stole the heart of Lavan the Aramite,"
+            },
+            {
+              "hebrew": "עַל־בְּלִי֙ הִגִּ֣יד ל֔וֹ כִּ֥י בֹרֵ֖חַ הֽוּא׃",
+              "english": "not telling him that he fled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "21": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּבְרַ֥ח הוּא֙ וְכׇל־אֲשֶׁר־ל֔וֹ",
+              "english": "And he fled, he and all that was with him,"
+            },
+            {
+              "hebrew": "וַיָּ֖קׇם וַיַּעֲבֹ֣ר אֶת־הַנָּהָ֑ר",
+              "english": "and he arose and crossed over the river,"
+            },
+            {
+              "hebrew": "וַיָּ֥שֶׂם אֶת־פָּנָ֖יו הַ֥ר הַגִּלְעָֽד׃",
+              "english": "and he set his face towards Mount Gilead."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "22": {
+          "pairs": [
+            {
+              "hebrew": "וַיֻּגַּ֥ד לְלָבָ֖ן בַּיּ֣וֹם הַשְּׁלִישִׁ֑י",
+              "english": "And it was told to Lavan on the third day"
+            },
+            {
+              "hebrew": "כִּ֥י בָרַ֖ח יַעֲקֹֽב׃",
+              "english": "that Jacob had fled."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "23": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֤ח אֶת־אֶחָיו֙ עִמּ֔וֹ וַיִּרְדֹּ֣ף אַחֲרָ֔יו דֶּ֖רֶךְ שִׁבְעַ֣ת יָמִ֑ים",
+              "english": "And he took his brethren with him and pursued him, [covering] a distance of seven days [in one day],"
+            },
+            {
+              "hebrew": "וַיַּדְבֵּ֥ק אֹת֖וֹ בְּהַ֥ר הַגִּלְעָֽד׃",
+              "english": "and he overtook him in Mount Gilead."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "24": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֧א אֱלֹהִ֛ים אֶל־לָבָ֥ן הָאֲרַמִּ֖י בַּחֲלֹ֣ם הַלָּ֑יְלָה",
+              "english": "And G d came to Lavan the Aramite in a dream by night"
+            },
+            {
+              "hebrew": "וַיֹּ֣אמֶר ל֗וֹ הִשָּׁ֧מֶר לְךָ֛ פֶּן־תְּדַבֵּ֥ר עִֽם־יַעֲקֹ֖ב מִטּ֥וֹב עַד־רָֽע׃",
+              "english": "and He said to him: Take heed lest you speak with Jacob from good to evil. [\"All the good of the wicked is evil to the righteous.\"]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "25": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּשֵּׂ֥ג לָבָ֖ן אֶֽת־יַעֲקֹ֑ב",
+              "english": "And Lavan overtook Jacob."
+            },
+            {
+              "hebrew": "וְיַעֲקֹ֗ב תָּקַ֤ע אֶֽת־אׇהֳלוֹ֙ בָּהָ֔ר",
+              "english": "And Jacob had pitched his tent in the mountain."
+            },
+            {
+              "hebrew": "וְלָבָ֛ן תָּקַ֥ע אֶת־אֶחָ֖יו בְּהַ֥ר הַגִּלְעָֽד׃",
+              "english": "And Lavan pitched (his tent) with his brethren in Mount Gilead."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "26": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֤אמֶר לָבָן֙ לְיַעֲקֹ֔ב מֶ֣ה עָשִׂ֔יתָ וַתִּגְנֹ֖ב אֶת־לְבָבִ֑י",
+              "english": "And Lavan said to Jacob: What have you done, that you have stolen my heart"
+            },
+            {
+              "hebrew": "וַתְּנַהֵג֙ אֶת־בְּנֹתַ֔י כִּשְׁבֻי֖וֹת חָֽרֶב׃",
+              "english": "and led away my daughters like captives of the sword?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "27": {
+          "pairs": [
+            {
+              "hebrew": "לָ֤מָּה נַחְבֵּ֙אתָ֙ לִבְרֹ֔חַ וַתִּגְנֹ֖ב אֹתִ֑י וְלֹא־הִגַּ֣דְתָּ לִּ֔י",
+              "english": "Why did you flee in secret, stealing [\"my mind\"] from me and not telling me?"
+            },
+            {
+              "hebrew": "וָֽאֲשַׁלֵּחֲךָ֛ בְּשִׂמְחָ֥ה וּבְשִׁרִ֖ים בְּתֹ֥ף וּבְכִנּֽוֹר׃",
+              "english": "I would have sent you away with joy and song, with timbrel and lyre."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "וְלֹ֣א נְטַשְׁתַּ֔נִי לְנַשֵּׁ֥ק לְבָנַ֖י וְלִבְנֹתָ֑י",
+              "english": "And you did not allow me to kiss my sons and my daughters."
+            },
+            {
+              "hebrew": "עַתָּ֖ה הִסְכַּ֥לְתָּֽ עֲשֽׂוֹ׃",
+              "english": "You have now done foolishly."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "29": {
+          "pairs": [
+            {
+              "hebrew": "יֶשׁ־לְאֵ֣ל יָדִ֔י לַעֲשׂ֥וֹת עִמָּכֶ֖ם רָ֑ע",
+              "english": "I have the power to do evil with you,"
+            },
+            {
+              "hebrew": "וֵֽאלֹהֵ֨י אֲבִיכֶ֜ם אֶ֣מֶשׁ&thinsp;׀ אָמַ֧ר אֵלַ֣י לֵאמֹ֗ר",
+              "english": "but the G d of your father said to me last night:"
+            },
+            {
+              "hebrew": "הִשָּׁ֧מֶר לְךָ֛ מִדַּבֵּ֥ר עִֽם־יַעֲקֹ֖ב מִטּ֥וֹב עַד־רָֽע׃",
+              "english": "Take care not to speak to Jacob from good to ill."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "30": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּה֙ הָלֹ֣ךְ הָלַ֔כְתָּ כִּֽי־נִכְסֹ֥ף נִכְסַ֖פְתָּה לְבֵ֣ית אָבִ֑יךָ",
+              "english": "And now, though you be gone, for you longed for your father's house,"
+            },
+            {
+              "hebrew": "לָ֥מָּה גָנַ֖בְתָּ אֶת־אֱלֹהָֽי׃",
+              "english": "why have you stolen my gods?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "31": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֥עַן יַעֲקֹ֖ב וַיֹּ֣אמֶר לְלָבָ֑ן כִּ֣י יָרֵ֔אתִי",
+              "english": "And Jacob answered and he said to Lavan [(answering first things first)]: For I was afraid."
+            },
+            {
+              "hebrew": "כִּ֣י אָמַ֔רְתִּי פֶּן־תִּגְזֹ֥ל אֶת־בְּנוֹתֶ֖יךָ מֵעִמִּֽי׃",
+              "english": "For I said: Lest you steal your daughters from me."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "32": {
+          "pairs": [
+            {
+              "hebrew": "עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת־אֱלֹהֶ֘יךָ֮ לֹ֣א יִֽחְיֶה֒",
+              "english": "With whomever you find your gods, let him not live [(for which reason Rachel died on the road)]."
+            },
+            {
+              "hebrew": "נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר־לְךָ֛ מָ֥ה עִמָּדִ֖י וְקַֽח־לָ֑ךְ",
+              "english": "Before our kinsmen, point out what is with me [that is yours], and take it for yourself."
+            },
+            {
+              "hebrew": "וְלֹֽא־יָדַ֣ע יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם׃",
+              "english": "And Jacob did not know that Rachel had stolen them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "33": {
+          "pairs": [
+            {
+              "hebrew": "וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב&thinsp;׀ וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א מָצָ֑א",
+              "english": "And Lavan came into Jacob's [i.e., Rachel's] tent and into the tent of Leah and into the tent of the two handmaids, but he found nothing."
+            },
+            {
+              "hebrew": "וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל׃",
+              "english": "And (when) he went out of the tent of Leah, he came [again] into the tent of Rachel, [knowing her to be a \"toucher\"]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "34": {
+          "pairs": [
+            {
+              "hebrew": "וְרָחֵ֞ל לָקְחָ֣ה אֶת־הַתְּרָפִ֗ים וַתְּשִׂמֵ֛ם בְּכַ֥ר הַגָּמָ֖ל וַתֵּ֣שֶׁב עֲלֵיהֶ֑ם",
+              "english": "And Rachel had taken the teraphim, and she had placed them on the camel's saddle-pillow and sat upon them."
+            },
+            {
+              "hebrew": "וַיְמַשֵּׁ֥שׁ לָבָ֛ן אֶת־כׇּל־הָאֹ֖הֶל וְלֹ֥א מָצָֽא׃",
+              "english": "And Lavan \"felt out\" the whole tent and could not find them."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "35": {
+          "pairs": [
+            {
+              "hebrew": "וַתֹּ֣אמֶר אֶל־אָבִ֗יהָ אַל־יִ֙חַר֙ בְּעֵינֵ֣י אֲדֹנִ֔י כִּ֣י ל֤וֹא אוּכַל֙ לָק֣וּם מִפָּנֶ֔יךָ",
+              "english": "And she said to her father: Let it not anger my lord that I cannot rise before you,"
+            },
+            {
+              "hebrew": "כִּי־דֶ֥רֶךְ נָשִׁ֖ים לִ֑י",
+              "english": "for I am in the way of women."
+            },
+            {
+              "hebrew": "וַיְחַפֵּ֕שׂ וְלֹ֥א מָצָ֖א אֶת־הַתְּרָפִֽים׃",
+              "english": "And he searched, and he could not find the teraphim."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "36": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּ֥חַר לְיַעֲקֹ֖ב וַיָּ֣רֶב בְּלָבָ֑ן",
+              "english": "And Jacob was wroth and he strove with Lavan."
+            },
+            {
+              "hebrew": "וַיַּ֤עַן יַעֲקֹב֙ וַיֹּ֣אמֶר לְלָבָ֔ן מַה־פִּשְׁעִי֙ מַ֣ה חַטָּאתִ֔י כִּ֥י דָלַ֖קְתָּ אַחֲרָֽי׃",
+              "english": "And Jacob retorted and said to Lavan: What is my offense and what is my sin that you have pursued me?"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "37": {
+          "pairs": [
+            {
+              "hebrew": "כִּֽי־מִשַּׁ֣שְׁתָּ אֶת־כׇּל־כֵּלַ֗י מַה־מָּצָ֙אתָ֙ מִכֹּ֣ל כְּלֵי־בֵיתֶ֔ךָ",
+              "english": "For you have \"felt out\" all my articles. What have you found of all your household articles?"
+            },
+            {
+              "hebrew": "שִׂ֣ים כֹּ֔ה נֶ֥גֶד אַחַ֖י וְאַחֶ֑יךָ וְיוֹכִ֖יחוּ בֵּ֥ין שְׁנֵֽינוּ׃",
+              "english": "Put it here before my brethren and yours, and let them judge between us."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "38": {
+          "pairs": [
+            {
+              "hebrew": "זֶה֩ עֶשְׂרִ֨ים שָׁנָ֤ה אָנֹכִי֙ עִמָּ֔ךְ",
+              "english": "This twenty years have I been with you."
+            },
+            {
+              "hebrew": "רְחֵלֶ֥יךָ וְעִזֶּ֖יךָ לֹ֣א שִׁכֵּ֑לוּ",
+              "english": "Your ewes and your she-goats have not miscarried,"
+            },
+            {
+              "hebrew": "וְאֵילֵ֥י צֹאנְךָ֖ לֹ֥א אָכָֽלְתִּי׃",
+              "english": "and the rams [(even a one-year-old being called a \"ram\")] of your flock I have not eaten."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "39": {
+          "pairs": [
+            {
+              "hebrew": "טְרֵפָה֙ לֹא־הֵבֵ֣אתִי אֵלֶ֔יךָ",
+              "english": "An animal that was torn [by lion or wolf] I did not bring to you."
+            },
+            {
+              "hebrew": "אָנֹכִ֣י אֲחַטֶּ֔נָּה מִיָּדִ֖י תְּבַקְשֶׁ֑נָּה",
+              "english": "I bore its loss; from my hand did you require it."
+            },
+            {
+              "hebrew": "גְּנֻֽבְתִ֣י י֔וֹם וּגְנֻֽבְתִ֖י לָֽיְלָה׃",
+              "english": "Whether stolen by day or by night, [I paid for it]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "40": {
+          "pairs": [
+            {
+              "hebrew": "הָיִ֧יתִי בַיּ֛וֹם אֲכָלַ֥נִי חֹ֖רֶב וְקֶ֣רַח בַּלָּ֑יְלָה",
+              "english": "In the day I was consumed by heat and in the night by frost,"
+            },
+            {
+              "hebrew": "וַתִּדַּ֥ד שְׁנָתִ֖י מֵֽעֵינָֽי׃",
+              "english": "and sleep departed from my eyes."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "41": {
+          "pairs": [
+            {
+              "hebrew": "זֶה־לִּ֞י עֶשְׂרִ֣ים שָׁנָה֮ בְּבֵיתֶ֒ךָ֒ עֲבַדְתִּ֜יךָ אַרְבַּֽע־עֶשְׂרֵ֤ה שָׁנָה֙ בִּשְׁתֵּ֣י בְנֹתֶ֔יךָ וְשֵׁ֥שׁ שָׁנִ֖ים בְּצֹאנֶ֑ךָ",
+              "english": "This twenty years have I served you in your house — fourteen years for your two daughters and six years for your flocks;"
+            },
+            {
+              "hebrew": "וַתַּחֲלֵ֥ף אֶת־מַשְׂכֻּרְתִּ֖י עֲשֶׂ֥רֶת מֹנִֽים׃",
+              "english": "and you changed [the conditions of] my hire ten tens [i.e., a hundred times]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "42": {
+          "pairs": [
+            {
+              "hebrew": "לוּלֵ֡י אֱלֹהֵ֣י אָבִי֩ אֱלֹהֵ֨י אַבְרָהָ֜ם וּפַ֤חַד יִצְחָק֙ הָ֣יָה לִ֔י",
+              "english": "Had not the G d of my father, the G d of Abraham and the Dread of Yitzchak been with me,"
+            },
+            {
+              "hebrew": "כִּ֥י עַתָּ֖ה רֵיקָ֣ם שִׁלַּחְתָּ֑נִי",
+              "english": "you would now have sent me away empty."
+            },
+            {
+              "hebrew": "אֶת־עׇנְיִ֞י וְאֶת־יְגִ֧יעַ כַּפַּ֛י רָאָ֥ה אֱלֹהִ֖ים וַיּ֥וֹכַח אָֽמֶשׁ׃",
+              "english": "G d saw my affliction and the toil of my hands and He reproved (you) last night."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "43": {
+          "pairs": [
+            {
+              "hebrew": "וַיַּ֨עַן לָבָ֜ן וַיֹּ֣אמֶר אֶֽל־יַעֲקֹ֗ב הַבָּנ֨וֹת בְּנֹתַ֜י וְהַבָּנִ֤ים בָּנַי֙ וְהַצֹּ֣אן צֹאנִ֔י וְכֹ֛ל אֲשֶׁר־אַתָּ֥ה רֹאֶ֖ה לִי־ה֑וּא",
+              "english": "And Lavan answered and he said to Jacob: The daughters are my daughters, and the sons are my sons, and the flocks are my flocks, and everything you see is mine."
+            },
+            {
+              "hebrew": "וְלִבְנֹתַ֞י מָֽה־אֶעֱשֶׂ֤ה לָאֵ֙לֶּה֙ הַיּ֔וֹם א֥וֹ לִבְנֵיהֶ֖ן אֲשֶׁ֥ר יָלָֽדוּ׃",
+              "english": "And, as for my daughters, what can I do to these today or to their children that they shall bear [i.e., How can it enter my mind to harm them?]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "44": {
+          "pairs": [
+            {
+              "hebrew": "וְעַתָּ֗ה לְכָ֛ה נִכְרְתָ֥ה בְרִ֖ית אֲנִ֣י וָאָ֑תָּה",
+              "english": "And now, come, let us make a covenant, I and you,"
+            },
+            {
+              "hebrew": "וְהָיָ֥ה לְעֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ׃",
+              "english": "and let Him be a witness between me and you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "45": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקַּ֥ח יַעֲקֹ֖ב אָ֑בֶן",
+              "english": "And Jacob took a stone"
+            },
+            {
+              "hebrew": "וַיְרִימֶ֖הָ מַצֵּבָֽה׃",
+              "english": "and he set it up as a monument."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "46": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֨אמֶר יַעֲקֹ֤ב לְאֶחָיו֙ לִקְט֣וּ אֲבָנִ֔ים",
+              "english": "And Jacob said to his brethren [i.e., his sons]: Gather stones."
+            },
+            {
+              "hebrew": "וַיִּקְח֥וּ אֲבָנִ֖ים וַיַּֽעֲשׂוּ־גָ֑ל",
+              "english": "And they took stones and made a heap."
+            },
+            {
+              "hebrew": "וַיֹּ֥אכְלוּ שָׁ֖ם עַל־הַגָּֽל׃",
+              "english": "And they ate there on the heap."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "47": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּקְרָא־ל֣וֹ לָבָ֔ן יְגַ֖ר שָׂהֲדוּתָ֑א",
+              "english": "And Lavan called it Yegar Sahadutha (\"the heap of testimony\"),"
+            },
+            {
+              "hebrew": "וְיַֽעֲקֹ֔ב קָ֥רָא ל֖וֹ גַּלְעֵֽד׃",
+              "english": "and Jacob called it Gal Ed [(the same)]."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "48": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֣אמֶר לָבָ֔ן הַגַּ֨ל הַזֶּ֥ה עֵ֛ד בֵּינִ֥י וּבֵינְךָ֖ הַיּ֑וֹם",
+              "english": "And Lavan said: This heap is testimony between me and you this day —"
+            },
+            {
+              "hebrew": "עַל־כֵּ֥ן קָרָֽא־שְׁמ֖וֹ גַּלְעֵֽד׃",
+              "english": "wherefore its name is called Gal Ed."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "49": {
+          "pairs": [
+            {
+              "hebrew": "וְהַמִּצְפָּה֙ אֲשֶׁ֣ר אָמַ֔ר יִ֥צֶף יְהֹוָ֖ה בֵּינִ֣י וּבֵינֶ֑ךָ",
+              "english": "And (it is also called) Mitzpah, [one of them] having said [to the other]: May the L rd see [yitzef] between me and you"
+            },
+            {
+              "hebrew": "כִּ֥י נִסָּתֵ֖ר אִ֥ישׁ מֵרֵעֵֽהוּ׃",
+              "english": "when one of us is absent from the other."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "50": {
+          "pairs": [
+            {
+              "hebrew": "אִם־תְּעַנֶּ֣ה אֶת־בְּנֹתַ֗י וְאִם־תִּקַּ֤ח נָשִׁים֙ עַל־בְּנֹתַ֔י",
+              "english": "If you afflict my daughters [by withholding their conjugal times] and if you take wives in addition to my daughters [(Bilhah and Zilpah, too, were his daughters by a concubine)],"
+            },
+            {
+              "hebrew": "אֵ֥ין אִ֖ישׁ עִמָּ֑נוּ",
+              "english": "no man being with us,"
+            },
+            {
+              "hebrew": "רְאֵ֕ה אֱלֹהִ֥ים עֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ׃",
+              "english": "see, G d is a witness between me and you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "51": {
+          "pairs": [
+            {
+              "hebrew": "וַיֹּ֥אמֶר לָבָ֖ן לְיַעֲקֹ֑ב הִנֵּ֣ה&thinsp;׀ הַגַּ֣ל הַזֶּ֗ה וְהִנֵּה֙ הַמַּצֵּבָ֔ה",
+              "english": "And Lavan said to Jacob: Behold this heap and behold this monument"
+            },
+            {
+              "hebrew": "אֲשֶׁ֥ר יָרִ֖יתִי בֵּינִ֥י וּבֵינֶֽךָ׃",
+              "english": "which I have set up between me and you."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "52": {
+          "pairs": [
+            {
+              "hebrew": "עֵ֚ד הַגַּ֣ל הַזֶּ֔ה וְעֵדָ֖ה הַמַּצֵּבָ֑ה",
+              "english": "This heap is testimony and the monument is testimony"
+            },
+            {
+              "hebrew": "אִם־אָ֗נִי לֹֽא־אֶעֱבֹ֤ר אֵלֶ֙יךָ֙ אֶת־הַגַּ֣ל הַזֶּ֔ה",
+              "english": "that I will not cross this heap to you"
+            },
+            {
+              "hebrew": "וְאִם־אַ֠תָּ֠ה לֹא־תַעֲבֹ֨ר אֵלַ֜י אֶת־הַגַּ֥ל הַזֶּ֛ה וְאֶת־הַמַּצֵּבָ֥ה הַזֹּ֖את לְרָעָֽה׃",
+              "english": "and you will not cross to me this heap and this monument for ill. [(You may not cross it for ill, but you may cross it for trade.)]"
+            }
+          ],
+          "model": "Instinct"
+        },
+        "53": {
+          "pairs": [
+            {
+              "hebrew": "אֱלֹהֵ֨י אַבְרָהָ֜ם וֵֽאלֹהֵ֤י נָחוֹר֙ יִשְׁפְּט֣וּ בֵינֵ֔ינוּ אֱלֹהֵ֖י אֲבִיהֶ֑ם",
+              "english": "The G d of Abraham and the god of Nachor judge between us, the god of their father [Terach]."
+            },
+            {
+              "hebrew": "וַיִּשָּׁבַ֣ע יַעֲקֹ֔ב בְּפַ֖חַד אָבִ֥יו יִצְחָֽק׃",
+              "english": "And Jacob swore by the Dread of his father, Isaac."
+            }
+          ],
+          "model": "Instinct"
+        },
+        "54": {
+          "pairs": [
+            {
+              "hebrew": "וַיִּזְבַּ֨ח יַעֲקֹ֥ב זֶ֙בַח֙ בָּהָ֔ר וַיִּקְרָ֥א לְאֶחָ֖יו לֶאֱכׇל־לָ֑חֶם",
+              "english": "And Jacob slaughtered a slaughtering in the mountain and he called his brethren [his close friends who were with Lavan] to partake of the meal,"
+            },
+            {
+              "hebrew": "וַיֹּ֣אכְלוּ לֶ֔חֶם וַיָּלִ֖ינוּ בָּהָֽר׃",
+              "english": "and they partook of the meal and spent the night in the mountain."
+            }
+          ],
+          "model": "Instinct"
         }
       }
     }
   },
-  "updatedAt": "2026-10-26T18:15:20.308Z"
+  "updatedAt": "2026-10-26T18:17:35.919Z"
 }
