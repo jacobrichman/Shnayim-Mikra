@@ -704,14 +704,32 @@
         const enText = (englishData.versions && englishData.versions[0] && englishData.versions[0].text) || '';
 
         let phrases = null;
+        let sourceRows = null;
         let phraseStatus = 'Phrase data is not available for this parsha. Showing the original verses.';
         try {
           const cache = await fetchJson('./data/phrases.json');
-          phrases = displayStore(cache, verseRows(heText, enText, ref), ref);
+          // Only the two reviewed source gaps use the named Koren edition.
+          // Fetch it independently, never trust stored phrase text as source.
+          const englishVerses = (Array.isArray(enText) ? enText.flat(Infinity) : [enText]);
+          sourceRows = verseRows(heText, heText, ref).map((row, i) => ({...row, english:String(englishVerses[i] ?? '').replace(/\s+/gu,' ').trim()}));
+          const allowedFallbacks = new Set(['Genesis 24:46','Leviticus 27:28']);
+          await Promise.all(sourceRows.map(async row => {
+            const parts = row.ref.match(/^(.*?) (\d+):(\d+)$/u);
+            const saved = cache.books?.[parts[1]]?.[parts[2]]?.[parts[3]];
+            if (!saved?.englishVersion) return;
+            if (saved.englishVersion !== 'The Koren Jerusalem Bible' || !allowedFallbacks.has(row.ref)) throw new Error('Unreviewed source fallback');
+            const fallback = await fetchJson('https://www.sefaria.org/api/v3/texts/' + encodeURIComponent(row.ref) + '?version=' + encodeURIComponent('english|The Koren Jerusalem Bible') + '&return_format=text_only');
+            const version = fallback.versions?.find(v => v.versionTitle === saved.englishVersion);
+            if (!version || version.license !== 'CC-BY-NC' || fallback.warnings?.length) throw new Error('Fallback edition unavailable');
+            row.english = String(Array.isArray(version.text) ? version.text.flat(Infinity)[0] : version.text).replace(/\s+/gu,' ').trim();
+            row.englishVersion = saved.englishVersion;
+          }));
+          phrases = displayStore(cache, sourceRows, ref);
           phraseStatus = 'Phrase view: AI-generated alignment of the original Sefaria text. Review phrase meanings against the original.';
         } catch (error) { console.info('Phrase view unavailable:', error.message); }
         renderParsha({
           phrases,
+          sourceRows,
           phraseStatus,
           title: item.displayValue && item.displayValue.en ? item.displayValue.en : item.ref,
           hebrewTitle: item.displayValue && item.displayValue.he ? item.displayValue.he : item.heRef,
@@ -886,7 +904,7 @@
         document.getElementById('ref').textContent = '';
         document.getElementById('heRef').textContent = '';
 
-        const sourceRows = verseRows(data.hebrewText, data.englishText, data.ref);
+        const sourceRows = data.sourceRows || verseRows(data.hebrewText, data.englishText, data.ref);
         const displayRows = data.phrases ? data.phrases.flatMap((entry, index) => entry.pairs.map((pair, pairIndex) => ({...pair, verse: entry.verse, phrase: pair.wholeVerse ? null : pairIndex + 1}))) : sourceRows;
         let previousAliyah = null;
 

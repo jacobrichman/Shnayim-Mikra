@@ -85,3 +85,9 @@ Sources:
 - https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions
 - https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 - https://github.com/actions/deploy-pages/
+
+### Reviewed whole-Torah source exceptions
+
+The phrase store preserves the selected Hebrew and Silverstein English wording without translation edits. Two verses use **The Koren Jerusalem Bible** instead because Silverstein has no verse translation: Genesis 24:46 and Leviticus 27:28 (the latter contains only an editorial note in Silverstein). These entries carry `englishVersion` metadata. The reader independently fetches that exact edition for source validation. Koren's text is CC-BY-NC, so its noncommercial restriction applies to these two verses. No other source switches are included.
+
+Leviticus 27:28 source: https://www.sefaria.org/Leviticus.27.28

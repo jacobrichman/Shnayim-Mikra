@@ -53258,6 +53258,24 @@
           ],
           "model": "Instinct"
         },
+        "28": {
+          "pairs": [
+            {
+              "hebrew": "אַךְ־כׇּל־חֵ֡רֶם אֲשֶׁ֣ר יַחֲרִם֩ אִ֨ישׁ לַֽיהֹוָ֜ה מִכׇּל־אֲשֶׁר־ל֗וֹ מֵאָדָ֤ם וּבְהֵמָה֙ וּמִשְּׂדֵ֣ה אֲחֻזָּת֔וֹ",
+              "english": "Notwithstanding no devoted thing, that a man shall devote to the Lord of all that he has, both of man and beast, and of the field of his possession,"
+            },
+            {
+              "hebrew": "לֹ֥א יִמָּכֵ֖ר וְלֹ֣א יִגָּאֵ֑ל",
+              "english": "shall be sold or redeemed:"
+            },
+            {
+              "hebrew": "כׇּל־חֵ֕רֶם קֹֽדֶשׁ־קׇדָשִׁ֥ים ה֖וּא לַיהֹוָֽה׃",
+              "english": "every devoted thing is most holy to the Lord."
+            }
+          ],
+          "model": "Instinct",
+          "englishVersion": "The Koren Jerusalem Bible"
+        },
         "29": {
           "pairs": [
             {

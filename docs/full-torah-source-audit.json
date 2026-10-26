@@ -1,0 +1,87 @@
+[
+  {
+    "book": "Genesis",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis?return_format=text_only&version=hebrew%7CMiqra+according+to+the+Masorah&version=english%7CThe+Rashi+chumash+by+Rabbi+Shraga+Silverstein",
+    "checkedAt": "2026-10-26T19:43:16.165Z",
+    "warnings": [],
+    "licenses": [
+      {
+        "title": "Miqra according to the Masorah",
+        "license": "CC-BY-SA"
+      },
+      {
+        "title": "The Rashi chumash by Rabbi Shraga Silverstein",
+        "license": "CC-BY"
+      }
+    ],
+    "changes": []
+  },
+  {
+    "book": "Exodus",
+    "url": "https://www.sefaria.org/api/v3/texts/Exodus?return_format=text_only&version=hebrew%7CMiqra+according+to+the+Masorah&version=english%7CThe+Rashi+chumash+by+Rabbi+Shraga+Silverstein",
+    "checkedAt": "2026-10-26T19:43:19.279Z",
+    "warnings": [],
+    "licenses": [
+      {
+        "title": "Miqra according to the Masorah",
+        "license": "CC-BY-SA"
+      },
+      {
+        "title": "The Rashi chumash by Rabbi Shraga Silverstein",
+        "license": "CC-BY"
+      }
+    ],
+    "changes": []
+  },
+  {
+    "book": "Leviticus",
+    "url": "https://www.sefaria.org/api/v3/texts/Leviticus?return_format=text_only&version=hebrew%7CMiqra+according+to+the+Masorah&version=english%7CThe+Rashi+chumash+by+Rabbi+Shraga+Silverstein",
+    "checkedAt": "2026-10-26T19:43:21.977Z",
+    "warnings": [],
+    "licenses": [
+      {
+        "title": "Miqra according to the Masorah",
+        "license": "CC-BY-SA"
+      },
+      {
+        "title": "The Rashi chumash by Rabbi Shraga Silverstein",
+        "license": "CC-BY"
+      }
+    ],
+    "changes": []
+  },
+  {
+    "book": "Numbers",
+    "url": "https://www.sefaria.org/api/v3/texts/Numbers?return_format=text_only&version=hebrew%7CMiqra+according+to+the+Masorah&version=english%7CThe+Rashi+chumash+by+Rabbi+Shraga+Silverstein",
+    "checkedAt": "2026-10-26T19:43:28.150Z",
+    "warnings": [],
+    "licenses": [
+      {
+        "title": "Miqra according to the Masorah",
+        "license": "CC-BY-SA"
+      },
+      {
+        "title": "The Rashi chumash by Rabbi Shraga Silverstein",
+        "license": "CC-BY"
+      }
+    ],
+    "changes": []
+  },
+  {
+    "book": "Deuteronomy",
+    "url": "https://www.sefaria.org/api/v3/texts/Deuteronomy?return_format=text_only&version=hebrew%7CMiqra+according+to+the+Masorah&version=english%7CThe+Rashi+chumash+by+Rabbi+Shraga+Silverstein",
+    "checkedAt": "2026-10-26T19:43:32.915Z",
+    "warnings": [],
+    "licenses": [
+      {
+        "title": "Miqra according to the Masorah",
+        "license": "CC-BY-SA"
+      },
+      {
+        "title": "The Rashi chumash by Rabbi Shraga Silverstein",
+        "license": "CC-BY"
+      }
+    ],
+    "changes": []
+  }
+]
