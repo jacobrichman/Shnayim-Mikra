@@ -25186,8 +25186,12 @@
               "english": "And the officers of the children of Israel, whom the taskmasters of Pharaoh placed over them, were smitten, (the taskmasters) saying:"
             },
             {
-              "hebrew": "מַדּ֡וּעַ לֹא֩ כִלִּיתֶ֨ם חׇקְכֶ֤ם לִלְבֹּן֙ כִּתְמ֣וֹל שִׁלְשֹׁ֔ם גַּם־תְּמ֖וֹל גַּם־הַיּֽוֹם׃",
-              "english": "Why did you not finish your brick-making quota as of three days ago, both yesterday and today?"
+              "hebrew": "מַדּ֡וּעַ לֹא֩ כִלִּיתֶ֨ם חׇקְכֶ֤ם לִלְבֹּן֙ כִּתְמ֣וֹל שִׁלְשֹׁ֔ם",
+              "english": "Why did you not finish your brick-making quota as of three days ago,"
+            },
+            {
+              "hebrew": "גַּם־תְּמ֖וֹל גַּם־הַיּֽוֹם׃",
+              "english": "both yesterday and today?"
             }
           ],
           "model": "Instinct"
@@ -25428,8 +25432,12 @@
               "english": "And I will take you to Me as a people, and I will be to you as a G-d;"
             },
             {
-              "hebrew": "וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם׃",
-              "english": "and you will know that I am the L-rd your G-d who took you out from under the toils of Egypt."
+              "hebrew": "וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם",
+              "english": "and you will know that I am the L-rd your G-d"
+            },
+            {
+              "hebrew": "הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם׃",
+              "english": "who took you out from under the toils of Egypt."
             }
           ],
           "model": "Instinct"
@@ -25738,8 +25746,12 @@
               "english": "that the L-rd spoke to Moses saying [(a reversion to (11) after the genealogical hiatus)]: I am the L-rd [trusted to send you and to fulfill My embassy]."
             },
             {
-              "hebrew": "דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם אֵ֛ת כׇּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃",
-              "english": "Speak to Pharaoh, king of Egypt, all that I speak to you."
+              "hebrew": "דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם",
+              "english": "Speak to Pharaoh, king of Egypt,"
+            },
+            {
+              "hebrew": "אֵ֛ת כׇּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃",
+              "english": "all that I speak to you."
             }
           ],
           "model": "Instinct"
@@ -26458,8 +26470,12 @@
         "18": {
           "pairs": [
             {
-              "hebrew": "וְהִפְלֵיתִי֩ בַיּ֨וֹם הַה֜וּא אֶת־אֶ֣רֶץ גֹּ֗שֶׁן אֲשֶׁ֤ר עַמִּי֙ עֹמֵ֣ד עָלֶ֔יהָ לְבִלְתִּ֥י הֱיֽוֹת־שָׁ֖ם עָרֹ֑ב",
-              "english": "And I will set apart on that day the land of Goshen on which My people stands, that there be no mixed multitude there."
+              "hebrew": "וְהִפְלֵיתִי֩ בַיּ֨וֹם הַה֜וּא אֶת־אֶ֣רֶץ גֹּ֗שֶׁן אֲשֶׁ֤ר עַמִּי֙ עֹמֵ֣ד עָלֶ֔יהָ",
+              "english": "And I will set apart on that day the land of Goshen on which My people stands,"
+            },
+            {
+              "hebrew": "לְבִלְתִּ֥י הֱיֽוֹת־שָׁ֖ם עָרֹ֑ב",
+              "english": "that there be no mixed multitude there."
             },
             {
               "hebrew": "לְמַ֣עַן תֵּדַ֔ע כִּ֛י אֲנִ֥י יְהֹוָ֖ה בְּקֶ֥רֶב הָאָֽרֶץ׃",
@@ -26726,8 +26742,12 @@
         "8": {
           "pairs": [
             {
-              "hebrew": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ קְח֤וּ לָכֶם֙ מְלֹ֣א חׇפְנֵיכֶ֔ם פִּ֖יחַ כִּבְשָׁ֑ן",
-              "english": "And the L-rd said to Moses and to Aaron: Take for yourselves your full handfuls of furnace-soot,"
+              "hebrew": "וַיֹּ֣אמֶר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒",
+              "english": "And the L-rd said to Moses and to Aaron:"
+            },
+            {
+              "hebrew": "קְח֤וּ לָכֶם֙ מְלֹ֣א חׇפְנֵיכֶ֔ם פִּ֖יחַ כִּבְשָׁ֑ן",
+              "english": "Take for yourselves your full handfuls of furnace-soot,"
             },
             {
               "hebrew": "וּזְרָק֥וֹ מֹשֶׁ֛ה הַשָּׁמַ֖יְמָה לְעֵינֵ֥י פַרְעֹֽה׃",
@@ -26954,8 +26974,12 @@
         "24": {
           "pairs": [
             {
-              "hebrew": "וַיְהִ֣י בָרָ֔ד וְאֵ֕שׁ מִתְלַקַּ֖חַת בְּת֣וֹךְ הַבָּרָ֑ד כָּבֵ֣ד מְאֹ֔ד",
-              "english": "And there was hail, and fire flaming within the hail, extremely sore,"
+              "hebrew": "וַיְהִ֣י בָרָ֔ד וְאֵ֕שׁ מִתְלַקַּ֖חַת בְּת֣וֹךְ הַבָּרָ֑ד",
+              "english": "And there was hail, and fire flaming within the hail,"
+            },
+            {
+              "hebrew": "כָּבֵ֣ד מְאֹ֔ד",
+              "english": "extremely sore,"
             },
             {
               "hebrew": "אֲ֠שֶׁ֠ר לֹֽא־הָיָ֤ה כָמֹ֙הוּ֙ בְּכׇל־אֶ֣רֶץ מִצְרַ֔יִם מֵאָ֖ז הָיְתָ֥ה לְגֽוֹי׃",
@@ -26997,8 +27021,12 @@
         "27": {
           "pairs": [
             {
-              "hebrew": "וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם",
-              "english": "And Pharaoh sent and he called to Moses and to Aaron, and he said to them: I have sinned this time."
+              "hebrew": "וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן",
+              "english": "And Pharaoh sent and he called to Moses and to Aaron,"
+            },
+            {
+              "hebrew": "וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם",
+              "english": "and he said to them: I have sinned this time."
             },
             {
               "hebrew": "יְהֹוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים׃",
@@ -27083,8 +27111,12 @@
               "english": "And Moses went away from Pharaoh out of the city, and he spread out his hands to the L-rd,"
             },
             {
-              "hebrew": "וַֽיַּחְדְּל֤וּ הַקֹּלוֹת֙ וְהַבָּרָ֔ד וּמָטָ֖ר לֹא־נִתַּ֥ךְ אָֽרְצָה׃",
-              "english": "and the thunders stopped and the hail, and rain did not reach the ground."
+              "hebrew": "וַֽיַּחְדְּל֤וּ הַקֹּלוֹת֙ וְהַבָּרָ֔ד",
+              "english": "and the thunders stopped and the hail,"
+            },
+            {
+              "hebrew": "וּמָטָ֖ר לֹא־נִתַּ֥ךְ אָֽרְצָה׃",
+              "english": "and rain did not reach the ground."
             }
           ],
           "model": "Instinct"
