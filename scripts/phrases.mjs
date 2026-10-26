@@ -1,3 +1,4 @@
+import { allowedSinglePair } from './single-pair-exceptions.mjs';
 // Shared, deterministic validation. Gemini selects boundaries, never rewrites text.
 export const HEBREW_VERSION = 'Miqra according to the Masorah';
 export const ENGLISH_VERSION = 'The Rashi chumash by Rabbi Shraga Silverstein';
@@ -22,7 +23,7 @@ export function verseRows(hebrew, english, ref) {
   });
 }
 export function validatePairs(source, output) {
-  if (!output || output.verse !== source.verse || !Array.isArray(output.pairs) || output.pairs.length < 2) {
+  if (!output || output.verse !== source.verse || !Array.isArray(output.pairs) || (output.pairs.length < 2 && !(output.pairs.length === 1 && allowedSinglePair(source)))) {
     throw new Error('Expected multiple phrase pairs for ' + source.verse);
   }
   const pairs = output.pairs.map(() => ({}));

@@ -13,6 +13,7 @@ Status: exact-source coverage complete; semantic and granularity review still in
 
 These are source-level concerns, not new translation choices:
 
+- Leviticus 21:7: English omits the prohibition on marrying a divorced wife. The two Hebrew prohibitions remain together in one wider pair; no translation has been invented.
 - Numbers 7:77: English says sin offerings where Hebrew says peace offerings.
 - Numbers 36:12: English omits Menasheh.
 - Deuteronomy 2:26: English says king of Moav where Hebrew says Cheshbon.
@@ -25,6 +26,22 @@ Longer phrase spans are used where source word order or explanatory brackets pre
 
 ## Targeted boundary review
 
-All 690 newly aligned two-pair verses with at least 14 Hebrew space-delimited words were reviewed. Natural smaller clause spans were added where both languages support them. Many repeated lists, genealogies, and commentary-heavy verses retain two pairs. New material currently averages 2.37 pairs per verse, below the requested sample's 2.6. This targeted pass and exact-text validation are not a certification of every translation's correctness or every alignment's semantics.
+All 690 newly aligned two-pair verses with at least 14 Hebrew space-delimited words were reviewed. Natural smaller clause spans were added where both languages support them. Many repeated lists, genealogies, and commentary-heavy verses retain two pairs. New material currently averages 2.38 pairs per verse, below the requested sample's 2.6. This targeted pass and exact-text validation are not a certification of every translation's correctness or every alignment's semantics.
 
 Reader integration tests cover both approved Koren references, rejected unapproved editions and references, unavailable fallback requests, warning/license failures, unavailable saved data, and safe source-only fallback for damaged spacing-entity phrases. A damaged entity-boundary verse may fall back to its complete original verse rather than recover a single pair.
+
+## Narrow single-pair source-order exceptions
+
+These three new verses stay intact because no truthful smaller ordered bilingual partition exists in the selected wording. This is not an error fallback. All original 637 entries remain unchanged.
+
+- Genesis 30:10: Hebrew starts with the verb "bore"; English places it after the complete subject.
+- Exodus 23:32: "covenant" ends the Hebrew but precedes both objects in English.
+- Deuteronomy 23:2: the prohibition begins Hebrew but follows the complete English subject.
+
+## Additional semantic review
+
+The 126 highest-ranked long/skewed spans were reviewed in their complete verses. The next 524 ranked pairs and all 1,317 short Hebrew pairs were compared directly for meaning, with selected complete-verse rereads and repairs. A negation-focused check found the three source-order exceptions above; Leviticus 27:28 also now keeps Koren's "no devoted thing ... shall be sold or redeemed" together rather than separating the negation from its verb. This is risk-focused review, not an independent reread or rabbinic certification of every boundary.
+
+## Protected original boundaries needing a decision
+
+Genesis 8:22 and 9:4 are within the protected original 637. Their existing boundaries place Hebrew's final negative verb in a different pair from English's initial negative verb. They remain unchanged pending an explicit decision. This prevents an unqualified semantic pass for the entire Torah.

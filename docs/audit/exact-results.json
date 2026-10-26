@@ -1,0 +1,41 @@
+{
+  "total": 5846,
+  "valid": 5846,
+  "newCount": 5209,
+  "newPairs": 12408,
+  "newPairsPerVerse": 2.3820311000191974,
+  "errors": [],
+  "changedOriginal": [],
+  "byBook": {
+    "Genesis": {
+      "total": 1533,
+      "valid": 1533,
+      "missingCount": 0,
+      "nextMissing": []
+    },
+    "Exodus": {
+      "total": 1210,
+      "valid": 1210,
+      "missingCount": 0,
+      "nextMissing": []
+    },
+    "Leviticus": {
+      "total": 859,
+      "valid": 859,
+      "missingCount": 0,
+      "nextMissing": []
+    },
+    "Numbers": {
+      "total": 1288,
+      "valid": 1288,
+      "missingCount": 0,
+      "nextMissing": []
+    },
+    "Deuteronomy": {
+      "total": 956,
+      "valid": 956,
+      "missingCount": 0,
+      "nextMissing": []
+    }
+  }
+}

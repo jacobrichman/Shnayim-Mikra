@@ -1,3 +1,4 @@
+import {SINGLE_PAIR_EXCEPTIONS} from '../scripts/single-pair-exceptions.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { verseRows, validatePairs, validateCache, displayCache, newStore, storeVerse, storedVerse, parshaCache, displayStore, HEBREW_VERSION, ENGLISH_VERSION } from '../scripts/phrases.mjs';
@@ -84,4 +85,19 @@ test('canonical equivalence with different code-unit lengths saves source bytes'
  const pairs=[{hebrew:'אָ',english:'one'},{hebrew:'ב',english:'two'}];
  assert.deepEqual(validatePairs(source,{verse:'1:1',pairs}),{verse:'1:1',pairs});
  assert.throws(()=>validatePairs({...source,hebrew:'אב גד'},{verse:'1:1',pairs:[{hebrew:'א',english:'one'},{hebrew:'ב גד',english:'two'}]}));
+});
+
+test('documented source-order exception allows intact pair, not arbitrary references',()=>{
+ const row={...SINGLE_PAIR_EXCEPTIONS['Genesis 30:10'],ref:'Genesis 30:10',verse:'30:10'};
+ const entry={verse:row.verse,pairs:[{hebrew:row.hebrew,english:row.english}]};
+ assert.equal(validatePairs(row,entry).pairs.length,1);
+ assert.equal(displayStore((()=>{const s=newStore();storeVerse(s,row,entry);return s;})(),[row],'Genesis 30:10')[0].pairs.length,1);
+ assert.throws(()=>validatePairs({...row,ref:'Genesis 30:11'},entry));
+ assert.throws(()=>validatePairs(row,{...entry,pairs:[{hebrew:row.hebrew,english:'rewritten'}]}));
+});
+
+test("intact-pair exemption cannot move to another source edition",()=>{
+ const row={...SINGLE_PAIR_EXCEPTIONS["Exodus 23:32"],ref:"Exodus 23:32",verse:"23:32"};
+ const changed={...row,english:row.english+" changed"};
+ assert.throws(()=>validatePairs(changed,{verse:row.verse,pairs:[{hebrew:changed.hebrew,english:changed.english}]}));
 });

@@ -1,0 +1,15 @@
+{
+  "pairReviewedIndices": [
+    0,
+    1316
+  ],
+  "flags": [
+    "Genesis 30:10: English places bore after complete subject, Hebrew begins with bore. Existing two-pair boundary puts verb only in English second span.",
+    "Exodus 23:32: covenant at Hebrew end but English before objects; no clean two-pair correspondence.",
+    "Deuteronomy 23:2: negation/verb displaced across boundary. Need whole-verse reread.",
+    "Genesis 30:28: investigate displaced alay.",
+    "Exodus 35:20: investigate exit verb placement."
+  ],
+  "notes": "Short-pair inventory static; all 1317 pair meanings read. Selected whole-verse flags need followup. Source Lev21:7 omits divorced-wife prohibition.",
+  "followup": "All five flags resolved: first three exact-source-bound intact pairs; Gen30:28 and Ex35:20 clause boundaries repaired. Negation pass also merged first two Koren Lev27:28 spans. Protected originals Gen8:22/9:4 unchanged pending decision."
+}

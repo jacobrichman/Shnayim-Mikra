@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-26T20:10:40.227Z",
+  "baseline": "2ff591cbf0068a2942292a54a54ff9130367b6e5",
+  "files": {
+    "Genesis.json": "6d4ff0a23053246e565b50a258294b271f14223a8a70cbe73e6ffcfbd52f639d",
+    "Exodus.json": "31acbc02a07f052eebd93ccf914b1c455bcdd7ebea07d7fc53cc32cb268c53ff",
+    "Leviticus.json": "259784e36cff6c0d1b7d60c4a5d1a1a42f4dd03ad7b43b14bc904a63f84e47e2",
+    "Numbers.json": "ea2e8eb958787ceca439098a6c2a920097062b6d8ca312197895636103c181a7",
+    "Deuteronomy.json": "52d150bdeb3c0637105e60fdaf1ac0ec582383641c01cb89a04c41320d1aa57a",
+    "koren-source.json": "b80af570378880a877e2908fc8abad60e435d071af4b6fff21e1eeabde4efb7c",
+    "koren-lev27-28.json": "be45f647bd64c945be69d6e99a8bb24c48c7bd81aac3e6159536e59771792986"
+  }
+}
