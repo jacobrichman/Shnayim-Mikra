@@ -11,6 +11,6 @@ The source directory contains complete v3 Sefaria responses named Genesis.json, 
 
 The source-order single-pair allowlist also binds each reference to its exact normalized source strings. An edition change cannot silently reuse an exception.
 
-`semantic-progress.json` and `short-pair-progress.json` describe targeted manual review scope. Those records are not proof of correctness for every boundary. The source notes list translation concerns and the two approved original boundary repairs. The working branch is not publication-approved, and the weekly generation workflow is retained.
+`semantic-progress.json` and `short-pair-progress.json` describe targeted manual review scope. Those records are not proof of correctness for every boundary. The source notes list translation concerns and the two approved original boundary repairs. The owner approved publication and removal of the weekly generation workflow on October 27, 2026. The complete saved store replaces scheduled phrase generation.
 
 `long-span-review.json` records the later >=12-Hebrew / >=40-English-word sweep: all 646 new-entry candidates, 205 splits across 199 verses, 223 added boundaries, and retained-span reasons. The 41 protected-original flagged spans were not edited. Commentary blocks remain intact. Leviticus 27:28 remains at two pairs. This targeted pass is not independent certification of every Torah boundary.

@@ -45,15 +45,13 @@ The key is read from `GEMINI_API_KEY` privately at generation time. It never bel
 
 Every successful pair set must rejoin to the source verse, allowing whitespace normalization and canonically equivalent Unicode mark order. Accepted phrases are then reconstructed from the exact source spelling and mark order, rather than saving model text. Numbered-index repairs must also have increasing valid indices, cover every source word, and keep bracketed commentary whole. Hebrew vowel/cantillation marks, word order, punctuation, and Silverstein's bracketed commentary must be preserved. These checks cannot prove the interpretation or phrase boundary is good. This is a study aid, not an authoritative translation or halachic ruling.
 
-## Weekly generation and publishing
+## Full-Torah store and publishing
 
-The weekly GitHub Action prepares current, +7-day, and +14-day Israel readings every Monday at 03:23 UTC. Calendar requests use Sefaria's documented year/month/day parameters. Overlapping or already-saved verses are reused. Scheduled workflows run only after the reviewed PR is merged to the default branch.
+All 5,846 Torah verses are saved in `data/phrases.json`. The reader selects the requested parsha from this complete store and independently checks it against Sefaria. Changing readings does not need generation, Gemini, or a weekly update.
 
-The owner sets Settings > Pages > Build and deployment > Source to **GitHub Actions** for fully automatic generation plus direct deployment. Only the static page, fonts, shared validation module, and `data/phrases.json` enter the deployment artifact. GitHub standard hosted Actions are free for public repositories under its documented policy. Do not run secret-bearing workflows on untrusted pull requests.
+The weekly generation workflow has been removed after the full-Torah audit and owner approval. The generation scripts remain available for deliberate future repairs; they are not used by the browser or publishing workflow. Existing repository secrets are unchanged.
 
-After merge, an initial manual run is available in Actions > **Prepare weekly phrase data (Free tier only)** > Run workflow > main. Check the Free-project confirmation, leave date blank for Jerusalem today, and run. A date override is optional.
-
-Before merge the owner may trial the feature branch with branch-based Pages. This changes the public trial site for everyone. A collaborator push may not trigger a Pages build; GitHub says an admin with a verified email should push to the publishing source if builds do not start. Do not rerun an old deployment and expect it to contain new files. The PR does not merge itself or change owner settings.
+`Publish static study page` deploys on pushes to `main` and supports manual dispatch. It runs the tests and stages only the static page, fonts, shared validation module, README, and phrase store. Pages uses GitHub Actions as its publishing source. The browser still needs Sefaria for the current Israel reading and source checks.
 
 ## Local use
 
